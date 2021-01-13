@@ -1,0 +1,1001 @@
+,region,subregion,district,estate,building,first_op_date,floor_level,bedroom,sitting_room,floor,flat,area,net_area,price,tx_date,last_tx_date,last_price,gain,lat,lon
+0,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Villa Royale,Block 29,2003-10-03,,3,2,-,-,1800,1234,13800000,2021-01-05,,0,0.0,22.352459,114.249084
+1,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Colour By The River,House 2,2008-05-05,,3,,,,0,2140,33800000,2021-01-05,2009-09-11,29000000,16.55,22.350503999999997,114.25491
+2,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lotus Villas,House 5,1994-03-31,,,,,,0,1518,26800000,2020-12-28,2007-07-20,12000000,123.33,22.39133,114.274574
+3,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 3,2017-10-20,M,1,,3,G,0,525,7250000,2020-12-24,2016-09-12,6351200,14.15,22.385783999999997,114.272865
+4,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 10,1998-07-13,M,3,,5,B,1180,1031,10000000,2020-12-23,2017-12-22,11000000,-9.09,22.431237,114.2521276
+5,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 10,1997-06-18,L,,,2,G,0,432,3400000,2020-12-22,1997-05-31,1113000,205.48000000000002,22.378693,114.2698
+6,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 8,1998-07-13,L,3,,1,D,1317,1151,12500000,2020-12-21,1998-04-09,7364200,69.74,22.4312276,114.25121
+7,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Clear Water Bay Knoll,House 12,2003-12-15,,,,-,-,1680,1234,15880000,2020-12-16,2012-05-07,13000000,22.150000000000002,22.3374255,114.242484
+8,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 6,1998-12-07,L,3,,3,C,1427,1140,13900000,2020-12-15,1998-03-11,7755800,79.22,22.4292415,114.2507734
+9,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block B,2016-09-15,,4,,LG&G,G5,0,3128,80605000,2020-12-11,,0,0.0,22.335524,114.261055
+10,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Casa Bella,Block 12,1993-09-16,,3,,G,A,867,685,11380000,2020-12-10,,0,0.0,22.3254215,114.270888
+11,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House E6,1988-01-15,,,,,,0,1561,37000000,2020-12-08,,0,0.0,22.358898,114.25406
+12,New Territories,Sai Kung,Sai Kung / Clear Water Bay,133 Portofino,Tower 2,2020-05-19,,,,1,B,0,1021,21347000,2020-12-03,,0,0.0,,
+13,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House D Of Block 3,1985-06-25,,,,,,0,1051,30500000,2020-12-02,,0,0.0,22.357156999999997,114.255714
+14,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Burlingame Garden,House 5,1996-12-13,,,,,,0,1227,17680000,2020-12-01,2011-03-25,13700000,29.05,22.388903,114.274086
+15,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 01,1998-12-07,,3,,,A,1367,1086,11680000,2020-12-01,2000-01-28,5500000,112.36,22.4284206,114.2505446
+16,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Little Palm Villa,House A,1976-04-30,,,,,,0,1720,35000000,2020-11-27,2008-01-03,21980000,59.24,22.317247,114.283446
+17,New Territories,Sai Kung,Sai Kung / Clear Water Bay,133 Portofino,Tower 1,2020-05-19,,,,3,B,0,1164,25460000,2020-11-24,,0,0.0,,
+18,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Ko Shing Building,Ko Shing Building,1980-07-30,,,,5,B4,0,302,3600000,2020-11-24,1997-11-11,400000,800.0,22.381919999999997,114.27303
+19,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 10,1997-06-18,M,,,5,F,0,432,3350000,2020-11-23,1997-05-31,1128000,196.99,22.378693,114.2698
+20,New Territories,Sai Kung,Sai Kung / Clear Water Bay,133 Portofino,Tower 2,2020-05-19,,,,3,B,0,1076,23280000,2020-11-19,,0,0.0,,
+21,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 5,1998-12-07,H,3,,11,A,1379,1096,12790000,2020-11-19,2003-06-17,3620000,253.31,22.4308695,114.2496325
+22,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Hillview Court,Block 2,1999-01-15,,3,,5,A,1216,1080,14700000,2020-11-18,,0,0.0,22.337014999999997,114.239136
+23,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block B,2016-09-15,,4,,,GD3,0,3189,71251000,2020-11-13,,0,0.0,22.335524,114.261055
+24,New Territories,Sai Kung,Sai Kung / Clear Water Bay,102-104 Man Nin Street,102-104 Man Nin Street,1975-01-01,,,,3,,0,691,6500000,2020-11-11,,0,0.0,,
+25,New Territories,Sai Kung,Sai Kung / Clear Water Bay,133 Portofino,Tower 1,2020-05-19,,,,5,A,0,1239,39687000,2020-11-11,,0,0.0,,
+26,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 2,2017-10-20,M,,,6,L,0,532,7000000,2020-11-10,2016-07-29,6688800,4.65,22.38593,114.27262
+27,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,,2,,G,K,0,695,12000000,2020-11-06,,0,0.0,22.386419999999998,114.271996
+28,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 9,1997-06-18,L,,,3,G,0,432,5100000,2020-11-05,1997-05-30,1118000,356.17,22.378632,114.26945
+29,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block B,2016-09-15,,4,,,5,0,2956,81451000,2020-11-05,,0,0.0,22.335524,114.261055
+30,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Garden,Block 1,1991-12-31,H,3,,11,E,776,570,6500000,2020-11-04,2012-05-30,4460000,45.74,22.382434999999997,114.271255
+31,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 10,1998-12-07,L,3,,5,C,1510,1208,14388000,2020-11-04,,0,0.0,22.428981,114.2518425
+32,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,M,3,,5,E,0,968,15800000,2020-11-03,2017-10-18,16500000,-4.24,22.335839999999997,114.261154
+33,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 3,1997-06-18,M,,,5,G,0,432,5080000,2020-11-03,2010-07-13,1970000,157.87,22.379385,114.26950000000001
+34,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 9,1997-06-18,L,,,3,A,0,570,6800000,2020-11-03,2003-04-26,1230000,452.85,22.378632,114.26945
+35,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,M,2,,6,B,0,668,9000000,2020-11-02,2016-08-18,8814500,2.1,22.386419999999998,114.271996
+36,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,M,3,,3,E,0,968,16500000,2020-11-02,2018-06-19,16801000,-1.79,22.335537,114.26089
+37,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Burlingame Garden,House 10,1996-12-13,,,,,,0,1227,20400000,2020-10-30,2008-02-29,12180000,67.49,22.388935,114.27446
+38,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Ko Shing Building,Ko Shing Building,1980-07-30,,,,3,B3,0,302,3500000,2020-10-30,,0,0.0,22.381919999999997,114.27303
+39,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 3,1998-07-13,M,3,,5,A,1267,1108,12000000,2020-10-30,2006-08-31,5130000,133.92000000000002,22.4306366,114.2492954
+40,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block A,2016-09-15,,4,,,PT5,0,2955,102276000,2020-10-30,,0,0.0,22.335762,114.26123
+41,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 5,1998-07-13,H,3,,7,A,1267,1108,14488000,2020-10-29,,0,0.0,22.4308695,114.2496325
+42,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Golden Cove Lookout,House 4,1981-06-05,,,,,,0,1762,37000000,2020-10-21,,0,0.0,22.320346999999998,114.27229
+43,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block C,2016-09-15,,4,,,GD1,0,2736,71739000,2020-10-21,,0,0.0,22.336336,114.26121
+44,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 23,2016-09-15,,1,,G,B,0,409,8430000,2020-10-19,2017-06-23,7480000,12.700000000000001,22.335829999999998,114.26124
+45,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House G29,1989-01-09,,,,,,0,1323,25800000,2020-10-12,2005-03-31,9300000,177.42000000000002,22.359811999999998,114.25685
+46,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,L,1,,1,K,0,457,6380000,2020-10-09,2017-04-13,5782600,10.33,22.378439,114.26602
+47,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Rise Park Villas,Block 6,1979-05-21,,,,1,,0,1574,16500000,2020-10-09,,0,0.0,,
+48,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Ko Shing Building,Ko Shing Building,1980-07-30,,,,4,D1,0,340,4000000,2020-10-08,2006-02-09,680000,488.24,22.381919999999997,114.27303
+49,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House K25,1989-01-09,,,,,,0,1942,30000000,2020-10-08,,0,0.0,22.357939,114.258545
+50,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 5,1998-07-13,H,3,,8,C,1180,1031,11680000,2020-10-07,,0,0.0,22.4308695,114.2496325
+51,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 2,1998-12-07,M,3,,6,A,1377,1094,13230000,2020-10-07,2016-10-14,10600000,24.810000000000002,22.4284835,114.250733
+52,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House H15 (Mm0H2),1990-04-06,,,,,,0,1922,55000000,2020-09-29,2007-12-21,29480000,86.57000000000001,22.358266999999998,114.25541
+53,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Floral Villas,House F15 (House 37),1993-10-11,,,,,,0,1931,46500000,2020-09-28,2011-02-09,26800000,73.51,22.392619999999997,114.29301
+54,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Razor Park,House 9,1988-06-08,,3,,1,B,0,984,12000000,2020-09-25,2020-03-25,2000000,500.0,22.337393,114.248
+55,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Casa Bella,Block 12,1993-09-16,,3,,1,A,867,685,10000000,2020-09-25,,0,0.0,22.3254215,114.270888
+56,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 18,1998-12-07,M,3,,8,B,1428,1138,15000000,2020-09-25,1998-03-12,8751000,71.41,22.4288495,114.2527756
+57,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block B,2016-09-15,,4,,PH,2,0,2946,83155000,2020-09-22,,0,0.0,22.335524,114.261055
+58,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,M,4,,5,A,0,1945,65214000,2020-09-21,,0,0.0,22.335642,114.26078
+59,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Rise Park Villas,Block 11,1979-05-21,,,,1,,0,1574,15000000,2020-09-21,,0,0.0,22.336256,114.24915
+60,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 5,1997-06-18,M,,,6,F,0,432,5050000,2020-09-18,2005-12-01,1310000,285.5,22.379718999999998,114.26900499999999
+61,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,L,1,,2,B,0,425,6030000,2020-09-18,2016-11-18,5462500,10.39,22.378439,114.26602
+62,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 1,1998-12-07,M,3,,7,A,1367,1086,11680000,2020-09-17,2000-01-28,5500000,112.36,22.4284206,114.2505446
+63,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,H,4,,8,B,0,1566,30000000,2020-09-14,,0,0.0,22.386419999999998,114.271996
+64,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,L,1,,2,F,0,378,5380000,2020-09-11,2016-09-01,4827400,11.450000000000001,22.37808,114.265785
+65,New Territories,Sai Kung,Sai Kung / Clear Water Bay,9-11 Sha Tsui Path,9-11 Sha Tsui Path,1975-01-01,,,,3,,0,691,5480000,2020-09-09,,0,0.0,22.381066999999998,114.272224
+66,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Siu Yat Building,Block A,1979-09-28,L,,,4,A2,0,411,5600000,2020-09-07,2016-12-30,4000000,40.0,,
+67,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,H,1,,8,J,0,380,6200000,2020-09-07,2016-11-17,5964700,3.94,22.377913,114.2655
+68,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Razor Park,House 6,1988-06-08,,3,,1,A,0,984,12000000,2020-09-04,2012-06-01,9030000,32.89,22.336966,114.24808
+69,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 5,2017-10-20,H,,,7,C,0,691,8888000,2020-09-01,2016-08-19,8806400,0.93,22.38562,114.27251
+70,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Costa Bello,Block 3,2003-03-27,,3,,1,,1257,916,11900000,2020-08-31,,0,0.0,22.377518,114.27398
+71,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Twin Bay Villas,House 1B,1971-04-20,,,,,,0,1742,34600000,2020-08-27,2012-11-01,34000000,1.76,22.318423,114.273511
+72,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Ko Shing Building,Ko Shing Building,1980-07-30,,,,3,C4,0,302,2760000,2020-08-26,,0,0.0,22.381919999999997,114.27303
+73,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Ocean View Lodge,House F,1981-04-30,,,,,,0,1580,29000000,2020-08-21,2009-07-31,20000000,45.0,,
+74,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,M,2,,5,A,0,580,8500000,2020-08-20,2016-08-09,7104400,19.64,22.377913,114.2655
+75,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Giverny,House 065,2005-04-25,,,,,,0,2077,32000000,2020-08-20,2007-05-09,35500000,-9.86,22.36904,114.26172
+76,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Town Centre,Block B,1987-01-23,L,2,,6,E,442,326,4500000,2020-08-20,2014-02-28,3150000,42.86,22.382821999999997,114.27208999999999
+77,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Siu Yat Building,Block B,1979-09-28,L,,,2,4,0,352,5000000,2020-08-18,,0,0.0,22.380997,114.27339
+78,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House J39,1989-01-09,,,,,,0,1355,26000000,2020-08-12,2013-11-29,24300000,7.0,22.35909,114.25779
+79,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House K28,1989-01-09,,,,,,0,1942,44600000,2020-08-12,,0,0.0,22.358014999999998,114.25869
+80,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Clear Water Bay Knoll,House 20,2003-12-15,,,,,,1680,1234,15880000,2020-08-12,2008-08-21,9700000,63.71,22.3374255,114.242484
+81,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Town Centre,Block A,1987-01-23,L,1,,6,D,398,293,4000000,2020-08-11,2006-04-07,850000,370.59000000000003,22.383003,114.271935
+82,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Kam Po Court,Kam Po Court,1980-04-29,H,,,10,F,0,335,4200000,2020-08-11,2008-04-23,1280000,228.13,22.381199,114.273266
+83,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Giverny,House 081,2005-04-25,,,,,,0,1231,22800000,2020-08-10,2007-11-19,20800000,9.620000000000001,22.368864,114.26132
+84,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Golden Lake Villa,House B,1977-07-12,,,,,,0,1962,53000000,2020-08-06,,0,0.0,22.320515,114.27404
+85,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 5,2017-10-20,L,,,1,A,0,717,10845900,2020-08-04,,0,0.0,22.38562,114.27251
+86,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block E,2016-09-15,,4,,,GD3,0,2263,56228000,2020-08-03,,0,0.0,22.335939999999997,114.26142
+87,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 11,1998-12-07,L,3,,2,B,1510,1208,13600000,2020-08-03,1998-03-12,7839600,73.48,22.429109999999998,114.252174
+88,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block E,2016-09-15,,4,,,GD6,0,2263,56228000,2020-07-31,,0,0.0,22.335939999999997,114.26142
+89,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Fullway Garden,Block A13,1983-06-23,,,,,,0,1449,24800000,2020-07-30,2013-05-09,20800000,19.23,22.326674999999998,114.26902
+90,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block E,2016-09-15,,4,,,GD5,0,2263,56228000,2020-07-29,,0,0.0,22.335939999999997,114.26142
+91,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,M,1,,5,N,0,396,5290000,2020-07-29,2016-11-02,4937200,7.15,22.377913,114.2655
+92,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sea View Villa,House C6,1983-10-13,,,,,,0,1498,20000000,2020-07-28,,0,0.0,22.390950999999998,114.27505
+93,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 5,2017-10-20,,,,G,K,0,896,14550000,2020-07-27,,0,0.0,22.38562,114.27251
+94,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,M,1,,6,B,0,425,6350000,2020-07-27,2016-09-12,5402800,17.53,22.377913,114.2655
+95,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Green Park,Block 6,1988-05-30,,,,G,A,0,1147,13200000,2020-07-24,2013-01-10,9300000,41.94,22.338026,114.249084
+96,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 4,1997-06-18,M,,,4,B,0,448,5200000,2020-07-24,2005-03-21,1210000,329.75,22.379433,114.26912
+97,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 10,1998-12-07,H,3,,12,A,1426,1137,14900000,2020-07-21,2010-11-12,8200000,81.71000000000001,22.428981,114.2518425
+98,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House J5,1989-01-09,,,,,,0,1533,34380000,2020-07-21,2007-12-10,16980000,102.47,22.358984,114.256165
+99,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block B,2016-09-15,,4,,,P1,0,3375,96314000,2020-07-20,,0,0.0,22.335524,114.261055
+100,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,M,1,,6,L,0,409,6500000,2020-07-20,2019-10-02,6000000,8.33,22.377913,114.2655
+101,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House J56,1989-01-09,,,,,,0,1355,29500000,2020-07-17,2011-01-10,19600000,50.51,22.358175,114.25784
+102,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 11,1998-12-07,M,3,,6,D,1390,1109,14430000,2020-07-15,2016-12-19,10850000,33.0,22.429109999999998,114.252174
+103,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 2,2017-10-20,M,,,3,E,0,663,9950000,2020-07-13,2016-05-20,8771200,13.44,22.38593,114.27262
+104,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 2,2017-10-20,L,,,1,J,0,520,6900000,2020-07-10,2016-03-11,6334600,8.93,22.38593,114.27262
+105,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 7,1998-12-07,M,3,,7,B,1671,1326,17900000,2020-07-08,,0,0.0,22.4312735,114.2507174
+106,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,M,1,,6,K,0,427,6180000,2020-07-08,2016-08-30,5160900,19.75,22.377913,114.2655
+107,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Casa Bella,Block 1,1993-09-16,,3,,1,A,243,199,3500000,2020-07-02,2007-07-18,528000,562.88,22.324593999999998,114.270935
+108,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 5,1998-07-13,H,3,,8,D,1317,1151,12800000,2020-06-26,,0,0.0,22.4308695,114.2496325
+109,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Burlingame Garden,House 12,1996-12-13,,,,,,0,1223,16000000,2020-06-26,2013-06-07,14500000,10.34,22.38874,114.27427
+110,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Town Centre,Block E,1987-01-22,L,1,,5,H,398,294,4000000,2020-06-21,2010-02-23,1320000,203.03,22.382607,114.27195
+111,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Clear Water Bay Knoll,House 19,2003-12-14,,,,,,1680,1234,15880000,2020-06-18,,0,0.0,22.3374255,114.242484
+112,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 8,1997-06-17,H,,,10,C,0,448,3850000,2020-06-18,2008-07-06,700000,450.0,22.378906,114.2693
+113,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Floral Villas,House F5 (House 24),1993-10-10,,,,,,0,1931,35000000,2020-06-18,2015-06-23,35000000,0.0,22.392592999999998,114.293015
+114,New Territories,Sai Kung,Sai Kung / Clear Water Bay,133 Portofino,Tower 3,2020-05-19,,,,5,A,0,1238,38000000,2020-06-17,,0,0.0,,
+115,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,M,2,,5,A,0,700,9832800,2020-06-16,2016-05-20,8532000,15.25,22.386419999999998,114.271996
+116,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Casa Bella,Block 9,1993-09-15,,3,,2,A,1348,1083,19390000,2020-06-10,,0,0.0,22.325167,114.27124
+117,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Woods,Villa E,2016-05-16,,3,,,,0,2068,44380000,2020-06-10,,0,0.0,22.337063,114.242065
+118,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 5,2017-10-20,L,,,3,E,0,666,8850000,2020-06-10,2016-06-29,7960000,11.18,22.38562,114.27251
+119,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 2,2017-10-20,,,,G,H,0,520,8200000,2020-06-08,2016-05-25,7780800,5.39,22.38593,114.27262
+120,New Territories,Sai Kung,Sai Kung / Clear Water Bay,74-76 Po Tung Road,Block 74,1974-12-31,,,,2,,0,691,5100000,2020-06-07,,0,0.0,,
+121,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 6,1998-07-13,L,3,,2,D,1317,1151,13500000,2020-06-05,2005-01-21,5600000,141.07,22.43121,114.25033
+122,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 5,2017-10-20,H,4,,8,G,0,1555,30800000,2020-06-04,,0,0.0,22.38562,114.27251
+123,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,3,,8,G,0,851,15980000,2020-06-04,,0,0.0,22.378439,114.26602
+124,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 5,1997-06-17,L,,,4,H,0,436,5450000,2020-06-03,2008-08-17,1430000,281.12,22.379718999999998,114.26900499999999
+125,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,M,4,,3,B,0,1836,32200000,2020-06-03,2018-06-12,32056000,0.45,22.335821,114.261375
+126,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Greenview Garden,Block 5,1992-03-08,,3,,1,B,1045,842,12200000,2020-06-01,,0,0.0,22.337767,114.24905
+127,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House J36,1989-01-09,,,,,,0,1533,29800000,2020-06-01,,0,0.0,22.35922,114.25769
+128,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 8,1997-06-17,H,,,8,D,0,570,4560000,2020-05-31,1997-04-30,1513000,201.39000000000001,22.378906,114.2693
+129,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Villa Cove,House 7,2018-09-07,,4,,,,0,2905,98280000,2020-05-29,,0,0.0,22.319444999999998,114.27695
+130,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 8,1997-06-17,M,,,4,C,0,448,5200000,2020-05-28,2012-05-15,2650000,96.23,22.378906,114.2693
+131,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 3,1998-07-13,M,3,,6,B,1180,1031,11900000,2020-05-26,2002-11-13,3600000,230.56,22.4306366,114.2492954
+132,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block B,2016-09-15,,4,,,GD1,0,3219,81651000,2020-05-25,,0,0.0,22.335524,114.261055
+133,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 1,1998-07-13,L,3,,1,E,1309,1141,12500000,2020-05-25,1998-03-26,6437700,94.17,22.430007,114.2486784
+134,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block E,2016-09-15,,4,,,D2,0,2263,56228000,2020-05-22,,0,0.0,22.335939999999997,114.26142
+135,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block E,2016-09-15,,4,,,T6,0,2527,66105000,2020-05-22,,0,0.0,22.335939999999997,114.26142
+136,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Villa Cove,House 3,2018-09-07,,4,,,,0,2937,93500000,2020-05-22,,0,0.0,22.319444999999998,114.27695
+137,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Town Centre,Block F,1987-01-23,L,1,,6,D,398,293,4350000,2020-05-21,2016-02-25,2980000,45.97,22.382786,114.27170000000001
+138,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Ko Shing Building,Ko Shing Building,1980-07-29,,,,2,A1,0,340,1900000,2020-05-19,2011-09-15,1580000,20.25,22.381919999999997,114.27303
+139,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Villa Cove,House 6,2018-09-07,,4,,,,0,2937,95420900,2020-05-19,,0,0.0,22.319067,114.27671
+140,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block E,2016-09-15,,4,,,D7,0,2296,57597000,2020-05-19,,0,0.0,22.335939999999997,114.26142
+141,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 23,2016-09-15,,2,,G,C,0,682,13000000,2020-05-19,2017-06-30,12821600,1.3900000000000001,22.335829999999998,114.26124
+142,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Green Villas,Block B,1993-08-12,,,,,,0,1661,20000000,2020-05-14,2010-07-22,14700000,36.050000000000004,22.392692999999998,114.29624
+143,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Building,Block A,1984-11-14,L,,,4,4,0,368,3700000,2020-05-10,2020-01-12,3700000,0.0,22.382431,114.27258
+144,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,PT1,0,2544,80368000,2020-05-08,,0,0.0,22.335483999999997,114.26091
+145,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,,2,,G,A,0,700,11480000,2020-05-08,,0,0.0,22.386419999999998,114.271996
+146,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 6,1998-07-13,M,3,,5,A,1267,1108,12437500,2020-05-07,2012-09-21,8380000,48.42,22.43121,114.25033
+147,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 5,2017-10-20,,,,G,L,0,699,11930000,2020-05-07,,0,0.0,22.38562,114.27251
+148,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Serenity Peak,House B,2015-10-19,,4,,,,0,2170,108600000,2020-05-07,,0,0.0,22.328333,114.26919
+149,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 3,2017-10-20,,,,G,B,0,532,8000000,2020-04-24,,0,0.0,22.385783999999997,114.272865
+150,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sussex Lodge,House 3,1965-09-10,,,,,3,0,2213,68000000,2020-04-23,2016-01-18,74000000,-8.11,,
+151,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,L,2,,3,H,0,543,7600000,2020-04-22,2016-12-23,7254500,4.76,22.377913,114.2655
+152,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 7,1997-06-17,L,,,3,E,0,570,4730000,2020-04-21,1997-05-19,1479000,219.81,22.378951999999998,114.2689
+153,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 6,1997-06-17,H,,,11,B,0,448,3500000,2020-04-19,1997-05-14,1200000,191.67000000000002,22.379208,114.26881
+154,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 8,1998-07-13,H,3,,8,H,1264,1104,14000000,2020-04-14,1998-03-28,6708700,108.68,22.4312276,114.25121
+155,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,,2,,G,K,0,558,8000000,2020-04-09,2016-08-12,7588500,5.42,22.37808,114.265785
+156,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,L,3,,2,G,0,851,11655000,2020-04-09,,0,0.0,22.378439,114.26602
+157,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Hillview Court,Block 3,1999-01-15,,3,,1,D,1151,1027,11500000,2020-04-07,1998-05-16,5818800,97.64,22.336767,114.23936
+158,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block C,2016-09-15,,4,,,GD5,0,2703,56377000,2020-04-01,,0,0.0,22.336336,114.26121
+159,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 3,2017-10-20,L,,,2,C,0,888,13800000,2020-03-31,2019-08-08,14983500,-7.9,22.385783999999997,114.272865
+160,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Hillview Court,Block 6,1999-01-14,,3,,G,D,1128,1001,5365000,2020-03-30,,0,0.0,22.336702,114.23976
+161,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House K27,1989-01-08,,,,,,0,1924,39000000,2020-03-30,2010-08-19,24280000,60.63,22.357988,114.258644
+162,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,L,3,,1,G,0,851,10224000,2020-03-30,,0,0.0,22.378439,114.26602
+163,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,2,,8,C,0,590,9100000,2020-03-30,,0,0.0,22.378439,114.26602
+164,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block C,2016-09-15,,4,,,GD6,0,2699,56293000,2020-03-27,,0,0.0,22.336336,114.26121
+165,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,T2,0,2619,67604000,2020-03-25,,0,0.0,22.335483999999997,114.26091
+166,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,L,1,,3,E,0,424,6800000,2020-03-24,2016-08-09,4950100,37.37,22.377913,114.2655
+167,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,GD11,0,2200,53252000,2020-03-24,,0,0.0,22.335483999999997,114.26091
+168,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block C,2016-09-15,,4,,,PD2,0,2212,62570000,2020-03-24,,0,0.0,22.336336,114.26121
+169,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block A,2016-09-15,,4,,,GD2,0,3181,77156000,2020-03-23,,0,0.0,22.335762,114.26123
+170,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 18,1998-12-07,H,3,,10,A,1367,1086,13990000,2020-03-18,2000-07-26,6500000,115.23,22.4288495,114.2527756
+171,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,T11,0,2548,64354000,2020-03-18,,0,0.0,22.335483999999997,114.26091
+172,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 6,1998-07-13,M,3,,5,H,1264,1104,12488000,2020-03-17,1999-02-10,6000000,108.13,22.43121,114.25033
+173,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,PT10,0,2548,64354000,2020-03-16,,0,0.0,22.335483999999997,114.26091
+174,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block B,2016-09-15,,4,,,GD2,0,3164,72186000,2020-03-16,,0,0.0,22.335524,114.261055
+175,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,GD2,0,2201,54850000,2020-03-12,,0,0.0,22.335483999999997,114.26091
+176,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,PHT5,0,2548,65654000,2020-03-12,,0,0.0,22.335483999999997,114.26091
+177,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block A,2016-09-15,,4,,,GD1,0,3228,86040000,2020-03-11,,0,0.0,22.335762,114.26123
+178,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block A,2016-09-15,,4,,,PT1,0,3381,145037000,2020-03-11,,0,0.0,22.335762,114.26123
+179,New Territories,Sai Kung,Sai Kung / Clear Water Bay,133 Portofino,Tower 1,2020-05-19,,,,3,A,0,1239,28780000,2020-03-10,,0,0.0,,
+180,New Territories,Sai Kung,Sai Kung / Clear Water Bay,16 Yi Chun Street,16 Yi Chun Street,1974-12-31,,,,2,,0,691,5350000,2020-03-09,2012-10-18,3850000,38.96,,
+181,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Pan Long Villa,House K,1979-05-31,,,,,,0,1906,26100000,2020-03-08,,0,0.0,,
+182,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Town Centre,Block A,1987-01-22,M,2,,9,B,801,584,7080000,2020-03-08,2004-12-02,1350000,424.44,22.383003,114.271935
+183,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 3,2017-10-20,M,,,3,D,0,532,8090000,2020-03-05,2016-08-29,7092900,14.06,22.385783999999997,114.272865
+184,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Siu Yat Building,Block B,1979-09-27,L,,,5,3,0,445,2000000,2020-03-02,,0,0.0,22.380997,114.27339
+185,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 9,1998-12-07,H,3,,10,A,1623,1285,16000000,2020-03-02,,0,0.0,22.4311839,114.2516275
+186,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 3,1997-06-17,H,,,7,H,0,436,5100000,2020-03-01,2017-01-25,4500000,13.33,22.379385,114.26950000000001
+187,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 2,2017-10-20,,,,G,G,0,986,17000000,2020-02-27,2016-04-19,19113600,-11.06,22.38593,114.27262
+188,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House F8,1988-01-14,,,,,,0,1943,40000000,2020-02-25,,0,0.0,22.359482,114.254456
+189,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,M,4,,6,B,0,1600,49361000,2020-02-21,,0,0.0,22.335800000000003,114.260925
+190,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Asiaciti Gardens,House 2,1981-03-17,,,,,,0,1724,36380000,2020-02-18,,0,0.0,22.388803,114.293724
+191,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 7,1997-06-17,M,,,7,H,0,436,3460000,2020-02-17,2012-05-22,1710000,102.34,22.378951999999998,114.2689
+192,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 1,1998-07-13,L,3,,1,G,1180,1031,9850000,2020-02-17,2008-01-29,6000000,64.17,22.430007,114.2486784
+193,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Habitat,House E2,1977-03-09,,,,,,0,1481,25380000,2020-02-13,,0,0.0,22.366301999999997,114.25806
+194,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Kam Wah Building,Kam Wah Building,1977-11-15,M,,,4,F,0,449,4100000,2020-02-13,2016-05-10,3130000,30.990000000000002,22.38216,114.27181
+195,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 11,1998-07-13,H,3,,8,E,1286,1123,12500000,2020-02-13,,0,0.0,22.4313274,114.252506
+196,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Town Centre,Block D,1987-01-22,L,2,,5,H,490,360,4850000,2020-02-05,,0,0.0,22.382471,114.27208999999999
+197,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 9,1998-07-13,M,3,,3,E,1286,1123,13000000,2020-02-05,1998-03-27,6431000,102.15,22.4311839,114.2516275
+198,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 9,1997-06-17,M,,,5,A,0,570,6700000,2020-02-04,2013-09-29,4630000,44.71,22.378632,114.26945
+199,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,2,,8,D,0,586,9120000,2020-02-03,,0,0.0,22.378439,114.26602
+200,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 5,2017-10-20,,,,G,J,0,538,7880000,2020-02-03,,0,0.0,22.38562,114.27251
+201,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Hillview Court,Block 1,1999-01-14,,3,,1,B,1124,998,10000000,2020-02-02,1999-04-20,5844800,71.09,22.337246,114.23917
+202,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block C,2016-09-15,,4,,,,0,2736,57065000,2020-01-23,,0,0.0,22.336336,114.26121
+203,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 5,2017-10-20,L,,,1,E,0,666,8300000,2020-01-16,2016-05-23,7270400,14.16,22.38562,114.27251
+204,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Hiram's Villa,Block 1,1997-04-07,,3,,2,B,1395,1076,10000000,2020-01-15,2010-08-09,7000000,42.86,22.3424514,114.256766
+205,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,H,3,,7,C,0,881,14117000,2020-01-15,2017-02-13,12997800,8.61,22.386419999999998,114.271996
+206,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,L,2,,2,G,0,668,9900000,2020-01-15,2016-05-31,8737600,13.3,22.386419999999998,114.271996
+207,New Territories,Sai Kung,Sai Kung / Clear Water Bay,63-65 Yi Chun Street,63-65 Yi Chun Street,1974-12-31,,,,1,,0,691,6300000,2020-01-13,,0,0.0,,
+208,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 1,1998-07-13,M,3,,3,G,1180,1031,12080000,2020-01-08,2016-11-10,8900000,35.730000000000004,22.430007,114.2486784
+209,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 11,1998-07-13,M,3,,6,G,1180,1031,11300000,2020-01-07,,0,0.0,22.4313274,114.252506
+210,New Territories,Sai Kung,Sai Kung / Clear Water Bay,9-11 Sha Tsui Path,9-11 Sha Tsui Path,1974-12-31,,,,4,,0,691,6000000,2020-01-06,2016-01-27,3190000,88.09,22.381066999999998,114.272224
+211,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 5,1997-06-17,H,,,9,C,0,448,3500000,2019-12-22,1997-02-26,1190000,194.12,22.379718999999998,114.26900499999999
+212,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 9,1998-07-13,M,3,,5,B,1180,1031,13880000,2019-12-17,1998-12-19,5720000,142.66,22.4311839,114.2516275
+213,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Kam Wah Building,Kam Wah Building,1977-11-15,M,,,4,H,0,449,4098000,2019-12-15,1997-07-07,1580000,159.37,22.38216,114.27181
+214,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,3,,8,A,0,837,13217000,2019-12-13,,0,0.0,22.378439,114.26602
+215,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,L,3,,3,G,0,851,12163300,2019-12-13,,0,0.0,22.378439,114.26602
+216,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 10,1998-12-07,H,3,,12,C,2442,1962,25800000,2019-12-12,,0,0.0,22.428981,114.2518425
+217,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,M,2,,5,F,0,668,9186000,2019-12-12,,0,0.0,22.378439,114.26602
+218,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,3,,7,A,0,837,12190400,2019-12-10,,0,0.0,22.378439,114.26602
+219,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,M,3,,6,A,0,837,11098100,2019-12-05,,0,0.0,22.378439,114.26602
+220,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,2,,8,E,0,545,9061500,2019-12-04,,0,0.0,22.378439,114.26602
+221,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,H,2,,8,C,0,589,8919100,2019-12-03,,0,0.0,22.377913,114.2655
+222,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 5,2017-10-20,M,,,6,E,0,666,8800000,2019-12-02,2016-06-01,8362400,5.23,22.38562,114.27251
+223,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,2,,8,F,0,668,10530900,2019-11-29,,0,0.0,22.378439,114.26602
+224,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sea View Villa,House D3,1983-10-12,,,,,,0,1502,21000000,2019-11-28,,0,0.0,22.390472,114.275055
+225,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 5,2017-10-20,H,,,8,B,0,990,15000000,2019-11-28,2016-05-30,14729400,1.84,22.38562,114.27251
+226,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,2,,7,F,0,668,8857800,2019-11-28,,0,0.0,22.378439,114.26602
+227,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,H,2,,8,P,0,527,7859900,2019-11-28,,0,0.0,22.377913,114.2655
+228,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,L,2,,2,F,0,668,8916900,2019-11-27,,0,0.0,22.378439,114.26602
+229,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,L,3,,1,A,0,837,10405400,2019-11-26,,0,0.0,22.378439,114.26602
+230,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,H,2,,7,N,0,704,9120600,2019-11-26,,0,0.0,22.37808,114.265785
+231,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,H,2,,8,A,0,580,8625600,2019-11-25,,0,0.0,22.377913,114.2655
+232,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Garden,Block 1,1991-12-30,M,3,,8,B,638,470,6280000,2019-11-24,1996-07-09,2068000,203.68,22.382434999999997,114.271255
+233,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,M,3,,5,A,0,837,10933900,2019-11-22,,0,0.0,22.378439,114.26602
+234,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,2,,8,J,0,597,9613000,2019-11-22,,0,0.0,22.378439,114.26602
+235,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,L,2,,3,F,0,668,9224300,2019-11-22,,0,0.0,22.378439,114.26602
+236,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,L,3,,3,A,0,837,11510400,2019-11-22,,0,0.0,22.378439,114.26602
+237,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Kambridge Garden,Block 5,1993-10-06,,,,1,,1350,1085,12800000,2019-11-20,2015-01-15,11500000,11.3,22.339593999999998,114.248146
+238,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,,3,,G,A,0,837,12819500,2019-11-19,,0,0.0,22.378439,114.26602
+239,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,,2,,G,F,0,668,10593100,2019-11-19,,0,0.0,22.378439,114.26602
+240,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 5,2017-10-20,M,,,6,K,0,537,9298400,2019-11-18,,0,0.0,22.38562,114.27251
+241,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,M,2,,6,F,0,668,9503400,2019-11-18,,0,0.0,22.378439,114.26602
+242,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,1,,8,B,0,425,7064200,2019-11-18,,0,0.0,22.378439,114.26602
+243,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,L,2,,3,N,0,704,8469400,2019-11-18,,0,0.0,22.37808,114.265785
+244,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,,3,,G,G,0,851,14182000,2019-11-18,,0,0.0,22.378439,114.26602
+245,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,L,2,,2,P,0,527,7366400,2019-11-18,,0,0.0,22.377913,114.2655
+246,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,H,2,,8,D,0,581,9082000,2019-11-15,,0,0.0,22.377913,114.2655
+247,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 8,1997-06-17,H,,,9,C,0,448,5100000,2019-11-14,2009-07-14,1565000,225.88,22.378906,114.2693
+248,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,H,2,,8,H,0,543,9229700,2019-11-13,,0,0.0,22.377913,114.2655
+249,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block C,2016-09-15,,4,,,3,0,2699,56293000,2019-11-12,,0,0.0,22.336336,114.26121
+250,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,2,,7,E,0,545,7551100,2019-11-11,,0,0.0,22.378439,114.26602
+251,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,6,0,2548,65005000,2019-11-11,,0,0.0,22.335483999999997,114.26091
+252,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block C,2016-09-15,,4,,,2,0,2703,56377000,2019-11-11,,0,0.0,22.336336,114.26121
+253,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,M,2,,6,L,0,704,8888400,2019-11-08,,0,0.0,22.378439,114.26602
+254,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,M,2,,6,E,0,545,7439400,2019-11-08,,0,0.0,22.378439,114.26602
+255,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 7,1998-07-13,H,3,,8,A,1267,1108,13680000,2019-11-08,2016-11-10,12000000,14.0,22.4312735,114.2507174
+256,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,2,,7,D,0,586,8086900,2019-11-07,,0,0.0,22.378439,114.26602
+257,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,H,2,,8,M,0,572,9328800,2019-11-07,,0,0.0,22.37808,114.265785
+258,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,H,1,,8,B,0,425,6615200,2019-11-06,,0,0.0,22.377913,114.2655
+259,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,M,2,,6,D,0,586,7967200,2019-11-06,,0,0.0,22.378439,114.26602
+260,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,,4,,G,A,0,1732,41993000,2019-11-04,,0,0.0,22.33579,114.260994
+261,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,,4,,G,B,0,1732,46025000,2019-11-04,,0,0.0,22.335762,114.26024
+262,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,H,3,,8,A,0,827,12647100,2019-11-04,,0,0.0,22.37808,114.265785
+263,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,,0,2200,53252000,2019-11-01,,0,0.0,22.335483999999997,114.26091
+264,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,,0,2544,55148000,2019-10-31,,0,0.0,22.335483999999997,114.26091
+265,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block F,2016-09-15,,4,,,,0,2263,52026000,2019-10-31,,0,0.0,22.336257999999997,114.2611
+266,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,,4,,G,B,0,1608,40439000,2019-10-31,,0,0.0,22.335537,114.26089
+267,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,H,1,,8,M,0,391,6161100,2019-10-31,,0,0.0,22.377913,114.2655
+268,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block F,2016-09-15,,4,,,,0,2566,63497000,2019-10-31,,0,0.0,22.336257999999997,114.2611
+269,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,H,4,,7,B,0,1907,58562000,2019-10-30,,0,0.0,22.335860999999998,114.26123
+270,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,,4,,G,C,0,1691,46230000,2019-10-30,,0,0.0,22.335762,114.26024
+271,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,,4,,G,B,0,1730,44832000,2019-10-29,,0,0.0,22.33579,114.260994
+272,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,,4,,G,A,0,1732,44723000,2019-10-29,,0,0.0,22.335762,114.26024
+273,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,,4,,G,B,0,1730,47939000,2019-10-28,,0,0.0,22.33566,114.26091
+274,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,T15,0,2548,57204000,2019-10-25,,0,0.0,22.335483999999997,114.26091
+275,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,T16,0,2548,57204000,2019-10-25,,0,0.0,22.335483999999997,114.26091
+276,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,D1,0,2204,47395000,2019-10-25,,0,0.0,22.335483999999997,114.26091
+277,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,,4,,G,A,0,1760,44994000,2019-10-25,,0,0.0,22.335642,114.26078
+278,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block C,2016-09-15,,4,,,D1,0,2257,60019000,2019-10-25,,0,0.0,22.336336,114.26121
+279,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,,3,,G,C,0,1334,32720000,2019-10-23,,0,0.0,22.33579,114.260994
+280,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,,4,,G,B,0,1523,38645000,2019-10-23,,0,0.0,22.335800000000003,114.260925
+281,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block F,2016-09-15,,4,,,,0,2296,49210000,2019-10-23,,0,0.0,22.336257999999997,114.2611
+282,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Town Centre,Block E,1987-01-22,L,1,,5,G,398,294,3950000,2019-10-22,2005-08-30,705000,460.28000000000003,22.382607,114.27195
+283,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block E,2016-09-15,,4,,,T3,0,2527,66105000,2019-10-22,,0,0.0,22.335939999999997,114.26142
+284,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block E,2016-09-15,,4,,,T5,0,2527,66105000,2019-10-22,,0,0.0,22.335939999999997,114.26142
+285,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block F,2016-09-15,,4,,,,0,2263,49940000,2019-10-21,,0,0.0,22.336257999999997,114.2611
+286,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,,4,,G,A,0,1819,52240000,2019-10-21,,0,0.0,22.335762,114.26024
+287,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,,1,,G,D,0,423,10541000,2019-10-21,,0,0.0,22.335642,114.26078
+288,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,,0,2548,57204000,2019-10-18,,0,0.0,22.335483999999997,114.26091
+289,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 11,1998-07-13,M,3,,6,E,1286,1123,11750000,2019-10-18,,0,0.0,22.4313274,114.252506
+290,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,,0,2201,46217000,2019-10-16,,0,0.0,22.335483999999997,114.26091
+291,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Green Park,Block 6,1988-05-29,,,,2,B,0,1147,12250000,2019-10-15,2016-04-12,12000000,2.08,22.338026,114.249084
+292,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,,4,,G,D,0,1709,37805000,2019-10-14,,0,0.0,22.335691,114.26073
+293,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 20,2016-09-15,M,3,,3,C,0,903,15000000,2019-10-14,2017-08-08,14809200,1.29,22.335812,114.26102
+294,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 2,1998-07-13,H,3,,7,C,1180,1031,11000000,2019-10-11,1999-05-20,6245500,76.13,22.4302941,114.2489675
+295,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Serenity Point,House A,2018-04-25,,4,,,,0,2981,157500000,2019-10-10,,0,0.0,22.327842999999998,114.2693
+296,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,,0,2200,45906000,2019-10-04,,0,0.0,22.335483999999997,114.26091
+297,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,M,1,,6,L,0,409,6000000,2019-10-02,2016-11-23,5169300,16.07,22.377913,114.2655
+298,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Chan Uk Tsuen,30A Chan Uk Village (Dd243L 1627),,,,,1,,0,739,5160000,2019-09-17,,0,0.0,,
+299,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,H,2,,7,M,0,572,8422200,2019-09-12,,0,0.0,22.37808,114.265785
+300,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,H,1,,8,N,0,396,6324000,2019-09-11,,0,0.0,22.377913,114.2655
+301,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,M,2,,5,N,0,704,9622500,2019-09-11,,0,0.0,22.37808,114.265785
+302,New Territories,Sai Kung,Sai Kung / Clear Water Bay,114-116 Man Nin Street,114-116 Man Nin Street,1974-12-31,,,,3,,0,691,5600000,2019-09-09,,0,0.0,,
+303,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 6,1997-06-17,H,,,12,D,0,570,7000000,2019-09-08,2004-05-04,1480000,372.97,22.379208,114.26881
+304,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 10,1998-07-13,H,3,,7,A,1267,1108,13850000,2019-09-05,2015-11-25,10500000,31.900000000000002,22.431237,114.2521276
+305,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,M,2,,6,M,0,572,8269500,2019-09-05,,0,0.0,22.37808,114.265785
+306,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,1,,8,K,0,457,8034700,2019-09-04,,0,0.0,22.378439,114.26602
+307,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,H,1,,8,E,0,424,7177700,2019-08-30,,0,0.0,22.377913,114.2655
+308,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,,4,,G,D,0,1701,42470000,2019-08-23,,0,0.0,22.335762,114.26024
+309,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,L,1,,2,N,0,396,5934300,2019-08-19,,0,0.0,22.377913,114.2655
+310,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Green Park,Block 7,1988-05-29,,,,2,A,0,1147,13100000,2019-08-18,,0,0.0,22.338293,114.24843
+311,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House G23,1989-01-08,,,,,,0,1301,23280000,2019-08-15,2009-05-19,11280000,106.38,22.359565999999997,114.25653
+312,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Bayview Apartments,House A (Dd224L 363),1975-10-06,,,,1,,0,1239,15900000,2019-08-13,,0,0.0,,
+313,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Golden Villa,House 12,1978-11-15,,,,,,0,1832,45125000,2019-08-12,2007-02-07,19500000,131.41,22.320117999999997,114.27432999999999
+314,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Golden Villa,House 11,1978-11-15,,,,,,0,1832,44750000,2019-08-12,,0,0.0,22.320055,114.27436
+315,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Dragon Lake Villa,House 11,1986-07-13,,,,,,0,2699,75750000,2019-08-12,,0,0.0,22.32708,114.268394
+316,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,,2,,G,B,0,565,10222000,2019-08-12,,0,0.0,22.378439,114.26602
+317,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,L,1,,2,M,0,391,5901000,2019-08-09,,0,0.0,22.377913,114.2655
+318,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,3,,7,G,0,851,13285000,2019-08-09,,0,0.0,22.378439,114.26602
+319,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Berkeley Bay Villa,House 3,1978-07-14,,,,,,0,1332,27200000,2019-08-08,2008-01-03,12500000,117.60000000000001,22.35447,114.251571
+320,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 3,2017-10-20,L,,,2,C,0,888,14983500,2019-08-08,2017-04-24,13551700,10.57,22.385783999999997,114.272865
+321,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,2,,8,H,0,598,10232000,2019-08-05,,0,0.0,22.378439,114.26602
+322,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 2,2017-10-20,M,,,3,M,0,699,10826700,2019-08-05,,0,0.0,22.38593,114.27262
+323,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,M,4,,6,B,0,1600,39584000,2019-08-05,,0,0.0,22.335642,114.26078
+324,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,H,2,,8,F,0,491,8470500,2019-08-02,,0,0.0,22.377913,114.2655
+325,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Garden,Block 1,1991-12-30,H,3,,9,D,666,504,6600000,2019-08-01,2013-05-26,4398000,50.07,22.382434999999997,114.271255
+326,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Chan Uk Tsuen,30A Chan Uk Village (Dd243L 1627),,,,,G,,0,647,6000000,2019-08-01,2010-07-21,1900000,215.79,,
+327,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,L,2,,2,L,0,695,10575300,2019-07-31,,0,0.0,22.386419999999998,114.271996
+328,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 2,2017-10-20,M,,,3,K,0,884,12800000,2019-07-30,2016-07-05,10896000,17.47,22.38593,114.27262
+329,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,M,2,,5,C,0,590,8494800,2019-07-29,,0,0.0,22.378439,114.26602
+330,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 5,1998-07-13,L,3,,1,H,1264,1104,14280000,2019-07-29,,0,0.0,22.4308695,114.2496325
+331,New Territories,Sai Kung,Sai Kung / Clear Water Bay,63-65 Yi Chun Street,63-65 Yi Chun Street,1974-12-31,,,,3,,0,691,6000000,2019-07-28,2014-09-24,4250000,41.18,,
+332,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Serenity Point,House B,2018-04-25,,4,,,,0,2433,133800000,2019-07-26,,0,0.0,22.327868,114.26932
+333,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,2,,8,L,0,704,11365400,2019-07-19,,0,0.0,22.378439,114.26602
+334,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,M,3,,6,A,0,827,12121000,2019-07-18,,0,0.0,22.37808,114.265785
+335,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,M,3,,6,G,0,851,12952200,2019-07-17,,0,0.0,22.378439,114.26602
+336,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Town Centre,Block E,1987-01-22,M,1,,7,G,398,294,4000000,2019-07-16,,0,0.0,22.382607,114.27195
+337,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Giverny,House 063,2005-04-24,,,,,,0,2057,32500000,2019-07-15,2007-05-09,34700000,-6.34,22.369,114.26183
+338,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 8,1997-06-17,L,,,3,C,0,448,5000000,2019-07-11,2012-03-29,2750000,81.82000000000001,22.378906,114.2693
+339,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 6,1998-12-07,H,3,,10,C,1427,1140,13800000,2019-07-10,2000-07-19,6280000,119.75,22.4292415,114.2507734
+340,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 5,2017-10-20,,,,G,H,0,894,16000000,2019-07-08,2017-06-19,17227000,-7.12,22.38562,114.27251
+341,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 5,1997-06-17,M,,,6,C,0,448,3720000,2019-07-03,1997-02-26,1176000,216.33,22.379718999999998,114.26900499999999
+342,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 4,1997-06-17,L,,,2,H,0,436,2000000,2019-06-26,2000-02-15,1290000,55.04,22.379433,114.26912
+343,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,2,,7,L,0,704,9966400,2019-06-26,,0,0.0,22.378439,114.26602
+344,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Green Park,Block 4,1988-05-29,,,,1,A,0,1147,12380000,2019-06-23,1999-12-22,3900000,217.44,22.338355999999997,114.24911
+345,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 10,1997-06-17,H,,,6,E,0,570,4580000,2019-06-20,2000-05-05,1560000,193.59,22.378693,114.2698
+346,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 8,1997-06-17,M,,,6,F,0,432,3250000,2019-06-18,2019-05-15,3250000,0.0,22.378906,114.2693
+347,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 4,1997-06-17,M,,,7,E,0,427,5600000,2019-06-17,2011-07-13,2520000,122.22,22.379433,114.26912
+348,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 2,1998-07-13,M,3,,5,E,1286,1123,13680000,2019-06-12,2007-06-07,5680000,140.85,22.4302941,114.2489675
+349,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,H,4,,7,A,0,1841,43816000,2019-06-11,,0,0.0,22.33566,114.26091
+350,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,PH,7,0,2548,63379800,2019-06-10,,0,0.0,22.335483999999997,114.26091
+351,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Siu Yat Building,Block A,1979-09-27,M,,,6,4,0,352,4460000,2019-06-05,,0,0.0,,
+352,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,,2,,G,E,0,539,10570200,2019-06-05,2018-09-06,11744600,-10.0,22.378439,114.26602
+353,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 2,1998-07-13,L,3,,1,A,1267,1108,12880000,2019-06-05,2003-03-21,3800000,238.95000000000002,22.4302941,114.2489675
+354,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Giverny,House 016,2005-04-24,,,,,,0,1232,21380000,2019-06-04,2007-05-10,18000000,18.78,22.369101999999998,114.26100000000001
+355,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,L,2,,1,C,0,590,9173800,2019-05-31,,0,0.0,22.378439,114.26602
+356,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Balmoral Garden,Block 6,1992-03-08,,,,1,B,0,1235,16600000,2019-05-28,,0,0.0,,
+357,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Kam Po Court,Kam Po Court,1980-04-28,L,,,3,B,0,330,4000000,2019-05-27,2005-02-04,400000,900.0,22.381199,114.273266
+358,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Flamingo Gardens,House E3,1983-08-30,,,,,,3581,2687,82000000,2019-05-19,2006-09-21,28350000,189.24,22.336111,114.229225
+359,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,,4,,G,D,0,1700,39310000,2019-05-17,,0,0.0,22.335839999999997,114.261154
+360,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,H,2,,7,M,0,701,12745800,2019-05-17,,0,0.0,22.386419999999998,114.271996
+361,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 8,1997-06-17,M,,,6,F,0,432,3250000,2019-05-15,1997-05-26,1135000,186.34,22.378906,114.2693
+362,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 8,1998-07-13,H,3,,7,B,1180,1031,11880000,2019-05-14,2000-03-10,6150000,93.17,22.4312276,114.25121
+363,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Rise Park Villas,Block 1,1979-05-20,,,,G,,0,1524,21500000,2019-05-08,2011-02-21,13380000,60.69,22.336337999999998,114.24828
+364,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,M,2,,6,N,0,704,10795700,2019-05-08,,0,0.0,22.37808,114.265785
+365,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,H,4,,8,C,0,1565,43125000,2019-05-08,,0,0.0,22.386419999999998,114.271996
+366,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Town Centre,Block B,1987-01-22,M,1,,8,G,398,294,4000000,2019-05-07,2019-01-20,2000000,100.0,22.382821999999997,114.27208999999999
+367,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Rise Park Villas,Block 4,1979-05-20,,,,1,,0,1574,18000000,2019-05-01,2012-09-20,14280000,26.05,,
+368,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Ruby Chalet,House 2,1982-09-05,,,,,,0,1294,23500000,2019-04-29,2009-10-13,13500000,74.07000000000001,22.366919,114.25934
+369,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,M,2,,6,C,0,590,9829100,2019-04-29,,0,0.0,22.378439,114.26602
+370,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Greenview Garden,Block 6,1992-03-08,,3,,2,A,1045,846,12380000,2019-04-28,2002-06-17,925000,1238.38,22.337797,114.24916999999999
+371,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Hillview Court,Block 1,1999-01-15,,3,,3,A,1151,1022,13300000,2019-04-26,2010-04-08,6680000,99.10000000000001,22.337246,114.23917
+372,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Town Centre,Block F,1987-01-23,M,2,,9,A,885,651,7200000,2019-04-26,,0,0.0,22.382786,114.27170000000001
+373,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,H,1,,7,E,0,433,7354900,2019-04-25,2017-10-19,6769800,8.64,22.37808,114.265785
+374,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,M,2,,6,H,0,598,9701000,2019-04-23,2017-09-29,8930000,8.63,22.378439,114.26602
+375,New Territories,Sai Kung,Sai Kung / Clear Water Bay,1-3 Wan King Path,1-3 Wan King Path,1974-12-31,,,,1,,0,691,6000000,2019-04-22,,0,0.0,22.38149,114.271454
+376,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Garden,Block 2,1991-12-30,M,3,,7,A,0,470,5800000,2019-04-15,2010-04-27,2360000,145.76,22.3822626,114.271463
+377,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sea View Villa,House A1,1983-10-12,,,,,,0,1562,48000000,2019-04-14,2006-09-15,20800000,130.77,22.389898,114.27517
+378,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Green Park,Block 4,1988-05-29,,,,2,A,0,1147,13680000,2019-04-14,2000-12-20,4468000,206.18,22.338355999999997,114.24911
+379,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,M,2,,6,L,0,695,12367100,2019-04-10,,0,0.0,22.386419999999998,114.271996
+380,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Building,Block B,1984-11-14,M,,,6,4,0,537,6370000,2019-04-08,,0,0.0,22.382267,114.27277
+381,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,,3,,G,C,0,1296,29420000,2019-04-08,2018-06-29,29840000,-1.41,22.335860999999998,114.26123
+382,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 11,2016-09-15,,4,,G,D,0,1709,36936000,2019-04-04,,0,0.0,22.335780999999997,114.261154
+383,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Hebe Villa,House A3,1991-05-05,,,,,,0,1870,27800000,2019-04-03,2014-10-08,27000000,2.96,22.373707,114.26289
+384,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Casa Bella,Block 11,1993-09-15,,3,,1,A,850,680,13680000,2019-03-27,2015-06-10,11000000,24.36,22.325400000000002,114.27098
+385,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,M,4,,3,B,0,1907,35208000,2019-03-25,,0,0.0,22.335860999999998,114.26123
+386,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Kam Po Court,Kam Po Court,1980-04-28,H,,,11,E,0,335,4400000,2019-03-21,2008-09-28,1325000,232.08,22.381199,114.273266
+387,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,L,2,,2,B,0,668,11122600,2019-03-21,2016-01-18,9020100,23.31,22.386419999999998,114.271996
+388,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 21,2016-09-15,L,3,,2,A,0,1162,18433000,2019-03-19,2018-06-27,21066000,-12.5,22.336434999999998,114.261185
+389,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,M,2,,6,M,0,701,12056100,2019-03-18,,0,0.0,22.386419999999998,114.271996
+390,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,L,4,,2,B,0,1836,31964000,2019-03-13,2018-06-25,31964000,0.0,22.335762,114.26024
+391,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 2,2017-10-20,,,,G,C,0,594,13134600,2019-03-12,,0,0.0,22.38593,114.27262
+392,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 7,1998-12-07,L,3,,1,A,1622,1285,12000000,2019-03-11,,0,0.0,22.4312735,114.2507174
+393,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,,4,,G,D,0,1691,33820000,2019-03-07,,0,0.0,22.335860999999998,114.26123
+394,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 11,1998-07-13,L,3,,1,A,1267,1108,10500000,2019-03-06,,0,0.0,22.4313274,114.252506
+395,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,M,1,,5,M,0,391,5200000,2019-03-04,2016-08-19,4779000,8.81,22.377913,114.2655
+396,New Territories,Sai Kung,Sai Kung / Clear Water Bay,51-53 Yi Chun Street,51-53 Yi Chun Street,1974-12-31,,,,2,,0,691,5500000,2019-02-28,,0,0.0,,
+397,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,L,4,,1,A,0,1836,32165000,2019-02-21,2018-07-05,39058000,-17.650000000000002,22.335691,114.26073
+398,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 6,1997-06-17,H,,,9,G,0,432,3530000,2019-02-20,2001-11-01,938000,276.33,22.379208,114.26881
+399,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,M,3,,6,D,0,1172,21556000,2019-02-18,2018-06-25,23173000,-6.98,22.335762,114.26024
+400,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Villa Tahoe,House H,1978-05-09,,,,,H,0,2252,73000000,2019-02-13,2011-10-31,54500000,33.94,22.319457,114.274119
+401,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House A11,1988-11-21,,,,,,0,1373,27000000,2019-02-12,,0,0.0,22.356206999999998,114.25342
+402,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 3,1997-06-17,M,,,4,A,0,570,4350000,2019-02-10,1997-05-05,1480000,193.92000000000002,22.379385,114.26950000000001
+403,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 5,2017-10-20,L,4,,1,F,0,1171,21050400,2019-02-01,,0,0.0,22.38562,114.27251
+404,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,G,F,0,1010,20757000,2019-01-31,2018-06-20,20757000,0.0,22.33588,114.26113
+405,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,M,1,,5,D,0,433,6000000,2019-01-28,2016-08-09,5478400,9.52,22.37808,114.265785
+406,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Kam Wah Building,Kam Wah Building,1977-11-15,L,,,2,F,0,449,2000000,2019-01-27,,0,0.0,22.38216,114.27181
+407,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,M,3,,6,C,0,1172,20941000,2019-01-25,2018-06-26,22511000,-6.97,22.335762,114.26024
+408,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Town Centre,Block B,1987-01-22,M,1,,8,G,398,294,2000000,2019-01-20,2019-01-07,2000000,0.0,22.382821999999997,114.27208999999999
+409,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 7,1998-07-13,L,3,,1,B,1180,1031,11000000,2019-01-14,1998-03-27,6150100,78.86,22.4312735,114.2507174
+410,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 2,2017-10-20,L,,,2,B,0,537,8300000,2019-01-14,2016-01-15,6851100,21.150000000000002,22.38593,114.27262
+411,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 10,1997-06-17,M,,,3,H,0,436,5200000,2019-01-10,2016-11-01,4350000,19.54,22.378693,114.2698
+412,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Portofino,186 Pak To Avenue,1999-05-03,,,,,,0,3708,75000000,2019-01-07,,0,0.0,22.3096,114.29102
+413,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Palisades,House 8,1997-07-23,,,,,,0,1587,40000000,2019-01-03,,0,0.0,22.319481,114.277093
+414,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Rise Park Villas,Block 10,1979-05-20,,,,1,,0,1574,14000000,2018-12-27,,0,0.0,22.33609,114.249146
+415,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block C,2016-09-15,,4,,,,0,2209,55272000,2018-12-27,,0,0.0,22.336336,114.26121
+416,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Razor Park,House 1,1988-06-07,,,,G,A,0,984,12500000,2018-12-26,2012-05-01,9800000,27.55,22.337287999999997,114.24826
+417,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,3,D,0,1152,25781000,2018-12-20,2018-09-12,25781000,0.0,22.33588,114.26113
+418,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Serenity Point,House C,2018-04-25,,4,,,,0,2692,188000000,2018-12-18,,0,0.0,22.327714999999998,114.26934
+419,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 10,1998-07-13,H,3,,8,F,1180,1031,11900000,2018-12-18,1998-03-27,7634400,55.870000000000005,22.431237,114.2521276
+420,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Razor Park,House 14,1988-06-07,,,,G,A,0,637,8630000,2018-12-17,2012-12-17,6388000,35.1,22.337511,114.248215
+421,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Greenview Garden,Block 16,1992-03-08,,3,,1,A,1248,1096,14000000,2018-12-16,2001-12-26,3780000,270.37,22.337215,114.24884
+422,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,L,4,,1,A,0,1907,33754000,2018-11-14,2018-06-20,34236000,-1.41,22.335762,114.26024
+423,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 11,1998-07-13,H,3,,7,D,1317,1151,13350000,2018-11-13,,0,0.0,22.4313274,114.252506
+424,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 9,1997-06-17,L,,,3,F,0,432,4500000,2018-11-11,2011-06-22,2550000,76.47,22.378632,114.26945
+425,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Ko Fu House,Ko Fu House,1980-07-30,,,,3,D1,0,340,3150000,2018-11-08,,0,0.0,22.381926999999997,114.27311
+426,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,M,2,,6,A,0,0,12430000,2018-11-05,,0,0.0,22.386419999999998,114.271996
+427,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Giverny,House 083,2005-04-24,,,,,,0,1250,22000000,2018-11-01,2007-05-10,18880000,16.53,22.368855999999997,114.26123
+428,New Territories,Sai Kung,Sai Kung / Clear Water Bay,22-24 Yi Chun Street,22-24 Yi Chun Street,1974-12-31,,,,4,,0,691,6150000,2018-10-29,,0,0.0,,
+429,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Villa Horizon,House 25,1989-09-29,,,,,,0,1966,55500000,2018-10-19,2010-06-04,35800000,55.03,22.326483,114.27152
+430,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Hop Yick House,Hop Yick House,1979-03-05,,,,4,B,420,337,4200000,2018-10-17,,0,0.0,22.381845,114.27343
+431,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Garden,Block 2,1991-12-30,L,3,,4,C,0,527,6800000,2018-10-15,2008-04-22,2230000,204.93,22.3822626,114.271463
+432,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,Dioramic Rise,1987-12-30,M,2,,4,F,734,597,8500000,2018-10-11,,0,0.0,22.355681999999998,114.252686
+433,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Portofino,Portofino Villas,1999-05-03,,,,1,1A,0,1987,43500000,2018-10-04,,0,0.0,,
+434,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,M,4,,6,A,0,1833,48639000,2018-10-03,,0,0.0,22.335800000000003,114.260925
+435,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 7,1997-06-17,L,,,2,F,0,432,4900000,2018-10-01,2010-10-12,2000000,145.0,22.378951999999998,114.2689
+436,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,M,4,,5,A,0,1837,40500000,2018-09-28,,0,0.0,22.335839999999997,114.261154
+437,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,M,4,,5,A,0,1837,39080000,2018-09-24,,0,0.0,22.33566,114.26091
+438,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block C,2016-09-15,,4,,,P5,0,2211,58251000,2018-09-21,2018-06-20,58251000,0.0,22.336336,114.26121
+439,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block C,2016-09-15,,4,,,P7,0,2236,58251000,2018-09-21,2018-06-19,58251000,0.0,22.336336,114.26121
+440,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Las Pinadas,House F9,1981-04-28,,,,,,0,2379,24000000,2018-09-20,,0,0.0,22.344606,114.253892
+441,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Ruby Chalet,House 10,1982-09-05,,,,,,0,1294,28000000,2018-09-20,2005-12-14,9000000,211.11,22.366533,114.259
+442,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,M,4,,5,B,0,1836,41500000,2018-09-20,,0,0.0,22.335691,114.26073
+443,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block E,2016-09-15,,4,,,,0,2566,65925000,2018-09-18,,0,0.0,22.335939999999997,114.26142
+444,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 11,1998-07-13,M,3,,3,E,1286,1123,13000000,2018-09-17,,0,0.0,22.4313274,114.252506
+445,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block C,2016-09-15,,4,,,,0,2208,56157000,2018-09-14,,0,0.0,22.336336,114.26121
+446,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Town Centre,Block A,1987-01-22,M,2,,7,E,442,326,4900000,2018-09-13,2013-03-20,2950000,66.1,22.383003,114.271935
+447,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Hillview Court,Block 1,1999-01-14,,3,,2,D,1305,1155,13980000,2018-09-13,1999-01-04,7472200,87.09,22.337246,114.23917
+448,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,,0,2201,51063000,2018-09-13,,0,0.0,22.335483999999997,114.26091
+449,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Town Centre,Block B,1987-01-22,M,2,,7,B,398,292,4180000,2018-09-12,2008-01-01,1030000,305.83,22.382821999999997,114.27208999999999
+450,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,3,D,0,1152,25781000,2018-09-12,,0,0.0,22.33588,114.26113
+451,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,,0,2201,51063000,2018-09-11,,0,0.0,22.335483999999997,114.26091
+452,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,,0,2548,60760000,2018-09-11,,0,0.0,22.335483999999997,114.26091
+453,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,,2,,G,E,0,539,11744600,2018-09-06,,0,0.0,22.378439,114.26602
+454,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 11,1998-07-13,H,3,,8,H,1264,1104,15000000,2018-09-05,,0,0.0,22.4313274,114.252506
+455,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Costa Bello,Block 6,2003-03-27,,3,,1,,1258,912,14480000,2018-09-05,,0,0.0,22.377474,114.274155
+456,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House A4,1988-11-21,,,,,,0,1406,25800000,2018-09-03,,0,0.0,22.356043,114.25308
+457,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 1,1998-07-13,M,3,,5,H,1264,1104,14638000,2018-08-30,1998-03-26,6325500,131.41,22.430007,114.2486784
+458,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 9,1997-06-17,M,,,4,D,0,570,7100000,2018-08-28,2002-12-26,1420000,400.0,22.378632,114.26945
+459,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,L,4,,2,A,0,1945,47122000,2018-08-28,,0,0.0,22.335642,114.26078
+460,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,,3,,G,D,0,1296,32704000,2018-08-27,,0,0.0,22.335762,114.26024
+461,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Town Centre,Block B,1987-01-22,L,2,,6,B,398,292,3950000,2018-08-26,2012-11-01,2200000,79.55,22.382821999999997,114.27208999999999
+462,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 12,1998-12-07,M,3,,7,B,1671,1326,18600000,2018-08-24,1998-03-12,9216600,101.81,22.429240999999998,114.25245
+463,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,,3,,G,C,0,1333,32678000,2018-08-22,,0,0.0,22.335762,114.26024
+464,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block F,2016-09-15,,4,,,,0,2598,62819000,2018-08-22,,0,0.0,22.336257999999997,114.2611
+465,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,,4,,G,D,0,1701,38896000,2018-08-20,,0,0.0,22.33579,114.260994
+466,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,,4,,G,D,0,1701,38896000,2018-08-17,,0,0.0,22.335821,114.261375
+467,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,,4,,G,B,0,1729,41850000,2018-08-16,,0,0.0,22.335762,114.26024
+468,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Hillview Court,Block 2,1999-01-14,,3,,1,C,1373,1220,15380000,2018-08-14,,0,0.0,22.337014999999997,114.239136
+469,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,L,2,,1,D,0,0,9471300,2018-08-10,,0,0.0,22.378439,114.26602
+470,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,,4,,G,D,0,1699,33980000,2018-08-08,,0,0.0,22.335800000000003,114.260925
+471,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Casa Bella,Block 1,1993-09-16,,3,,G,B,867,694,9528000,2018-08-08,2004-09-18,3300000,188.73,22.324593999999998,114.270935
+472,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,,0,2201,51000000,2018-08-07,,0,0.0,22.335483999999997,114.26091
+473,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,,0,2201,53550000,2018-08-06,,0,0.0,22.335483999999997,114.26091
+474,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Villa Horizon,House 02,1989-09-28,,,,,,0,1762,45000000,2018-08-02,2009-04-28,21600000,108.33,22.32685,114.27036
+475,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 2,1998-12-07,L,3,,3,B,1416,1128,14500000,2018-08-01,1998-12-19,6020000,140.86,22.4284835,114.250733
+476,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,G,B,0,1754,32648000,2018-07-31,2018-06-20,32648000,0.0,22.33588,114.26113
+477,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Kambridge Garden,Block 13,1993-10-06,,,,1,,1343,1085,14000000,2018-07-30,,0,0.0,22.3397,114.24781
+478,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,M,4,,5,B,0,1837,39000000,2018-07-30,,0,0.0,22.335839999999997,114.261154
+479,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sea View Villa,House C3,1983-10-12,,,,,,0,1497,22800000,2018-07-29,,0,0.0,22.390978,114.275276
+480,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Villa Royale,Block 30,2003-10-02,,3,2,,,1800,1234,15180000,2018-07-29,,0,0.0,22.352472,114.249115
+481,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Floral Villas,Apartment 04,1995-01-09,,,,,,0,910,16880000,2018-07-29,2015-03-02,13250000,27.400000000000002,22.392595,114.293
+482,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Giverny,House 033,2005-04-24,,,,,,0,2901,53500000,2018-07-26,2005-11-09,76000000,-29.61,22.36855,114.26171
+483,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,G,C,0,1754,33318000,2018-07-26,,0,0.0,22.33588,114.26113
+484,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,H,4,,7,C,0,1841,45761000,2018-07-25,,0,0.0,22.335537,114.26089
+485,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Villa Chrysanthemum,House C,1979-07-24,,,,,,0,1498,33780000,2018-07-24,,0,0.0,22.365669999999998,114.259387
+486,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Garden,Block 1,1991-12-30,L,3,,3,B,638,470,5600000,2018-07-24,2008-04-14,1710000,227.49,22.382434999999997,114.271255
+487,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,M,4,,5,B,0,1834,45021000,2018-07-24,,0,0.0,22.335800000000003,114.260925
+488,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,G,D,0,1830,34713000,2018-07-24,,0,0.0,22.33588,114.26113
+489,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,L,4,,2,B,0,1837,33396000,2018-07-23,,0,0.0,22.33566,114.26091
+490,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,,4,,G,D,0,1710,36770000,2018-07-23,,0,0.0,22.335537,114.26089
+491,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,,4,,G,B,0,1819,43912000,2018-07-20,,0,0.0,22.335860999999998,114.26123
+492,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,M,4,,5,B,0,1836,35711000,2018-07-20,,0,0.0,22.33566,114.26091
+493,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Garden,Block 2,1991-12-30,L,3,,4,E,0,570,6500000,2018-07-19,2007-12-13,2210000,194.12,22.3822626,114.271463
+494,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,M,4,,3,A,0,1945,51681000,2018-07-19,,0,0.0,22.335642,114.26078
+495,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Serenity Peak,House D,2015-10-19,,4,,,,0,2414,141888000,2018-07-19,,0,0.0,22.328304,114.26949
+496,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,,3,,G,C,0,1345,29740000,2018-07-19,,0,0.0,22.335691,114.26073
+497,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,L,4,,1,A,0,1837,32868000,2018-07-18,,0,0.0,22.33566,114.26091
+498,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Building,Block A,1984-11-14,M,,,8,2,0,449,5400000,2018-07-17,,0,0.0,22.382431,114.27258
+499,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,,4,,G,A,0,1737,39083000,2018-07-17,,0,0.0,22.335860999999998,114.26123
+500,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,H,4,,7,B,0,1837,43721000,2018-07-17,,0,0.0,22.33566,114.26091
+501,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 19,2016-09-15,M,3,,5,A,0,1162,23855000,2018-07-17,,0,0.0,22.335762,114.26024
+502,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Carpark,,,,,,530C,0,0,2000000,2018-07-17,,0,0.0,22.3355,114.26076499999999
+503,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,M,3,,5,D,0,1172,24968000,2018-07-17,,0,0.0,22.335821,114.261375
+504,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,M,4,,6,B,0,1836,35616000,2018-07-17,,0,0.0,22.33566,114.26091
+505,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,L,4,,1,B,0,1714,30543000,2018-07-17,,0,0.0,22.335537,114.26089
+506,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,,4,,G,A,0,1736,39581000,2018-07-17,,0,0.0,22.335800000000003,114.260925
+507,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 6,1997-06-17,M,,,8,E,0,427,3500000,2018-07-16,1997-06-11,1134000,208.64000000000001,22.379208,114.26881
+508,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,M,4,,6,A,0,1837,35616000,2018-07-16,,0,0.0,22.33566,114.26091
+509,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,L,4,,1,A,0,1945,40372000,2018-07-16,,0,0.0,22.335642,114.26078
+510,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 11,1998-12-07,L,3,,1,B,1510,1208,13750000,2018-07-13,2004-11-26,5400000,154.63,22.429109999999998,114.252174
+511,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 11,2016-09-15,M,4,,5,A,0,1837,33800800,2018-07-13,,0,0.0,22.335780999999997,114.261154
+512,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,H,4,,7,A,0,1886,62767000,2018-07-13,,0,0.0,22.335762,114.26024
+513,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,M,4,,3,B,0,1837,34300000,2018-07-13,,0,0.0,22.33566,114.26091
+514,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,L,4,,2,A,0,1837,33872000,2018-07-13,,0,0.0,22.33566,114.26091
+515,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,M,3,,6,E,0,968,19929000,2018-07-13,,0,0.0,22.335762,114.26024
+516,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block F,2016-09-15,,4,,,,0,2566,67154000,2018-07-13,,0,0.0,22.336257999999997,114.2611
+517,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 19,2016-09-15,L,3,,2,B,0,1161,20140000,2018-07-12,,0,0.0,22.335762,114.26024
+518,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,M,3,,3,D,0,1172,21200000,2018-07-12,,0,0.0,22.335860999999998,114.26123
+519,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,L,3,,1,C,0,1118,21456000,2018-07-11,,0,0.0,22.335691,114.26073
+520,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,L,4,,2,A,0,1833,33546000,2018-07-11,,0,0.0,22.335800000000003,114.260925
+521,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 18,2016-09-15,M,3,,5,A,0,1161,23337000,2018-07-11,,0,0.0,22.335686,114.26002
+522,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block E,2016-09-15,,4,,,,0,2357,65040000,2018-07-11,,0,0.0,22.335939999999997,114.26142
+523,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,L,4,,1,B,0,1837,32242000,2018-07-10,,0,0.0,22.335839999999997,114.261154
+524,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Serenity Peak,House C,2015-10-19,,4,,,,0,2343,130288000,2018-07-10,,0,0.0,22.328318,114.26934
+525,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,,4,,G,A,0,1732,42954000,2018-07-10,,0,0.0,22.335537,114.26089
+526,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block F,2016-09-15,,4,,,,0,2598,62352000,2018-07-10,,0,0.0,22.336257999999997,114.2611
+527,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Green Park,Block 3,1988-05-29,,,,G,B,0,1147,13280000,2018-07-09,,0,0.0,22.33829,114.24884
+528,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,,4,,G,D,0,1710,37637000,2018-07-09,,0,0.0,22.33566,114.26091
+529,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,L,4,,1,A,0,1833,32876000,2018-07-09,,0,0.0,22.335800000000003,114.260925
+530,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,L,4,,1,A,0,1833,33129000,2018-07-09,,0,0.0,22.335860999999998,114.26123
+531,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,M,4,,5,A,0,1833,43776000,2018-07-09,,0,0.0,22.335800000000003,114.260925
+532,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,M,4,,3,A,0,1837,34300000,2018-07-09,,0,0.0,22.33566,114.26091
+533,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,L,4,,1,A,0,1836,32434000,2018-07-06,,0,0.0,22.335762,114.26024
+534,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,L,4,,1,B,0,1837,32817000,2018-07-06,,0,0.0,22.335762,114.26024
+535,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,L,4,,1,A,0,1837,32734000,2018-07-06,,0,0.0,22.335537,114.26089
+536,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 22,2016-09-15,,3,,1,A,0,1173,22629000,2018-07-06,,0,0.0,22.335762,114.26024
+537,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,L,4,,1,A,0,1837,30862000,2018-07-05,,0,0.0,22.335839999999997,114.261154
+538,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,L,4,,1,A,0,1836,39058000,2018-07-05,,0,0.0,22.335691,114.26073
+539,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 6,1998-12-07,M,3,,6,B,1663,1323,18380000,2018-07-04,2012-08-31,10200000,80.2,22.4292415,114.2507734
+540,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,L,4,,1,B,0,1836,31978000,2018-07-04,,0,0.0,22.33579,114.260994
+541,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,L,4,,2,B,0,1837,32355000,2018-07-04,,0,0.0,22.335762,114.26024
+542,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,L,4,,1,A,0,1836,32242000,2018-07-03,,0,0.0,22.335821,114.261375
+543,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,L,4,,1,B,0,1837,32050000,2018-07-03,,0,0.0,22.335762,114.26024
+544,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 10,2016-09-15,L,4,,1,A,0,1836,32242000,2018-07-03,,0,0.0,22.335860999999998,114.26118
+545,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,L,4,,2,A,0,1837,31872000,2018-07-03,,0,0.0,22.335691,114.26073
+546,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,,3,,G,C,0,1296,29840000,2018-06-29,,0,0.0,22.335860999999998,114.26123
+547,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,L,4,,1,A,0,1837,31598000,2018-06-29,,0,0.0,22.33579,114.260994
+548,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,,3,,G,C,0,1335,29637000,2018-06-29,,0,0.0,22.335821,114.261375
+549,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,H,4,,7,C,0,1482,31266000,2018-06-29,,0,0.0,22.335762,114.26024
+550,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,M,4,,5,B,0,1836,49543000,2018-06-29,,0,0.0,22.335762,114.26024
+551,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,H,4,,7,C,0,1577,38991000,2018-06-29,,0,0.0,22.335860999999998,114.26123
+552,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Hillview Court,Block 6,1999-01-14,,3,,3,B,1283,1138,14000000,2018-06-28,1998-05-01,7610400,83.96000000000001,22.336702,114.23976
+553,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,H,2,,7,C,0,0,9572800,2018-06-28,,0,0.0,22.37808,114.265785
+554,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 17,2016-09-15,L,3,,1,D,0,982,20484000,2018-06-28,,0,0.0,22.33591,114.26145
+555,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 11,2016-09-15,L,4,,1,B,0,1837,32242000,2018-06-28,,0,0.0,22.335780999999997,114.261154
+556,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 18,2016-09-15,L,3,,1,A,0,1161,20766000,2018-06-28,,0,0.0,22.335686,114.26002
+557,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 11,2016-09-15,L,4,,1,A,0,1837,32242000,2018-06-28,,0,0.0,22.335780999999997,114.261154
+558,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,9,0,2619,60150000,2018-06-28,,0,0.0,22.335483999999997,114.26091
+559,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,L,4,,2,A,0,1837,32240000,2018-06-28,,0,0.0,22.335537,114.26089
+560,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,L,4,,1,B,0,1836,30862000,2018-06-28,,0,0.0,22.335821,114.261375
+561,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,H,4,,7,B,0,1841,45105000,2018-06-27,,0,0.0,22.335762,114.26024
+562,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,M,4,,3,A,0,1836,32514000,2018-06-27,,0,0.0,22.335821,114.261375
+563,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 21,2016-09-15,L,3,,2,A,0,1162,21066000,2018-06-27,,0,0.0,22.336434999999998,114.261185
+564,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,M,2,,5,M,0,0,9067500,2018-06-27,,0,0.0,22.37808,114.265785
+565,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,L,4,,2,A,0,1837,31597000,2018-06-27,,0,0.0,22.335762,114.26024
+566,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 20,2016-09-15,L,3,,2,B,0,1162,18182000,2018-06-27,,0,0.0,22.335812,114.26102
+567,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,L,4,,2,B,0,1837,31955000,2018-06-27,,0,0.0,22.335839999999997,114.261154
+568,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,L,4,,1,B,0,1600,32432000,2018-06-27,,0,0.0,22.335800000000003,114.260925
+569,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 22,2016-09-15,,3,,3,A,0,1173,23879000,2018-06-27,,0,0.0,22.335762,114.26024
+570,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,M,3,,6,D,0,1172,22074000,2018-06-27,,0,0.0,22.335860999999998,114.26123
+571,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,G,A,0,1848,35769000,2018-06-27,,0,0.0,22.33588,114.26113
+572,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,M,4,,5,A,0,1833,38857000,2018-06-27,,0,0.0,22.335860999999998,114.26123
+573,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block E,2016-09-15,,4,,,2,0,2527,62760000,2018-06-26,,0,0.0,22.335939999999997,114.26142
+574,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,L,4,,2,A,0,1837,32355000,2018-06-26,,0,0.0,22.33579,114.260994
+575,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,M,4,,6,A,0,1833,43690000,2018-06-26,,0,0.0,22.335860999999998,114.26123
+576,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,M,4,,3,B,0,1837,32515000,2018-06-26,,0,0.0,22.335762,114.26024
+577,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,M,3,,3,D,0,1172,21283000,2018-06-26,,0,0.0,22.335762,114.26024
+578,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,,4,,G,B,0,1523,36765000,2018-06-26,,0,0.0,22.335642,114.26078
+579,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,,3,,G,C,0,1659,36684000,2018-06-26,,0,0.0,22.335537,114.26089
+580,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 10,2016-09-15,L,4,,1,B,0,1837,32242000,2018-06-26,,0,0.0,22.335860999999998,114.26118
+581,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 21,2016-09-15,L,3,,1,A,0,1159,18254000,2018-06-26,,0,0.0,22.336434999999998,114.261185
+582,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,M,3,,6,C,0,1172,22511000,2018-06-26,,0,0.0,22.335762,114.26024
+583,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,M,4,,5,B,0,1599,35343000,2018-06-26,,0,0.0,22.335642,114.26078
+584,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 22,2016-09-15,,3,,2,A,0,1173,22409000,2018-06-26,,0,0.0,22.335762,114.26024
+585,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 19,2016-09-15,,3,,G,B,0,1077,22217000,2018-06-26,,0,0.0,22.335762,114.26024
+586,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,L,4,,2,B,0,1600,33565000,2018-06-26,,0,0.0,22.335800000000003,114.260925
+587,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,M,4,,3,B,0,1837,31964000,2018-06-26,,0,0.0,22.335762,114.26024
+588,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,,3,,G,C,0,1345,29536000,2018-06-26,,0,0.0,22.33566,114.26091
+589,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,L,4,,1,B,0,1907,34043000,2018-06-25,,0,0.0,22.335860999999998,114.26123
+590,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,,3,,G,C,0,1334,27468000,2018-06-25,,0,0.0,22.335800000000003,114.260925
+591,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,L,4,,2,B,0,1907,33945000,2018-06-25,,0,0.0,22.335860999999998,114.26123
+592,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,M,4,,3,A,0,1833,33361000,2018-06-25,,0,0.0,22.335860999999998,114.26123
+593,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,M,3,,5,D,0,1172,19465000,2018-06-25,,0,0.0,22.335800000000003,114.260925
+594,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,M,4,,3,B,0,1600,35041000,2018-06-25,,0,0.0,22.335800000000003,114.260925
+595,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,L,3,,2,C,0,1127,18348000,2018-06-25,,0,0.0,22.335642,114.26078
+596,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,L,4,,2,A,0,1833,32261000,2018-06-25,,0,0.0,22.335860999999998,114.26123
+597,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,L,3,,2,C,0,1146,23125000,2018-06-25,,0,0.0,22.335800000000003,114.260925
+598,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,M,4,,3,A,0,1833,35022000,2018-06-25,,0,0.0,22.335800000000003,114.260925
+599,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,M,3,,6,D,0,1172,20827000,2018-06-25,,0,0.0,22.335800000000003,114.260925
+600,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,H,4,,7,D,0,1510,31266000,2018-06-25,,0,0.0,22.335860999999998,114.26123
+601,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 17,2016-09-15,L,3,,1,B,0,1216,22444000,2018-06-25,,0,0.0,22.33591,114.26145
+602,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,L,4,,2,B,0,1836,31964000,2018-06-25,,0,0.0,22.335762,114.26024
+603,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 10,2016-09-15,L,4,,2,B,0,1837,32914000,2018-06-25,,0,0.0,22.335860999999998,114.26118
+604,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,M,3,,6,D,0,1172,23173000,2018-06-25,,0,0.0,22.335762,114.26024
+605,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,L,4,,1,B,0,1836,32625000,2018-06-25,,0,0.0,22.335691,114.26073
+606,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 20,2016-09-15,M,3,,3,A,0,1162,18546000,2018-06-25,,0,0.0,22.335812,114.26102
+607,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 20,2016-09-15,,3,,G,B,0,1109,21653000,2018-06-25,,0,0.0,22.335812,114.26102
+608,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 10,2016-09-15,L,4,,2,A,0,1837,31505000,2018-06-22,,0,0.0,22.335860999999998,114.26118
+609,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 19,2016-09-15,L,3,,1,B,0,1162,17679000,2018-06-22,,0,0.0,22.335762,114.26024
+610,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,3,A,0,1066,23220000,2018-06-22,,0,0.0,22.33588,114.26113
+611,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,M,4,,3,A,0,1837,32514000,2018-06-22,,0,0.0,22.335839999999997,114.261154
+612,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 11,2016-09-15,M,4,,3,B,0,1837,35834000,2018-06-22,,0,0.0,22.335780999999997,114.261154
+613,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 18,2016-09-15,M,3,,3,A,0,1161,20798000,2018-06-22,,0,0.0,22.335686,114.26002
+614,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,L,4,,2,B,0,1837,31597000,2018-06-22,,0,0.0,22.33579,114.260994
+615,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,M,4,,3,B,0,1600,30853000,2018-06-22,,0,0.0,22.335642,114.26078
+616,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,L,3,,2,D,0,1183,21468000,2018-06-22,,0,0.0,22.335691,114.26073
+617,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,M,4,,3,B,0,1837,32189800,2018-06-22,,0,0.0,22.335691,114.26073
+618,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,L,3,,2,D,0,1172,19806000,2018-06-22,,0,0.0,22.335762,114.26024
+619,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,H,2,,8,L,0,0,10307000,2018-06-22,,0,0.0,22.37808,114.265785
+620,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,M,3,,3,E,0,968,17387000,2018-06-22,,0,0.0,22.335762,114.26024
+621,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,M,4,,3,A,0,1836,32420000,2018-06-22,,0,0.0,22.33579,114.260994
+622,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Garden,Block 2,1991-12-30,M,3,,7,E,0,570,6750000,2018-06-21,2000-10-27,2180000,209.63,22.3822626,114.271463
+623,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 18,2016-09-15,,3,,G,B,0,1109,24060000,2018-06-21,,0,0.0,22.335686,114.26002
+624,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,L,4,,2,B,0,1715,30510000,2018-06-21,,0,0.0,22.335537,114.26089
+625,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 19,2016-09-15,M,3,,3,A,0,1162,18924000,2018-06-21,,0,0.0,22.335762,114.26024
+626,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,M,4,,6,B,0,1837,33280000,2018-06-21,,0,0.0,22.335762,114.26024
+627,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,M,4,,3,B,0,1837,32607000,2018-06-21,,0,0.0,22.33579,114.260994
+628,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 18,2016-09-15,L,3,,2,A,0,1161,20391000,2018-06-21,,0,0.0,22.335686,114.26002
+629,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 19,2016-09-15,L,3,,2,A,0,1162,18553000,2018-06-21,,0,0.0,22.335762,114.26024
+630,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,M,3,,5,E,0,968,17938000,2018-06-21,,0,0.0,22.335762,114.26024
+631,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 17,2016-09-15,L,3,,2,D,0,1016,17466000,2018-06-21,,0,0.0,22.33591,114.26145
+632,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,2,A,0,1066,17361000,2018-06-21,,0,0.0,22.33588,114.26113
+633,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 11,2016-09-15,L,4,,2,B,0,1837,31955000,2018-06-21,,0,0.0,22.335780999999997,114.261154
+634,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,1,C,0,1097,24770000,2018-06-21,,0,0.0,22.33588,114.26113
+635,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 18,2016-09-15,L,3,,2,B,0,1161,20409000,2018-06-21,,0,0.0,22.335686,114.26002
+636,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,M,3,,5,C,0,1172,20733000,2018-06-21,,0,0.0,22.335762,114.26024
+637,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,M,4,,3,B,0,1837,32514000,2018-06-21,,0,0.0,22.335839999999997,114.261154
+638,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,2,D,0,1152,20637000,2018-06-21,,0,0.0,22.33588,114.26113
+639,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,M,3,,5,D,0,983,16096000,2018-06-21,,0,0.0,22.335642,114.26078
+640,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,L,4,,2,B,0,1837,31505000,2018-06-21,,0,0.0,22.335821,114.261375
+641,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 18,2016-09-15,L,3,,1,B,0,1159,19756000,2018-06-21,,0,0.0,22.335686,114.26002
+642,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Siu Yat Building,Block B,1979-09-27,M,,,8,1,0,407,5500000,2018-06-20,,0,0.0,22.380997,114.27339
+643,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Garden,Block 1,1991-12-30,H,3,,10,C,666,504,6600000,2018-06-20,,0,0.0,22.382434999999997,114.271255
+644,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,M,4,,6,B,0,1714,31731000,2018-06-20,,0,0.0,22.335537,114.26089
+645,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,G,B,0,1754,32648000,2018-06-20,,0,0.0,22.33588,114.26113
+646,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,M,3,,3,E,0,968,16248000,2018-06-20,,0,0.0,22.335800000000003,114.260925
+647,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,L,3,,2,D,0,1172,19081000,2018-06-20,,0,0.0,22.335860999999998,114.26123
+648,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,M,4,,5,B,0,1907,39072000,2018-06-20,,0,0.0,22.335860999999998,114.26123
+649,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,H,4,,7,D,0,1577,36789000,2018-06-20,,0,0.0,22.335762,114.26024
+650,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,L,3,,2,D,0,1173,21528000,2018-06-20,,0,0.0,22.335762,114.26024
+651,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,L,3,,2,E,0,968,17841000,2018-06-20,,0,0.0,22.335762,114.26024
+652,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,M,4,,6,A,0,1907,36614400,2018-06-20,,0,0.0,22.335762,114.26024
+653,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,L,4,,2,A,0,1836,31955000,2018-06-20,,0,0.0,22.335839999999997,114.261154
+654,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,M,4,,5,A,0,1907,35661000,2018-06-20,,0,0.0,22.335762,114.26024
+655,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,M,3,,3,C,0,1172,20675000,2018-06-20,,0,0.0,22.335762,114.26024
+656,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,L,4,,2,B,0,1600,28808000,2018-06-20,,0,0.0,22.335642,114.26078
+657,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 21,2016-09-15,M,3,,3,B,0,1162,17928000,2018-06-20,,0,0.0,22.336434999999998,114.261185
+658,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 20,2016-09-15,L,3,,1,A,0,1161,17555000,2018-06-20,,0,0.0,22.335812,114.26102
+659,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 21,2016-09-15,M,3,,3,A,0,1161,17928000,2018-06-20,,0,0.0,22.336434999999998,114.261185
+660,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,,1,,G,G,0,0,8856300,2018-06-20,,0,0.0,22.37808,114.265785
+661,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 19,2016-09-15,M,3,,3,B,0,1162,18924000,2018-06-20,,0,0.0,22.335762,114.26024
+662,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,M,4,,3,A,0,1907,34899000,2018-06-20,,0,0.0,22.335762,114.26024
+663,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,M,4,,6,B,0,1907,42183000,2018-06-20,,0,0.0,22.335860999999998,114.26123
+664,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,G,F,0,1010,20757000,2018-06-20,,0,0.0,22.33588,114.26113
+665,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,M,3,,3,C,0,1146,18579000,2018-06-20,,0,0.0,22.335800000000003,114.260925
+666,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,M,3,,3,E,0,968,16901000,2018-06-20,,0,0.0,22.335860999999998,114.26123
+667,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 17,2016-09-15,H,3,,6,C,0,906,18444000,2018-06-20,,0,0.0,22.33591,114.26145
+668,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,M,3,,6,E,0,968,20270000,2018-06-20,,0,0.0,22.335762,114.26024
+669,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,M,3,,3,D,0,1172,20275000,2018-06-20,,0,0.0,22.335762,114.26024
+670,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,H,3,,7,D,0,983,22118000,2018-06-20,,0,0.0,22.335642,114.26078
+671,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,M,3,,5,E,0,968,17200000,2018-06-20,,0,0.0,22.335762,114.26024
+672,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,M,3,,3,D,0,1172,19272000,2018-06-20,,0,0.0,22.335800000000003,114.260925
+673,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,2,B,0,1066,17133000,2018-06-20,,0,0.0,22.33588,114.26113
+674,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,L,4,,1,A,0,1907,34236000,2018-06-20,,0,0.0,22.335762,114.26024
+675,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,M,3,,3,E,0,968,17889000,2018-06-20,,0,0.0,22.335762,114.26024
+676,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block C,2016-09-15,,4,,PH,5,0,2211,58251000,2018-06-20,,0,0.0,22.336336,114.26121
+677,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 18,2016-09-15,M,3,,5,B,0,1162,21233000,2018-06-20,,0,0.0,22.335686,114.26002
+678,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,M,3,,5,E,0,968,17330000,2018-06-19,,0,0.0,22.335860999999998,114.26123
+679,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,L,4,,2,A,0,1907,34326000,2018-06-19,,0,0.0,22.335762,114.26024
+680,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,L,3,,1,D,0,1132,19687000,2018-06-19,,0,0.0,22.335800000000003,114.260925
+681,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,L,3,,2,E,0,968,16087000,2018-06-19,,0,0.0,22.335800000000003,114.260925
+682,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 21,2016-09-15,L,3,,2,B,0,1162,17555000,2018-06-19,,0,0.0,22.336434999999998,114.261185
+683,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 19,2016-09-15,M,3,,5,B,0,1162,19303000,2018-06-19,,0,0.0,22.335762,114.26024
+684,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,H,4,,7,C,0,1537,31408000,2018-06-19,,0,0.0,22.335800000000003,114.260925
+685,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,L,3,,1,E,0,894,16230000,2018-06-19,,0,0.0,22.335800000000003,114.260925
+686,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,M,3,,6,C,0,1146,20078000,2018-06-19,,0,0.0,22.335800000000003,114.260925
+687,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,M,3,,3,E,0,968,16801000,2018-06-19,,0,0.0,22.335537,114.26089
+688,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 11,2016-09-15,L,4,,2,A,0,1837,31505000,2018-06-19,,0,0.0,22.335780999999997,114.261154
+689,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,L,4,,2,B,0,1837,32327000,2018-06-19,,0,0.0,22.335691,114.26073
+690,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,M,3,,5,D,0,1172,21342000,2018-06-19,,0,0.0,22.335762,114.26024
+691,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block F,2016-09-15,,4,,,,0,2296,58036000,2018-06-19,,0,0.0,22.336257999999997,114.2611
+692,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,M,4,,5,B,0,1837,33434000,2018-06-19,,0,0.0,22.335762,114.26024
+693,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 21,2016-09-15,,3,,G,B,0,1077,20194000,2018-06-19,,0,0.0,22.336434999999998,114.261185
+694,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 20,2016-09-15,M,3,,5,B,0,1162,18668000,2018-06-19,,0,0.0,22.335812,114.26102
+695,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,M,4,,5,B,0,1836,33066000,2018-06-19,,0,0.0,22.335821,114.261375
+696,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,M,4,,6,B,0,1837,34536000,2018-06-19,,0,0.0,22.335762,114.26024
+697,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block C,2016-09-15,,4,,PH,,0,2236,58251000,2018-06-19,,0,0.0,22.336336,114.26121
+698,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 11,2016-09-15,M,4,,3,A,0,1836,32514000,2018-06-19,,0,0.0,22.335780999999997,114.261154
+699,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 5,1998-07-13,L,3,,2,F,1180,1031,14236200,2018-06-19,,0,0.0,22.4308695,114.2496325
+700,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 20,2016-09-15,M,3,,5,A,0,1162,18668000,2018-06-19,,0,0.0,22.335812,114.26102
+701,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,L,3,,1,C,0,1107,18948000,2018-06-19,,0,0.0,22.335800000000003,114.260925
+702,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,M,3,,6,E,0,968,17673000,2018-06-19,,0,0.0,22.335800000000003,114.260925
+703,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,L,3,,2,C,0,1173,20528000,2018-06-19,,0,0.0,22.335860999999998,114.26123
+704,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,L,3,,2,D,0,983,15779000,2018-06-19,,0,0.0,22.335642,114.26078
+705,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 17,2016-09-15,,3,,G,C,0,890,17394000,2018-06-19,,0,0.0,22.33591,114.26145
+706,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,L,3,,1,C,0,1132,20731000,2018-06-19,,0,0.0,22.335762,114.26024
+707,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,M,3,,5,C,0,1127,18717000,2018-06-19,,0,0.0,22.335642,114.26078
+708,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 21,2016-09-15,L,3,,1,B,0,1162,17662000,2018-06-19,,0,0.0,22.336434999999998,114.261185
+709,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,L,3,,2,D,0,1172,19081000,2018-06-19,,0,0.0,22.335800000000003,114.260925
+710,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,M,3,,5,C,0,1146,19033000,2018-06-19,,0,0.0,22.335800000000003,114.260925
+711,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,M,3,,5,E,0,968,16572000,2018-06-19,,0,0.0,22.335800000000003,114.260925
+712,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,M,3,,6,E,0,968,17673000,2018-06-19,,0,0.0,22.335860999999998,114.26123
+713,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 18,2016-09-15,H,3,,6,B,0,1161,22772000,2018-06-19,,0,0.0,22.335686,114.26002
+714,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Floral Villas,Apartment 16,1995-01-09,,,,,,0,910,17000000,2018-06-18,2007-11-12,7250000,134.48,22.392605,114.29301
+715,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 19,2016-09-15,H,3,,6,A,0,1161,21634000,2018-06-15,,0,0.0,22.335762,114.26024
+716,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,L,3,,1,D,0,941,15749000,2018-06-15,,0,0.0,22.335642,114.26078
+717,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 18,2016-09-15,M,3,,3,B,0,1161,20543000,2018-06-15,,0,0.0,22.335686,114.26002
+718,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,H,4,,7,C,0,1537,31393000,2018-06-15,,0,0.0,22.335762,114.26024
+719,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,L,3,,2,C,0,1157,19930000,2018-06-15,,0,0.0,22.335691,114.26073
+720,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 19,2016-09-15,,3,,G,A,0,1109,22556000,2018-06-15,,0,0.0,22.335762,114.26024
+721,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,M,4,,3,A,0,1837,32189000,2018-06-15,,0,0.0,22.335691,114.26073
+722,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,M,3,,6,D,0,1172,20568000,2018-06-15,,0,0.0,22.335762,114.26024
+723,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,,3,,G,C,0,1182,26496000,2018-06-15,,0,0.0,22.335642,114.26078
+724,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,L,3,,2,D,0,1172,21000000,2018-06-15,,0,0.0,22.33579,114.260994
+725,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 17,2016-09-15,,3,,G,D,0,1004,18531000,2018-06-15,,0,0.0,22.33591,114.26145
+726,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,M,3,,3,D,0,1183,19441000,2018-06-15,,0,0.0,22.335537,114.26089
+727,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,M,4,,5,B,0,1714,32566000,2018-06-15,,0,0.0,22.335537,114.26089
+728,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,M,4,,5,B,0,1836,35193000,2018-06-15,,0,0.0,22.33579,114.260994
+729,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 21,2016-09-15,M,3,,5,B,0,1161,18287000,2018-06-15,,0,0.0,22.336434999999998,114.261185
+730,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,L,3,,2,D,0,1183,19249000,2018-06-15,,0,0.0,22.335537,114.26089
+731,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 18,2016-09-15,,3,,G,D,0,892,17917000,2018-06-15,,0,0.0,22.335686,114.26002
+732,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,L,3,,2,E,0,968,17299000,2018-06-15,,0,0.0,22.335762,114.26024
+733,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,H,4,,7,D,0,1509,31122000,2018-06-15,,0,0.0,22.335762,114.26024
+734,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,M,4,,5,A,0,1837,33060000,2018-06-15,,0,0.0,22.335762,114.26024
+735,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,L,4,,1,B,0,1600,27282000,2018-06-15,,0,0.0,22.335642,114.26078
+736,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,M,4,,3,A,0,1837,32148000,2018-06-15,,0,0.0,22.335762,114.26024
+737,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,H,2,,8,G,0,0,9930600,2018-06-15,,0,0.0,22.377913,114.2655
+738,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,L,3,,1,E,0,894,16807000,2018-06-15,,0,0.0,22.335762,114.26024
+739,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,L,3,,2,C,0,1146,19514000,2018-06-15,,0,0.0,22.335762,114.26024
+740,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,L,3,,2,C,0,1172,20616000,2018-06-15,,0,0.0,22.335762,114.26024
+741,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,3,B,0,1066,21990000,2018-06-15,,0,0.0,22.33588,114.26113
+742,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,L,3,,1,D,0,1133,19687000,2018-06-14,,0,0.0,22.335860999999998,114.26123
+743,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 20,2016-09-15,L,3,,2,A,0,1161,18182000,2018-06-14,,0,0.0,22.335812,114.26102
+744,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,M,3,,3,D,0,1183,20876000,2018-06-14,,0,0.0,22.335691,114.26073
+745,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,PH,3,0,2619,73948000,2018-06-14,,0,0.0,22.335483999999997,114.26091
+746,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,1,D,0,1097,20687000,2018-06-14,,0,0.0,22.33588,114.26113
+747,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 2,2016-09-15,H,4,,7,D,0,1482,30826000,2018-06-14,,0,0.0,22.335800000000003,114.260925
+748,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,3,C,0,1152,24686000,2018-06-14,,0,0.0,22.33588,114.26113
+749,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,M,4,,3,A,0,1837,32189000,2018-06-14,,0,0.0,22.335537,114.26089
+750,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 21,2016-09-15,,3,,G,A,0,1108,21052000,2018-06-14,,0,0.0,22.336434999999998,114.261185
+751,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,M,3,,3,C,0,1146,19596000,2018-06-14,,0,0.0,22.335762,114.26024
+752,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 19,2016-09-15,L,3,,1,A,0,1159,17869000,2018-06-14,,0,0.0,22.335762,114.26024
+753,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 18,2016-09-15,,3,,G,C,0,893,18227000,2018-06-13,,0,0.0,22.335686,114.26002
+754,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 18,2016-09-15,H,3,,6,A,0,1161,22753000,2018-06-13,,0,0.0,22.335686,114.26002
+755,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,M,3,,3,C,0,1127,18532000,2018-06-13,,0,0.0,22.335642,114.26078
+756,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,M,4,,5,A,0,1836,34536000,2018-06-13,,0,0.0,22.33579,114.260994
+757,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,M,3,,6,D,0,983,17223000,2018-06-13,,0,0.0,22.335642,114.26078
+758,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,M,4,,6,B,0,1837,33617000,2018-06-13,,0,0.0,22.33579,114.260994
+759,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 21,2016-09-15,M,3,,5,A,0,1162,18287000,2018-06-13,,0,0.0,22.336434999999998,114.261185
+760,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 20,2016-09-15,,3,,G,A,0,1077,21048000,2018-06-13,,0,0.0,22.335812,114.26102
+761,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Garden,Block 1,1991-12-30,H,2,,11,G,586,439,5610000,2018-06-12,1997-07-23,2350000,138.72,22.382434999999997,114.271255
+762,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,L,4,,2,A,0,1837,31955000,2018-06-12,,0,0.0,22.335821,114.261375
+763,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,M,4,,6,A,0,1837,33433400,2018-06-12,,0,0.0,22.335762,114.26024
+764,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,L,3,,1,E,0,894,16986000,2018-06-12,,0,0.0,22.335762,114.26024
+765,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,M,3,,3,D,0,983,16165000,2018-06-12,,0,0.0,22.335642,114.26078
+766,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,2,C,0,1152,20637000,2018-06-12,,0,0.0,22.33588,114.26113
+767,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 20,2016-09-15,H,3,,6,B,0,1161,20543000,2018-06-12,,0,0.0,22.335812,114.26102
+768,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,1,A,0,978,17465000,2018-06-12,,0,0.0,22.33588,114.26113
+769,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,M,4,,3,B,0,1836,32056000,2018-06-12,,0,0.0,22.335821,114.261375
+770,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,M,3,,6,C,0,1127,19746000,2018-06-12,,0,0.0,22.335642,114.26078
+771,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 19,2016-09-15,,3,,G,D,0,892,18230000,2018-06-12,,0,0.0,22.335762,114.26024
+772,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 11,2016-09-15,M,4,,5,B,0,1837,33066000,2018-06-12,,0,0.0,22.335780999999997,114.261154
+773,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 20,2016-09-15,H,3,,6,A,0,1161,20543000,2018-06-12,,0,0.0,22.335812,114.26102
+774,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,L,3,,1,C,0,1096,19728000,2018-06-11,,0,0.0,22.335860999999998,114.26123
+775,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,M,3,,3,C,0,1157,20129000,2018-06-11,,0,0.0,22.335691,114.26073
+776,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 17,2016-09-15,L,3,,1,A,0,1301,23697000,2018-06-11,,0,0.0,22.33591,114.26145
+777,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,M,3,,6,E,0,968,17230000,2018-06-11,,0,0.0,22.33579,114.260994
+778,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,M,3,,5,D,0,1172,19191000,2018-06-11,,0,0.0,22.335860999999998,114.26123
+779,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,M,3,,5,C,0,1146,19740000,2018-06-11,,0,0.0,22.335762,114.26024
+780,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 19,2016-09-15,H,3,,6,B,0,1161,21634000,2018-06-11,,0,0.0,22.335762,114.26024
+781,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 20,2016-09-15,L,3,,1,B,0,1159,17743000,2018-06-11,,0,0.0,22.335812,114.26102
+782,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,L,3,,1,D,0,1133,19997000,2018-06-11,,0,0.0,22.335762,114.26024
+783,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 5,2016-09-15,L,3,,1,D,0,1096,19530720,2018-06-11,,0,0.0,22.335762,114.26024
+784,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 21,2016-09-15,H,3,,6,B,0,1161,19933000,2018-06-11,,0,0.0,22.336434999999998,114.261185
+785,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,G,E,0,1010,20757000,2018-06-11,,0,0.0,22.33588,114.26113
+786,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,M,3,,6,C,0,1157,19571000,2018-06-08,,0,0.0,22.335691,114.26073
+787,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,M,3,,3,C,0,1157,19598000,2018-06-08,,0,0.0,22.33566,114.26091
+788,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,L,3,,1,C,0,1107,19398000,2018-06-08,,0,0.0,22.335762,114.26024
+789,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,M,4,,5,A,0,1837,32498000,2018-06-08,,0,0.0,22.335821,114.261375
+790,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 1,2016-09-15,L,3,,1,C,0,1087,18192000,2018-06-08,,0,0.0,22.335642,114.26078
+791,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 10,2016-09-15,M,4,,3,A,0,1837,32331000,2018-06-08,,0,0.0,22.335860999999998,114.26118
+792,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 20,2016-09-15,M,3,,3,B,0,1162,18302000,2018-06-08,,0,0.0,22.335812,114.26102
+793,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 25,2016-09-15,,3,,1,B,0,978,17700000,2018-06-07,,0,0.0,22.33588,114.26113
+794,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,L,3,,2,E,0,968,16635000,2018-06-07,,0,0.0,22.335537,114.26089
+795,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,L,3,,1,E,0,894,17012000,2018-06-07,,0,0.0,22.335537,114.26089
+796,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,L,3,,2,D,0,1184,19578000,2018-06-07,,0,0.0,22.33566,114.26091
+797,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 18,2016-09-15,H,3,,6,D,0,906,19279000,2018-06-07,,0,0.0,22.335686,114.26002
+798,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 10,2016-09-15,M,4,,5,B,0,1837,32698000,2018-06-07,,0,0.0,22.335860999999998,114.26118
+799,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,H,1,,7,H,0,586,9082400,2018-06-07,,0,0.0,22.37808,114.265785
+800,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,M,3,,6,C,0,1146,19960000,2018-06-06,,0,0.0,22.335762,114.26024
+801,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,M,4,,6,A,0,1837,33157000,2018-06-06,,0,0.0,22.33579,114.260994
+802,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,M,4,,5,A,0,1837,32735000,2018-06-06,,0,0.0,22.335537,114.26089
+803,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,H,4,,7,B,0,1714,40669000,2018-06-06,,0,0.0,22.335537,114.26089
+804,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Block D,2016-09-15,,4,,,G6,0,2201,50880000,2018-06-06,,0,0.0,22.335483999999997,114.26091
+805,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,M,3,,3,D,0,1184,19773000,2018-06-05,,0,0.0,22.33566,114.26091
+806,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Siu Yat Building,Block B,1979-09-27,M,,,8,4,0,352,4500000,2018-06-04,2010-04-15,1780000,152.81,22.380997,114.27339
+807,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 11,2016-09-15,M,4,,6,A,0,1837,33099000,2018-06-04,,0,0.0,22.335780999999997,114.261154
+808,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 7,1998-07-13,H,3,,7,B,1180,1031,11600000,2018-06-04,1998-01-21,9921400,16.92,22.4312735,114.2507174
+809,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,M,3,,6,C,0,1146,19883000,2018-06-04,,0,0.0,22.33579,114.260994
+810,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,M,3,,5,D,0,1172,20099000,2018-06-04,,0,0.0,22.335762,114.26024
+811,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Hebe Villa,House A4,1991-05-05,,,,,,0,1870,28280000,2018-06-03,2010-03-30,21300000,32.77,22.37382,114.26293
+812,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 12,1998-12-07,L,3,,3,B,1671,1326,17000000,2018-06-01,1998-08-11,7200000,136.11,22.429240999999998,114.25245
+813,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,L,3,,2,E,0,968,16843000,2018-06-01,,0,0.0,22.33579,114.260994
+814,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,L,3,,2,C,0,1157,19404000,2018-06-01,,0,0.0,22.33566,114.26091
+815,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,H,4,,7,B,0,1837,40590000,2018-06-01,,0,0.0,22.335762,114.26024
+816,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Dragon Lake Villa,House 12,1986-07-13,,,,,,0,2699,68000000,2018-05-31,,0,0.0,22.327147999999998,114.26839
+817,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 6,2016-09-15,H,4,,7,A,0,1841,41500000,2018-05-30,,0,0.0,22.335762,114.26024
+818,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,M,3,,3,E,0,968,16746400,2018-05-29,,0,0.0,22.33579,114.260994
+819,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,H,2,,7,B,0,592,9071700,2018-05-29,,0,0.0,22.37808,114.265785
+820,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,M,3,,3,D,0,1172,19806800,2018-05-29,,0,0.0,22.33579,114.260994
+821,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,L,3,,2,C,0,1436,24084000,2018-05-29,,0,0.0,22.335537,114.26089
+822,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,L,3,,1,D,0,1144,20075000,2018-05-28,,0,0.0,22.335537,114.26089
+823,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Pine Villas,House J,1972-12-28,,,,,,0,2140,29680000,2018-05-27,,0,0.0,22.326639999999998,114.26565
+824,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,L,2,,2,N,0,0,9665400,2018-05-25,,0,0.0,22.37808,114.265785
+825,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,M,3,,6,E,0,968,17478000,2018-05-25,,0,0.0,22.335537,114.26089
+826,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,M,3,,5,D,0,1172,20041000,2018-05-24,,0,0.0,22.33579,114.260994
+827,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,M,3,,3,C,0,1146,19779000,2018-05-24,,0,0.0,22.33579,114.260994
+828,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Balmoral Garden,Block 3,1992-03-08,,,,2,A,0,1057,16600000,2018-05-23,,0,0.0,22.33869,114.24855
+829,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Aegean Villa,House 10,1995-03-12,,,,,,0,1770,23800000,2018-05-23,2008-01-08,16980000,40.160000000000004,,
+830,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,M,3,,5,D,0,1183,19428000,2018-05-23,,0,0.0,22.335691,114.26073
+831,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,M,2,,5,L,0,0,8578700,2018-05-23,,0,0.0,22.37808,114.265785
+832,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,H,4,,7,C,0,1537,31094000,2018-05-23,,0,0.0,22.33579,114.260994
+833,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,M,3,,5,C,0,1157,19001000,2018-05-23,,0,0.0,22.335691,114.26073
+834,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 10,2016-09-15,M,4,,3,B,0,1837,32007888,2018-05-23,,0,0.0,22.335860999999998,114.26118
+835,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,M,3,,6,D,0,1172,20627000,2018-05-23,,0,0.0,22.33579,114.260994
+836,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,M,3,,5,E,0,968,16969000,2018-05-23,,0,0.0,22.335537,114.26089
+837,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,L,3,,2,A,0,0,12326500,2018-05-21,,0,0.0,22.378439,114.26602
+838,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 6,1997-06-17,H,,,12,G,0,432,5150000,2018-05-17,1997-05-29,1148000,348.61,22.379208,114.26881
+839,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 6,1997-06-17,M,,,6,C,0,448,5235000,2018-05-17,2011-08-30,2650000,97.55,22.379208,114.26881
+840,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 9,1997-06-17,H,,,9,F,0,432,5400000,2018-05-16,2015-01-20,4300000,25.580000000000002,22.378632,114.26945
+841,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 8,1997-06-17,M,,,4,D,0,570,6000000,2018-05-16,2004-11-16,1680000,257.14,22.378906,114.2693
+842,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 17,2016-09-15,H,3,,6,D,0,1016,23053000,2018-05-16,,0,0.0,22.33591,114.26145
+843,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,L,2,,1,F,0,668,9926800,2018-05-16,,0,0.0,22.378439,114.26602
+844,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,M,3,,5,D,0,1183,19635000,2018-05-16,,0,0.0,22.335537,114.26089
+845,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 6,1998-07-13,H,3,,8,D,1317,1151,14830000,2018-05-16,1998-03-27,8549500,73.46000000000001,22.43121,114.25033
+846,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House E23,1988-01-14,,,,,,0,1371,32000001,2018-05-15,2009-04-16,13980000,128.9,22.358961,114.25346
+847,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House G16,1989-01-08,,,,,,0,1301,23998000,2018-05-15,,0,0.0,22.359312,114.25625
+848,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Greenview Garden,Block 4,1992-03-08,,3,,2,A,1045,846,12280000,2018-05-15,,0,0.0,22.337744,114.248924
+849,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,H,4,,7,D,0,1482,35393000,2018-05-15,,0,0.0,22.335821,114.261375
+850,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 11,2016-09-15,M,4,,6,B,0,1837,33066000,2018-05-15,,0,0.0,22.335780999999997,114.261154
+851,New Territories,Sai Kung,Sai Kung / Clear Water Bay,11-13 Man Nin Street,11-13 Man Nin Street,1974-12-31,,,,4,,0,691,4700000,2018-05-14,,0,0.0,,
+852,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,L,3,,2,D,0,1172,20498000,2018-05-14,,0,0.0,22.335821,114.261375
+853,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,H,2,,7,P,0,0,8335500,2018-05-14,,0,0.0,22.377913,114.2655
+854,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,L,3,,2,C,0,1147,19313000,2018-05-14,,0,0.0,22.335821,114.261375
+855,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,L,3,,2,C,0,1146,19561060,2018-05-14,,0,0.0,22.33579,114.260994
+856,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Building,Block A,1984-11-14,M,,,7,6,0,479,6100000,2018-05-10,2012-11-19,1500000,306.67,22.382431,114.27258
+857,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Berkeley Bay Villa,House 7,1978-07-14,,,,,,0,1332,26700000,2018-05-10,2007-01-25,10400000,156.73,22.35447,114.251571
+858,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House A6,1988-11-22,,,,,,0,1356,25800000,2018-05-10,2014-07-25,24100000,7.05,22.356085,114.25318
+859,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Fullway Garden,Block A11,1983-06-23,,,,,,0,1449,26500000,2018-05-10,2005-10-04,11000000,140.91,22.326538,114.269035
+860,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,M,3,,5,D,0,1184,20416000,2018-05-10,,0,0.0,22.33566,114.26091
+861,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 7,1998-07-13,L,3,,1,C,1180,1031,12000000,2018-05-10,2011-06-28,6700000,79.10000000000001,22.4312735,114.2507174
+862,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 3,1998-12-07,L,,,2,B,1612,1327,15730000,2018-05-10,1998-03-11,8040600,95.63,22.4286196,114.2509281
+863,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,M,3,,5,C,0,1146,19400000,2018-05-09,,0,0.0,22.33579,114.260994
+864,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 11,2016-09-15,L,3,,1,C,0,1119,19471000,2018-05-08,,0,0.0,22.335780999999997,114.261154
+865,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,L,3,,2,E,0,968,19680000,2018-05-08,,0,0.0,22.335860999999998,114.26123
+866,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,M,1,,6,H,0,0,8818100,2018-05-08,,0,0.0,22.37808,114.265785
+867,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,M,1,,5,H,0,0,8989300,2018-05-08,,0,0.0,22.37808,114.265785
+868,New Territories,Sai Kung,Sai Kung / Clear Water Bay,King Wah Building,King Wah Building,1978-09-27,,,,2,B,0,349,5350000,2018-05-07,,0,0.0,22.381733,114.273285
+869,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,H,1,,8,E,0,433,7990400,2018-05-07,,0,0.0,22.37808,114.265785
+870,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,H,4,,7,A,0,1841,43500000,2018-05-04,,0,0.0,22.335537,114.26089
+871,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,M,3,,5,E,0,968,16686000,2018-05-03,,0,0.0,22.33579,114.260994
+872,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 5,2017-10-20,H,,,7,G,0,566,10388800,2018-04-30,,0,0.0,22.38562,114.27251
+873,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,M,2,,5,B,0,0,8548400,2018-04-30,,0,0.0,22.37808,114.265785
+874,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,H,2,,7,C,0,0,9453400,2018-04-30,,0,0.0,22.377913,114.2655
+875,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 5,1998-07-13,L,3,,2,D,1317,1151,14000000,2018-04-27,,0,0.0,22.4308695,114.2496325
+876,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 17,2016-09-15,M,3,,3,D,0,1016,17554000,2018-04-26,,0,0.0,22.33591,114.26145
+877,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,M,3,,3,D,0,1172,19514000,2018-04-26,,0,0.0,22.335821,114.261375
+878,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,L,3,,2,D,0,1173,19593000,2018-04-26,,0,0.0,22.335839999999997,114.261154
+879,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 5,1997-06-17,H,,,8,C,0,448,5000000,2018-04-25,2015-04-12,4280000,16.82,22.379718999999998,114.26900499999999
+880,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Costa Bello,Block 2,2003-03-26,,3,,3,,1283,837,16000000,2018-04-25,,0,0.0,22.377578999999997,114.27376
+881,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,,2,,G,D,0,0,10681700,2018-04-25,,0,0.0,22.378439,114.26602
+882,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,,2,,G,N,0,0,11242400,2018-04-25,,0,0.0,22.37808,114.265785
+883,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 9,1998-12-07,L,3,,2,B,1671,1326,14850000,2018-04-25,,0,0.0,22.4311839,114.2516275
+884,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Berkeley Bay Villa,House 12,1978-07-14,,,,,,0,1332,26000000,2018-04-24,2008-07-30,14600000,78.08,22.35447,114.251571
+885,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,L,3,,2,C,0,1157,19326000,2018-04-24,,0,0.0,22.335839999999997,114.261154
+886,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,H,4,,7,A,0,1841,40580000,2018-04-24,,0,0.0,22.33579,114.260994
+887,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 6,1998-07-13,L,3,,2,H,1264,1104,12160000,2018-04-23,1999-03-08,6131200,98.33,22.43121,114.25033
+888,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,M,2,,5,D,0,0,8849200,2018-04-23,,0,0.0,22.378439,114.26602
+889,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 3,1998-12-07,H,,,12,B,1612,1327,16500000,2018-04-23,1998-03-07,9544900,72.87,22.4286196,114.2509281
+890,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,H,4,,7,B,0,1837,41000000,2018-04-20,,0,0.0,22.33579,114.260994
+891,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,M,3,,6,D,0,1183,19940000,2018-04-20,,0,0.0,22.335537,114.26089
+892,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,M,4,,6,A,0,1837,33100000,2018-04-20,,0,0.0,22.335821,114.261375
+893,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,M,3,,3,C,0,1157,19519000,2018-04-19,,0,0.0,22.335839999999997,114.261154
+894,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,H,3,,7,A,0,827,12353200,2018-04-19,,0,0.0,22.37808,114.265785
+895,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,H,1,,8,D,0,0,7985900,2018-04-19,,0,0.0,22.37808,114.265785
+896,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,L,3,,1,A,0,827,11410400,2018-04-17,,0,0.0,22.37808,114.265785
+897,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 21,2016-09-15,H,3,,6,A,0,1161,19671000,2018-04-17,,0,0.0,22.336434999999998,114.261185
+898,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,,4,,G,B,0,1730,41174000,2018-04-17,,0,0.0,22.335691,114.26073
+899,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,H,2,,7,D,0,0,8778700,2018-04-16,,0,0.0,22.377913,114.2655
+900,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 9,1998-07-13,M,3,,6,E,1286,1123,12800000,2018-04-16,1998-12-11,5553100,130.5,22.4311839,114.2516275
+901,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,L,3,,2,E,0,968,16735000,2018-04-16,,0,0.0,22.335691,114.26073
+902,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,M,3,,5,G,0,851,13154200,2018-04-16,,0,0.0,22.378439,114.26602
+903,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Villa Chrysanthemum,House E,1979-07-24,,,,,,0,1498,32500000,2018-04-15,,0,0.0,22.365551,114.25965
+904,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 5,2017-10-20,H,,,8,F,0,566,10647900,2018-04-13,,0,0.0,22.38562,114.27251
+905,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 5,1997-06-17,H,,,8,H,0,436,5380000,2018-04-12,2012-04-16,2850000,88.77,22.379718999999998,114.26900499999999
+906,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Town Centre,Block A,1987-01-22,H,2,,11,B,801,584,6480000,2018-04-12,2009-06-18,2438000,165.79,22.383003,114.271935
+907,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,M,2,,5,M,0,701,11450900,2018-04-12,,0,0.0,22.386419999999998,114.271996
+908,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,,1,,G,K,0,0,8181700,2018-04-11,,0,0.0,22.378439,114.26602
+909,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,H,1,,8,H,0,0,10043600,2018-04-06,,0,0.0,22.37808,114.265785
+910,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 5,2017-10-20,H,,,7,K,0,538,9188800,2018-04-04,,0,0.0,22.38562,114.27251
+911,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,L,3,,2,A,0,827,11383100,2018-04-04,,0,0.0,22.37808,114.265785
+912,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,H,2,,8,N,0,0,12502000,2018-04-04,,0,0.0,22.37808,114.265785
+913,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 1,1998-12-07,M,3,,6,A,1367,1086,12230000,2018-03-29,2007-12-31,6150000,98.86,22.4284206,114.2505446
+914,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Fung Sau Villa,House C,1981-10-18,,,,,,0,1919,22500000,2018-03-28,,0,0.0,22.389881,114.29373
+915,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Rise Park Villas,Block 10,1979-05-20,,,,G,,0,1524,15000000,2018-03-27,,0,0.0,22.33609,114.249146
+916,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 10,1998-07-13,L,3,,2,C,1180,1031,13180000,2018-03-26,2000-03-15,5200000,153.46,22.431237,114.2521276
+917,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,L,2,,2,D,0,586,8783300,2018-03-26,,0,0.0,22.378439,114.26602
+918,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 3,2017-10-20,H,,,7,B,0,1217,30668000,2018-03-26,,0,0.0,22.385783999999997,114.272865
+919,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,H,4,,7,B,0,1837,41800000,2018-03-23,,0,0.0,22.335839999999997,114.261154
+920,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,L,2,,3,D,0,0,8914300,2018-03-23,,0,0.0,22.378439,114.26602
+921,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,,2,,G,L,0,704,11846300,2018-03-23,,0,0.0,22.378439,114.26602
+922,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Villa Royale,Block 37,2003-10-02,,3,2,,,1800,1234,14500000,2018-03-22,,0,0.0,22.352434,114.24945
+923,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 3,1998-07-13,L,3,,1,G,1180,1031,11450000,2018-03-22,2013-12-20,8250000,38.79,22.4306366,114.2492954
+924,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,M,2,,5,H,0,0,8948000,2018-03-22,,0,0.0,22.378439,114.26602
+925,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,L,2,,2,J,0,0,8607600,2018-03-22,,0,0.0,22.378439,114.26602
+926,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,M,3,,3,C,0,1147,19176800,2018-03-21,,0,0.0,22.335821,114.261375
+927,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,M,4,,5,A,0,1837,32607000,2018-03-20,,0,0.0,22.335691,114.26073
+928,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,M,3,,3,D,0,1173,19789000,2018-03-19,,0,0.0,22.335839999999997,114.261154
+929,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,H,4,,7,C,0,1537,31428800,2018-03-16,,0,0.0,22.335821,114.261375
+930,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,M,2,,5,J,0,0,8736200,2018-03-16,,0,0.0,22.378439,114.26602
+931,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,L,3,,1,C,0,1391,23926000,2018-03-15,,0,0.0,22.335537,114.26089
+932,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,M,4,,6,A,0,1837,33100000,2018-03-14,,0,0.0,22.335839999999997,114.261154
+933,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,M,3,,6,D,0,1183,20347600,2018-03-13,,0,0.0,22.335691,114.26073
+934,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,H,2,,7,L,0,695,12156300,2018-03-12,,0,0.0,22.386419999999998,114.271996
+935,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Hillview Court,Block 6,1999-01-14,,3,,5,D,1151,1022,14800000,2018-03-11,,0,0.0,22.336702,114.23976
+936,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 1,1998-07-13,M,3,,3,E,1286,1123,12850000,2018-03-09,2004-11-20,5570000,130.7,22.430007,114.2486784
+937,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Las Pinadas,House D7,1981-04-29,,,,,,0,1822,23000000,2018-03-09,2010-03-01,15500000,48.39,22.344606,114.253892
+938,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,H,4,,7,D,0,1482,30825600,2018-03-09,,0,0.0,22.33579,114.260994
+939,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,L,3,,1,D,0,1133,19805000,2018-03-08,,0,0.0,22.33579,114.260994
+940,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,H,4,,7,D,0,1493,31055000,2018-03-05,,0,0.0,22.335537,114.26089
+941,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,M,3,,3,E,0,968,16902000,2018-03-02,,0,0.0,22.335691,114.26073
+942,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,H,4,,7,D,0,1494,30700000,2018-03-01,,0,0.0,22.33566,114.26091
+943,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 6,1998-07-13,M,3,,5,G,1180,1031,13080000,2018-02-26,1998-01-15,8387400,55.95,22.43121,114.25033
+944,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Ko Shing Building,Ko Shing Building,1980-07-29,,,,5,C1,0,340,3900000,2018-02-25,2010-11-01,1490000,161.74,22.381919999999997,114.27303
+945,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 6,1997-06-17,H,,,10,D,0,570,4150000,2018-02-22,1997-03-05,1516000,173.75,22.379208,114.26881
+946,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Kam Wah Building,Kam Wah Building,1977-11-15,L,,,2,E,0,560,4870000,2018-02-22,2008-02-12,1500000,224.67000000000002,22.38216,114.27181
+947,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,M,3,,5,C,0,1147,19430000,2018-02-22,,0,0.0,22.335821,114.261375
+948,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Town Centre,Block D,1987-01-23,L,2,,6,B,398,292,3968000,2018-02-22,2014-09-22,2880000,37.78,22.382471,114.27208999999999
+949,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,H,4,,7,D,0,1512,31164000,2018-02-22,,0,0.0,22.335839999999997,114.261154
+950,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,M,3,,3,C,0,1173,20175600,2018-02-20,,0,0.0,22.335860999999998,114.26123
+951,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Marina Cove,House C17,1988-01-15,,,,,,0,1356,26000000,2018-02-15,2015-01-28,19500000,33.33,22.359441999999998,114.25263
+952,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,H,2,,7,L,0,0,8249900,2018-02-14,,0,0.0,22.37808,114.265785
+953,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,2,,7,H,0,0,9474200,2018-02-14,,0,0.0,22.378439,114.26602
+954,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Villa Royale,Block 15,2003-10-02,,3,2,,,1800,1234,15560000,2018-02-13,2005-04-20,6140000,153.42000000000002,22.352757,114.24901
+955,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Bayside Villas,Block B6,1968-03-13,,,,,,0,1817,33500000,2018-02-13,2005-03-11,11000000,204.55,22.319603,114.273186
+956,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 2,2017-10-31,M,3,,5,A,0,0,11001900,2018-02-13,,0,0.0,22.37808,114.265785
+957,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 8,2016-09-15,H,4,,7,B,0,1837,42000000,2018-02-13,,0,0.0,22.335821,114.261375
+958,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 11,2016-09-15,H,4,,7,A,0,1841,41235000,2018-02-13,,0,0.0,22.335780999999997,114.261154
+959,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Lakeside Garden,Block 3,1997-06-17,L,,,1,E,0,427,4700000,2018-02-12,2007-10-07,1280000,267.19,22.379385,114.26950000000001
+960,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,H,4,,7,D,0,1493,30158600,2018-02-09,,0,0.0,22.335691,114.26073
+961,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Green Park,Block 5,1988-05-29,,,,2,B,0,1147,13800000,2018-02-08,2000-09-03,4658000,196.26,,
+962,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,M,3,,5,D,0,1173,19941000,2018-02-08,,0,0.0,22.335839999999997,114.261154
+963,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,H,4,,7,A,0,1841,41235000,2018-02-08,,0,0.0,22.335691,114.26073
+964,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 17,2016-09-15,L,3,,1,C,0,873,15005100,2018-02-08,,0,0.0,22.33591,114.26145
+965,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 3,2016-09-15,L,3,,1,E,0,894,16600000,2018-02-08,,0,0.0,22.335860999999998,114.26123
+966,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,M,3,,5,C,0,1157,19669000,2018-02-07,,0,0.0,22.33566,114.26091
+967,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 1,1998-07-13,L,3,,2,B,1180,1031,11480000,2018-02-05,1998-03-26,5796100,98.06,22.430007,114.2486784
+968,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 9,2016-09-15,M,3,,5,C,0,1157,19669000,2018-02-05,,0,0.0,22.335839999999997,114.261154
+969,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 10,1998-07-13,M,3,,5,E,1286,1123,12730000,2018-02-02,1998-03-27,7331200,73.64,22.431237,114.2521276
+970,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Roseville Villas,House 1,1992-05-12,,,,,,0,1588,32000000,2018-02-01,,0,0.0,22.352203,114.25276
+971,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 5,2017-10-20,,,,G,B,0,992,18494900,2018-01-25,,0,0.0,22.38562,114.27251
+972,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 12,2016-09-15,H,4,,7,C,0,1521,31250000,2018-01-25,,0,0.0,22.33566,114.26091
+973,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,M,2,,5,E,0,0,7752900,2018-01-25,,0,0.0,22.378439,114.26602
+974,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Town Centre,Block E,1987-01-23,H,1,,11,C,885,657,7800000,2018-01-25,,0,0.0,22.382607,114.27195
+975,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,,2,,G,D,0,0,9494000,2018-01-25,,0,0.0,22.377913,114.2655
+976,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,L,2,,2,C,0,0,8153600,2018-01-25,,0,0.0,22.378439,114.26602
+977,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 16,2016-09-15,M,4,,3,B,0,1714,29737900,2018-01-23,,0,0.0,22.335537,114.26089
+978,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 13,1998-12-07,L,3,,1,A,1622,1285,13170000,2018-01-22,2005-03-18,7400000,77.97,22.4294465,114.252515
+979,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 18,2016-09-15,H,3,,6,C,0,903,18238000,2018-01-19,,0,0.0,22.335686,114.26002
+980,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,M,2,,6,J,0,0,8402200,2018-01-19,,0,0.0,22.378439,114.26602
+981,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,L,2,,2,M,0,701,10357600,2018-01-19,,0,0.0,22.386419999999998,114.271996
+982,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Symphony Bay,Block 9,1998-07-13,M,3,,3,G,1180,1031,11800000,2018-01-18,2003-12-13,3800000,210.53,22.4311839,114.2516275
+983,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,L,3,,1,D,0,1144,19905600,2018-01-18,,0,0.0,22.335691,114.26073
+984,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 10,2016-09-15,H,4,,7,B,0,1837,41126756,2018-01-18,,0,0.0,22.335860999999998,114.26118
+985,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Ko Shing Building,Ko Shing Building,1980-07-29,,,,5,D2,0,340,4080000,2018-01-17,,0,0.0,22.381919999999997,114.27303
+986,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,L,3,,1,E,0,894,16449600,2018-01-17,,0,0.0,22.335691,114.26073
+987,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,H,2,,8,A,0,705,10702700,2018-01-17,,0,0.0,22.386419999999998,114.271996
+988,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Villa Royale,Block 33,2003-10-02,,3,2,,,1800,1234,14450000,2018-01-16,,0,0.0,22.352468,114.249245
+989,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Building,Block B,1984-11-14,M,,,7,1,0,457,5300000,2018-01-16,,0,0.0,22.382267,114.27277
+990,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,H,2,,7,C,0,0,8653300,2018-01-16,,0,0.0,22.378439,114.26602
+991,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 3,2017-10-31,L,2,,2,A,0,0,8198600,2018-01-15,,0,0.0,22.377913,114.2655
+992,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Park Mediterranean,Block 1,2017-10-31,L,2,,2,E,0,0,7962500,2018-01-15,,0,0.0,22.378439,114.26602
+993,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 1,2017-10-20,H,2,,8,G,0,711,10659800,2018-01-15,,0,0.0,22.386419999999998,114.271996
+994,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 5,2017-10-20,L,,,1,L,0,895,12837700,2018-01-15,,0,0.0,22.38562,114.27251
+995,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 15,2016-09-15,M,3,,5,E,0,968,16388880,2018-01-15,,0,0.0,22.335691,114.26073
+996,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 10,2016-09-15,L,3,,2,D,0,1183,20170160,2018-01-12,,0,0.0,22.335860999999998,114.26118
+997,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Sai Kung Town Centre,Block C,1987-01-22,H,2,,11,B,801,584,6200000,2018-01-10,2006-07-05,1600000,287.5,22.382702,114.27231
+998,New Territories,Sai Kung,Sai Kung / Clear Water Bay,The Mediterranean,Block 2,2017-10-20,H,,,7,C,0,663,11018400,2018-01-10,,0,0.0,22.38593,114.27262
+999,New Territories,Sai Kung,Sai Kung / Clear Water Bay,Mount Pavilia,Tower 7,2016-09-15,L,3,,1,C,0,1107,19372500,2018-01-08,,0,0.0,22.33579,114.260994

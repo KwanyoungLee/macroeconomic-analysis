@@ -1,0 +1,610 @@
+,region,subregion,district,estate,building,first_op_date,floor_level,bedroom,sitting_room,floor,flat,area,net_area,price,tx_date,last_tx_date,last_price,gain,lat,lon
+0,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block B,1993-01-28,L,3,,7,2,739,577,8380000,2021-01-06,2015-05-26,5030000,66.6,22.340222999999998,114.183959
+1,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,M,1,,21,8,479,351,4500000,2021-01-06,2019-05-30,4800000,-6.25,22.343300000000003,114.18645599999999
+2,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 9,1989-09-21,,2,,29,A,480,431,5080000,2021-01-04,2014-04-04,3050000,66.56,22.346802999999998,114.186684
+3,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 7,1991-07-09,,2,,22,F,480,431,5350000,2020-12-29,2011-05-03,2450000,118.37,22.346087,114.18654
+4,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 14,1991-07-09,L,3,,3,H,659,591,6350000,2020-12-28,2006-09-19,1180000,438.14,22.346087999999998,114.18928
+5,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block C,1992-12-03,H,3,,15,10,720,554,7500000,2020-12-28,2002-03-08,1700000,341.18,22.344019,114.186685
+6,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block C,1992-12-03,M,3,,12,10,720,554,7300000,2020-12-24,,0,0.0,22.344019,114.186685
+7,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,L,1,,4,13,462,338,4320000,2020-12-24,2012-01-31,1838000,135.04,22.343515999999997,114.187557
+8,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Tung Yuen House  ( Tuyu  ),1987-12-01,L,,,2,11,0,441,2660000,2020-12-24,,0,0.0,22.345705,114.19454
+9,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,L,,,2,9,495,363,4400000,2020-12-23,2014-08-29,2930000,50.17,22.343159,114.187956
+10,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,H,1,,30,12,462,338,4800000,2020-12-23,2003-05-15,330000,1354.55,22.343159,114.187956
+11,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block F,1995-02-13,H,,,22,2,825,645,10000000,2020-12-22,,0,0.0,22.339693,114.185104
+12,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,M,,,24,1,495,363,5000000,2020-12-22,2017-12-15,4000000,25.0,22.3435521,114.1859154
+13,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 9,1989-09-21,,,,23,G,661,592,6500000,2020-12-18,2010-10-07,2480000,162.1,22.346802999999998,114.186684
+14,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Chung Yuen House  ( Chun  ),1989-03-01,L,,,8,8,0,485,4880000,2020-12-11,,0,0.0,22.345928,114.19169
+15,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 4,1989-09-21,H,2,,17,A,480,431,4880000,2020-12-08,,0,0.0,22.345947,114.18714299999999
+16,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-20,M,,,18,18,583,443,5600000,2020-12-03,,0,0.0,22.345772999999998,114.190553
+17,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,L,,,10,12,462,338,4330000,2020-12-02,,0,0.0,22.343159,114.187956
+18,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 3,1989-09-21,,,,24,E,540,484,3670000,2020-11-27,2000-05-24,1050000,249.52,22.34685,114.18847
+19,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-20,M,,,14,22,583,443,4900000,2020-11-27,,0,0.0,22.345772999999998,114.190553
+20,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Toa Yuen House  ( Toyu  ),1989-09-01,L,,,7,4,0,489,2720000,2020-11-26,,0,0.0,22.347085999999997,114.19476
+21,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,M,,,18,4,462,338,4650000,2020-11-24,,0,0.0,22.343159,114.187956
+22,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 6,1989-09-21,H,,,21,A,480,431,4930000,2020-11-23,,0,0.0,22.345526,114.1862946
+23,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,M,,,16,7,567,415,5460000,2020-11-23,2009-09-03,1765000,209.35,22.343177999999998,114.185509
+24,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Wai Yuen House  ( Wayu ),1989-02-01,H,,,32,18,0,443,2750000,2020-11-18,2013-10-03,1980000,38.89,22.345762,114.193016
+25,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Tat House (Block 1),1990-02-01,H,,,28,18,0,397,2475000,2020-11-17,,0,0.0,22.340054,114.19538
+26,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 14,1991-07-09,M,,,9,A,480,431,4800000,2020-11-16,2009-03-13,1290000,272.09000000000003,22.346087999999998,114.18928
+27,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,M,,,23,12,462,338,4810000,2020-11-12,2016-11-10,3660000,31.42,22.343177999999998,114.185509
+28,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Tat House (Block 1),1990-02-01,H,,,28,7,0,544,4680000,2020-11-09,,0,0.0,22.340054,114.19538
+29,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 6,1989-09-21,M,,,14,A,480,431,4850000,2020-11-04,2011-11-10,2060000,135.44,22.345526,114.1862946
+30,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Mui Yuen House  ( Muyu  ),1987-12-01,L,,,9,4,0,489,2800000,2020-11-03,,0,0.0,22.345807999999998,114.1954
+31,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,H,,,26,4,495,363,5000000,2020-11-03,1998-05-13,1760000,184.09,22.343515999999997,114.187557
+32,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 2,1998-12-01,L,2,,6,G,0,495,4800000,2020-11-03,1997-06-02,1570000,205.73000000000002,22.337593,114.195022
+33,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 10,1989-09-21,L,,,6,E,540,484,5588000,2020-11-02,2015-01-28,3848000,45.22,22.346646,114.187168
+34,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block B,2000-12-11,M,,,13,8,503,407,4900000,2020-11-02,,0,0.0,22.341552999999998,114.18467
+35,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block C,1993-01-28,H,,,19,3,515,401,6800000,2020-11-02,,0,0.0,22.340419999999998,114.184366
+36,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,H,,,27,1,495,363,5100000,2020-10-30,2015-12-22,4000000,27.5,22.343300000000003,114.18645599999999
+37,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,M,,,17,4,462,338,4200000,2020-10-28,,0,0.0,22.343177999999998,114.185509
+38,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 3,1989-09-21,L,,,1,B,550,493,5068000,2020-10-28,2013-08-02,3000000,68.93,22.34685,114.18847
+39,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tak Keung Court,Block B,2001-02-01,H,,,32,3,506,404,5700000,2020-10-22,2001-07-30,1162100,390.49,22.339002999999998,114.18607
+40,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,L,,,5,9,495,363,4800000,2020-10-21,2013-06-17,2900000,65.52,22.343159,114.187956
+41,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Hong House (Block 15),1990-08-01,H,,,23,8,0,377,4000000,2020-10-21,2016-08-01,3180000,25.79,22.338278,114.19400999999999
+42,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block A,1991-01-21,M,,,5,9,845,645,6200000,2020-10-21,2016-03-02,4900000,26.53,22.339786999999998,114.184497
+43,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 1,1989-09-21,H,,,16,J,660,591,4320000,2020-10-19,2001-09-21,990000,336.36,22.345990999999998,114.188782
+44,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tak Keung Court,Block A,2001-02-01,H,,,29,3,506,404,5690000,2020-10-19,2015-02-02,3550000,60.28,22.33944,114.186104
+45,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,M,,,18,14,567,415,5670000,2020-10-16,1997-06-17,2660000,113.16,22.343159,114.187956
+46,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block B,2000-12-11,M,,,18,4,798,645,7450000,2020-10-15,,0,0.0,22.341552999999998,114.18467
+47,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,M,,,18,9,495,363,5150000,2020-10-15,,0,0.0,22.343159,114.187956
+48,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 10,1989-09-21,L,,,5,K,481,432,4880000,2020-10-12,2008-05-14,1250000,290.40000000000003,22.346646,114.187168
+49,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,H,,,27,4,495,363,5050000,2020-10-05,2009-06-23,1380000,265.94,22.343515999999997,114.187557
+50,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ying Fuk Court,Ying Fuk Court,2001-02-07,L,,,4,4,803,645,6300000,2020-09-30,,0,0.0,22.346724,114.19518
+51,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 12,1989-09-21,,,,29,B,540,484,3000000,2020-09-29,2004-06-12,1080000,177.78,22.346331,114.187915
+52,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,L,,,7,13,495,363,5100000,2020-09-29,2010-03-24,1520000,235.53,22.343177999999998,114.185509
+53,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,M,,,13,14,567,415,3900000,2020-09-29,,0,0.0,22.343515999999997,114.187557
+54,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 7,1991-07-09,,,,26,F,480,431,5225000,2020-09-29,2010-11-25,1930000,170.73,22.346087,114.18654
+55,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,H,,,33,9,495,363,5180000,2020-09-28,,0,0.0,22.3435521,114.1859154
+56,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Pak Yuen House  ( Payu  ),1989-02-01,L,,,10,16,0,485,2638000,2020-09-28,,0,0.0,22.346194999999998,114.19193
+57,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tak Keung Court,Block A,2001-02-01,L,,,11,2,719,574,7200000,2020-09-25,,0,0.0,22.33944,114.186104
+58,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Yue House (Block 3),1990-01-01,L,,,4,4,0,407,3290000,2020-09-25,,0,0.0,22.339555999999998,114.195274
+59,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 12,1989-09-21,,,,23,A,480,431,5400000,2020-09-18,,0,0.0,22.346331,114.187915
+60,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 8,1989-09-21,,,,G,D,660,591,5900000,2020-09-18,2004-04-16,1150000,413.04,22.346396,114.186511
+61,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Shun House (Block 8),1990-04-01,H,,,27,10,0,428,3560000,2020-09-17,,0,0.0,22.33848,114.194664
+62,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 2,1998-12-01,L,,,5,G,0,495,6000000,2020-09-15,2017-01-27,5130000,16.96,22.337593,114.195022
+63,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Fung House (Block 2),1990-12-01,H,,,26,16,0,376,3200000,2020-09-10,,0,0.0,22.339631999999998,114.19460000000001
+64,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block A,1991-01-21,L,,,3,2,756,577,5500000,2020-09-10,,0,0.0,22.339786999999998,114.184497
+65,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 1,1989-09-21,H,,,18,G,661,592,6850000,2020-09-09,2010-08-02,2468000,177.55,22.345990999999998,114.188782
+66,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block B,1993-01-28,M,,,13,1,739,577,5300000,2020-09-09,,0,0.0,22.340222999999998,114.183959
+67,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Toa Yuen House  ( Toyu  ),1989-09-01,L,,,6,1,0,381,2580000,2020-09-04,,0,0.0,22.347085999999997,114.19476
+68,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,M,,,19,9,495,363,5020000,2020-09-01,2016-06-03,3550000,41.410000000000004,22.343300000000003,114.18645599999999
+69,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 10,1989-09-21,M,,,14,H,660,591,6680000,2020-08-28,2013-02-08,4070000,64.13,22.346646,114.187168
+70,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,M,,,13,14,567,415,5550000,2020-08-28,2011-05-12,2430000,128.4,22.3435521,114.1859154
+71,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block C,1992-12-03,L,,,5,9,720,554,7001800,2020-08-27,2015-12-16,4980000,40.6,22.344019,114.186685
+72,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,M,,,13,12,462,338,4660000,2020-08-25,2011-08-22,2100000,121.9,22.343300000000003,114.18645599999999
+73,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,M,,,18,7,567,415,4000000,2020-08-17,,0,0.0,22.343159,114.187956
+74,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,L,,,8,9,495,363,4800000,2020-08-14,,0,0.0,22.343177999999998,114.185509
+75,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ying Fuk Court,Ying Fuk Court,2001-02-07,L,,,9,2,695,559,5620000,2020-08-12,,0,0.0,22.346724,114.19518
+76,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block D,1995-02-13,M,,,16,10,737,577,5380000,2020-08-12,,0,0.0,22.340425,114.185155
+77,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 7,1991-07-09,M,,,20,C,660,591,6380000,2020-08-11,,0,0.0,22.346087,114.18654
+78,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Wai Yuen House  ( Wayu ),1989-02-01,H,,,32,5B,0,164,2580000,2020-08-10,,0,0.0,22.345762,114.193016
+79,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 7,1991-07-09,M,,,12,K,540,484,5630000,2020-08-10,2016-03-24,3650000,54.25,22.346087,114.18654
+80,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Wai Yuen House  ( Wayu ),1989-02-01,L,1,,7,4B,0,263,1550000,2020-08-07,,0,0.0,22.345762,114.193016
+81,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,M,,,23,16,479,351,4450000,2020-08-06,2008-03-03,1280000,247.66,22.343300000000003,114.18645599999999
+82,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Mui Yuen House  ( Muyu  ),1987-12-01,L,,,5,14,0,443,2700000,2020-08-05,,0,0.0,22.345807999999998,114.1954
+83,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Mui Yuen House  ( Muyu  ),1987-12-01,M,,,21,5,0,489,3488000,2020-08-04,,0,0.0,22.345807999999998,114.1954
+84,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 8,1989-09-21,,2,,23,B,540,484,5680000,2020-07-31,2000-10-18,1250000,354.40000000000003,22.346396,114.186511
+85,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-20,L,,,10,17,638,485,4680000,2020-07-31,,0,0.0,22.345772999999998,114.190553
+86,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block A,1998-03-06,M,,,12,3,501,407,4600000,2020-07-30,2002-06-04,1150000,300.0,22.34111,114.18432
+87,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Hong Keung Court,Hong Keung Court,1999-07-08,M,,,27,6,579,429,5000000,2020-07-30,,0,0.0,22.337177,114.18963
+88,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,M,,,25,2,567,415,5820000,2020-07-30,2010-10-19,2180000,166.97,22.343515999999997,114.187557
+89,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Chung Yuen House  ( Chun  ),1989-03-01,L,,,4,15,0,443,2330000,2020-07-29,,0,0.0,22.345928,114.19169
+90,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 5,1989-09-21,M,,,11,A,480,431,5070000,2020-07-27,2016-10-11,3880000,30.67,22.345672999999998,114.186747
+91,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 1,1998-12-01,L,3,,10,A,0,612,6450000,2020-07-24,1999-07-08,1739000,270.9,22.337778,114.1952214
+92,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Chung Yuen House  ( Chun  ),1989-03-01,H,,,35,17,0,485,2780000,2020-07-21,,0,0.0,22.345928,114.19169
+93,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,M,,,17,2,567,415,5500000,2020-07-15,2006-05-10,1280000,329.69,22.343159,114.187956
+94,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,L,,,8,5,495,363,4830000,2020-07-15,2011-07-04,2100000,130.0,22.343300000000003,114.18645599999999
+95,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 2,1998-12-01,L,3,,6,H,0,612,6080000,2020-07-14,1999-07-09,1686000,260.62,22.337593,114.195022
+96,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 6,1989-09-21,L,,,7,B,540,484,5500000,2020-07-13,2004-08-05,1000000,450.0,22.345526,114.1862946
+97,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 11,1989-09-21,,,,19,G,661,592,7150000,2020-07-09,2008-02-05,1950000,266.67,22.34619,114.18752
+98,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 5,2001-10-31,H,3,,25,F,778,626,7388000,2020-07-09,2007-08-21,1919000,284.99,22.337774,114.19416
+99,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 8,1989-09-21,,2,,23,A,480,431,5138000,2020-07-07,2016-07-29,3800000,35.21,22.346396,114.186511
+100,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 4,2001-10-31,M,2,,20,B,597,481,5120000,2020-07-06,2007-09-03,1354000,278.14,22.338191,114.194475
+101,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 1,1989-09-21,M,,,10,B,540,484,5468000,2020-07-03,2007-01-31,1165000,369.36,22.345990999999998,114.188782
+102,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Yue House (Block 3),1990-01-01,M,,,22,6,0,544,4750000,2020-07-03,,0,0.0,22.339555999999998,114.195274
+103,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-19,H,,,32,17,638,485,5900000,2020-07-01,2005-04-01,1135000,419.82,22.345772999999998,114.190553
+104,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 11,1989-09-20,M,,,14,A,480,431,5038000,2020-06-28,2004-06-24,940000,435.96000000000004,22.34619,114.18752
+105,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 5,1989-09-20,L,,,7,K,481,432,5080000,2020-06-28,2008-01-13,1250000,306.40000000000003,22.345672999999998,114.186747
+106,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block C,1992-12-02,H,,,16,3,521,401,5300000,2020-06-23,2004-11-08,1150000,360.87,22.344019,114.186685
+107,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block B,1993-01-27,H,,,20,10,515,401,6450000,2020-06-23,2008-12-04,1980000,225.76,22.340222999999998,114.183959
+108,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Yat House (Block 4),1989-12-01,H,,,29,12,0,443,3580000,2020-06-22,,0,0.0,22.338963,114.195564
+109,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 3,1989-09-21,L,,,7,G,661,592,6450000,2020-06-18,2008-09-03,1915000,236.81,22.34685,114.18847
+110,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-20,H,,,33,24,638,485,5880000,2020-06-17,,0,0.0,22.345772999999998,114.190553
+111,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tak Keung Court,Block A,2001-01-31,H,,,34,6,719,574,7780000,2020-06-15,,0,0.0,22.33944,114.186104
+112,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block B,2000-12-10,H,,,35,10,503,407,5420000,2020-06-15,2011-12-12,1980000,173.74,22.341552999999998,114.18467
+113,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,H,,,33,6,567,415,6000000,2020-06-11,2008-02-26,1750000,242.86,22.343177999999998,114.185509
+114,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Chak House (Block 9),1991-10-01,L,,,10,10,0,145,1750000,2020-06-11,,0,0.0,22.338317999999997,114.19541
+115,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,M,,,15,6,567,415,3850000,2020-06-10,,0,0.0,22.343177999999998,114.185509
+116,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 7,1991-07-09,L,,,2,D,660,591,4200000,2020-06-10,,0,0.0,22.346087,114.18654
+117,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 8,1989-09-21,L,3,,10,J,660,591,6680000,2020-06-10,2008-02-20,1850000,261.08,22.346396,114.186511
+118,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Shun House (Block 8),1990-04-01,L,,,9,6,0,241,1750000,2020-06-10,,0,0.0,22.33848,114.194664
+119,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-20,L,,,10,18,583,443,5500000,2020-06-09,2010-08-09,1670000,229.34,22.345772999999998,114.190553
+120,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 5,1989-09-20,M,,,10,J,660,591,6500000,2020-06-08,,0,0.0,22.345672999999998,114.186747
+121,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Tung Yuen House  ( Tuyu  ),1987-12-01,H,,,35,15,0,443,2700000,2020-06-04,,0,0.0,22.345705,114.19454
+122,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Cheung Yuen House  ( Cheu ),1987-10-01,M,,,23,21,0,489,3200000,2020-06-01,,0,0.0,22.346422,114.19412
+123,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Cheung Yuen House  ( Cheu ),1987-10-01,M,,,15,5,0,489,3700000,2020-06-01,,0,0.0,22.346422,114.19412
+124,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ying Fuk Court,Ying Fuk Court,2001-02-06,L,,,9,5,506,407,4358000,2020-05-31,,0,0.0,22.346724,114.19518
+125,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,L,,,11,6,567,415,5380000,2020-05-29,2008-03-25,500000,976.0,22.343515999999997,114.187557
+126,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 7,1991-07-09,L,,,6,E,540,484,5400000,2020-05-29,2010-03-24,1750000,208.57,22.346087,114.18654
+127,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,L,,,2,5,495,363,4680000,2020-05-28,2012-05-25,2000000,134.0,22.343300000000003,114.18645599999999
+128,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 7,1991-07-09,L,,,4,H,660,591,6600000,2020-05-28,2017-05-02,5700000,15.790000000000001,22.346087,114.18654
+129,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 5,2001-10-31,L,3,,6,D,807,649,7060000,2020-05-27,2007-09-03,1630000,333.13,22.337774,114.19416
+130,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 5,1989-09-20,M,,,9,F,480,431,5000000,2020-05-26,2012-08-13,2648000,88.82000000000001,22.345672999999998,114.186747
+131,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Fung House (Block 2),1990-12-01,L,,,5,19,0,407,3380000,2020-05-26,,0,0.0,22.339631999999998,114.19460000000001
+132,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block A,1992-12-03,M,,,12,6,521,401,5450000,2020-05-22,2013-01-17,2600000,109.62,22.3431636,114.1855014
+133,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 10,1989-09-20,M,,,19,A,480,431,4000000,2020-05-21,2007-06-04,1080000,270.37,22.346646,114.187168
+134,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 3,1989-09-20,L,,,2,J,660,591,5880000,2020-05-21,2012-04-16,2650000,121.89,22.34685,114.18847
+135,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 14,1991-07-09,M,,,14,A,480,431,5160000,2020-05-21,2016-11-25,3980000,29.650000000000002,22.346087999999998,114.18928
+136,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 8,1989-09-21,M,,,17,K,540,484,5348000,2020-05-20,2011-05-04,2380000,124.71000000000001,22.346396,114.186511
+137,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Yat House (Block 4),1989-12-01,H,,,32,5,0,385,3280000,2020-05-20,,0,0.0,22.338963,114.195564
+138,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tak Keung Court,Block A,2001-01-31,H,,,32,9,821,656,8260000,2020-05-18,,0,0.0,22.33944,114.186104
+139,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 6,1989-09-21,H,,,17,A,480,431,4850000,2020-05-18,,0,0.0,22.345526,114.1862946
+140,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tak Keung Court,Block A,2001-01-31,L,,,5,5,506,404,4600000,2020-05-14,,0,0.0,22.33944,114.186104
+141,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,M,,,19,16,479,351,5200000,2020-05-13,,0,0.0,22.343177999999998,114.185509
+142,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Pak Yuen House  ( Payu  ),1989-02-01,L,,,7,7,0,443,3100000,2020-05-13,,0,0.0,22.346194999999998,114.19193
+143,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-20,L,,,1,12,643,487,5500000,2020-05-13,2008-02-15,1150000,378.26,22.345772999999998,114.190553
+144,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Hong Keung Court,Hong Keung Court,1999-07-07,M,,,25,7,579,429,5530000,2020-05-11,,0,0.0,22.337177,114.18963
+145,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Hong Keung Court,Hong Keung Court,1999-07-08,M,,,16,8,870,646,7000000,2020-05-11,,0,0.0,22.337177,114.18963
+146,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tak Keung Court,Block A,2001-01-31,L,,,1,1,719,574,6680000,2020-05-10,,0,0.0,22.33944,114.186104
+147,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 13,1991-07-09,H,,,16,G,538,478,5898000,2020-05-08,2016-08-04,3950000,49.32,22.34648,114.18915
+148,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 11,1989-09-20,M,,,9,J,660,591,6300000,2020-05-07,,0,0.0,22.34619,114.18752
+149,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,M,,,15,4,462,338,4530000,2020-05-07,2014-08-27,3050000,48.52,22.343300000000003,114.18645599999999
+150,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 13,1991-07-08,,,,19,H,659,591,6950000,2020-05-06,2011-07-04,2980000,133.22,22.34648,114.18915
+151,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ying Fuk Court,Ying Fuk Court,2001-02-06,H,,,28,10,506,407,4330000,2020-05-06,,0,0.0,22.346724,114.19518
+152,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 3,1998-11-30,H,2,,31,G,0,495,7320000,2020-05-06,2000-01-04,1546000,373.48,22.337300000000003,114.194814
+153,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block B,2000-12-10,L,,,9,10,503,407,4750000,2020-05-06,,0,0.0,22.341552999999998,114.18467
+154,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,M,,,25,12,462,338,4290000,2020-05-06,2012-08-13,2400000,78.75,22.3435521,114.1859154
+155,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 9,1989-09-20,,,,27,J,660,591,6600000,2020-05-04,2009-08-09,1970000,235.03,22.346802999999998,114.186684
+156,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block C,1992-12-02,L,,,2,2,837,645,7500000,2020-05-03,2006-01-06,2000000,275.0,22.344019,114.186685
+157,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,L,,,4,9,495,363,4750000,2020-04-29,2008-06-23,1370000,246.72,22.343177999999998,114.185509
+158,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 9,1989-09-20,,,,27,E,540,484,6000000,2020-04-26,2011-02-10,2350000,155.32,22.346802999999998,114.186684
+159,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tak Keung Court,Block B,2001-02-01,H,,,28,3,506,404,5738000,2020-04-20,,0,0.0,22.339002999999998,114.18607
+160,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Mui Yuen House  ( Muyu  ),1987-12-01,H,,,33,16,0,485,3300000,2020-04-17,,0,0.0,22.345807999999998,114.1954
+161,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Mui Yuen House  ( Muyu  ),1987-12-01,L,,,6,16,0,485,3050000,2020-04-17,,0,0.0,22.345807999999998,114.1954
+162,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Chak House (Block 9),1991-10-01,L,,,3,8,0,377,2900000,2020-04-15,,0,0.0,22.338317999999997,114.19541
+163,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Wai Yuen House  ( Wayu ),1989-02-01,M,,,19,20A,0,149,1000000,2020-04-15,,0,0.0,22.345762,114.193016
+164,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 7,1991-07-09,L,,,2,F,480,431,3280000,2020-04-15,2001-03-24,950000,245.26,22.346087,114.18654
+165,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Mui Yuen House  ( Muyu  ),1987-12-01,H,,,29,4,0,489,3065000,2020-04-15,,0,0.0,22.345807999999998,114.1954
+166,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block B,1993-01-28,L,,,1,4,827,645,7700000,2020-04-09,,0,0.0,22.340222999999998,114.183959
+167,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,L,,,6,15,567,415,5500000,2020-04-09,2014-05-08,3200000,71.88,22.343159,114.187956
+168,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,H,,,32,4,462,338,4718000,2020-04-08,,0,0.0,22.343300000000003,114.18645599999999
+169,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block C,1993-01-28,L,,,7,8,515,401,5700000,2020-04-07,2008-01-09,1580000,260.76,22.340419999999998,114.184366
+170,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block B,1992-12-02,H,,,21,4,837,645,5830000,2020-04-02,,0,0.0,22.344448999999997,114.186927
+171,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block C,1992-12-02,M,,,10,2,837,645,5800000,2020-03-30,,0,0.0,22.344019,114.186685
+172,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,M,,,24,16,479,351,4350000,2020-03-26,,0,0.0,22.343300000000003,114.18645599999999
+173,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,H,,,32,16,479,351,4600000,2020-03-26,2005-08-10,980000,369.39,22.343300000000003,114.18645599999999
+174,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,H,,,31,16,479,351,5000000,2020-03-26,2005-08-09,1050000,376.19,22.343300000000003,114.18645599999999
+175,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 14,1991-07-08,M,,,11,E,540,484,5600000,2020-03-24,2014-08-14,3800000,47.37,22.346087999999998,114.18928
+176,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 4,2001-10-30,M,3,,19,A,807,649,7430000,2020-03-22,2007-08-27,1822000,307.79,22.338191,114.194475
+177,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Tung Yuen House  ( Tuyu  ),1987-12-01,H,,,29,21,0,489,3330000,2020-03-19,,0,0.0,22.345705,114.19454
+178,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,L,,,3,16,479,351,4230000,2020-03-17,2016-08-09,3030000,39.6,22.343177999999998,114.185509
+179,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,M,,,19,8,479,351,4200000,2020-03-13,2010-01-19,1350000,211.11,22.3435521,114.1859154
+180,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Hong Keung Court,Hong Keung Court,1999-07-08,L,,,12,15,583,433,4930000,2020-03-09,2013-08-20,2180000,126.15,22.337177,114.18963
+181,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block A,1991-01-20,H,,,13,4,845,645,5930000,2020-03-08,1997-09-03,2850000,108.07000000000001,22.339786999999998,114.184497
+182,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,M,,,17,5,462,338,4168000,2020-03-05,2012-04-19,2090000,99.43,22.343515999999997,114.187557
+183,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 2,1998-11-30,H,,,35,C,0,554,5800000,2020-03-03,1999-07-27,1810000,220.44,22.337593,114.195022
+184,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 13,1991-07-08,,,,17,B,540,484,5500000,2020-02-25,2016-04-13,3638000,51.18,22.34648,114.18915
+185,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 3,1989-09-20,,,,22,K,481,432,3050000,2020-02-25,,0,0.0,22.34685,114.18847
+186,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Toa Yuen House  ( Toyu  ),1989-09-01,L,,,6,2,0,443,2650000,2020-02-25,,0,0.0,22.347085999999997,114.19476
+187,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 6,1989-09-20,L,,,1,G,482,433,4700000,2020-02-23,2013-07-29,2900000,62.07,22.345526,114.1862946
+188,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 7,1991-07-09,M,,,12,A,480,431,2900000,2020-02-19,,0,0.0,22.346087,114.18654
+189,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Yat House (Block 4),1989-12-01,M,,,23,17,0,385,3080000,2020-02-13,,0,0.0,22.338963,114.195564
+190,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Wah House (Block 7),1990-04-01,L,,,7,13,0,439,4600000,2020-02-13,2019-07-08,4600000,0.0,22.338907,114.19435
+191,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Hong Keung Court,Hong Keung Court,1999-07-08,H,,,30,8,855,634,7420000,2020-02-13,2009-03-05,1808000,310.40000000000003,22.337177,114.18963
+192,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tak Keung Court,Block A,2001-01-31,L,,,8,5,506,404,5150000,2020-02-12,2006-03-03,1080000,376.85,22.33944,114.186104
+193,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 11,1989-09-20,M,,,12,E,540,484,5880000,2020-02-11,2000-09-10,1518000,287.35,22.34619,114.18752
+194,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-19,M,,,12,11,583,443,5400000,2020-02-11,2004-05-17,878000,515.03,22.345772999999998,114.190553
+195,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 8,1989-09-21,,2,,29,A,480,431,5190000,2020-02-11,2014-04-11,3230000,60.68,22.346396,114.186511
+196,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ying Fuk Court,Ying Fuk Court,2001-02-06,L,,,12,8,506,407,4338000,2020-02-10,,0,0.0,22.346724,114.19518
+197,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Pak Yuen House  ( Payu  ),1989-02-01,M,,,21,3,0,443,2850000,2020-02-07,,0,0.0,22.346194999999998,114.19193
+198,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Yue House (Block 3),1990-01-01,H,,,34,9,0,407,3550000,2020-02-07,2016-10-19,2420000,46.69,22.339555999999998,114.195274
+199,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Toa Yuen House  ( Toyu  ),1989-09-01,L,,,4,14,0,443,2500000,2020-02-07,,0,0.0,22.347085999999997,114.19476
+200,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,H,,,27,13,495,363,3080000,2020-02-06,,0,0.0,22.343177999999998,114.185509
+201,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tak Keung Court,Block B,2001-02-01,M,,,23,8,506,404,5150000,2020-02-04,,0,0.0,22.339002999999998,114.18607
+202,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Chak House (Block 9),1991-10-01,H,,,25,6,0,428,3488000,2020-02-03,,0,0.0,22.338317999999997,114.19541
+203,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 12,1989-09-20,L,,,3,C,660,591,6100000,2020-02-02,2015-10-29,4880000,25.0,22.346331,114.187915
+204,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Hong Keung Court,Hong Keung Court,1999-07-08,H,,,38,14,575,426,5000000,2020-01-22,2009-08-28,1260000,296.83,22.337177,114.18963
+205,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 2,1998-12-01,H,,,36,D,0,756,7080000,2020-01-16,1997-05-07,2890000,144.98,22.337593,114.195022
+206,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,H,,,30,1,495,363,5200000,2020-01-14,2016-06-24,3900000,33.33,22.343300000000003,114.18645599999999
+207,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,L,,,10,4,495,363,4745000,2020-01-14,1996-08-23,1460000,225.0,22.343515999999997,114.187557
+208,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Chung Yuen House  ( Chun  ),1989-03-01,L,,,12,13,0,447,2865000,2020-01-13,,0,0.0,22.345928,114.19169
+209,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 14,1991-07-08,,,,21,F,480,431,5150000,2020-01-12,2002-11-20,990000,420.2,22.346087999999998,114.18928
+210,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,L,,,4,5,495,363,4630000,2020-01-09,2003-06-20,540000,757.41,22.343159,114.187956
+211,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Chung Yuen House  ( Chun  ),1989-03-01,M,,,21,20,0,489,3000000,2020-01-06,2019-10-21,4180000,-28.23,22.345928,114.19169
+212,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Chung Yuen House  ( Chun  ),1989-03-01,H,,,32,4,0,489,3500000,2020-01-06,,0,0.0,22.345928,114.19169
+213,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 13,1991-07-08,M,,,8,J,660,592,6280000,2019-12-22,,0,0.0,22.34648,114.18915
+214,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,L,,,6,1,495,363,4200000,2019-12-18,2003-06-24,710000,491.55,22.343159,114.187956
+215,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block B,1993-01-27,M,,,10,2,739,577,8000000,2019-12-16,2006-03-10,2180000,266.97,22.340222999999998,114.183959
+216,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,H,,,31,5,495,363,3000000,2019-12-16,2006-06-09,1020000,194.12,22.3435521,114.1859154
+217,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,H,,,30,9,495,363,4900000,2019-12-13,2012-03-19,2250000,117.78,22.343300000000003,114.18645599999999
+218,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Hong Keung Court,Hong Keung Court,1999-07-08,L,,,8,15,583,433,5000000,2019-12-10,,0,0.0,22.337177,114.18963
+219,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block B,2000-12-10,L,,,10,7,691,559,6340000,2019-12-04,2005-11-08,1350000,369.63,22.341552999999998,114.18467
+220,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Fung House (Block 2),1990-12-01,H,,,26,18,0,397,3150000,2019-12-02,,0,0.0,22.339631999999998,114.19460000000001
+221,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Shun House (Block 8),1990-04-01,L,,,3,7,0,428,4700000,2019-11-29,2016-01-12,3030000,55.120000000000005,22.33848,114.194664
+222,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 10,1989-09-20,,,,21,A,480,431,5200000,2019-11-27,2004-09-02,638000,715.0500000000001,22.346646,114.187168
+223,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 10,1989-09-20,L,,,8,F,480,431,5080000,2019-11-26,,0,0.0,22.346646,114.187168
+224,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 12,1989-09-20,,,,22,G,481,432,5680000,2019-11-26,2005-10-31,1170000,385.47,22.346331,114.187915
+225,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,M,,,20,13,495,363,4950000,2019-11-26,2005-03-14,1000000,395.0,22.3435521,114.1859154
+226,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Wing House (Block 6),1990-04-01,L,,,8,12,0,145,2125000,2019-11-26,,0,0.0,22.33915,114.19397000000001
+227,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 14,1991-07-09,L,,,7,A,480,431,4880000,2019-11-25,,0,0.0,22.346087999999998,114.18928
+228,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,L,,,11,16,479,351,4380000,2019-11-22,2010-05-04,1350000,224.44,22.3435521,114.1859154
+229,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 1,1998-11-30,L,3,,14,D,0,754,7200000,2019-11-21,1999-12-09,2042000,252.6,22.337778,114.1952214
+230,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block C,1992-12-02,L,,,6,9,720,554,6680000,2019-11-17,2011-04-06,3150000,112.06,22.344019,114.186685
+231,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Hong House (Block 15),1990-08-01,L,,,5,4,0,439,3500000,2019-11-13,,0,0.0,22.338278,114.19400999999999
+232,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Toa Yuen House  ( Toyu  ),1989-09-01,L,,,3,10,0,443,2530000,2019-11-11,,0,0.0,22.347085999999997,114.19476
+233,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Toa Yuen House  ( Toyu  ),1989-09-01,M,,,24,7,0,443,2900000,2019-11-11,,0,0.0,22.347085999999997,114.19476
+234,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,H,,,28,1,495,363,4000000,2019-11-08,,0,0.0,22.343177999999998,114.185509
+235,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 5,2001-10-31,H,2,,24,C,632,510,4480000,2019-11-06,2007-08-31,1482000,202.29,22.337774,114.19416
+236,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 4,2001-10-30,M,3,,26,D,807,649,7160000,2019-10-30,2007-08-20,1902000,276.45,22.338191,114.194475
+237,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 1,1989-09-20,H,,,20,E,540,484,5850000,2019-10-27,,0,0.0,22.345990999999998,114.188782
+238,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Tung Yuen House  ( Tuyu  ),1987-12-01,H,,,35,1,0,381,2630000,2019-10-24,,0,0.0,22.345705,114.19454
+239,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,H,,,35,4,495,363,5000000,2019-10-22,,0,0.0,22.343515999999997,114.187557
+240,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Chung Yuen House  ( Chun  ),1989-03-01,M,,,21,20,0,489,4180000,2019-10-21,2019-07-02,3150000,32.7,22.345928,114.19169
+241,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Hong Keung Court,Hong Keung Court,1999-07-08,H,,,39,15,575,426,5230000,2019-10-21,2004-03-30,930000,462.37,22.337177,114.18963
+242,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,H,,,32,7,567,415,5980000,2019-10-18,2015-10-07,4120000,45.15,22.343300000000003,114.18645599999999
+243,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 6,1989-09-20,L,,,1,B,550,493,5050000,2019-10-17,2008-05-14,1450000,248.28,22.345526,114.1862946
+244,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Hong Keung Court,Hong Keung Court,1999-07-07,L,,,13,7,583,433,6000000,2019-10-16,2010-04-19,2000000,200.0,22.337177,114.18963
+245,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 2,1998-11-30,H,,,35,A,0,612,6120000,2019-10-15,1997-05-02,2247000,172.36,22.337593,114.195022
+246,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block E,1995-02-12,H,,,19,5,513,401,5110000,2019-10-15,,0,0.0,22.340034,114.185438
+247,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 6,1989-09-20,M,,,8,F,480,431,4900000,2019-10-15,,0,0.0,22.345526,114.1862946
+248,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,M,,,14,10,567,415,4000000,2019-10-15,,0,0.0,22.3435521,114.1859154
+249,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 2,1989-09-20,L,,,1,C,660,591,3400000,2019-10-10,,0,0.0,22.346458,114.188597
+250,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block C,1993-01-28,M,,,9,6,739,577,5980000,2019-10-08,,0,0.0,22.340419999999998,114.184366
+251,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 1,1989-09-20,M,,,13,E,540,484,5850000,2019-10-02,2016-09-01,3900000,50.0,22.345990999999998,114.188782
+252,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block B,2000-12-10,H,,,32,10,503,407,6401000,2019-10-02,,0,0.0,22.341552999999998,114.18467
+253,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,L,,,5,9,495,363,4600000,2019-09-25,,0,0.0,22.3435521,114.1859154
+254,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,M,,,23,15,567,415,5800000,2019-09-24,2005-04-15,1280000,353.13,22.343177999999998,114.185509
+255,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Tung Yuen House  ( Tuyu  ),1987-12-01,L,,,6,11,0,443,2920000,2019-09-19,,0,0.0,22.345705,114.19454
+256,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Hong Keung Court,Hong Keung Court,1999-07-08,L,,,7,2,809,601,7330000,2019-09-19,,0,0.0,22.337177,114.18963
+257,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tak Keung Court,Block A,2001-01-31,M,,,18,1,719,574,7480000,2019-09-18,,0,0.0,22.33944,114.186104
+258,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 1,1998-11-30,L,2,,7,G,0,495,6000000,2019-09-10,1997-06-04,1617000,271.06,22.337778,114.1952214
+259,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-19,M,,,15,1,638,485,6300000,2019-09-08,,0,0.0,22.345772999999998,114.190553
+260,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block B,1993-01-27,H,,,16,6,739,577,7000000,2019-09-05,,0,0.0,22.340222999999998,114.183959
+261,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,L,,,7,4,462,338,3000000,2019-09-03,2011-06-13,1700000,76.47,22.3435521,114.1859154
+262,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block C,1992-12-02,M,,,13,9,720,554,7300000,2019-08-28,2010-08-03,2650000,175.47,22.344019,114.186685
+263,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,M,,,20,14,567,415,5500000,2019-08-23,2004-03-29,950000,478.95,22.343177999999998,114.185509
+264,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,M,,,20,14,567,415,5960000,2019-08-22,2002-12-09,1152000,417.36,22.343515999999997,114.187557
+265,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,M,,,14,8,479,351,4700000,2019-08-22,,0,0.0,22.3435521,114.1859154
+266,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Hong Keung Court,Hong Keung Court,1999-07-08,M,,,26,9,862,639,7580000,2019-08-19,,0,0.0,22.337177,114.18963
+267,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 12,1989-09-20,,,,22,B,540,484,5700000,2019-08-18,,0,0.0,22.346331,114.187915
+268,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Wai Yuen House  ( Wayu ),1989-02-01,H,1,,27,13B,0,263,3700000,2019-08-16,2013-04-29,1890000,95.77,22.345762,114.193016
+269,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 4,1989-09-21,H,,,20,F,480,431,5598000,2019-08-14,2003-04-14,650000,761.23,22.345947,114.18714299999999
+270,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,L,,,11,5,462,338,1800000,2019-08-12,2013-05-14,2980000,-39.6,22.343515999999997,114.187557
+271,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,M,,,15,8,479,351,4880000,2019-08-09,2015-06-25,1865000,161.66,22.343300000000003,114.18645599999999
+272,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tak Keung Court,Block A,2001-01-31,L,,,6,9,821,656,7900000,2019-08-08,,0,0.0,22.33944,114.186104
+273,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,H,,,31,15,567,415,5860000,2019-08-08,2009-05-07,1570000,273.25,22.3435521,114.1859154
+274,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Wai Yuen House  ( Wayu ),1989-02-01,H,,,34,11,0,443,3380000,2019-08-02,,0,0.0,22.345762,114.193016
+275,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,H,,,33,8,479,351,4800000,2019-07-30,2010-10-18,1730000,177.46,22.343177999999998,114.185509
+276,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Mui Yuen House  ( Muyu  ),1987-12-01,H,,,34,6,0,443,3020000,2019-07-29,,0,0.0,22.345807999999998,114.1954
+277,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block D,1995-02-12,H,,,26,3,513,401,6000000,2019-07-28,2014-07-23,3700000,62.160000000000004,22.340425,114.185155
+278,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block E,1995-02-12,L,,,9,5,513,401,4900000,2019-07-28,,0,0.0,22.340034,114.185438
+279,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,M,,,25,11,567,415,6000000,2019-07-26,2011-02-16,2330000,157.51,22.343159,114.187956
+280,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 11,1989-09-20,,,,21,F,480,431,5450000,2019-07-22,2008-03-09,1660000,228.31,22.34619,114.18752
+281,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 7,1991-07-09,,,,28,K,540,484,5600000,2019-07-18,,0,0.0,22.346087,114.18654
+282,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,H,,,37,14,567,415,3900000,2019-07-18,,0,0.0,22.343300000000003,114.18645599999999
+283,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,M,,,15,13,495,363,3520000,2019-07-17,2000-02-23,1120000,214.29,22.343177999999998,114.185509
+284,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,L,,,7,9,495,363,4780000,2019-07-16,,0,0.0,22.343300000000003,114.18645599999999
+285,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-19,H,,,27,24,638,485,5880000,2019-07-14,,0,0.0,22.345772999999998,114.190553
+286,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,L,,,1,12,462,338,4680000,2019-07-12,2007-01-10,769000,508.58,22.3435521,114.1859154
+287,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Cheung Yuen House  ( Cheu ),1987-10-01,L,,,6,10,0,443,3000000,2019-07-12,,0,0.0,22.346422,114.19412
+288,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Tung Yuen House  ( Tuyu  ),1987-12-01,H,,,31,9,0,485,3800000,2019-07-12,2016-07-05,2188000,73.67,22.345705,114.19454
+289,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 11,1989-09-20,M,,,15,C,660,591,6680000,2019-07-11,2006-10-05,1520000,339.47,22.34619,114.18752
+290,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 7,1991-07-09,,,,23,B,540,484,4550000,2019-07-09,,0,0.0,22.346087,114.18654
+291,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Wah House (Block 7),1990-04-01,L,,,7,13,0,439,4600000,2019-07-08,2007-08-24,1000000,360.0,22.338907,114.19435
+292,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Chung Yuen House  ( Chun  ),1989-03-01,M,,,21,20,0,489,3150000,2019-07-02,,0,0.0,22.345928,114.19169
+293,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,M,,,24,3,567,415,5750000,2019-06-27,2009-06-17,1550000,270.97,22.343177999999998,114.185509
+294,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 12,1989-09-20,,,,27,D,660,591,5000000,2019-06-23,2014-05-07,3282000,52.35,22.346331,114.187915
+295,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 1,1998-11-30,M,2,,23,F,0,554,8330000,2019-06-23,2012-05-17,3710000,124.53,22.337778,114.1952214
+296,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 4,2001-10-30,H,2,,30,C,595,479,5380000,2019-06-20,2007-08-26,1482000,263.02,22.338191,114.194475
+297,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,M,,,23,16,479,351,4550000,2019-06-20,2006-03-11,990000,359.6,22.343177999999998,114.185509
+298,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block E,1995-02-12,L,,,8,6,737,577,6700000,2019-06-19,2015-01-29,4360000,53.67,22.340034,114.185438
+299,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Pak Yuen House  ( Payu  ),1989-02-01,H,,,30,5,0,489,3500000,2019-06-19,,0,0.0,22.346194999999998,114.19193
+300,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block F,1995-02-12,H,,,18,10,737,577,6530000,2019-06-17,,0,0.0,22.339693,114.185104
+301,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 2,1998-11-30,H,3,,31,H,0,612,6500000,2019-06-13,2019-05-14,6500000,0.0,22.337593,114.195022
+302,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,H,,,35,14,567,415,6000000,2019-06-12,,0,0.0,22.3435521,114.1859154
+303,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 7,1991-07-09,,,,25,H,660,591,7000000,2019-06-10,,0,0.0,22.346087,114.18654
+304,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block A,1992-12-02,M,,,14,10,720,554,7600000,2019-06-04,2000-08-18,2090000,263.64,22.3431636,114.1855014
+305,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,M,,,21,8,479,351,4800000,2019-05-30,2008-09-19,1243000,286.16,22.343300000000003,114.18645599999999
+306,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block B,1992-12-02,H,,,20,1,720,554,5550000,2019-05-28,,0,0.0,22.344448999999997,114.186927
+307,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 4,2001-10-30,H,3,,28,E,869,701,7880000,2019-05-28,2013-07-04,5680000,38.730000000000004,22.338191,114.194475
+308,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 4,1989-09-21,H,,,21,K,481,432,5280000,2019-05-27,2013-11-18,3000000,76.0,22.345947,114.18714299999999
+309,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Yat House (Block 4),1989-12-01,L,,,8,6,0,544,4560000,2019-05-27,,0,0.0,22.338963,114.195564
+310,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 2,1989-09-21,M,,,8,C,660,591,3950000,2019-05-27,1999-02-11,1398000,182.55,22.346458,114.188597
+311,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,L,,,3,2,567,415,4650000,2019-05-27,,0,0.0,22.343177999999998,114.185509
+312,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Wai Yuen House  ( Wayu ),1989-02-01,L,1,,11,21B,0,263,1830000,2019-05-22,,0,0.0,22.345762,114.193016
+313,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 3,1998-11-30,M,3,,15,D,0,756,7680000,2019-05-21,2013-01-29,4320000,77.78,22.337300000000003,114.194814
+314,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block C,1992-12-02,M,,,11,3,521,401,5500000,2019-05-21,2015-01-19,3800000,44.74,22.344019,114.186685
+315,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,L,,,9,5,495,363,4900000,2019-05-21,1998-08-05,1300000,276.92,22.343300000000003,114.18645599999999
+316,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,M,,,13,5,495,363,5100000,2019-05-21,2006-01-13,900000,466.67,22.343177999999998,114.185509
+317,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,H,,,32,2,567,415,5900000,2019-05-21,2004-10-19,1220000,383.61,22.3435521,114.1859154
+318,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Toa Yuen House  ( Toyu  ),1989-09-01,M,,,24,2,0,443,2800000,2019-05-20,,0,0.0,22.347085999999997,114.19476
+319,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Cheung Yuen House  ( Cheu ),1987-10-01,M,,,21,12,0,531,4168000,2019-05-20,2007-06-08,700000,495.43,22.346422,114.19412
+320,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Tat House (Block 1),1990-02-01,H,,,31,21,0,443,3600000,2019-05-20,,0,0.0,22.340054,114.19538
+321,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 12,1989-09-20,M,,,16,H,660,591,7400000,2019-05-19,2010-02-11,2510000,194.82,22.346331,114.187915
+322,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 9,1989-09-20,,,,G,J,660,591,6000000,2019-05-19,,0,0.0,22.346802999999998,114.186684
+323,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Wing House (Block 6),1990-04-01,H,,,24,18,0,357,2650000,2019-05-16,,0,0.0,22.33915,114.19397000000001
+324,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Hong Keung Court,Hong Keung Court,1999-07-08,L,,,8,5,727,539,6230000,2019-05-15,2005-12-28,1232800,405.35,22.337177,114.18963
+325,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block B,1993-01-27,M,,,11,5,515,401,5980000,2019-05-14,2015-01-08,3700000,61.620000000000005,22.340222999999998,114.183959
+326,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 2,1998-11-30,H,3,,31,H,0,612,6500000,2019-05-14,1999-07-18,2123000,206.17000000000002,22.337593,114.195022
+327,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-19,L,,,11,11,583,443,5770000,2019-05-14,,0,0.0,22.345772999999998,114.190553
+328,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 3,1989-09-21,,,,26,F,480,431,5600000,2019-05-14,2011-01-28,2100000,166.67000000000002,22.34685,114.18847
+329,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block A,1998-03-05,L,,,4,4,793,645,7200000,2019-05-09,2012-11-19,3300000,118.18,22.34111,114.18432
+330,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 7,1991-07-09,M,,,17,G,661,592,6720000,2019-05-08,,0,0.0,22.346087,114.18654
+331,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ying Fuk Court,Ying Fuk Court,2001-02-06,M,,,25,10,506,407,4650000,2019-05-07,,0,0.0,22.346724,114.19518
+332,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Yue House (Block 3),1990-01-01,M,,,20,12,0,443,3550000,2019-05-07,,0,0.0,22.339555999999998,114.195274
+333,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ying Fuk Court,Ying Fuk Court,2001-02-06,H,,,29,5,506,407,4400000,2019-05-06,,0,0.0,22.346724,114.19518
+334,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block A,1998-03-05,M,,,9,4,793,645,6980000,2019-05-06,,0,0.0,22.34111,114.18432
+335,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,M,,,17,4,462,338,4680000,2019-05-06,2013-08-07,2600000,80.0,22.343159,114.187956
+336,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Toa Yuen House  ( Toyu  ),1989-09-01,H,,,29,21,0,489,3550000,2019-05-03,,0,0.0,22.347085999999997,114.19476
+337,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Yung Yuen House  ( Yuyu  ),1987-10-01,M,,,20,18,0,443,2900000,2019-05-03,,0,0.0,22.34637,114.19328
+338,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Wah House (Block 7),1990-04-01,M,,,18,13,0,439,3680000,2019-05-03,,0,0.0,22.338907,114.19435
+339,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Yung Yuen House  ( Yuyu  ),1987-10-01,M,,,18,7,0,443,3350000,2019-05-03,,0,0.0,22.34637,114.19328
+340,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 12,1989-09-20,L,,,6,B,540,484,5200000,2019-05-02,,0,0.0,22.346331,114.187915
+341,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 9,1989-09-20,M,,,14,J,660,591,6500000,2019-05-02,2010-07-13,2260000,187.61,22.346802999999998,114.186684
+342,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,M,,,14,4,462,338,4400000,2019-05-02,,0,0.0,22.343159,114.187956
+343,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 7,1991-07-09,L,,,2,A,480,431,4830000,2019-04-30,2013-06-13,2660000,81.58,22.346087,114.18654
+344,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,H,,,33,16,479,351,5100000,2019-04-30,2014-11-18,3350000,52.24,22.343159,114.187956
+345,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 9,1989-09-21,M,,,18,A,480,431,5280000,2019-04-30,2014-08-06,3210000,64.49,22.346802999999998,114.186684
+346,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,H,,,33,2,567,415,5800000,2019-04-29,2007-11-08,1100000,427.27,22.343159,114.187956
+347,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,L,,,2,1,495,363,4880000,2019-04-29,1997-05-13,1780000,174.16,22.3435521,114.1859154
+348,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 10,1989-09-20,,,,26,G,661,592,7280000,2019-04-28,2012-04-16,3500000,108.0,22.346646,114.187168
+349,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,M,,,20,10,567,415,4800000,2019-04-26,1997-06-11,3000000,60.0,22.3435521,114.1859154
+350,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block E,1995-02-12,M,,,13,9,825,645,7350000,2019-04-25,,0,0.0,22.340034,114.185438
+351,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 9,1989-09-20,H,,,21,H,660,591,6760000,2019-04-24,,0,0.0,22.346802999999998,114.186684
+352,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 6,1989-09-21,H,,,16,A,480,431,5160000,2019-04-23,2012-03-16,2120000,143.4,22.345526,114.1862946
+353,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,M,,,13,6,567,415,5500000,2019-04-23,2016-04-25,3880000,41.75,22.343159,114.187956
+354,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block C,1993-01-28,L,,,6,1,739,577,5780000,2019-04-18,,0,0.0,22.340419999999998,114.184366
+355,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,L,,,10,1,495,363,5180000,2019-04-18,1996-12-06,1790000,189.39000000000001,22.3435521,114.1859154
+356,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ying Fuk Court,Ying Fuk Court,2001-02-06,L,,,5,7,695,559,5250000,2019-04-17,,0,0.0,22.346724,114.19518
+357,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 9,1989-09-20,L,,,3,H,660,591,6000000,2019-04-17,1999-07-16,1900000,215.79,22.346802999999998,114.186684
+358,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block B,1993-01-27,L,,,1,10,515,401,5888000,2019-04-17,,0,0.0,22.340222999999998,114.183959
+359,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Fung House (Block 2),1990-12-01,M,,,21,5,0,407,3300000,2019-04-17,,0,0.0,22.339631999999998,114.19460000000001
+360,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block A,1998-03-05,M,,,14,5,501,407,4650000,2019-04-16,,0,0.0,22.34111,114.18432
+361,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block A,1992-12-02,H,,,19,6,521,401,5780000,2019-04-15,2013-08-05,2400000,140.83,22.3431636,114.1855014
+362,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Yue House (Block 3),1990-01-01,L,,,5,16,0,407,4830000,2019-04-15,2012-09-21,2000000,141.5,22.339555999999998,114.195274
+363,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block A,1998-03-05,M,,,10,10,501,407,4750000,2019-04-11,2010-07-19,1350000,251.85,22.34111,114.18432
+364,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 3,1989-09-21,L,,,7,F,480,431,4850000,2019-04-11,2009-07-30,1368000,254.53,22.34685,114.18847
+365,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,M,,,19,5,495,363,4950000,2019-04-09,2012-07-05,2250000,120.0,22.3435521,114.1859154
+366,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tak Keung Court,Block A,2001-01-31,H,,,29,5,506,404,5100000,2019-04-07,2005-10-17,1500000,240.0,22.33944,114.186104
+367,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,L,,,1,9,495,363,4508000,2019-04-04,,0,0.0,22.343300000000003,114.18645599999999
+368,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Chung Yuen House  ( Chun  ),1989-03-01,M,,,18,19,0,443,2950000,2019-04-03,,0,0.0,22.345928,114.19169
+369,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block B,2000-12-10,L,,,2,8,503,407,4180000,2019-04-02,,0,0.0,22.341552999999998,114.18467
+370,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Yat House (Block 4),1989-12-01,L,,,4,18,0,443,3100000,2019-04-01,,0,0.0,22.338963,114.195564
+371,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block E,1995-02-12,L,,,2,1,737,577,6320000,2019-03-28,,0,0.0,22.340034,114.185438
+372,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block F,1995-02-12,H,,,18,2,825,645,7500000,2019-03-28,1999-09-28,2580000,190.70000000000002,22.339693,114.185104
+373,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,H,,,29,12,495,363,4950000,2019-03-28,2013-06-20,3000000,65.0,22.343515999999997,114.187557
+374,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 11,1989-09-20,L,,,4,J,660,591,6330000,2019-03-27,2014-07-03,3750000,68.8,22.34619,114.18752
+375,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,H,,,31,13,495,363,5200000,2019-03-27,,0,0.0,22.343300000000003,114.18645599999999
+376,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Wah House (Block 7),1990-04-01,M,,,18,16,0,357,2880000,2019-03-27,,0,0.0,22.338907,114.19435
+377,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 1,1989-09-20,L,,,6,F,480,431,4800000,2019-03-21,,0,0.0,22.345990999999998,114.188782
+378,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,M,,,18,8,495,363,3000000,2019-03-21,2014-04-23,3000000,0.0,22.343515999999997,114.187557
+379,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Toa Yuen House  ( Toyu  ),1989-09-01,M,,,13,1,0,381,4280000,2019-03-21,2015-10-08,3030000,41.25,22.347085999999997,114.19476
+380,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,M,,,20,2,567,415,5400000,2019-03-21,2006-11-21,1260000,328.57,22.343515999999997,114.187557
+381,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 1,1989-09-20,L,,,4,D,660,591,6280000,2019-03-20,2014-04-28,3850000,63.120000000000005,22.345990999999998,114.188782
+382,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,M,,,24,8,479,351,4658000,2019-03-19,,0,0.0,22.343177999999998,114.185509
+383,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 4,2001-10-30,M,3,,26,E,869,701,9500000,2019-03-17,2007-08-30,2105000,351.31,22.338191,114.194475
+384,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,H,,,30,4,462,338,4750000,2019-03-15,2014-06-30,2950000,61.02,22.343177999999998,114.185509
+385,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block D,1995-02-12,M,,,17,3,513,401,6000000,2019-03-14,,0,0.0,22.340425,114.185155
+386,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block B,1993-01-27,M,,,9,3,515,401,5900000,2019-03-14,,0,0.0,22.340222999999998,114.183959
+387,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Toa Yuen House  ( Toyu  ),1989-09-01,M,,,19,7,0,443,4300000,2019-03-14,2009-11-23,1390000,209.35,22.347085999999997,114.19476
+388,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 1,1989-09-20,M,,,12,K,540,484,5030000,2019-03-13,2013-03-13,2500000,101.2,22.345990999999998,114.188782
+389,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,L,,,9,3,567,415,5080000,2019-03-11,2010-05-03,1745000,191.12,22.343177999999998,114.185509
+390,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block B,2000-12-10,H,,,28,1,691,559,6450000,2019-03-10,,0,0.0,22.341552999999998,114.18467
+391,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block C,1992-12-02,H,,,15,3,521,401,5228000,2019-03-10,2005-09-22,1200000,335.67,22.344019,114.186685
+392,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ying Fuk Court,Ying Fuk Court,2001-02-06,H,,,26,8,506,407,4300000,2019-03-06,,0,0.0,22.346724,114.19518
+393,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Wai Yuen House  ( Wayu ),1989-02-01,M,,,13,24,0,381,4180000,2019-03-06,2015-11-27,3200000,30.63,22.345762,114.193016
+394,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Toa Yuen House  ( Toyu  ),1989-09-01,M,,,18,19,0,443,3030000,2019-03-05,,0,0.0,22.347085999999997,114.19476
+395,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 10,1989-09-20,L,,,2,A,480,431,4620000,2019-02-28,,0,0.0,22.346646,114.187168
+396,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Yung Yuen House  ( Yuyu  ),1987-10-01,L,,,12,13,0,447,2650000,2019-02-25,,0,0.0,22.34637,114.19328
+397,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block E,1995-02-12,H,,,21,2,737,577,5920000,2019-02-20,,0,0.0,22.340034,114.185438
+398,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,H,,,33,4,462,338,4700000,2019-02-20,2015-12-07,3780000,24.34,22.3435521,114.1859154
+399,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,L,,,11,12,462,338,4668000,2019-02-18,2015-02-04,3530000,32.24,22.343300000000003,114.18645599999999
+400,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Wai Yuen House  ( Wayu ),1989-02-01,H,1,,25,12B,0,263,1650000,2019-02-15,,0,0.0,22.345762,114.193016
+401,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Wah House (Block 7),1990-04-01,L,,,6,7,0,428,2880000,2019-02-13,,0,0.0,22.338907,114.19435
+402,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block B,2000-12-10,H,,,35,8,503,407,4880000,2019-02-12,,0,0.0,22.341552999999998,114.18467
+403,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,M,,,22,14,567,415,5400000,2019-02-04,,0,0.0,22.343159,114.187956
+404,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,H,,,28,14,567,415,5500000,2019-02-04,2017-04-26,4800000,14.58,22.343300000000003,114.18645599999999
+405,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,M,,,19,4,462,338,4000000,2019-02-01,2010-12-14,1700000,135.29,22.343159,114.187956
+406,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 1,1998-11-30,M,2,,27,C,0,506,4480000,2019-01-29,1997-04-14,1870000,139.57,22.337778,114.1952214
+407,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 5,1989-09-20,L,,,7,G,661,592,4000000,2019-01-23,,0,0.0,22.345672999999998,114.186747
+408,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tak Keung Court,Block B,2001-02-01,L,,,12,3,506,404,4815000,2019-01-22,,0,0.0,22.339002999999998,114.18607
+409,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Hong House (Block 15),1990-08-01,L,,,6,12,0,494,3200000,2019-01-21,,0,0.0,22.338278,114.19400999999999
+410,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Tung Yuen House  ( Tuyu  ),1987-12-01,H,,,29,10,0,443,3050000,2019-01-18,2011-03-18,1200000,154.17000000000002,22.345705,114.19454
+411,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 14,1991-07-08,L,,,1,E,540,484,4500000,2019-01-17,,0,0.0,22.346087999999998,114.18928
+412,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,H,,,32,12,462,338,4600000,2019-01-17,2012-09-11,2520000,82.54,22.3435521,114.1859154
+413,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,H,,,33,3,567,415,5300000,2019-01-17,1998-01-08,2800000,89.29,22.343515999999997,114.187557
+414,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Toa Yuen House  ( Toyu  ),1989-09-01,M,,,20,10,0,443,2900000,2019-01-17,,0,0.0,22.347085999999997,114.19476
+415,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block B,2000-12-10,L,,,1,8,503,407,3920000,2019-01-16,,0,0.0,22.341552999999998,114.18467
+416,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Wai Yuen House  ( Wayu ),1989-02-01,L,,,4,17,0,485,3000000,2019-01-16,,0,0.0,22.345762,114.193016
+417,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Fung House (Block 2),1990-12-01,H,,,31,20,0,385,2850000,2019-01-09,,0,0.0,22.339631999999998,114.19460000000001
+418,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Yue House (Block 3),1990-01-01,L,,,3,9,0,407,2700000,2019-01-09,,0,0.0,22.339555999999998,114.195274
+419,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,L,,,7,12,462,338,4000000,2019-01-08,2004-02-16,650000,515.38,22.343300000000003,114.18645599999999
+420,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Toa Yuen House  ( Toyu  ),1989-09-01,H,,,32,11,0,443,3000000,2019-01-08,,0,0.0,22.347085999999997,114.19476
+421,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,L,,,11,11,567,415,5550000,2019-01-07,2014-06-03,3530000,57.22,22.343515999999997,114.187557
+422,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Wing House (Block 6),1990-04-01,H,,,20,5,0,241,1550000,2019-01-04,,0,0.0,22.33915,114.19397000000001
+423,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,L,,,12,4,462,338,4590000,2019-01-04,2015-08-07,3880000,18.3,22.3435521,114.1859154
+424,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Chung Yuen House  ( Chun  ),1989-03-01,H,,,35,9,0,485,3180000,2018-12-20,,0,0.0,22.345928,114.19169
+425,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Hong Keung Court,Hong Keung Court,1999-07-07,M,,,23,7,579,429,4338000,2018-12-12,,0,0.0,22.337177,114.18963
+426,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Yue House (Block 3),1990-01-01,M,,,18,1,0,443,2380000,2018-12-07,,0,0.0,22.339555999999998,114.195274
+427,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Fung House (Block 2),1990-12-01,M,,,22,19,0,407,2900000,2018-12-04,,0,0.0,22.339631999999998,114.19460000000001
+428,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Cheung Yuen House  ( Cheu ),1987-10-01,L,,,12,4,0,489,5200000,2018-12-03,,0,0.0,22.346422,114.19412
+429,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,M,,,13,7,567,415,5450000,2018-11-28,2012-01-18,2300000,136.96,22.3435521,114.1859154
+430,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Hong Keung Court,Hong Keung Court,1999-07-08,L,,,11,14,583,433,4280000,2018-11-28,,0,0.0,22.337177,114.18963
+431,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 5,1989-09-20,H,,,21,A,480,431,2000000,2018-11-25,2013-04-29,2900000,-31.03,22.345672999999998,114.186747
+432,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Yue House (Block 3),1990-01-01,L,,,6,8,0,385,2380000,2018-11-22,,0,0.0,22.339555999999998,114.195274
+433,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Fung House (Block 2),1990-12-01,L,,,2,21,0,441,2480000,2018-11-22,,0,0.0,22.339631999999998,114.19460000000001
+434,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,L,,,7,10,567,415,5200000,2018-11-22,,0,0.0,22.343515999999997,114.187557
+435,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Chak House (Block 9),1991-10-01,L,,,4,5,0,494,3808000,2018-11-22,2014-10-23,2300000,65.57000000000001,22.338317999999997,114.19541
+436,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Wing House (Block 6),1990-04-01,H,,,19,9,0,377,2480000,2018-11-20,,0,0.0,22.33915,114.19397000000001
+437,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Fung House (Block 2),1990-12-01,L,,,2,20,0,383,2330000,2018-11-20,,0,0.0,22.339631999999998,114.19460000000001
+438,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block E,1995-02-12,L,,,9,6,737,577,5660000,2018-11-04,2007-10-03,1650000,243.03,22.340034,114.185438
+439,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block C,1993-01-27,M,,,9,8,515,401,6000000,2018-10-31,2010-11-09,2568000,133.64000000000001,22.340419999999998,114.184366
+440,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block A,1998-03-05,L,,,1,8,501,407,3950000,2018-10-17,,0,0.0,22.34111,114.18432
+441,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-19,L,,,2,10,583,443,5000000,2018-10-17,,0,0.0,22.345772999999998,114.190553
+442,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tak Keung Court,Block B,2001-02-01,H,,,30,9,821,656,8100000,2018-10-16,2013-03-15,4900000,65.31,22.339002999999998,114.18607
+443,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Yat House (Block 4),1989-12-01,M,,,20,1,0,443,3400000,2018-10-11,,0,0.0,22.338963,114.195564
+444,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,L,,,2,13,462,338,3600000,2018-10-10,1998-03-05,1750000,105.71000000000001,22.343515999999997,114.187557
+445,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 4,1989-09-21,M,,,11,C,660,591,7000000,2018-09-24,2013-07-22,3760000,86.17,22.345947,114.18714299999999
+446,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 3,1989-09-21,L,,,4,A,480,431,4960000,2018-09-21,,0,0.0,22.34685,114.18847
+447,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block C,1993-01-27,L,,,1,8,515,401,5548000,2018-09-12,,0,0.0,22.340419999999998,114.184366
+448,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-19,L,,,9,6,583,443,5230000,2018-09-12,2001-08-01,700000,647.14,22.345772999999998,114.190553
+449,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 9,1989-09-20,,,,27,K,540,484,5930000,2018-09-11,2012-03-20,2430000,144.03,22.346802999999998,114.186684
+450,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block A,1998-03-05,H,,,19,6,717,582,6520000,2018-09-11,2005-04-27,1450000,349.66,22.34111,114.18432
+451,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,H,,,36,16,479,351,5390000,2018-09-10,2000-10-31,1000000,439.0,22.343177999999998,114.185509
+452,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,M,,,18,11,567,415,5500000,2018-09-07,2012-06-11,2850000,92.98,22.343300000000003,114.18645599999999
+453,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Wing House (Block 6),1990-04-01,H,,,20,12,0,145,1800000,2018-09-06,,0,0.0,22.33915,114.19397000000001
+454,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,H,,,33,12,462,338,4960000,2018-09-04,,0,0.0,22.343177999999998,114.185509
+455,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-19,L,,,4,13,643,489,6380000,2018-09-02,2015-05-21,3830000,66.58,22.345772999999998,114.190553
+456,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 14,1991-07-09,L,,,3,K,660,592,7050000,2018-08-31,2015-02-26,4680000,50.64,22.346087999999998,114.18928
+457,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,L,,,8,9,495,363,5080000,2018-08-30,,0,0.0,22.343159,114.187956
+458,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,L,,,10,3,567,415,5650000,2018-08-30,2001-09-18,1000000,465.0,22.343300000000003,114.18645599999999
+459,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,M,,,13,15,567,415,5600000,2018-08-30,2010-02-08,1850000,202.70000000000002,22.343515999999997,114.187557
+460,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 2,1989-09-20,M,,,11,K,540,484,5300000,2018-08-29,2010-03-24,1635000,224.16,22.346458,114.188597
+461,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,H,,,28,10,567,415,4600000,2018-08-29,1997-07-07,2750000,67.27,22.3435521,114.1859154
+462,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 6,1989-09-20,,,,G,G,482,433,4500000,2018-08-27,2009-09-21,1350000,233.33,22.345526,114.1862946
+463,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 2,1998-11-30,L,3,,12,H,0,612,8750000,2018-08-27,1999-07-29,1771000,394.07,22.337593,114.195022
+464,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 3,1998-11-30,L,2,,8,C,0,554,5460000,2018-08-26,2018-06-04,5460000,0.0,22.337300000000003,114.194814
+465,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Shun House (Block 8),1990-04-01,L,,,10,14,0,439,3268000,2018-08-24,,0,0.0,22.33848,114.194664
+466,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 4,1989-09-21,L,,,2,B,540,484,5100000,2018-08-22,2010-11-22,1820000,180.22,22.345947,114.18714299999999
+467,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block B,2000-12-11,M,,,23,5,503,407,4830000,2018-08-10,2015-03-11,3180000,51.89,22.341552999999998,114.18467
+468,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 10,1989-09-20,,,,28,J,660,591,7200000,2018-08-06,2007-04-12,1730000,316.18,22.346646,114.187168
+469,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,L,,,12,16,479,351,5000000,2018-08-03,,0,0.0,22.343177999999998,114.185509
+470,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-19,M,,,22,11,583,443,5930000,2018-08-02,,0,0.0,22.345772999999998,114.190553
+471,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 10,1989-09-20,,,,22,A,480,431,5200000,2018-08-02,2010-09-05,1725000,201.45000000000002,22.346646,114.187168
+472,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Tat House (Block 1),1990-02-01,L,,,6,21,0,443,2800000,2018-08-01,,0,0.0,22.340054,114.19538
+473,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Cheung Yuen House  ( Cheu ),1987-10-01,H,,,30,10,0,443,3250000,2018-07-30,,0,0.0,22.346422,114.19412
+474,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-19,L,,,3,22,583,443,5288000,2018-07-26,,0,0.0,22.345772999999998,114.190553
+475,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,H,,,27,9,495,363,5350000,2018-07-26,2015-07-28,3950000,35.44,22.343159,114.187956
+476,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Yung Yuen House  ( Yuyu  ),1987-10-01,L,,,7,14,0,443,5000000,2018-07-26,2014-08-01,2500000,100.0,22.34637,114.19328
+477,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,H,,,27,16,479,351,4900000,2018-07-25,2001-02-08,950000,415.79,22.3435521,114.1859154
+478,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 13,1991-07-08,,,,G,F,480,431,5160000,2018-07-23,2011-02-24,1263000,308.55,22.34648,114.18915
+479,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Chung Yuen House  ( Chun  ),1989-03-01,M,,,17,1,0,381,4480000,2018-07-23,,0,0.0,22.345928,114.19169
+480,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 5,1989-09-21,H,,,20,C,660,591,6950000,2018-07-20,,0,0.0,22.345672999999998,114.186747
+481,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 14,1991-07-08,,,,18,J,660,592,7120000,2018-07-19,2002-10-10,1260000,465.08,22.346087999999998,114.18928
+482,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 3,1989-09-20,,,,25,K,481,432,5420000,2018-07-19,2009-07-07,1320000,310.61,22.34685,114.18847
+483,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 2,1989-09-20,M,,,11,E,540,484,5500000,2018-07-18,,0,0.0,22.346458,114.188597
+484,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,L,,,12,3,567,415,5400000,2018-07-16,2007-11-14,1350000,300.0,22.3435521,114.1859154
+485,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Cheung Yuen House  ( Cheu ),1987-10-01,M,,,19,19,0,443,3000000,2018-07-16,,0,0.0,22.346422,114.19412
+486,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 4,2001-10-30,L,2,,9,B,597,481,6750000,2018-07-12,2007-08-28,1296000,420.83,22.338191,114.194475
+487,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Yue House (Block 3),1990-01-01,M,,,21,1,0,443,5668000,2018-07-12,,0,0.0,22.339555999999998,114.195274
+488,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 6,1989-09-20,L,,,2,G,482,433,3600000,2018-07-09,2006-10-15,1020000,252.94,22.345526,114.1862946
+489,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Tat House (Block 1),1990-02-01,M,,,16,15,0,443,3550000,2018-07-09,,0,0.0,22.340054,114.19538
+490,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block B,2000-12-10,H,,,29,4,798,645,8000000,2018-07-02,2006-04-10,2180000,266.97,22.341552999999998,114.18467
+491,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block B,1992-12-02,L,,,1,5,521,401,4000000,2018-06-28,2010-02-10,1488000,168.82,22.344448999999997,114.186927
+492,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 8,1989-09-21,L,2,,10,A,480,431,5380000,2018-06-28,,0,0.0,22.346396,114.186511
+493,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Toa Yuen House  ( Toyu  ),1989-09-01,H,,,30,3,0,443,2880000,2018-06-28,,0,0.0,22.347085999999997,114.19476
+494,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,H,,,30,9,479,351,4950000,2018-06-26,,0,0.0,22.343515999999997,114.187557
+495,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,L,,,2,10,567,415,5220000,2018-06-26,2004-03-27,866000,502.77000000000004,22.343177999999998,114.185509
+496,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,L,,,10,1,495,363,5230000,2018-06-25,2013-06-17,2950000,77.29,22.343300000000003,114.18645599999999
+497,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Tung Yuen House  ( Tuyu  ),1987-12-01,L,,,7,12,0,531,3620000,2018-06-22,,0,0.0,22.345705,114.19454
+498,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,H,,,32,4,462,338,4200000,2018-06-21,1999-06-01,1360000,208.82,22.343177999999998,114.185509
+499,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 7,1991-07-09,,,,26,E,540,484,5850000,2018-06-15,,0,0.0,22.346087,114.18654
+500,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 8,1989-09-21,L,2,,10,B,540,484,5480000,2018-06-15,,0,0.0,22.346396,114.186511
+501,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 11,1989-09-20,M,,,11,A,480,431,5200000,2018-06-13,2015-04-08,3500000,48.57,22.34619,114.18752
+502,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 12,1989-09-20,M,,,14,F,480,431,4800000,2018-06-12,2010-03-09,1820000,163.74,22.346331,114.187915
+503,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tak Keung Court,Block B,2001-02-01,M,,,16,2,719,574,7080000,2018-06-12,,0,0.0,22.339002999999998,114.18607
+504,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 7,1991-07-09,M,,,20,B,540,484,5500000,2018-06-11,2009-07-29,1720000,219.77,22.346087,114.18654
+505,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,H,,,30,5,462,338,4890000,2018-06-11,2006-02-08,1000000,389.0,22.343515999999997,114.187557
+506,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,M,,,18,2,567,415,5550000,2018-06-08,,0,0.0,22.343300000000003,114.18645599999999
+507,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 14,1991-07-09,,,,20,G,480,431,5400000,2018-06-06,,0,0.0,22.346087999999998,114.18928
+508,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Chung Yuen House  ( Chun  ),1989-03-01,M,,,13,10,0,443,3080000,2018-06-06,,0,0.0,22.345928,114.19169
+509,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-19,M,,,14,10,583,443,5680000,2018-06-05,2013-01-03,2830000,100.71000000000001,22.345772999999998,114.190553
+510,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 3,1998-11-30,L,2,,8,C,0,554,5460000,2018-06-04,1997-05-27,1897000,187.82,22.337300000000003,114.194814
+511,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Mui Yuen House  ( Muyu  ),1987-12-01,L,,,8,1,0,381,4000000,2018-06-04,,0,0.0,22.345807999999998,114.1954
+512,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 3,1989-09-21,L,,,10,B,540,484,5380000,2018-06-01,2010-06-08,1730000,210.98000000000002,22.34685,114.18847
+513,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,L,,,9,8,479,351,4400000,2018-05-31,2004-03-13,750000,486.67,22.343159,114.187956
+514,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,L,,,2,13,495,363,4650000,2018-05-25,,0,0.0,22.3435521,114.1859154
+515,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,L,,,7,15,567,415,5250000,2018-05-25,2013-01-09,2950000,77.97,22.343177999999998,114.185509
+516,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,M,,,17,13,495,363,4600000,2018-05-25,2010-05-11,1630000,182.21,22.343159,114.187956
+517,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block B,1992-12-03,L,,,2,10,521,401,5200000,2018-05-24,2006-08-01,1020000,409.8,22.344448999999997,114.186927
+518,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Fung House (Block 2),1990-12-01,M,,,16,21,0,443,5950000,2018-05-24,2010-03-16,1580000,276.58,22.339631999999998,114.19460000000001
+519,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 5,2001-10-30,L,2,,11,B,632,510,6280000,2018-05-23,2007-09-13,1386000,353.1,22.337774,114.19416
+520,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Hong House (Block 15),1990-08-01,H,,,24,5,0,494,3668000,2018-05-15,,0,0.0,22.338278,114.19400999999999
+521,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,H,,,31,16,479,351,5000000,2018-05-15,2014-05-15,3200000,56.25,22.343177999999998,114.185509
+522,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,M,,,21,7,567,415,5630000,2018-05-10,,0,0.0,22.343159,114.187956
+523,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,L,,,12,14,567,415,5200000,2018-05-04,2001-04-20,1200000,333.33,22.343177999999998,114.185509
+524,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,H,,,28,6,567,415,5500000,2018-05-03,2012-06-15,2750000,100.0,22.343177999999998,114.185509
+525,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 9,1989-09-20,,,,27,C,660,591,6850000,2018-05-01,2003-05-06,1170000,485.47,22.346802999999998,114.186684
+526,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 1,1998-12-01,L,2,,5,B,0,488,6150000,2018-04-27,2013-02-07,4120000,49.27,22.337778,114.1952214
+527,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,L,,,2,12,462,338,4500000,2018-04-27,2012-09-19,2050000,119.51,22.343177999999998,114.185509
+528,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block A,1992-12-02,H,,,18,4,720,554,5680000,2018-04-25,,0,0.0,22.3431636,114.1855014
+529,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,H,,,37,12,495,363,4980000,2018-04-25,,0,0.0,22.343515999999997,114.187557
+530,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 11,1989-09-20,,,,19,J,660,591,6000000,2018-04-24,,0,0.0,22.34619,114.18752
+531,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,M,,,20,5,495,363,4748000,2018-04-24,2014-03-25,2980000,59.33,22.343300000000003,114.18645599999999
+532,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Hong Keung Court,Hong Keung Court,1999-07-08,L,,,13,15,583,433,4500000,2018-04-23,2014-06-03,2800000,60.71,22.337177,114.18963
+533,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 6,1989-09-21,M,,,14,K,481,432,4900000,2018-04-23,2011-03-25,2000000,145.0,22.345526,114.1862946
+534,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,L,,,11,4,462,338,4650000,2018-04-23,,0,0.0,22.343159,114.187956
+535,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Wai Yuen House  ( Wayu ),1989-02-01,M,,,20,1,0,381,2580000,2018-04-20,,0,0.0,22.345762,114.193016
+536,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 1,1989-09-21,L,,,7,C,660,591,6600000,2018-04-19,2009-03-16,1680000,292.86,22.345990999999998,114.188782
+537,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 8,1989-09-21,H,3,,21,J,660,591,6260000,2018-04-19,,0,0.0,22.346396,114.186511
+538,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 1,1998-11-30,H,2,,35,G,0,495,6800000,2018-04-16,1999-07-30,1561000,335.62,22.337778,114.1952214
+539,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,L,,,9,15,567,415,5200000,2018-04-13,2012-01-16,2500000,108.0,22.3435521,114.1859154
+540,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,L,,,7,4,462,338,4000000,2018-04-12,,0,0.0,22.343177999999998,114.185509
+541,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block E,1995-02-12,L,,,1,5,513,401,5450000,2018-04-11,2004-04-06,880000,519.32,22.340034,114.185438
+542,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,L,,,5,16,495,363,4800000,2018-04-11,2012-03-08,2100000,128.57,22.343515999999997,114.187557
+543,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Chak House (Block 9),1991-10-01,L,,,2,11,0,494,4800000,2018-04-11,,0,0.0,22.338317999999997,114.19541
+544,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Yung Yuen House  ( Yuyu  ),1987-10-01,H,,,32,8,0,485,3560000,2018-04-10,,0,0.0,22.34637,114.19328
+545,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 14,1991-07-08,,,,21,B,540,484,5400000,2018-04-09,2012-05-27,2565000,110.53,22.346087999999998,114.18928
+546,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,H,,,32,4,462,338,4500000,2018-04-09,,0,0.0,22.3435521,114.1859154
+547,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Toa Yuen House  ( Toyu  ),1989-09-01,L,,,10,3,0,443,4800000,2018-04-09,,0,0.0,22.347085999999997,114.19476
+548,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,H,,,31,4,462,338,4830000,2018-04-06,2014-09-01,3250000,48.620000000000005,22.343159,114.187956
+549,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Chak House (Block 9),1991-10-01,L,,,10,7,0,377,3850000,2018-04-06,2011-08-26,2100000,83.33,22.338317999999997,114.19541
+550,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,M,,,17,13,495,363,4900000,2018-04-06,2013-03-19,3050000,60.660000000000004,22.343177999999998,114.185509
+551,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,L,,,2,1,495,363,4330000,2018-04-04,,0,0.0,22.343159,114.187956
+552,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Fung House (Block 2),1990-12-01,M,,,14,18,0,397,2400000,2018-04-03,,0,0.0,22.339631999999998,114.19460000000001
+553,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 1,1998-12-01,H,2,,36,B,0,488,6330000,2018-03-23,1999-08-06,1546000,309.44,22.337778,114.1952214
+554,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 8,1989-09-21,M,2,,18,F,480,431,5250000,2018-03-23,2014-04-24,3400000,54.410000000000004,22.346396,114.186511
+555,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 2,1998-11-30,L,3,,11,E,0,756,7150000,2018-03-21,1999-12-17,2000000,257.5,22.337593,114.195022
+556,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 12,1989-09-20,M,,,16,B,540,484,5280000,2018-03-20,2011-06-23,2600000,103.08,22.346331,114.187915
+557,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 13,1991-07-08,,,,18,A,480,431,5700000,2018-03-19,2011-03-16,2050000,178.05,22.34648,114.18915
+558,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Chung Yuen House  ( Chun  ),1989-03-01,L,,,11,20,0,489,3580000,2018-03-14,2006-11-10,730000,390.41,22.345928,114.19169
+559,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block C (Chun Fei House),1986-06-24,M,,,23,11,567,415,4000000,2018-03-13,2012-03-30,2550000,56.86,22.343300000000003,114.18645599999999
+560,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block C,1993-01-27,L,,,1,3,515,401,5300000,2018-03-12,,0,0.0,22.340419999999998,114.184366
+561,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 2,1989-09-20,H,,,19,H,660,591,6380000,2018-03-11,2011-08-10,2000000,219.0,22.346458,114.188597
+562,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,M,,,22,9,495,363,4600000,2018-03-07,2014-12-15,3300000,39.39,22.343177999999998,114.185509
+563,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 13,1991-07-08,H,,,16,F,480,431,4880000,2018-03-05,,0,0.0,22.34648,114.18915
+564,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,L,,,4,11,567,415,3330000,2018-03-05,,0,0.0,22.343177999999998,114.185509
+565,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 8,1989-09-21,M,,,13,H,660,591,6680000,2018-03-02,2008-01-28,2060000,224.27,22.346396,114.186511
+566,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block C,1992-12-02,M,,,14,9,720,554,7000000,2018-03-01,,0,0.0,22.344019,114.186685
+567,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Ka Keung Court,Block B,2000-12-10,L,,,11,2,691,559,6680000,2018-02-28,,0,0.0,22.341552999999998,114.18467
+568,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-19,L,,,4,5,643,489,4320000,2018-02-28,,0,0.0,22.345772999999998,114.190553
+569,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Fung House (Block 2),1990-12-01,L,,,6,14,0,443,3150000,2018-02-28,,0,0.0,22.339631999999998,114.19460000000001
+570,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block F,1995-02-12,L,,,7,6,513,401,4380000,2018-02-27,2001-01-16,1230000,256.1,22.339693,114.185104
+571,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 1,1989-09-20,M,,,8,K,540,484,5200000,2018-02-27,,0,0.0,22.345990999999998,114.188782
+572,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,L,,,4,4,462,338,4220000,2018-02-27,2010-09-03,1480000,185.14000000000001,22.343177999999998,114.185509
+573,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 14,1991-07-09,L,,,4,G,480,431,4580000,2018-02-27,,0,0.0,22.346087999999998,114.18928
+574,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-20,M,,,19,8,502,381,3950000,2018-02-27,2011-07-22,2000000,97.5,22.345772999999998,114.190553
+575,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 12,1989-09-20,L,,,3,J,660,591,3760000,2018-02-26,,0,0.0,22.346331,114.187915
+576,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,M,,,14,15,567,415,3750000,2018-02-23,,0,0.0,22.3435521,114.1859154
+577,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,H,,,34,7,567,415,5400000,2018-02-23,2014-09-15,3750000,44.0,22.343177999999998,114.185509
+578,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 14,1991-07-09,L,,,6,A,480,431,4600000,2018-02-22,2014-12-17,3480000,32.18,22.346087999999998,114.18928
+579,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block F,1995-02-12,H,,,22,10,737,577,8350000,2018-02-21,,0,0.0,22.339693,114.185104
+580,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,M,,,22,5,495,363,4600000,2018-02-15,2011-02-10,2030000,126.60000000000001,22.343159,114.187956
+581,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 5,1989-09-20,L,,,3,E,540,484,5100000,2018-02-13,2008-01-28,1200000,325.0,22.345672999999998,114.186747
+582,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block A,1992-12-02,M,,,10,1,521,401,5050000,2018-02-13,2010-07-28,1972000,156.09,22.3431636,114.1855014
+583,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,M,,,24,11,567,415,4950000,2018-02-13,,0,0.0,22.343177999999998,114.185509
+584,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 3,1989-09-21,M,,,17,E,540,484,5490000,2018-02-13,2011-12-15,2320000,136.64000000000001,22.34685,114.18847
+585,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,L,,,1,15,567,415,4600000,2018-02-09,2010-05-31,1630000,182.21,22.3435521,114.1859154
+586,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Wai Yuen House  ( Wayu ),1989-02-01,M,1,,14,12B,0,263,1820000,2018-02-08,,0,0.0,22.345762,114.193016
+587,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block B (Chun Wai House),1986-06-24,H,,,28,9,495,363,4500000,2018-02-08,2011-11-11,2120000,112.26,22.3435521,114.1859154
+588,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block F,1995-02-12,M,,,16,3,513,401,6480000,2018-02-06,2009-07-07,2160717,199.9,22.339693,114.185104
+589,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block D (Chun On House),1986-11-21,H,,,33,1,479,351,4500000,2018-02-06,2009-09-02,1388000,224.21,22.343515999999997,114.187557
+590,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 6,1989-09-20,M,,,9,H,660,591,6300000,2018-02-05,,0,0.0,22.345526,114.1862946
+591,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Kai Tak Garden,Block 2,1998-11-30,M,3,,17,H,0,612,7900000,2018-02-05,1999-08-02,1806000,337.43,22.337593,114.195022
+592,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block A,1992-12-02,M,,,14,2,837,645,8200000,2018-02-01,,0,0.0,22.3431636,114.1855014
+593,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 9,1989-09-20,M,,,20,K,540,484,4850000,2018-01-30,,0,0.0,22.346802999999998,114.186684
+594,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 1,1989-09-20,H,,,16,F,480,431,5260000,2018-01-28,2010-01-25,1690000,211.24,22.345990999999998,114.188782
+595,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Wing House (Block 6),1990-04-01,L,,,3,18,0,357,2375000,2018-01-26,,0,0.0,22.33915,114.19397000000001
+596,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Wang Court,Block A,1992-12-02,H,,,19,3,521,401,4980000,2018-01-25,2011-09-26,2300000,116.52,22.3431636,114.1855014
+597,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,M,,,17,1,495,363,4530000,2018-01-25,1996-11-18,1688000,168.36,22.343159,114.187956
+598,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 9,1989-09-21,L,,,8,A,480,431,4680000,2018-01-22,2001-03-13,1063000,340.26,22.346802999999998,114.186684
+599,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Tung Yuen House  ( Tuyu  ),1987-12-01,L,,,5,15,0,443,2600000,2018-01-22,,0,0.0,22.345705,114.19454
+600,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Pang Ching Court,Block A,1991-11-19,L,,,1,7,583,441,4370000,2018-01-18,2015-11-23,3440000,27.03,22.345772999999998,114.190553
+601,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Hong House (Block 15),1990-08-01,M,,,12,8,0,377,2400000,2018-01-18,,0,0.0,22.338278,114.19400999999999
+602,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Tung Yuen House  ( Tuyu  ),1987-12-01,M,,,21,18,0,443,3230000,2018-01-18,,0,0.0,22.345705,114.19454
+603,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Lower Wong Tai Sin (1) Estate,Lung Shun House (Block 8),1990-04-01,L,,,3,15,0,428,3030000,2018-01-18,,0,0.0,22.33848,114.194664
+604,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block A (Chun Sing House),1986-06-24,L,,,5,6,567,415,4680000,2018-01-16,2004-01-30,650000,620.0,22.343177999999998,114.185509
+605,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tsui Chuk Garden,Block 2,1989-09-20,L,,,6,G,661,592,6110000,2018-01-14,,0,0.0,22.346458,114.188597
+606,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Tin Ma Court,Block E (Chun Hong House),1986-11-21,M,,,19,13,495,363,4480000,2018-01-12,,0,0.0,22.343159,114.187956
+607,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Chuk Yuen North Estate,Toa Yuen House  ( Toyu  ),1989-09-01,H,,,33,13,0,447,2880000,2018-01-08,2009-07-02,710000,305.63,22.347085999999997,114.19476
+608,Kowloon,Wong Tai Sin,Wong Tai Sin / Lok Fu,Fu Keung Court,Block D,1995-02-12,H,,,21,8,513,401,4230000,2018-01-07,2011-08-11,3000000,41.0,22.340425,114.185155

@@ -1,0 +1,518 @@
+,region,subregion,district,estate,building,first_op_date,floor_level,bedroom,sitting_room,floor,flat,area,net_area,price,tx_date,last_tx_date,last_price,gain,lat,lon
+0,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Marin Avenue House 6 ( Mari ),1995-10-19,,3,,,,2355,1713,16880000,2021-01-05,2009-09-29,9920000,70.16,22.4880764,114.0561149
+1,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Melrose Avenue House 19 (Melr),1996-02-07,,3,,,,1958,1389,14220000,2020-12-31,2011-03-03,7280000,95.33,22.4828686,114.0563463
+2,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,6Th Street (House),1980-11-18,,4,,,,0,950,11000000,2020-12-31,,0,0.0,22.483333,114.042633
+3,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,69 2Nd Street,1979-02-22,,3,,,,850,848,10750000,2020-12-30,2007-09-21,3150000,241.27,22.4776434,114.0480479
+4,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,5Th Street (House),1980-02-06,,3,,,,0,1035,12730000,2020-12-30,,0,0.0,22.480003,114.048163
+5,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,8 1St Street,1987-06-10,,3,,,,1138,846,10000000,2020-12-30,2012-05-11,5828000,71.59,22.473813999999997,114.04493
+6,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,San Francisco Avenue House 19 (Safr),1996-02-07,,3,,,,2044,1495,16880000,2020-12-29,2008-03-19,9380000,79.96000000000001,22.485426999999998,114.05632299999999
+7,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,13 6Th Street,1986-10-17,,3,,,,1138,846,10000000,2020-12-28,2010-04-21,3998000,150.13,22.474391,114.043212
+8,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Victoriana Avenue (House),1995-10-19,,3,,,,0,1347,16000000,2020-12-28,,0,0.0,22.487472,114.056894
+9,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,2 Lychee Road West,1981-10-14,,4,,,,1100,1100,13680000,2020-12-24,,0,0.0,22.486137,114.0442696
+10,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,43 1St Street,1979-04-20,,3,,,,1050,1035,12800000,2020-12-24,2010-02-17,4850000,163.92000000000002,22.476532,114.04853299999999
+11,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,5 4Th Street,1981-02-24,,,,,,950,950,11800000,2020-12-23,2012-02-16,6380000,84.95,22.482865,114.043234
+12,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,33 1St Street,1981-02-03,,,,,,850,848,10500000,2020-12-22,,0,0.0,22.478914,114.045097
+13,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,56 1St Street,1986-01-30,,,,,,1050,1035,12280000,2020-12-22,,0,0.0,22.482253,114.044314
+14,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,40 3Rd Street,1980-07-23,,,,,,850,848,10760000,2020-12-21,2014-07-28,7330000,46.79,22.480985999999998,114.045635
+15,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,62 Lychee Road North,1981-12-01,,,,,,1500,1245,15340000,2020-12-18,2010-07-19,6200000,147.42000000000002,22.481935,114.04974899999999
+16,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,64 Lychee Road North,1981-12-01,,,,,,1500,1245,15340000,2020-12-18,2010-07-14,6300000,143.49,22.481935,114.04974899999999
+17,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,5 River North 1St Street,1981-10-14,,,,,,1100,1100,11600000,2020-12-18,,0,0.0,22.485785,114.044512
+18,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,34 Pinery Road South,1987-08-19,,,,,,1138,840,10700000,2020-12-17,2013-02-18,6800000,57.35,22.473387,114.043452
+19,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,32 5Th Street,1988-03-15,,,,,,1300,915,11000000,2020-12-17,,0,0.0,22.473648,114.047543
+20,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,37 3Rd Street,1979-10-18,,,,,,850,848,10750000,2020-12-16,2015-01-13,8000000,34.38,22.479651,114.047498
+21,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,54 Lychee Road North,1981-12-03,,,,,,850,848,10950000,2020-12-16,2007-08-24,3400000,222.06,22.481935,114.04974899999999
+22,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,3 River North 10Th Street,1982-01-06,,,,,,950,950,11100000,2020-12-10,2009-08-25,4000000,177.5,22.481405,114.049678
+23,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,24 3Rd Street,1981-04-21,,,,,,1100,1100,14488000,2020-12-09,,0,0.0,22.482699,114.04358500000001
+24,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,2 River North Lane,1989-05-25,,,,,,0,891,10760000,2020-12-07,2014-11-05,6800000,58.24,22.481666,114.04865699999999
+25,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,5Th Street (House),1981-09-15,,3,,,,1050,1035,12450000,2020-12-07,,0,0.0,22.478998999999998,114.043359
+26,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,99 4Th Street,1980-11-18,,,,,,850,848,10000000,2020-12-07,2012-03-14,5480000,82.48,22.48144,114.045509
+27,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,141 Lychee Road North,1982-09-01,,,,,,1700,1395,19500000,2020-12-07,2014-01-10,12800000,52.34,22.48305,114.046482
+28,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,3Rd Street (House),1982-09-22,,4,,,,850,950,10750000,2020-12-07,2009-08-13,4100000,162.20000000000002,22.479722,114.042219
+29,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,44 4Th Street,1979-10-18,,,,,,850,848,10980000,2020-12-03,,0,0.0,22.479822,114.04784599999999
+30,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Ficus Path House 2 ( Ficu ),1994-08-22,,,,,,2021,1377,15000000,2020-12-03,,0,0.0,22.487966,114.048767
+31,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,5Th Street (House),1986-11-17,,3,,,,850,840,11380000,2020-12-01,,0,0.0,22.4741137,114.0434914
+32,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,146 Lychee Road South,1988-10-21,,,,,,1150,891,10000000,2020-11-25,,0,0.0,22.482162,114.046913
+33,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,7 3Rd Street,1987-09-23,,,,,,1138,846,11450000,2020-11-23,2016-06-22,6770000,69.13,22.473807,114.044121
+34,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Pinaceae Drive House 41 ( Pina ),1994-08-22,,,,,,1442,1017,12000000,2020-11-23,2011-02-21,6420000,86.92,22.486786,114.050623
+35,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,96 3Rd Street,1979-02-22,,,,,,850,848,10800000,2020-11-19,2011-12-19,5650000,91.15,22.47743,114.04838
+36,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Willow Path House 17 ( Will ),1993-08-16,,,,,,1410,967,11330000,2020-11-18,2011-03-09,5350000,111.78,22.483607,114.05369
+37,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,71 Lychee Road South,1982-02-25,,,,,,1050,1035,13200000,2020-11-17,2014-11-11,9800000,34.69,22.482162,114.046913
+38,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,39 3Rd Street,1982-11-22,,,,,,850,848,11300000,2020-11-17,,0,0.0,22.4752322,114.0443837
+39,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,71 2Nd Street,1984-07-06,,,,,,850,848,10500000,2020-11-17,2008-10-31,3500000,200.0,22.479664,114.042667
+40,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Michelia Path House 18 ( Mich ),1994-08-22,,,,,,2021,1371,13300000,2020-11-17,2011-11-28,8468000,57.06,22.487610999999998,114.049751
+41,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,31 Lychee Road East,1988-08-24,,,,,,1300,962,10000000,2020-11-13,,0,0.0,22.480935,114.0505715
+42,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,84 Pinery Road South,1986-07-03,,,,,,0,840,10000000,2020-11-12,,0,0.0,22.473387,114.043452
+43,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Carmel Avenue House 19 (Carm),1995-10-19,,,,,,2364,1713,17950000,2020-11-12,,0,0.0,22.487036999999997,114.056853
+44,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,15 5Th Street,1981-01-21,,,,,,950,950,11000000,2020-11-06,2010-06-25,4600000,139.13,22.483107999999998,114.042939
+45,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,68 Pinery Road South,1986-07-26,,,,,,1050,1035,13980000,2020-11-05,,0,0.0,22.473387,114.043452
+46,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,75 5Th Street,1980-11-18,,,,,,1050,1035,13380000,2020-11-03,2017-03-30,12200000,9.67,22.481809,114.045463
+47,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Sacramento Avenue (House),1996-02-07,,3,,,,0,1539,16650000,2020-10-30,2008-04-16,8750000,90.29,22.4837105,114.056467
+48,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,62 3Rd Street,1980-11-18,,,,,,850,848,10500000,2020-10-27,2011-03-23,5400000,94.44,22.4752322,114.0443837
+49,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,20 1St Street,1980-11-18,,,,,,1050,1035,12480000,2020-10-23,,0,0.0,22.478914,114.045097
+50,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,13 4Th Street,1981-06-02,,,,,,850,848,10000000,2020-10-16,,0,0.0,22.480356999999998,114.042182
+51,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,34 1St Street,1980-10-02,,,,,,1050,1035,12120000,2020-10-16,2008-07-02,5480000,121.17,22.4757966,114.0448626
+52,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,77 5Th Street,1980-02-06,,,,,,1050,1035,12490000,2020-10-16,,0,0.0,22.480003,114.048163
+53,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Lily Path House 35 ( Lily ),1993-08-16,,,,,,1410,968,10000000,2020-10-15,2017-01-10,8008000,24.88,22.483280999999998,114.051744
+54,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,50 3Rd Street,1981-02-24,,,,,,850,848,11880000,2020-10-15,,0,0.0,22.47898,114.044276
+55,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,36 6Th Street,1988-01-05,,,,,,1300,902,10000000,2020-10-14,,0,0.0,22.47347,114.047951
+56,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,17 8Th Street,1988-09-21,,,,,,1050,1035,12200000,2020-10-14,,0,0.0,22.478298,114.04993999999999
+57,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,19 River North 11Th Street,1988-08-24,,,,,,1300,962,10780000,2020-10-14,,0,0.0,22.480669,114.050803
+58,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,4 River North 8Th Street,1981-11-02,,,,,,950,950,10000000,2020-10-12,2010-09-13,5180000,93.05,22.481056,114.049003
+59,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Osmanthus Path House 12 ( Osma ),1993-08-16,,,,,,1463,1016,11500000,2020-10-12,2017-02-21,8880000,29.5,22.4837398,114.0519582
+60,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,78 Lychee Road South,1981-12-03,,,,,,1100,1100,13150000,2020-10-12,,0,0.0,22.48066,114.048756
+61,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,23 1St Street,1981-09-15,,,,,,1100,1100,13500000,2020-10-09,2017-03-22,11380000,18.63,22.474118,114.048031
+62,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,159 Lychee Road South,1981-12-03,,,,,,1100,1100,13500000,2020-10-08,2007-02-22,4000000,237.5,22.48066,114.048756
+63,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Michelia Path House 13 ( Mich ),1994-08-22,,,,,,1442,1017,10800000,2020-10-07,2010-01-06,4380000,146.58,22.487610999999998,114.049751
+64,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,4 9Th Street,1989-11-21,,,,,,1150,891,9990000,2020-10-06,,0,0.0,22.472949999999997,114.048949
+65,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,30 Lotus Road,1979-02-22,,,,,,1050,1035,12688000,2020-10-06,,0,0.0,22.477715,114.047123
+66,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,8 4Th Street,1981-06-02,,,,,,850,848,10000000,2020-10-06,2007-03-03,3230000,209.6,22.480356999999998,114.042182
+67,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,1 1St Street,1989-10-04,,,,,,1150,891,11600000,2020-09-29,2014-08-07,7580000,53.03,22.4769841,114.0431918
+68,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Coronado Avenue House 20 (Coro),1995-10-19,,,,,,1974,1347,14630000,2020-09-28,,0,0.0,22.487254999999998,114.055927
+69,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,4 River North 10Th Street,1982-01-06,,,,,,950,950,10900000,2020-09-25,2009-07-24,1550000,603.23,22.481405,114.049678
+70,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,2A River North 4Th Street,1981-12-23,,,,,,0,1395,17500000,2020-09-25,,0,0.0,22.484766,114.045141
+71,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,30 1St Street,1986-02-17,,,,,,1300,915,11000000,2020-09-23,2013-08-16,6780000,62.24,22.482253,114.044314
+72,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,15 River North 2Nd Street,1981-10-14,,,,,,850,848,10000000,2020-09-18,2012-04-13,5100000,96.08,22.485463,114.044703
+73,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,60 3Rd Street,1980-11-18,,,,,,850,848,10480000,2020-09-18,,0,0.0,22.4752322,114.0443837
+74,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,8 Ginkgo Road,1980-11-18,,,,,,1050,1035,11500000,2020-09-18,2011-06-16,7090000,62.2,22.478786,114.045569
+75,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,4 1St Street,1979-12-27,,,,,,1050,1035,12800000,2020-09-15,2009-06-02,4050000,216.05,22.474118,114.048031
+76,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Lily Path House 22 ( Lily ),1993-08-16,,,,,,1463,1016,11050000,2020-09-14,2011-04-12,5580000,98.03,22.483280999999998,114.051744
+77,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,49 4Th Street,1988-02-22,,,,,,1300,902,10000000,2020-09-14,,0,0.0,22.474857999999998,114.044303
+78,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Orchid Path House 21 ( Orch ),1994-08-22,,,,,,2014,1377,13500000,2020-09-14,2016-12-06,9500000,42.11,22.486083999999998,114.051228
+79,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,56 3Rd Street,1979-10-18,,,,,,850,848,10980000,2020-09-08,2009-02-05,3380000,224.85,22.479651,114.047498
+80,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,The Vineyard,85 Margaux Avenue,2006-09-29,,4,3,,,4173,2806,41500000,2020-09-08,2016-12-05,35600000,16.57,22.480173,114.06311
+81,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,64 3Rd Street,1984-07-06,,,,,,850,848,10730000,2020-09-04,2007-06-05,3050000,251.8,22.479722,114.042219
+82,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,42 4Th Street,1979-10-18,,,,,,850,848,10500000,2020-09-04,2008-02-12,3530000,197.45000000000002,22.479822,114.04784599999999
+83,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,38 2Nd Street,1979-02-22,,,,,,850,848,10500000,2020-09-04,2007-12-18,3500000,200.0,22.4776434,114.0480479
+84,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,27 1St Street,1985-12-18,,,,,,1138,840,10000000,2020-09-04,2012-10-25,6408000,56.050000000000004,22.482253,114.044314
+85,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,18 3Rd Street,1980-07-23,,,,,,850,848,10000000,2020-09-02,,0,0.0,22.480985999999998,114.045635
+86,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,11 River North 12Th Street,1988-09-21,,,,,,1050,1035,17300000,2020-09-02,2016-04-05,14000000,23.57,22.479197,114.050669
+87,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,72 3Rd Street,1979-02-22,,,,,,850,848,10500000,2020-08-31,2008-09-12,3750000,180.0,22.47743,114.04838
+88,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,12 7Th Street,1986-07-21,,,,,,1138,840,10000000,2020-08-28,2011-02-17,4900000,104.08,22.474704,114.042982
+89,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,8 4Th Street,1981-05-28,,,,,,1050,1035,14800000,2020-08-28,,0,0.0,22.478945,114.043794
+90,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,4 1St Street,1989-10-04,,,,,,1150,891,10400000,2020-08-28,2011-05-18,5130000,102.73,22.4769841,114.0431918
+91,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Lily Path House 27 ( Lily ),1993-08-16,,,,,,1410,967,10280000,2020-08-28,2014-08-26,6800000,51.18,22.483280999999998,114.051744
+92,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,12 9Th Street,1988-10-21,,,,,,1150,891,10000000,2020-08-26,2009-05-06,3300000,203.03,22.477788999999998,114.04991
+93,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Michelia Path House 5 ( Mich ),1994-08-22,,,,,,2014,1377,13800000,2020-08-24,,0,0.0,22.487610999999998,114.049751
+94,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Marigold Path House 19 ( Mari ),1993-08-16,,,,,,1410,967,10000000,2020-08-21,,0,0.0,22.483967999999997,114.052915
+95,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Begonia Path House 23 ( Bego ),1993-08-16,,,,,,1470,1016,12000000,2020-08-21,2015-05-05,8650000,38.730000000000004,22.484778,114.052684
+96,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,San Simeon Avenue House 22 (Sasi),1995-10-19,,,,,,2183,1539,14050000,2020-08-20,2009-08-18,8080000,73.89,22.486561,114.056791
+97,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,76 Bauhinia Road South,1987-02-16,,,,,,1138,846,10400000,2020-08-20,2014-07-30,6880000,51.160000000000004,22.474505999999998,114.044113
+98,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,16 2Nd Street,1979-02-22,,,,,,850,848,11000000,2020-08-18,,0,0.0,22.4776434,114.0480479
+99,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Lily Path House 28 ( Lily ),1993-08-16,,,,,,1410,968,10100000,2020-08-17,2016-05-27,6990000,44.49,22.483280999999998,114.051744
+100,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Birch Path House 3 ( Birc ),1994-11-01,,,,,,1463,1016,11150000,2020-08-13,,0,0.0,22.483791999999998,114.05525
+101,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Oleander Path House 26 ( Olea ),1993-08-16,,,,,,1410,967,10000000,2020-08-10,2017-07-21,9520000,5.04,22.484379999999998,114.051377
+102,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,47 Pinery Road South,1987-01-19,,,,,,1300,902,9980000,2020-08-07,2009-07-09,3850000,159.22,22.473387,114.043452
+103,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,9 Ginkgo Road,1980-11-18,,,,,,1050,1035,11500000,2020-08-06,2011-06-16,7090000,62.2,22.478786,114.045569
+104,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,16 5Th Street,1981-06-02,,,,,,850,848,11399000,2020-08-04,2016-08-23,7800000,46.14,22.480864999999998,114.042053
+105,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,149 Lychee Road South,1981-12-03,,,,,,1050,1035,14138000,2020-08-04,2014-03-05,8680000,62.88,22.48066,114.048756
+106,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Willow Path House 20 ( Will ),1993-08-16,,,,,,1410,967,9000000,2020-07-31,2009-03-17,3500000,157.14000000000001,22.483607,114.05369
+107,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,61 2Nd Street,1980-11-18,,,,,,850,848,10500000,2020-07-29,,0,0.0,22.475514,114.044624
+108,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,75 4Th Street,1979-10-18,,,,,,850,848,9980000,2020-07-29,2013-06-21,7280000,37.09,22.479822,114.04784599999999
+109,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Pinaceae Drive House 33 ( Pina ),1994-08-22,,,,,,2014,1377,15680000,2020-07-28,2009-06-30,6350000,146.93,22.486786,114.050623
+110,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Narcissus Path House 32 (Narc),1994-12-31,,,,,,2014,1380,14000000,2020-07-24,2011-05-18,8300000,68.67,22.487216999999998,114.05421799999999
+111,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,1 River North Lane,1989-05-25,,,,,,0,891,10930000,2020-07-22,2017-07-06,8000000,36.63,22.481666,114.04865699999999
+112,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,36 2Nd Street,1985-11-12,,,,,,1300,902,10380000,2020-07-22,2012-05-09,5680000,82.75,22.482461,114.04397399999999
+113,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,84 3Rd Street,1979-02-22,,,,,,850,848,10380000,2020-07-17,2010-01-25,4250000,144.24,22.47743,114.04838
+114,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,29 5Th Street,1988-03-15,,,,,,1300,915,10000000,2020-07-17,2009-05-14,3600000,177.78,22.473648,114.047543
+115,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,66 3Rd Street,1979-02-22,,,,,,850,848,10350000,2020-07-17,,0,0.0,22.47743,114.04838
+116,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,40 2Nd Street,1985-11-12,,,,,,1300,902,10000000,2020-07-15,,0,0.0,22.482461,114.04397399999999
+117,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,8 3Rd Street,1981-05-28,,,,,,850,848,11380000,2020-07-15,2014-04-24,6380000,78.37,22.482699,114.04358500000001
+118,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Santa Barbara Avenue House 5 (Saba),1996-02-07,,,,,,1958,1464,15500000,2020-07-10,,0,0.0,22.485004999999997,114.05633399999999
+119,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Ventura Avenue House 8 (Vent),1995-10-19,,,,,,1965,1347,16400000,2020-07-09,2011-01-18,6800000,141.18,22.488965,114.056383
+120,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Cypress Drive House 168 ( Cypr ),1993-08-16,,3,,,,1768,1198,13300000,2020-07-09,,0,0.0,22.4830293,114.0528064
+121,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,The Vineyard,20 Petrus Avenue,2006-09-29,,3,3,,,3506,2238,28000000,2020-07-06,2007-04-03,22087800,26.77,22.479378,114.0622
+122,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,32 3Rd Street,1982-09-22,,,,,,850,848,10900000,2020-07-06,2010-06-30,4150000,162.65,22.479722,114.042219
+123,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Lilac Path House 13 ( Lila ),1994-11-01,,,,,,1442,1017,10900000,2020-07-03,2017-01-05,8600000,26.740000000000002,22.483791,114.055471
+124,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,48 2Nd Street,1981-02-03,,,,,,850,848,11320000,2020-07-03,2014-06-25,7150000,58.32,22.4788537,114.0446449
+125,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,46 2Nd Street,1981-02-03,,,,,,850,848,9880000,2020-07-03,2017-06-09,8500000,16.240000000000002,22.4788537,114.0446449
+126,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Laurel Path House 16 ( Laur ),1994-08-22,,,,,,1442,1017,11000000,2020-07-03,2012-04-26,5930000,85.5,22.48696,114.05098699999999
+127,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,257 Lychee Road South,1988-09-21,,,,,,1050,1035,14500000,2020-07-02,2011-04-11,6480000,123.77,22.482162,114.046913
+128,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Marigold Path House 5 ( Mari ),1993-08-16,,,,,,1534,1014,11260000,2020-06-30,,0,0.0,22.483967999999997,114.052915
+129,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,3 Lotus Road,1979-02-22,,,,,,1050,1035,13800000,2020-06-26,2016-08-29,9680000,42.56,22.477715,114.047123
+130,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,29 4Th Street,1980-11-18,,,,,,850,848,9000000,2020-06-26,2015-12-03,8100000,11.11,22.48144,114.045509
+131,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Kapok Path House 40 ( Kapo ),1994-08-22,,,,,,1463,1016,10000000,2020-06-23,2013-02-06,6480000,54.32,22.488619999999997,114.049954
+132,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,The Vineyard,House 10,2008-03-28,,,,,,0,1595,17480000,2020-06-23,2008-10-16,17686500,-1.17,22.479709,114.058762
+133,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,53 3Rd Street,1979-02-22,,,,,,1050,1035,13000000,2020-06-23,,0,0.0,22.47743,114.04838
+134,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Prunus Path House 26 ( Prun ),1994-08-22,,,,,,2021,1371,16430000,2020-06-22,2012-03-05,8608000,90.87,22.486528,114.051127
+135,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Narcissus Path House 39 (Narc),1994-12-31,,,,,,2021,1372,13800000,2020-06-22,,0,0.0,22.487216999999998,114.05421799999999
+136,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,55 2Nd Street,1981-05-28,,,,,,1050,1035,13200000,2020-06-19,2011-09-14,7700000,71.43,22.482461,114.04397399999999
+137,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Begonia Path House 37 ( Bego ),1993-08-16,,,,,,1534,1014,10000000,2020-06-18,2006-06-07,4000000,150.0,22.484778,114.052684
+138,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,60 4Th Street,1981-05-28,,,,,,850,848,10000000,2020-06-17,2017-02-23,7900000,26.580000000000002,22.478945,114.043794
+139,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,46 4Th Street,1981-05-28,,,,,,1050,1035,8000000,2020-06-16,2009-08-12,5100000,56.86,22.478945,114.043794
+140,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,20 3Rd Street,1981-02-24,,,,,,850,848,10800000,2020-06-15,,0,0.0,22.47898,114.044276
+141,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,55 2Nd Street,1979-06-15,,,,,,850,848,9900000,2020-06-15,2006-12-09,3050000,224.59,22.476378999999998,114.048873
+142,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Pinaceae Drive House 49 ( Pina ),1994-08-22,,,,,,1409,980,10000000,2020-06-12,2015-03-09,8138000,22.88,22.486786,114.050623
+143,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,13 River North 3Rd Street,1981-11-02,,,,,,1100,1100,14800000,2020-06-12,2010-05-05,5900000,150.85,22.485098,114.044975
+144,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,48A River North 9Th Street,1982-01-06,,,,,,1100,1100,14880000,2020-06-11,,0,0.0,22.481282,114.049295
+145,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Osmanthus Path House 40 ( Osma ),1993-08-16,,,,,,1410,967,10000000,2020-06-10,2010-04-15,4598000,117.49000000000001,22.4837398,114.0519582
+146,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,The Vineyard,29 Mouton Avenue,2006-09-29,,3,3,,,3458,2209,30500000,2020-06-09,2007-11-26,22000000,38.64,22.481426,114.063095
+147,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,86 2Nd Street,1979-02-22,,,,,,850,848,10550000,2020-06-09,,0,0.0,22.4776434,114.0480479
+148,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,52 River North 8Th Street,1988-11-24,,,,,,1300,962,11800000,2020-06-09,,0,0.0,22.481056,114.049003
+149,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,75 3Rd Street,1981-05-28,,,,,,850,848,11800000,2020-06-08,2016-10-14,8400000,40.480000000000004,22.47898,114.044276
+150,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,70 5Th Street,1981-01-21,,,,,,950,950,12600000,2020-06-08,2012-04-12,5999000,110.04,22.483107999999998,114.042939
+151,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,13 1St Street,1981-02-03,,,,,,850,848,6000000,2020-06-08,2010-02-23,4200000,42.86,22.478914,114.045097
+152,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,16 6Th Street,1980-11-18,,,,,,850,848,9500000,2020-06-05,2014-01-13,6000000,58.33,22.483333,114.042633
+153,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,109 Lychee Road South,1981-12-03,,,,,,1100,1100,13700000,2020-06-05,,0,0.0,22.482162,114.046913
+154,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,5 5Th Street,1986-11-17,,,,,,1138,840,9900000,2020-06-05,2007-03-30,3010000,228.9,22.4741137,114.0434914
+155,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Kapok Path House 10 ( Kapo ),1994-08-22,,,,,,2014,1377,15000000,2020-06-03,2016-04-08,10100000,48.51,22.488619999999997,114.049954
+156,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,19 River North 1St Street,1981-10-14,,,,,,1050,1035,12100000,2020-06-02,,0,0.0,22.485785,114.044512
+157,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,30 3Rd Street,1980-11-18,,,,,,850,848,10800000,2020-06-02,2011-02-02,4980000,116.87,22.4752322,114.0443837
+158,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,29 3Rd Street,1980-07-23,,,,,,850,848,10000000,2020-06-01,2011-12-15,5500000,81.82000000000001,22.480985999999998,114.045635
+159,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,50 2Nd Street,1985-11-12,,,,,,1138,846,10600000,2020-06-01,2016-06-07,7750000,36.77,22.482461,114.04397399999999
+160,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Phoenix Path House 12 ( Phoe ),1996-05-10,,,,,,2021,1372,15380000,2020-06-01,,0,0.0,22.4848248,114.0549681
+161,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,86 Bauhinia Road South,1987-02-16,,,,,,1300,915,10000000,2020-05-29,2010-06-25,4818000,107.56,22.474505999999998,114.044113
+162,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,9 1St Street,1981-06-02,,,,,,950,950,11100000,2020-05-29,,0,0.0,22.479578999999998,114.043043
+163,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,55 River North 9Th Street,1988-11-24,,,,,,1300,962,10000000,2020-05-29,2009-02-10,3870000,158.4,22.481282,114.049295
+164,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,40 3Rd Street,1979-10-18,,,,,,850,848,9980000,2020-05-27,2010-04-28,4140000,141.06,22.479651,114.047498
+165,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,31 5Th Street,1981-09-15,,,,,,1050,1035,11000000,2020-05-27,2010-02-25,4900000,124.49000000000001,22.478998999999998,114.043359
+166,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,21 3Rd Street,1979-02-22,,,,,,1050,1035,12000000,2020-05-26,,0,0.0,22.47743,114.04838
+167,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Pinaceae Drive House 90 ( Pina ),1994-08-22,,,,,,1409,980,10500000,2020-05-26,,0,0.0,22.486786,114.050623
+168,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,48 3Rd Street,1980-11-18,,,,,,850,848,10000000,2020-05-22,2008-01-04,3840000,160.42000000000002,22.4752322,114.0443837
+169,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,27 6Th Street,1980-11-18,,,,,,950,950,9800000,2020-05-22,2008-11-28,3280000,198.78,22.483333,114.042633
+170,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,18 5Th Street,1981-06-02,,,,,,850,848,9000000,2020-05-22,2012-02-01,4900000,83.67,22.480864999999998,114.042053
+171,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,43A River North 10Th Street,1982-01-06,,,,,,1100,1100,13380000,2020-05-21,,0,0.0,22.481405,114.049678
+172,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,8 River North 4Th Street,1982-01-06,,,,,,950,950,10400000,2020-05-18,,0,0.0,22.484766,114.045141
+173,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,24 3Rd Street,1980-11-18,,,,,,850,848,9960000,2020-05-13,2010-11-22,4580000,117.47,22.4752322,114.0443837
+174,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,50 3Rd Street,1980-11-18,,,,,,850,848,10500000,2020-05-13,2008-01-07,3840000,173.44,22.4752322,114.0443837
+175,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Begonia Path House 1 ( Bego ),1993-08-16,,,,,,1470,1016,11700000,2020-05-13,,0,0.0,22.484778,114.052684
+176,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Begonia Path House 26 ( Bego ),1993-08-16,,,,,,1410,968,9980000,2020-05-13,2008-08-28,4180000,138.76,22.484778,114.052684
+177,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Osmanthus Path House 27 ( Osma ),1993-08-16,,,,,,1410,968,9660000,2020-05-12,2016-08-09,7100000,36.06,22.4837398,114.0519582
+178,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,22 3Rd Street,1979-02-22,,,,,,850,848,9800000,2020-05-08,,0,0.0,22.47743,114.04838
+179,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,8 9Th Street,1988-10-21,,,,,,1150,891,9980000,2020-05-07,2011-11-02,5490000,81.79,22.477718,114.04987
+180,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,San Simeon Avenue House 20 (Sasi),1995-10-19,,,,,,2183,1539,17000000,2020-05-06,2007-07-11,7700000,120.78,22.486561,114.056791
+181,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,23 River North 8Th Street,1981-11-02,,,,,,1100,1100,14500000,2020-05-04,2010-02-18,5680000,155.28,22.481056,114.049003
+182,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,37 River North 8Th Street,1981-11-02,,,,,,0,1035,12300000,2020-04-29,2014-08-20,8780000,40.09,22.481056,114.049003
+183,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,40 Lychee Road East,1988-08-23,,,,,,1050,1035,12380000,2020-04-24,2008-03-14,4800000,157.92000000000002,22.480935,114.0505715
+184,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,41 3Rd Street,1981-05-28,,,,,,850,848,9000000,2020-04-22,,0,0.0,22.47898,114.044276
+185,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Narcissus Path House 49 (Narc),1994-12-31,,,,,,1442,1017,11380000,2020-04-20,2008-05-19,2340000,386.32,22.487216999999998,114.05421799999999
+186,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,28A 2Nd Street,1985-11-12,,,,,,1300,915,9750000,2020-04-20,2015-11-16,7620000,27.95,22.482461,114.04397399999999
+187,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,74 Bauhinia Road South,1987-02-16,,,,,,1138,840,9720000,2020-04-14,,0,0.0,22.474505999999998,114.044113
+188,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,7 3Rd Street,1981-05-28,,,,,,850,848,9900000,2020-04-09,2017-04-03,9300000,6.45,22.482699,114.04358500000001
+189,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Cypress Drive House 57 ( Cypr ),1993-08-16,,3,,,,1410,967,11280000,2020-04-09,2014-10-13,7000000,61.14,22.4830293,114.0528064
+190,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,12 Lychee Road East,1988-08-22,,,,,,1150,891,9630000,2020-04-08,2008-02-11,3750000,156.8,22.480935,114.0505715
+191,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,24 1St Street,1986-02-17,,,,,,1300,902,9680000,2020-04-08,,0,0.0,22.482253,114.044314
+192,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,12 3Rd Street,1979-02-22,,,,,,850,848,10600000,2020-04-07,,0,0.0,22.47743,114.04838
+193,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,10 4Th Street,1979-10-18,,,,,,850,848,9820000,2020-04-03,2007-08-08,3130000,213.74,22.479822,114.04784599999999
+194,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,52 4Th Street,1981-02-24,,,,,,850,848,6000000,2020-04-01,,0,0.0,22.482865,114.043234
+195,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Narcissus Path House 81 (Narc),1994-12-31,,,,,,2021,1372,15880000,2020-04-01,2018-07-31,17500000,-9.26,22.487216999999998,114.05421799999999
+196,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,49 4Th Street,1981-01-21,,,,,,950,950,10880000,2020-04-01,2012-11-30,7030000,54.77,22.482865,114.043234
+197,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,15 Lychee Road South,1982-02-25,,,,,,1050,1035,13000000,2020-03-31,2006-10-17,3750000,246.67000000000002,22.485318,114.044081
+198,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,37 River North 10Th Street,1982-01-06,,,,,,850,848,9750000,2020-03-30,,0,0.0,22.481405,114.049678
+199,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,20 River North 11Th Street,1988-11-24,,,,,,1300,962,9999000,2020-03-30,,0,0.0,22.480669,114.050803
+200,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,49 2Nd Street,1979-06-28,,,,,,850,848,9850000,2020-03-25,2008-08-29,3460000,184.68,22.476378999999998,114.048873
+201,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,56 5Th Street,1980-02-06,,,,,,850,848,9800000,2020-03-24,2011-06-28,5380000,82.16,22.480003,114.048163
+202,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,17 1St Street,1979-02-22,,,,,,850,848,9980000,2020-03-24,2008-09-22,3860000,158.55,22.476349,114.046974
+203,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,47 2Nd Street,1986-12-09,,,,,,1138,846,9500000,2020-03-24,,0,0.0,22.4769,114.042843
+204,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Banyan Path House 1 ( Bany ) ,1994-12-31,,,,,,2028,1372,15130000,2020-03-24,,0,0.0,22.4869332,114.0537143
+205,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Cypress Drive House 170 ( Cypr ),1993-08-16,,3,,,,1768,1195,13000000,2020-03-23,2006-05-20,6500000,100.0,22.4830293,114.0528064
+206,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,48 2Nd Street,1979-06-15,,,,,,850,848,9900000,2020-03-12,,0,0.0,22.476378999999998,114.048873
+207,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,63 Golden Bamboo Road East,1979-06-15,,,,,,850,848,10200000,2020-03-11,2016-09-07,7890000,29.28,22.47617,114.049182
+208,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,40 3Rd Street,1980-11-18,,,,,,850,848,10500000,2020-02-28,2007-06-05,3363800,212.15,22.4752322,114.0443837
+209,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,10 4Th Street,1981-09-15,,,,,,950,950,9990000,2020-02-28,,0,0.0,22.480356999999998,114.042182
+210,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,29 Lychee Road West,1981-10-14,,,,,,1100,1100,15000000,2020-02-21,2017-07-18,11000000,36.36,22.486137,114.0442696
+211,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,San Diego Avenue House 5 (Sadi),1995-10-19,,,,,,2183,1539,16930000,2020-02-19,2015-06-16,13290000,27.39,22.4868167,114.0554995
+212,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,16 1St Street,1987-06-10,,,,,,1138,840,9980000,2020-02-17,2010-10-14,4300000,132.09,22.473592999999997,114.04478
+213,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,70 4Th Street,1980-07-23,,,,,,850,848,9800000,2020-02-17,,0,0.0,22.48144,114.045509
+214,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,221 Lychee Road South,1988-09-21,,,,,,1050,1035,13300000,2020-02-17,,0,0.0,22.48066,114.048756
+215,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Santa Clara Avenue House 19 (Sacl),1995-10-19,,,,,,2044,1495,17750000,2020-02-14,2014-11-27,12600000,40.87,22.486349,114.05613
+216,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,20A 1St Street,1986-02-17,,,,,,1300,915,9450000,2020-02-12,2011-08-01,5350000,76.64,22.482253,114.044314
+217,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Oleander Path House 3 ( Olea ),1993-08-16,,,,,,1775,1198,12800000,2020-02-11,2015-11-13,10250000,24.88,22.484379999999998,114.051377
+218,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,75 4Th Street,1988-03-24,,,,,,1050,1035,12800000,2020-02-11,,0,0.0,22.474857999999998,114.044303
+219,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,6 Bauhinia Road East,1989-10-05,,,,,,1300,962,11000000,2020-02-05,2007-08-24,3320000,231.33,22.472801,114.04934
+220,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,24 5Th Street,1981-01-21,,,,,,850,848,9800000,2020-02-04,2007-11-12,3180000,208.18,22.483107999999998,114.042939
+221,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,77 4Th Street,1988-02-22,,,,,,1138,846,9900000,2020-02-03,,0,0.0,22.474857999999998,114.044303
+222,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,85 1St Street,1979-06-15,,,,,,1050,1035,12300000,2020-01-23,2008-09-01,5500000,123.64,22.476532,114.04853299999999
+223,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,41 Bauhinia Road South,1988-05-03,,,,,,1050,1035,13000000,2020-01-21,,0,0.0,22.473549,114.045836
+224,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,1 2Nd Street,1980-03-25,,,,,,1050,1035,14450000,2020-01-17,2019-06-13,14450000,0.0,22.479528,114.047094
+225,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,117 Lychee Road North,1982-09-01,,,,,,1500,1245,15500000,2020-01-16,2011-07-05,9780000,58.49,22.486245999999998,114.044992
+226,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,23 2Nd Street,1980-03-25,,,,,,850,848,9438000,2020-01-15,,0,0.0,22.479528,114.047094
+227,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,34 4Th Street,1987-02-16,,,,,,1138,840,9750000,2020-01-09,,0,0.0,22.4739576,114.0438575
+228,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,62 4Th Street,1981-05-28,,,,,,850,848,9600000,2020-01-02,,0,0.0,22.478945,114.043794
+229,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,176 Bauhinia Road West,1984-10-22,,,,,,850,848,10780000,2019-12-31,2008-05-20,4050000,166.17000000000002,22.481094,114.041644
+230,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,46 River North 9Th Street,1982-01-06,,,,,,850,848,9650000,2019-12-30,,0,0.0,22.481282,114.049295
+231,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,49 3Rd Street,1986-09-01,,,,,,1138,840,9950000,2019-12-30,,0,0.0,22.476719,114.042485
+232,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,59A River North 9Th Street,1988-11-24,,,,,,1050,1035,13280000,2019-12-30,2010-02-23,5390000,146.38,22.481282,114.049295
+233,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,38 4Th Street,1982-09-22,,,,,,850,848,9450000,2019-12-30,,0,0.0,22.480356999999998,114.042182
+234,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,67 2Nd Street,1979-02-22,,,,,,850,848,10460000,2019-12-24,2015-07-15,7980000,31.080000000000002,22.4776434,114.0480479
+235,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,42 3Rd Street,1986-10-17,,,,,,1138,840,9850000,2019-12-23,,0,0.0,22.476719,114.042485
+236,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,73A 2Nd Street,1988-02-05,,,,,,1050,1035,14500000,2019-12-18,2011-03-03,6800000,113.24000000000001,22.475514,114.044624
+237,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,6 2Nd Street,1979-02-22,,,,,,850,848,10880000,2019-12-18,2009-05-29,3450000,215.36,22.4776434,114.0480479
+238,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Victoriana Avenue House 10 (Vict),1995-10-19,,,,,,2183,1539,14300000,2019-12-17,,0,0.0,22.487472,114.056894
+239,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,37 9Th Street,1989-08-09,,,,,,1300,962,13800000,2019-12-13,,0,0.0,22.472949999999997,114.048949
+240,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,28 1St Street,1979-02-22,,,,,,1050,1035,14000000,2019-12-11,2011-03-02,6000000,133.33,22.47724,114.047195
+241,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,The Vineyard,House 22,2008-03-28,,,,,,0,1376,16000000,2019-12-11,2009-01-05,13200000,21.21,22.479709,114.058762
+242,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,13 2Nd Street,1979-04-20,,,,,,850,848,9850000,2019-12-11,2008-06-06,4050000,143.21,22.476378999999998,114.048873
+243,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,30 1St Street,1979-02-22,,,,,,1050,1035,14000000,2019-12-09,2011-03-02,7800000,79.49,22.477314,114.04724
+244,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,2Nd Street (House),1980-11-18,,,,,,1050,848,14500000,2019-12-09,,0,0.0,22.475514,114.044624
+245,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,San Francisco Avenue House 20 (Safr),1996-02-07,,,,,,1958,1387,13000000,2019-12-06,2016-05-26,10500000,23.81,22.485426999999998,114.05632299999999
+246,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Osmanthus Path House 8 ( Osma ),1993-08-16,,,,,,1768,1195,13160000,2019-12-05,,0,0.0,22.4837398,114.0519582
+247,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,16 2Nd Street,1989-07-20,,,,,,1150,891,9500000,2019-12-05,2010-08-24,4350000,118.39,22.4769,114.042843
+248,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,46 1St Street,1986-02-17,,,,,,1300,902,9680000,2019-12-04,,0,0.0,22.482253,114.044314
+249,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,23 1St Street,1980-10-02,,,,,,850,848,9990000,2019-12-02,2007-12-11,3850000,159.48,22.4757966,114.0448626
+250,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,72 Bauhinia Road West,1981-01-21,,,,,,950,950,11800000,2019-11-29,2014-06-30,8050000,46.58,22.4838058,114.0425774
+251,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,38 2Nd Street,1980-03-25,,,,,,1050,1035,13500000,2019-11-19,,0,0.0,22.479528,114.047094
+252,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Lily Path House 46 ( Lily ),1993-08-16,,,,,,1410,968,9900000,2019-11-15,,0,0.0,22.483280999999998,114.051744
+253,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,35 3Rd Street,1986-09-01,,,,,,1138,846,9430000,2019-11-13,2012-02-06,5300000,77.92,22.476719,114.042485
+254,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Osmanthus Path House 48 ( Osma ),1993-08-16,,,,,,1410,968,9680000,2019-11-13,2009-04-22,3530000,174.22,22.4837398,114.0519582
+255,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,47 Lychee Road South,1982-02-25,,,,,,1050,1035,14000000,2019-11-12,,0,0.0,22.482162,114.046913
+256,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,33 2Nd Street,1979-02-22,,,,,,850,848,9800000,2019-11-12,,0,0.0,22.4776434,114.0480479
+257,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Narcissus Path House 47 (Narc),1994-12-31,,,,,,1442,1017,11050000,2019-11-11,2015-07-16,9400000,17.55,22.487216999999998,114.05421799999999
+258,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,48 4Th Street,1982-11-22,,,,,,850,848,10500000,2019-11-04,2013-01-08,6468000,62.34,22.474857999999998,114.044303
+259,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,55 2Nd Street,1986-12-09,,,,,,1138,846,8800000,2019-11-01,,0,0.0,22.4769,114.042843
+260,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,The Vineyard,6 Latour Avenue,2006-09-29,,3,3,,,3458,2209,28000000,2019-10-28,2009-06-24,19480000,43.74,22.480406,114.06345
+261,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,5 River North 4Th Street,1981-11-02,,,,,,950,950,11680000,2019-10-28,2012-11-09,7500000,55.730000000000004,22.484766,114.045141
+262,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Willow Path House 27 ( Will ),1993-08-16,,,,,,1768,1198,15700000,2019-10-22,,0,0.0,22.483607,114.05369
+263,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Monterey Avenue House 12 ( Mont ),1995-10-19,,,,,,2471,1713,20680000,2019-10-18,2011-10-12,13000000,59.08,22.487893,114.057012
+264,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,78 1St Street,1987-12-18,,,,,,1300,915,9800000,2019-10-18,,0,0.0,22.4757966,114.0448626
+265,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,201 Bauhinia Road West,1986-05-05,,,,,,1050,1035,14600000,2019-10-08,,0,0.0,22.4838058,114.0425774
+266,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,59 5Th Street,1981-09-15,,,,,,1050,1035,12880000,2019-10-08,2014-11-24,9900000,30.1,22.478998999999998,114.043359
+267,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,6 2Nd Street,1981-06-02,,,,,,950,950,10000000,2019-10-02,2010-08-23,6280000,59.24,22.479664,114.042667
+268,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,58 1St Street,1980-10-02,,,,,,1050,1035,12000000,2019-09-27,2016-08-15,10000000,20.0,22.4757966,114.0448626
+269,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Cypress Drive House 178 ( Cypr ),1993-08-16,,3,,,,1768,1198,14600000,2019-09-27,2014-08-06,8980000,62.58,22.4830293,114.0528064
+270,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,7 1St Street,1981-06-02,,,,,,850,848,10000000,2019-09-27,2007-02-08,3150000,217.46,22.479578999999998,114.043043
+271,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,20 9Th Street,1989-10-04,,,,,,1150,891,9800000,2019-09-26,2013-02-18,6870000,42.65,22.472949999999997,114.048949
+272,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,33 4Th Street,1980-11-18,,,,,,850,848,10380000,2019-09-25,,0,0.0,22.48144,114.045509
+273,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,22 2Nd Street,1987-09-07,,,,,,1138,840,10200000,2019-09-24,2013-07-26,7280000,40.11,22.473665,114.044497
+274,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,18 1St Street,1979-04-20,,,,,,850,848,11350000,2019-09-20,2009-01-15,3600000,215.28,22.476532,114.04853299999999
+275,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,45 5Th Street,1980-11-18,,,,,,1050,1035,14000000,2019-09-12,,0,0.0,22.481809,114.045463
+276,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,37 5Th Street,1980-11-18,,,,,,1050,1035,12000000,2019-09-11,2016-09-02,9300000,29.03,22.481809,114.045463
+277,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,3Rd Street (House),1982-11-22,,,,,,850,848,9530000,2019-09-06,,0,0.0,22.4752322,114.0443837
+278,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Victoriana Avenue House 5 (Vict),1995-10-19,,,,,,2355,1713,15300000,2019-09-02,2013-01-04,11600000,31.900000000000002,22.487472,114.056894
+279,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Peony Path House 20 ( Peon ),1994-11-01,,,,,,2028,1372,18400000,2019-09-02,2014-12-08,11750000,56.6,22.4828267,114.0549974
+280,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Kapok Path House 27 ( Kapo ),1994-08-22,,,,,,2021,1377,16380000,2019-08-14,2009-09-04,7450000,119.87,22.488619999999997,114.049954
+281,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,42 2Nd Street,1982-11-22,,,,,,950,950,12800000,2019-07-17,2011-02-24,5650000,126.55,22.479664,114.042667
+282,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,60 1St Street,1980-10-02,,,,,,1050,1035,12500000,2019-07-16,2010-02-18,6680000,87.13,22.4757966,114.0448626
+283,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Santa Maria Avenue House 18 (Sama),1996-02-07,,,,,,2476,1703,22800000,2019-07-15,,0,0.0,22.4823583,114.0564803
+284,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,43 3Rd Street,1981-05-28,,,,,,850,848,10000000,2019-07-15,2009-10-27,4320000,131.48,22.47898,114.044276
+285,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,21 4Th Street,1980-11-18,,,,,,850,848,11500000,2019-07-12,,0,0.0,22.48144,114.045509
+286,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Camelia Path House 9 ( Came ),1994-08-22,,,,,,2021,1371,14000000,2019-07-10,2012-04-05,8950000,56.42,22.489562,114.05098
+287,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,53 4Th Street,1988-02-22,,,,,,1300,915,9700000,2019-07-05,,0,0.0,22.474857999999998,114.044303
+288,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Lotus Path House 15 ( Lotu ),1994-08-22,,,,,,1449,1017,10500000,2019-07-03,2016-02-05,8250000,27.27,22.489098,114.050545
+289,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,76 4Th Street,1980-07-23,,,,,,850,848,11830000,2019-06-27,2016-06-16,8000000,47.88,22.48144,114.045509
+290,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Catalina Avenue House 21 (Cata),1996-02-07,,,,,,2471,1713,19600000,2019-06-20,,0,0.0,22.4832952,114.0564805
+291,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,13 Golden Bamboo Road North,1980-03-25,,,,,,1050,1035,16780000,2019-06-19,2013-12-13,9980000,68.14,22.478823,114.047205
+292,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,38 3Rd Street,1979-10-18,,,,,,850,848,10000000,2019-06-18,2012-04-16,5315000,88.15,22.479651,114.047498
+293,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,18 River North 1St Street,1981-10-14,,,,,,850,848,12200000,2019-06-17,2010-07-09,4080000,199.02,22.485785,114.044512
+294,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Pinaceae Drive House 120 ( Pina ),1994-08-22,,,,,,2021,1367,15800000,2019-06-14,2015-10-14,11800000,33.9,22.486786,114.050623
+295,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,1 2Nd Street,1980-03-25,,,,,,1050,1035,14450000,2019-06-13,,0,0.0,22.479528,114.047094
+296,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,9 3Rd Street,1979-12-27,,,,,,1050,1035,16200000,2019-06-12,2011-03-18,7350000,120.41,22.47404,114.046693
+297,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,1 5Th Street,1986-12-01,,,,,,1300,915,11500000,2019-06-11,2007-09-28,3880000,196.39000000000001,22.4741137,114.0434914
+298,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,16 Lychee Road East,1988-08-22,,,,,,1150,891,12000000,2019-06-11,2011-05-25,5280000,127.27,22.480935,114.0505715
+299,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,96 5Th Street,1981-08-26,,,,,,850,848,9000000,2019-06-06,2012-03-13,5300000,69.81,22.478998999999998,114.043359
+300,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,23 1St Street,1981-02-03,,,,,,850,848,10568000,2019-06-06,2019-03-01,10568000,0.0,22.478914,114.045097
+301,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,38 4Th Street,1982-11-22,,,,,,850,848,12000000,2019-06-05,2009-10-21,3800000,215.79,22.474857999999998,114.044303
+302,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,13 Pinery Road South,1987-05-06,,,,,,1300,915,12500000,2019-06-03,2012-02-29,5600000,123.21000000000001,22.473387,114.043452
+303,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,14 3Rd Street,1981-03-25,,,,,,1500,1245,15348000,2019-06-03,,0,0.0,22.482699,114.04358500000001
+304,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Ventura Avenue House 6 (Vent),1995-10-19,,,,,,1965,1347,16300000,2019-06-03,,0,0.0,22.488965,114.056383
+305,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,26 5Th Street,1986-11-17,,,,,,1138,846,9900000,2019-05-31,2011-02-22,4580000,116.16,22.4741137,114.0434914
+306,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,21 3Rd Street,1987-09-23,,,,,,1138,846,10220000,2019-05-24,,0,0.0,22.473807,114.044121
+307,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,3 1St Street,1980-03-25,,,,,,0,1035,15900000,2019-05-24,,0,0.0,22.479533,114.04652
+308,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,24 2Nd Street,1981-06-02,,,,,,950,950,10930000,2019-05-24,2014-09-24,7880000,38.71,22.479664,114.042667
+309,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,11 Ginkgo Road,1980-11-18,,,,,,1050,1035,14000000,2019-05-23,2015-06-18,9600000,45.83,22.478786,114.045569
+310,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Prunus Path House 31 ( Prun ),1994-08-22,,,,,,2028,1371,16300000,2019-05-22,2012-06-28,9210000,76.98,22.486528,114.051127
+311,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,118 Lychee Road South,1981-11-02,,,,,,1050,1035,13000000,2019-05-22,,0,0.0,22.48066,114.048756
+312,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,26 River North 9Th Street,1982-01-06,,,,,,950,950,11840000,2019-05-20,,0,0.0,22.481282,114.049295
+313,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,39 1St Street,1989-10-04,,,,,,1150,891,12500000,2019-05-14,,0,0.0,22.4769841,114.0431918
+314,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Maize Path House 18 ( Maiz ),1994-08-22,,,,,,2021,1367,15880000,2019-05-14,,0,0.0,22.487859999999998,114.049234
+315,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,San Diego Avenue House 26 (Sadi),1995-10-19,,,,,,2044,1495,18000000,2019-05-14,2013-11-28,10500000,71.43,22.4868167,114.0554995
+316,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,7Th Street (House),1986-07-21,,,,,,1138,846,13200000,2019-05-10,,0,0.0,22.474704,114.042982
+317,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,55 4Th Street,1981-01-21,,,,,,950,950,10000000,2019-05-09,,0,0.0,22.482865,114.043234
+318,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,106 Bauhinia Road South,1988-04-06,,,,,,1138,846,10820000,2019-05-08,,0,0.0,22.474505999999998,114.044113
+319,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Birch Path House 8 ( Birc ),1994-11-01,,,,,,2021,1372,16100000,2019-05-08,,0,0.0,22.483791999999998,114.05525
+320,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,94 3Rd Street,1979-02-22,,,,,,850,848,11880000,2019-05-07,2015-09-23,7500000,58.4,22.47743,114.04838
+321,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,59 2Nd Street,1981-05-28,,,,,,1100,1100,14800000,2019-05-06,,0,0.0,22.482461,114.04397399999999
+322,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,68 4Th Street,1979-10-18,,,,,,850,848,11180000,2019-04-30,,0,0.0,22.479822,114.04784599999999
+323,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,83 Bauhinia Road West,1982-09-22,,,,,,1100,1100,15900000,2019-04-30,,0,0.0,22.4838058,114.0425774
+324,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Cypress Drive House 128 ( Cypr ),1993-08-16,,3,,,,1768,1198,14280000,2019-04-25,2006-04-29,6000000,138.0,22.4830293,114.0528064
+325,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,4 7Th Street,1986-05-07,,,,,,1300,915,11200000,2019-04-25,,0,0.0,22.473329,114.04830000000001
+326,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,77 Bauhinia Road South,1987-02-16,,,,,,1300,915,11680000,2019-04-24,2013-01-04,7100000,64.51,22.474505999999998,114.044113
+327,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Phoenix Path House 3 ( Phoe ),1996-05-10,,,,,,1410,969,11280000,2019-04-18,2010-07-23,4939200,128.38,22.4848248,114.0549681
+328,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,61 4Th Street,1980-11-18,,,,,,850,848,11650000,2019-04-18,2012-08-30,6000000,94.17,22.48144,114.045509
+329,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,5 1St Street,1979-02-22,,,,,,850,848,10980000,2019-04-18,,0,0.0,22.476212999999998,114.046555
+330,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,63 4Th Street,1980-11-18,,,,,,850,848,11650000,2019-04-18,2012-08-30,6000000,94.17,22.48144,114.045509
+331,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,34 River North 8Th Street,1981-11-02,,,,,,850,848,10500000,2019-04-17,,0,0.0,22.481056,114.049003
+332,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Cedar Path House 10 ( Ceda ),1994-08-22,,,,,,2014,1377,15000000,2019-04-11,2016-04-19,8000000,87.5,22.486528,114.051127
+333,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,40 4Th Street,1982-11-22,,,,,,950,950,12800000,2019-04-11,2011-06-23,6520000,96.32000000000001,22.474857999999998,114.044303
+334,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,62 5Th Street,1981-01-21,,,,,,950,950,11000000,2019-04-08,2012-11-02,7200000,52.78,22.483107999999998,114.042939
+335,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,3 3Rd Street,1979-12-27,,,,,,1050,1035,12750000,2019-04-04,2008-01-18,4730000,169.56,22.47404,114.046693
+336,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,6 River North 10Th Street,1982-01-06,,,,,,950,950,11600000,2019-04-04,,0,0.0,22.481405,114.049678
+337,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,The Vineyard,House 25,2008-03-28,,,,,,0,1230,15500000,2019-03-29,2009-09-22,12750000,21.57,22.479709,114.058762
+338,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Carmel Avenue House 12 (Carm),1995-10-19,,,,,,2044,1495,16000000,2019-03-27,,0,0.0,22.487036999999997,114.056853
+339,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Pasadena Avenue House 13 (Pasa),1996-02-07,,,,,,2044,1495,16300000,2019-03-27,2009-03-30,6380000,155.49,22.484128,114.056479
+340,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,18 2Nd Street,1985-11-19,,,,,,1050,1035,13500000,2019-03-27,,0,0.0,22.482461,114.04397399999999
+341,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Lily Path House 36 ( Lily ),1993-08-16,,,,,,1410,967,11150000,2019-03-26,2013-04-09,7630000,46.13,22.483280999999998,114.051744
+342,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,62 2Nd Street,1979-06-15,,,,,,850,848,9800000,2019-03-26,,0,0.0,22.476378999999998,114.048873
+343,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Willow Path House 40 ( Will ),1993-08-16,,,,,,1768,1198,12680000,2019-03-26,2009-08-28,5650000,124.42,22.483607,114.05369
+344,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,Bauhinia Road West (House),1981-09-15,,,,,,1100,1100,16400000,2019-03-19,,0,0.0,22.4838058,114.0425774
+345,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,27 5Th Street,1980-02-06,,,,,,1050,1035,13990000,2019-03-15,,0,0.0,22.480003,114.048163
+346,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,10 3Rd Street,1979-10-18,,,,,,0,848,11200000,2019-03-15,,0,0.0,22.479651,114.047498
+347,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Cypress Drive House 115 ( Cypr ),1993-08-16,,3,,,,1410,967,9880000,2019-03-13,2017-05-17,8000000,23.5,22.4830293,114.0528064
+348,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,69 1St Street,1979-02-22,,,,,,850,848,9738000,2019-03-11,2012-02-27,5480000,77.7,22.477294,114.047413
+349,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,7 3Rd Street,1981-09-15,,,,,,850,950,10000000,2019-03-06,2012-07-31,5500000,81.82000000000001,22.479722,114.042219
+350,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,1 4Th Street,1986-07-04,,,,,,1050,1035,13680000,2019-03-05,,0,0.0,22.475738,114.042651
+351,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,4Th Street (House),1979-12-27,,,,,,1050,1035,14600000,2019-03-01,,0,0.0,22.473834,114.047125
+352,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,23 1St Street,1981-02-03,,,,,,850,848,10568000,2019-03-01,2010-04-30,4300000,145.77,22.478914,114.045097
+353,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,19 6Th Street,1986-10-17,,,,,,1138,846,10380000,2019-02-28,2007-06-13,3680000,182.07,22.474391,114.043212
+354,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,11 1St Street,1981-02-03,,,,,,850,848,9800000,2019-02-25,2007-08-08,3300000,196.97,22.478914,114.045097
+355,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Marin Avenue House 20 ( Mari ),1995-10-19,,,,,,1974,1347,15000000,2019-02-20,2007-12-28,7580000,97.89,22.4880764,114.0561149
+356,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Cypress Drive House 13 ( Cypr ),1993-08-16,,3,,,,1769,1201,11500000,2019-02-14,2009-04-02,5000000,130.0,22.4830293,114.0528064
+357,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,15 5Th Street,1980-02-06,,,,,,1050,1035,11500000,2019-02-14,,0,0.0,22.480003,114.048163
+358,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,64 5Th Street,1981-01-21,,,,,,950,950,10000000,2019-02-12,2017-04-27,10500000,-4.76,22.483107999999998,114.042939
+359,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Melrose Avenue House 13 (Melr),1996-02-07,,,,,,1958,1387,14500000,2019-02-01,2009-06-04,6500000,123.08,22.4828686,114.0563463
+360,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,45 3Rd Street,1980-07-23,,,,,,850,848,9451000,2019-02-01,2014-09-18,7300000,29.47,22.480985999999998,114.045635
+361,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Santa Clara Avenue House 10 (Sacl),1995-10-19,,,,,,1965,1347,14100000,2019-01-25,2015-04-21,11800000,19.490000000000002,22.486349,114.05613
+362,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Rose Path House 9 ( Rose ),1994-11-01,,,,,,2021,1372,15000000,2018-12-18,,0,0.0,22.482356,114.055542
+363,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Rose Path House 11 ( Rose ),1994-11-01,,,,,,2028,1372,15000000,2018-12-13,2010-05-18,8060000,86.10000000000001,22.482356,114.055542
+364,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Lilac Path House 7 ( Lila ),1994-11-01,,,,,,1463,1016,10500000,2018-11-28,,0,0.0,22.483791,114.055471
+365,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Maize Path (House),1994-08-22,,,,,,2021,1371,16000000,2018-11-28,,0,0.0,22.487859999999998,114.049234
+366,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,72 4Th Street,1981-02-02,,,,,,1500,1245,14000000,2018-11-15,2012-02-06,7620000,83.73,22.482865,114.043234
+367,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,The Vineyard,8 Mouton Avenue,2006-09-29,,4,2,,,3165,2178,24000000,2018-10-25,2010-04-12,17650000,35.980000000000004,22.481137999999998,114.06345
+368,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Victoriana Avenue House 16 (Vict),1995-10-19,,,,,,2183,1539,17000000,2018-10-19,,0,0.0,22.487472,114.056894
+369,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Lily Path House 19 ( Lily ),1993-08-16,,,,,,1463,1016,11000000,2018-10-08,2014-04-30,70000,15614.29,22.483280999999998,114.051744
+370,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Begonia Path House 5 ( Bego ),1993-08-16,,,,,,1534,1014,12100000,2018-09-24,2015-02-18,8450000,43.2,22.484778,114.052684
+371,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Cypress Drive House 147 ( Cypr ),1993-08-16,,3,,,,1775,1198,14700000,2018-09-21,,0,0.0,22.4830293,114.0528064
+372,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Santa Maria Avenue House 2 (Sama),1996-02-07,,,,,,2476,1703,24300000,2018-09-17,2010-11-18,13680000,77.63,22.4823583,114.0564803
+373,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Coronado Avenue House 5 (Coro),1995-10-19,,,,,,2044,1495,18450000,2018-09-12,2007-03-01,6890000,167.78,22.487254999999998,114.055927
+374,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Begonia Path (House),1993-08-16,,,,,,1534,1014,12100000,2018-09-12,,0,0.0,22.484778,114.052684
+375,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Begonia Path House 46 ( Bego ),1993-08-16,,,,,,1410,968,10900000,2018-09-07,,0,0.0,22.484778,114.052684
+376,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,30 9Th Street,1989-10-04,,,,,,1150,891,11280000,2018-09-07,2012-03-08,5500000,105.09,22.472949999999997,114.048949
+377,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,1 River North 6Th Street,1981-12-23,,,,,,1500,1245,15680000,2018-09-06,,0,0.0,22.48404,114.04553
+378,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,14 4Th Street,1981-09-15,,,,,,850,848,12000000,2018-08-31,2010-08-06,4480000,167.86,22.480356999999998,114.042182
+379,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,44 2Nd Street,1982-11-22,,,,,,950,950,13500000,2018-08-31,2014-07-15,8130000,66.05,22.479664,114.042667
+380,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,69 2Nd Street,1987-12-18,,,,,,1138,840,10800000,2018-08-30,2009-04-07,3130000,245.05,22.475514,114.044624
+381,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,31 3Rd Street,1988-06-17,,,,,,1300,915,12680000,2018-08-30,,0,0.0,22.47404,114.046693
+382,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Orchid Path House 31 ( Orch ),1994-08-22,,,,,,2014,1377,16000000,2018-08-14,,0,0.0,22.486083999999998,114.051228
+383,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,32 1St Street,1982-11-22,,,,,,1050,1035,14200000,2018-08-07,,0,0.0,22.479578999999998,114.043043
+384,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,19 1St Street,1981-06-02,,,,,,950,950,12900000,2018-08-07,,0,0.0,22.479578999999998,114.043043
+385,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Cypress Drive House 160 ( Cypr ),1993-08-16,,3,,,,1769,1201,15500000,2018-08-06,2012-04-30,8380000,84.96000000000001,22.4830293,114.0528064
+386,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Santa Maria Avenue House 11 (Sama),1996-02-07,,,,,,2476,1703,24000000,2018-08-06,2008-06-17,12750000,88.24,22.4823583,114.0564803
+387,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,19 River North 10Th Street,1982-01-06,,,,,,950,950,11800000,2018-08-02,,0,0.0,22.481405,114.049678
+388,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,San Simeon Avenue House 8 (Sasi),1995-10-19,,,,,,1958,1389,14500000,2018-08-01,,0,0.0,22.486561,114.056791
+389,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,56 1St Street,1984-05-03,,,,,,850,848,12180000,2018-07-30,,0,0.0,22.479578999999998,114.043043
+390,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,25 Lychee Road North,1981-11-02,,,,,,1100,1100,14500000,2018-07-30,,0,0.0,22.486245999999998,114.044992
+391,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,68 6Th Street,1980-11-18,,,,,,850,848,11800000,2018-07-24,2011-02-22,4580000,157.64000000000001,22.483333,114.042633
+392,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,4 1St Street,1980-05-09,,,,,,1050,1035,15000000,2018-07-24,2010-06-07,4500000,233.33,22.479986,114.045929
+393,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Kapok Path House 28 ( Kapo ),1994-08-22,,,,,,1463,1016,11900000,2018-07-23,2010-09-02,5870000,102.73,22.488619999999997,114.049954
+394,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,25A River North 1St Street,1981-10-14,,,,,,1100,1100,16880000,2018-07-20,,0,0.0,22.485785,114.044512
+395,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Orchid Path House 2 ( Orch ),1994-08-22,,,,,,2028,1371,16550000,2018-07-18,2007-04-21,8000000,106.88,22.486083999999998,114.051228
+396,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,7 Dawn Drive,1989-09-20,,,,,,1050,1035,15300000,2018-07-17,,0,0.0,22.48209,114.044797
+397,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,40 2Nd Street,1981-02-03,,,,,,850,848,10500000,2018-07-17,2008-09-11,3650000,187.67000000000002,22.4788537,114.0446449
+398,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Cypress Drive House 17 ( Cypr ),1993-08-16,,3,,,,1769,1201,14380000,2018-07-17,2013-04-25,9680000,48.550000000000004,22.4830293,114.0528064
+399,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Santa Maria Avenue House 5 (Sama),1996-02-07,,,,,,2476,1703,23500000,2018-07-17,,0,0.0,22.4823583,114.0564803
+400,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Phoenix Path House 11 ( Phoe ),1996-05-10,,,,,,1442,1016,11750000,2018-07-12,2009-07-06,4330000,171.36,22.4848248,114.0549681
+401,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Narcissus Path House 46 (Narc),1994-12-31,,,,,,2021,1380,16000000,2018-07-12,,0,0.0,22.487216999999998,114.05421799999999
+402,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,42 Bauhinia Road North,1982-11-22,,,,,,1100,1100,15300000,2018-07-11,,0,0.0,22.483577999999998,114.044544
+403,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,20 10Th Street,1988-09-21,,,,,,1300,962,12750000,2018-07-10,,0,0.0,22.478175999999998,114.049706
+404,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Osmanthus Path House 20 ( Osma ),1993-08-16,,,,,,1463,1016,11000000,2018-07-10,2013-03-15,7398000,48.69,22.4837398,114.0519582
+405,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Coronado Avenue House 18 (Coro),1995-10-19,,,,,,1965,1347,15750000,2018-07-09,,0,0.0,22.487254999999998,114.055927
+406,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,San Diego Avenue House 30 (Sadi),1995-10-19,,,,,,2044,1495,17500000,2018-07-06,,0,0.0,22.4868167,114.0554995
+407,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,54 Golden Bamboo Road East,1989-02-02,,,,,,1300,962,12860000,2018-07-06,2010-04-07,5000000,157.20000000000002,22.47675,114.04972
+408,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,23 4Th Street,1981-06-02,,,,,,850,848,11180000,2018-07-05,,0,0.0,22.480356999999998,114.042182
+409,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Michelia Path House 2 ( Mich ),1994-08-22,,,,,,1470,1016,12500000,2018-07-05,2011-02-21,6750000,85.19,22.487610999999998,114.049751
+410,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,The Vineyard,House 28,2008-03-28,,,,,,0,1225,16000000,2018-07-04,2009-08-31,12700000,25.98,22.479709,114.058762
+411,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Ficus Path House 13 ( Ficu ),1994-08-22,,,,,,2021,1371,15930000,2018-07-04,2013-02-08,10380000,53.47,22.487966,114.048767
+412,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,16 1St Street,1979-12-27,,,,,,1050,1035,13500000,2018-07-03,,0,0.0,22.474118,114.048031
+413,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Coronado Avenue House 10 (Coro),1995-10-19,,,,,,2044,1495,17000000,2018-07-03,2013-08-12,10500000,61.9,22.487254999999998,114.055927
+414,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,24 9Th Street,1989-08-09,,,,,,1300,962,12380000,2018-06-29,2009-12-15,4300000,187.91,22.472949999999997,114.048949
+415,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Lily Path House 23 ( Lily ),1993-08-16,,,,,,1410,967,10600000,2018-06-29,2011-08-04,5950000,78.15,22.483280999999998,114.051744
+416,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,10 Golden Bamboo Road North,1980-03-25,,,,,,1050,1035,10000000,2018-06-28,,0,0.0,22.478823,114.047205
+417,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,35 2Nd Street,1980-03-25,,,,,,850,848,11980000,2018-06-28,2014-03-25,6567000,82.43,22.479528,114.047094
+418,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,58 5Th Street,1981-01-21,,,,,,850,848,10380000,2018-06-27,2015-03-26,8180000,26.89,22.483107999999998,114.042939
+419,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,San Francisco Avenue House 7 (Safr),1996-02-07,,,,,,1965,1348,14780000,2018-06-27,2010-07-30,7868000,87.85000000000001,22.485426999999998,114.05632299999999
+420,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,3 2Nd Street,1981-05-28,,,,,,950,950,12600000,2018-06-27,2007-10-29,3500000,260.0,22.482461,114.04397399999999
+421,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,20 Bauhinia Road North,1982-11-22,,,,,,1050,1035,11850000,2018-06-26,2011-01-24,6600000,79.55,22.483577999999998,114.044544
+422,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Cypress Drive House 71 ( Cypr ),1993-08-16,,3,,,,1463,1016,10750000,2018-06-25,2014-02-18,6550000,64.12,22.4830293,114.0528064
+423,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,85 5Th Street,1981-01-21,,,,,,950,950,13500000,2018-06-25,2015-04-01,9350000,44.39,22.483107999999998,114.042939
+424,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Lily Path House 13 ( Lily ),1993-08-16,,,,,,1463,1016,10680000,2018-06-22,2014-07-22,7600000,40.53,22.483280999999998,114.051744
+425,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Santa Barbara Avenue House 21 (Saba),1996-02-07,,,,,,2044,1495,16440000,2018-06-22,2005-06-03,9028000,82.10000000000001,22.485004999999997,114.05633399999999
+426,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,4 6Th Street,1986-10-17,,,,,,1138,840,10800000,2018-06-22,2011-04-29,5150000,109.71000000000001,22.474391,114.043212
+427,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,18 Lychee Road North,1981-12-23,,,,,,1500,1245,13180000,2018-06-22,,0,0.0,22.48305,114.046482
+428,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,16 3Rd Street,1981-09-15,,,,,,950,950,12550000,2018-06-20,2015-02-11,8550000,46.78,22.479722,114.042219
+429,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,7 1St Street,1988-12-21,,,,,,1050,1035,12480000,2018-06-19,,0,0.0,22.474432,114.04845399999999
+430,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,42 Pinery Road South,1987-01-19,,,,,,1300,902,11380000,2018-06-19,,0,0.0,22.473387,114.043452
+431,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,8 River North 10Th Street,1982-01-06,,,,,,850,848,10400000,2018-06-12,,0,0.0,22.481405,114.049678
+432,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,29 6Th Street,1988-02-05,,,,,,1050,1035,12000000,2018-06-08,,0,0.0,22.47347,114.047951
+433,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,45 1St Street,1980-10-02,,,,,,850,848,11500000,2018-06-08,2014-05-16,7480000,53.74,22.4757966,114.0448626
+434,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,81 2Nd Street,1979-02-22,,,,,,850,848,10000000,2018-06-05,,0,0.0,22.4776434,114.0480479
+435,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,35 5Th Street,1980-11-18,,,,,,1050,1035,12980000,2018-06-04,,0,0.0,22.481809,114.045463
+436,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Sacramento Avenue House 1 (Sacr),1996-02-07,,,,,,2355,1713,20200000,2018-05-30,2005-05-17,10980000,83.97,22.4837105,114.056467
+437,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,3 Pinery Road East,1979-12-27,,,,,,1050,1035,13100000,2018-05-29,2006-11-10,4230000,209.69,22.474532,114.04592
+438,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,8 2Nd Street,1979-04-20,,,,,,850,848,10680000,2018-05-28,,0,0.0,22.476378999999998,114.048873
+439,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,22 5Th Street,1980-11-18,,,,,,850,848,10350000,2018-05-28,2017-03-14,8500000,21.76,22.481809,114.045463
+440,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,97 Bauhinia Road South,1988-04-28,,,,,,1300,915,11528000,2018-05-25,2012-09-14,6160000,87.14,22.474505999999998,114.044113
+441,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,30 Lychee Road South,1981-12-03,,,,,,0,950,11800000,2018-05-24,,0,0.0,22.482162,114.046913
+442,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,1 Lychee Road West,1981-10-14,,,,,,950,950,13200000,2018-05-21,2015-03-11,9438000,39.86,22.486137,114.0442696
+443,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Cypress Drive House 206 ( Cypr ),1993-08-16,,3,,,,1768,1195,10100000,2018-05-18,,0,0.0,22.4830293,114.0528064
+444,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,The Vineyard,81 Bahans Avenue,2009-05-29,,,,,,2446,1555,20800000,2018-05-18,2016-04-01,22000000,-5.45,22.480316,114.064125
+445,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,Lychee Road South (House),1982-02-25,,,,,,1050,1035,10600000,2018-05-18,,0,0.0,22.485318,114.044081
+446,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Santa Monica Avenue House 26 (Samo),1995-10-19,,,,,,2364,1713,20180000,2018-05-16,2007-12-10,9480000,112.87,22.488346,114.057098
+447,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Santa Barbara Avenue House 27 (Saba),1996-02-07,,,,,,2183,1539,15800000,2018-05-16,,0,0.0,22.485004999999997,114.05633399999999
+448,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,Melrose Avenue House 1 (Melr),1996-02-07,,,,,,1974,1347,15000000,2018-05-15,2011-08-04,8300000,80.72,22.4828686,114.0563463
+449,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,1 3Rd Street,1979-10-18,,,,,,0,848,11500000,2018-05-15,,0,0.0,22.479651,114.047498
+450,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,51 2Nd Street,1979-02-22,,,,,,850,848,11330000,2018-05-08,2013-09-09,6700000,69.10000000000001,22.4776434,114.0480479
+451,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,13 4Th Street,1981-08-26,,,,,,850,848,12500000,2018-05-07,,0,0.0,22.478945,114.043794
+452,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,7 1St Street,1980-10-02,,,,,,850,848,10300000,2018-05-07,2011-12-14,5250000,96.19,22.4757966,114.0448626
+453,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,90 3Rd Street,1984-07-06,,,,,,850,848,12050000,2018-05-07,2011-05-27,5500000,119.09,22.479722,114.042219
+454,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,22 3Rd Street,1981-04-21,,,,,,1100,1100,11000000,2018-05-04,,0,0.0,22.482699,114.04358500000001
+455,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,55 3Rd Street,1980-07-23,,,,,,850,848,10860000,2018-05-04,2014-08-15,7500000,44.800000000000004,22.480985999999998,114.045635
+456,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,37 3Rd Street,1981-05-28,,,,,,850,848,11890000,2018-05-03,,0,0.0,22.47898,114.044276
+457,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,77 3Rd Street,1981-05-28,,,,,,850,848,10680000,2018-05-02,2011-03-22,5550000,92.43,22.47898,114.044276
+458,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Osmanthus Path House 28 ( Osma ),1993-08-16,,,,,,1410,967,9930000,2018-05-02,2013-04-02,6500000,52.77,22.4837398,114.0519582
+459,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,36 2Nd Street,1982-11-22,,,,,,850,848,9350000,2018-05-02,2012-07-27,5430000,72.19,22.479664,114.042667
+460,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,15 4Th Street,1981-08-26,,,,,,850,848,12500000,2018-04-30,,0,0.0,22.478945,114.043794
+461,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,4 Lychee Road South,1982-01-06,,,,,,850,848,10400000,2018-04-27,,0,0.0,22.482162,114.046913
+462,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,16 Lychee Road South,1982-01-06,,,,,,950,950,11000000,2018-04-27,2008-05-14,4200000,161.9,22.482162,114.046913
+463,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,16 3Rd Street,1980-11-18,,,,,,850,848,9980000,2018-04-26,2011-02-25,5080000,96.46000000000001,22.4752322,114.0443837
+464,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,36 1St Street,1989-08-09,,,,,,1050,1035,9800000,2018-04-26,2009-03-18,4200000,133.33,22.4769841,114.0431918
+465,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Begonia Path House 3 ( Bego ),1993-08-16,,,,,,1463,1016,10300000,2018-04-25,2014-10-20,7800000,32.05,22.484778,114.052684
+466,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,84 3Rd Street,1984-07-06,,,,,,850,848,9600000,2018-04-23,,0,0.0,22.479722,114.042219
+467,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,100 Lychee Road North,1981-12-23,,,,,,1500,1245,15800000,2018-04-20,2008-02-05,5938000,166.08,22.481935,114.04974899999999
+468,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,24 4Th Street,1981-05-28,,,,,,850,848,10280000,2018-04-20,2009-12-24,3850000,167.01,22.478945,114.043794
+469,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,3 River North 5Th Street,1982-01-06,,,,,,950,950,11500000,2018-04-12,2010-11-17,5200000,121.15,22.484464,114.045329
+470,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,15 2Nd Street,1979-04-20,,,,,,850,848,10390000,2018-04-06,2012-09-20,6580000,57.9,22.476378999999998,114.048873
+471,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,7 River North 4Th Street,1981-11-02,,,,,,850,848,10380000,2018-03-29,2015-02-27,7668000,35.37,22.484766,114.045141
+472,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,67 3Rd Street,1981-04-21,,,,,,850,848,9728000,2018-03-29,,0,0.0,22.482699,114.04358500000001
+473,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,64 2Nd Street,1979-06-15,,,,,,850,848,9850000,2018-03-28,,0,0.0,22.476378999999998,114.048873
+474,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Begonia Path House 30 ( Bego ),1993-08-16,,,,,,1772,1201,13900000,2018-03-27,,0,0.0,22.484778,114.052684
+475,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,The Vineyard,20 Margaux Avenue,2006-09-29,,3,3,,,2898,2016,26000000,2018-03-26,2007-04-03,17388000,49.53,22.479588,114.06399
+476,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,94 Bauhinia Road West,1981-05-28,,,,,,950,950,12600000,2018-03-26,,0,0.0,22.4838058,114.0425774
+477,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,40 1St Street,1989-08-09,,,,,,1050,1035,13500000,2018-03-23,,0,0.0,22.4769841,114.0431918
+478,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Cypress Drive House 15 ( Cypr ),1993-08-16,,3,,,,1769,1201,13500000,2018-03-21,,0,0.0,22.4830293,114.0528064
+479,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,9 River North 11Th Street,1988-08-22,,,,,,1150,891,11000000,2018-03-20,2014-06-04,6850000,60.58,22.480669,114.050803
+480,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,53 1St Street,1979-02-22,,,,,,850,848,10630000,2018-03-20,,0,0.0,22.477294,114.047413
+481,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Cypress Drive House 51 ( Cypr ),1993-08-16,,3,,,,1410,967,10200000,2018-03-07,2010-02-18,4800000,112.5,22.4830293,114.0528064
+482,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,12 4Th Street,1981-09-15,,,,,,950,950,12238000,2018-03-06,2010-05-03,5000000,144.76,22.480356999999998,114.042182
+483,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Willow Path House 30 ( Will ),1993-08-16,,,,,,1410,968,9800000,2018-03-05,,0,0.0,22.483607,114.05369
+484,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Osmanthus Path House 16 ( Osma ),1993-08-16,,,,,,1463,1016,10270000,2018-03-02,2014-04-11,6960000,47.56,22.4837398,114.0519582
+485,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Royal Palms,San Francisco Avenue House 6 (Safr),1996-02-07,,,,,,1965,1347,13000000,2018-03-01,2008-07-11,7600000,71.05,22.485426999999998,114.05632299999999
+486,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,53 River North 8Th Street,1981-11-02,,,,,,1050,1035,12800000,2018-02-28,2008-07-15,5100000,150.98,22.481056,114.049003
+487,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,11 River North 4Th Street,1981-11-02,,,,,,950,950,9000000,2018-02-20,,0,0.0,22.484766,114.045141
+488,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,155 Lychee Road South,1981-12-03,,,,,,1100,1100,14430000,2018-02-14,2011-09-07,7750000,86.19,22.48066,114.048756
+489,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,21 6Th Street,1983-10-04,,,,,,0,848,10000000,2018-02-14,,0,0.0,22.47347,114.047951
+490,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,62 2Nd Street,1985-11-12,,,,,,1138,846,9900000,2018-02-13,2012-05-22,5450000,81.65,22.482461,114.04397399999999
+491,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,102 5Th Street,1980-11-18,,,,,,850,848,10800000,2018-02-12,2014-04-24,7480000,44.39,22.481809,114.045463
+492,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,31 2Nd Street,1980-05-09,,,,,,1050,1035,12000000,2018-02-09,2016-01-04,11800000,1.69,22.480486,114.04589899999999
+493,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,1 10Th Street,1988-09-21,,,,,,1050,1035,13300000,2018-02-09,,0,0.0,22.47785,114.04921
+494,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Cypress Drive House 32 ( Cypr ),1993-08-16,,3,,,,1768,1198,15000000,2018-02-07,,0,0.0,22.4830293,114.0528064
+495,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Oleander Path House 1 ( Olea ),1993-08-16,,,,,,1775,1198,12800000,2018-02-06,,0,0.0,22.484379999999998,114.051377
+496,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,22 Lotus Road,1979-02-22,,,,,,1050,1035,13800000,2018-02-05,,0,0.0,22.477715,114.047123
+497,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,2Nd Street (House),1985-11-12,,,,,,1300,902,9550000,2018-02-02,,0,0.0,22.482461,114.04397399999999
+498,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Sunflower Path House 7 (Sunf),1994-12-31,,,,,,2021,1372,15480000,2018-02-01,2012-07-12,10550000,46.730000000000004,22.486738,114.054381
+499,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,8 1St Street,1980-10-02,,,,,,1050,1035,12100000,2018-02-01,,0,0.0,22.4757966,114.0448626
+500,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,The Vineyard,16 Petrus Avenue,2006-09-29,,3,3,,,3506,2238,33300000,2018-01-26,2009-12-11,24880000,33.84,22.479212,114.062485
+501,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Gmelina Path House 10 ( Gmel ),1994-08-22,,,,,,2021,1371,14800000,2018-01-26,2005-12-23,6080000,143.42000000000002,22.487416,114.050964
+502,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,16 3Rd Street,1981-03-25,,,,,,1500,1245,15800000,2018-01-25,2007-11-13,5938000,166.08,22.482699,114.04358500000001
+503,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,39 1St Street,1981-02-03,,,,,,850,848,9680000,2018-01-22,,0,0.0,22.478914,114.045097
+504,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,3 1St Street,1981-02-03,,,,,,1050,1035,11800000,2018-01-22,2017-01-16,10180000,15.91,22.478914,114.045097
+505,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Lily Path House 30 ( Lily ),1993-08-16,,,,,,1410,968,9500000,2018-01-19,2014-11-13,7300000,30.14,22.483280999999998,114.051744
+506,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,7 Bauhinia Road South,1988-06-28,,,,,,1050,1035,14500000,2018-01-18,2012-11-28,8300000,74.7,22.473549,114.045836
+507,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,31 2Nd Street,1980-03-25,,,,,,850,848,9800000,2018-01-17,,0,0.0,22.479528,114.047094
+508,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,45 3Rd Street,1981-03-25,,,,,,1500,1245,13000000,2018-01-17,,0,0.0,22.482699,114.04358500000001
+509,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,23 5Th Street,1980-02-06,,,,,,1050,1035,13800000,2018-01-12,2012-10-04,7800000,76.92,22.480003,114.048163
+510,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,96 Lychee Road North,1982-01-06,,,,,,850,848,9880000,2018-01-12,,0,0.0,22.481935,114.04974899999999
+511,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Pinaceae Drive House 116 ( Pina ),1994-08-22,,,,,,2021,1371,14800000,2018-01-12,,0,0.0,22.486786,114.050623
+512,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,42 5Th Street,1981-08-26,,,,,,850,848,11320000,2018-01-11,2010-11-08,4430000,155.53,22.478998999999998,114.043359
+513,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Sunflower Path House 5 (Sunf),1994-12-31,,,,,,2021,1372,13860000,2018-01-10,,0,0.0,22.486738,114.054381
+514,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Palm Springs,Oleander Path House 16 ( Olea ),1993-08-16,,,,,,1410,967,9500000,2018-01-10,2011-01-24,5200000,82.69,22.484379999999998,114.051377
+515,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,41 5Th Street,1980-11-18,,,,,,1050,1035,13600000,2018-01-10,2014-09-26,8200000,65.85,22.481809,114.045463
+516,New Territories,Yuen Long,Fairview / Palm Springs / The Vineyard,Fairview Park,27 7Th Street,1989-03-16,,,,,,1150,891,10630000,2018-01-10,2012-08-07,5650000,88.14,22.477124999999997,114.05015

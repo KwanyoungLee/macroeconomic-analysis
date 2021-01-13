@@ -1,0 +1,121 @@
+,region,subregion,district,estate,building,first_op_date,floor_level,bedroom,sitting_room,floor,flat,area,net_area,price,tx_date,last_tx_date,last_price,gain,lat,lon
+0,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block B,2000-08-08,L,,,2,8,559,421,3880000,2020-12-31,,0,0.0,22.220115,114.2086309
+1,Hong Kong Island,Southern,Stanley,Tung Tau Wan Road 37A-37F,Tung Tau Wan Road 37B,1978-08-09,,,,,,0,2491,85000000,2020-12-02,,0,0.0,,
+2,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block C,2000-08-08,H,,,7,10,283,214,3280000,2020-12-02,2010-12-01,1468000,123.43,22.219649999999998,114.208208
+3,Hong Kong Island,Southern,Stanley,Regalia Bay,Wong Ma Kok Road (House),2004-01-20,,,,,,4082,2781,68800000,2020-11-27,2006-02-22,38800000,77.32000000000001,22.207033,114.21285
+4,Hong Kong Island,Southern,Stanley,Stanford Villa,Block 6,1995-05-15,,3,,2,A,1052,855,22000000,2020-11-19,2014-04-17,17650000,24.650000000000002,22.2234,114.21326
+5,Hong Kong Island,Southern,Stanley,U-C Court,U-C Court,1981-10-13,L,,,1,,0,955,31500000,2020-11-06,2002-09-02,4850000,549.48,22.218653,114.21175
+6,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block A,2000-08-08,L,,,4,1,283,214,3200000,2020-11-02,2018-07-16,3300000,-3.0300000000000002,22.220648,114.2077
+7,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block B,2000-08-08,L,,,2,31,559,421,4150000,2020-11-02,,0,0.0,22.220115,114.2086309
+8,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block C,2000-08-08,L,,,3,28,559,421,3730000,2020-10-20,2009-09-08,1380000,170.29,22.219649999999998,114.208208
+9,Hong Kong Island,Southern,Stanley,Lung Yan Court,Block A,1993-12-16,M,1,2,7,8,632,431,5480000,2020-10-19,2011-11-29,3360000,63.1,22.221883,114.2054664
+10,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block D,2000-08-08,M,,,4,14,283,214,2000000,2020-10-19,,0,0.0,22.218915,114.208697
+11,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block B,2000-08-08,L,,,1,34,283,212,3300000,2020-10-16,2013-06-05,2280000,44.74,22.220115,114.2086309
+12,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block C,2000-08-08,L,,,3,1,283,214,3600000,2020-09-30,2012-01-05,1880000,91.49,22.219649999999998,114.208208
+13,Hong Kong Island,Southern,Stanley,Yu Hoi House,Yu Hoi House,1984-12-24,,,,4,A,0,351,4200000,2020-09-25,2012-12-14,3250000,29.23,22.217257,114.21301
+14,Hong Kong Island,Southern,Stanley,Horizon Drive 09-11,Block D,1975-06-17,,,,TF,D1,0,1290,45000000,2020-09-25,,0,0.0,,
+15,Hong Kong Island,Southern,Stanley,Stanley Main Street 019-021,19-21 Stanley Main Street,1971-11-12,,,,1,,0,286,3080000,2020-09-23,,0,0.0,22.217807999999998,114.21272
+16,Hong Kong Island,Southern,Stanley,Stanley Village Road 52,Stanley Village Road 52,1959-02-03,,,,G,2,0,1738,54000000,2020-09-18,,0,0.0,22.220509,114.21191400000001
+17,Hong Kong Island,Southern,Stanley,Cape Road 33,House F,2005-01-11,,3,,,,0,2559,53000000,2020-09-17,2010-12-07,54800000,-3.2800000000000002,22.219378,114.20636
+18,Hong Kong Island,Southern,Stanley,Regalia Bay,Type II - House B11,2003-03-29,,,,,,0,2790,70800000,2020-09-07,,0,0.0,22.208064999999998,114.21285
+19,Hong Kong Island,Southern,Stanley,Talloway Court,Talloway Court,1977-04-12,L,2,,1,B,570,414,1966500,2020-08-26,2020-06-04,1966500,0.0,22.218685,114.21138
+20,Hong Kong Island,Southern,Stanley,Regalia Bay,Type III - House A17,2003-03-29,,,,,,0,3034,70000000,2020-08-20,2013-09-26,78800000,-11.17,22.207378,114.213234
+21,Hong Kong Island,Southern,Stanley,Stanley Main Street 018-020,18-20 Stanley Main Street,1974-03-02,H,,,5,C,0,374,5150000,2020-08-13,,0,0.0,22.217444999999998,114.21300000000001
+22,Hong Kong Island,Southern,Stanley,Lung Yan Court,Block A,1993-12-16,M,2,2,7,14,776,530,7080000,2020-07-23,2003-08-16,1500000,372.0,22.221883,114.2054664
+23,Hong Kong Island,Southern,Stanley,Horizon Court,Horizon Court,1981-01-30,,,,2,,0,530,8100000,2020-07-17,,0,0.0,22.218275,114.212234
+24,Hong Kong Island,Southern,Stanley,Stanford Villa,Block 3,1995-05-15,,3,,G,C,1052,855,11700000,2020-07-08,2010-05-31,17880000,-34.56,22.223608,114.213844
+25,Hong Kong Island,Southern,Stanley,Tung Tau Wan Road 39,Block C,1979-05-16,,,,G,,0,1618,48000000,2020-07-02,,0,0.0,22.216912999999998,114.21741
+26,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block D,2000-08-08,H,,,6,12,698,526,7580000,2020-06-30,,0,0.0,22.218915,114.208697
+27,Hong Kong Island,Southern,Stanley,Lung Yan Court,Block A,1993-12-15,H,1,2,10,12,626,427,5380000,2020-06-28,2016-10-25,4000000,34.5,22.221883,114.2054664
+28,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block D,2000-08-07,M,,,4,13,552,417,5500000,2020-06-21,2014-01-05,4150000,32.53,22.218915,114.208697
+29,Hong Kong Island,Southern,Stanley,Beach Pointe,Beach Pointe,1988-04-08,,3,,G,C,1544,1338,33800000,2020-06-12,1996-11-28,11580000,191.88,22.221328999999997,114.21358
+30,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block B,2000-08-07,L,,,3,21,283,214,3700000,2020-05-26,2015-05-11,2700000,37.04,22.220115,114.2086309
+31,Hong Kong Island,Southern,Stanley,L'harmonie,House G,1989-08-30,,,,,,0,2365,75000000,2020-05-12,2009-05-20,59000000,27.12,22.221431,114.212916
+32,Hong Kong Island,Southern,Stanley,Carmel Hill,House 4,1992-03-09,,,,,,2378,1957,63000000,2020-05-10,,0,0.0,22.220195999999998,114.21098
+33,Hong Kong Island,Southern,Stanley,Yau Shing Lau,Yau Shing Lau,1978-02-22,L,,,1,B,0,322,3800000,2020-04-21,,0,0.0,22.218227,114.21265
+34,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block A,2000-08-07,M,,,7,30,839,632,6399998,2020-04-19,,0,0.0,22.220648,114.2077
+35,Hong Kong Island,Southern,Stanley,Carmel Hill,House 21,1992-03-09,,,,,,2434,1957,60000000,2020-04-14,,0,0.0,22.219604,114.21122
+36,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block A,2000-08-07,H,,,8,1,283,214,3580000,2020-04-01,,0,0.0,22.220648,114.2077
+37,Hong Kong Island,Southern,Stanley,Regalia Bay,House No.C27,2004-01-19,,,,,,0,3034,67000000,2020-03-15,2015-09-14,72000000,-6.94,22.206923999999997,114.21265
+38,Hong Kong Island,Southern,Stanley,Regalia Bay,House No.B38,2004-01-19,,,,,,0,2816,66000000,2020-03-10,2015-08-25,70000000,-5.71,22.206646,114.21297
+39,Hong Kong Island,Southern,Stanley,Greenville,Greenville,1995-10-24,,,,4,B,0,517,11300000,2020-03-01,2007-11-14,7100000,59.15,22.217879999999997,114.213425
+40,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block D,2000-08-07,L,,,3,14,283,214,3650000,2020-02-06,2013-06-13,2330000,56.65,22.218915,114.208697
+41,Hong Kong Island,Southern,Stanley,Stanley Main Street 058,Stanley Main Street 58,1979-09-12,,,,3,,0,283,3900000,2020-01-20,2019-09-29,3900000,0.0,22.218165,114.212453
+42,Hong Kong Island,Southern,Stanley,Stanford Villa,Block 2,1995-05-14,,3,,G,D,1052,855,26000000,2020-01-19,2006-12-28,11100000,134.23,22.223834999999998,114.21350000000001
+43,Hong Kong Island,Southern,Stanley,Sea And Sky Court,Sea And Sky Court,1966-07-04,H,,,8,B,0,1510,11900000,2019-12-04,2016-03-30,28000000,-57.5,22.218806999999998,114.21079
+44,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block C,2000-08-07,L,,,2,14,559,421,3700000,2019-11-28,2007-06-13,950000,289.47,22.219649999999998,114.208208
+45,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block C,2000-08-07,L,,,2,13,559,421,5300000,2019-11-19,2015-08-05,4200000,26.19,22.219649999999998,114.208208
+46,Hong Kong Island,Southern,Stanley,Lung Yan Court,Block A,1993-12-15,M,2,2,5,11,776,530,6500000,2019-10-30,,0,0.0,22.221883,114.2054664
+47,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block D,2000-08-07,H,,,7,22,552,417,5500000,2019-10-24,2007-07-15,1700000,223.53,22.218915,114.208697
+48,Hong Kong Island,Southern,Stanley,Chung Hom Kok Road 40,Chung Hom Kok Road 40,1974-03-05,,,,2,22,0,1282,39800000,2019-10-23,,0,0.0,22.21987,114.20328
+49,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block B,2000-08-07,L,,,2,34,283,212,3800000,2019-10-03,2016-06-21,2750000,38.18,22.220115,114.2086309
+50,Hong Kong Island,Southern,Stanley,Stanley Main Street 058,Stanley Main Street 58,1979-09-12,,,,3,,0,283,3900000,2019-09-29,,0,0.0,22.218165,114.212453
+51,Hong Kong Island,Southern,Stanley,Pine Villa,Pine Villa,1963-10-17,,,,G,D,0,1783,62000000,2019-09-25,2015-06-29,50500000,22.77,22.220285999999998,114.212952
+52,Hong Kong Island,Southern,Stanley,Stanley Main Street 018-020,18-20 Stanley Main Street,1974-03-01,H,,,5,B,0,304,4500000,2019-09-23,,0,0.0,22.217444999999998,114.21300000000001
+53,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block B,2000-08-08,L,,,3,14,698,526,5338000,2019-09-12,,0,0.0,22.220115,114.2086309
+54,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block A,2000-08-07,L,,,1,7,559,421,5900000,2019-07-22,2016-04-06,3750000,57.33,22.220648,114.2077
+55,Hong Kong Island,Southern,Stanley,Hillgrove,Block A,1980-01-08,,4,,1,1,1765,1724,38288000,2019-07-08,2013-12-27,33500000,14.290000000000001,22.218348,114.204956
+56,Hong Kong Island,Southern,Stanley,Lung Yan Court,Block A,1993-12-15,,,,G,11,626,427,5300000,2019-07-01,2005-11-24,1080000,390.74,22.221883,114.2054664
+57,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block A,2000-08-08,,,,G,17,552,417,5600000,2019-06-06,,0,0.0,22.220648,114.2077
+58,Hong Kong Island,Southern,Stanley,Lung Yan Court,Block B,1993-12-15,H,1,2,9,12,626,427,5330000,2019-05-23,,0,0.0,22.2214156,114.2052676
+59,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block B,2000-08-07,L,,,1,8,559,421,5700000,2019-05-15,,0,0.0,22.220115,114.2086309
+60,Hong Kong Island,Southern,Stanley,50 Stanley Village Road,House 5,2012-03-07,,,,,,0,2755,168800000,2019-05-08,2015-05-10,128592000,31.27,22.220786999999998,114.21152000000001
+61,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block B,2000-08-07,H,,,8,24,698,526,5000000,2019-05-08,,0,0.0,22.220115,114.2086309
+62,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block B,2000-08-07,L,,,3,34,283,212,3750000,2019-05-02,2013-06-06,2330000,60.94,22.220115,114.2086309
+63,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block D,2000-08-07,L,,,2,28,559,421,3780000,2019-04-11,,0,0.0,22.218915,114.208697
+64,Hong Kong Island,Southern,Stanley,Stanley Market Road 12,12 Stanley Market Road,1969-10-05,,,,2,,0,249,3200000,2019-04-07,,0,0.0,22.219025,114.21172
+65,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block B,2000-08-07,M,,,5,18,559,421,5600000,2019-03-28,,0,0.0,22.220115,114.2086309
+66,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block B,2000-08-07,L,,,1,32,559,421,4000000,2019-03-27,,0,0.0,22.220115,114.2086309
+67,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block C,2000-08-07,M,,,4,6,699,527,7000000,2019-03-25,2012-11-28,4600000,52.17,22.219649999999998,114.208208
+68,Hong Kong Island,Southern,Stanley,Princeton Court,Princeton Court,1996-01-14,,,,1,,0,459,6700000,2019-03-21,1996-09-15,3200000,109.38,22.218342,114.21271
+69,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block A,2000-08-07,H,,,9,23,699,527,4600000,2019-03-20,,0,0.0,22.220648,114.2077
+70,Hong Kong Island,Southern,Stanley,Phoenix Garden,House A,1979-12-21,,,,,,0,1404,68000000,2019-02-14,,0,0.0,,
+71,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block B,2000-08-07,M,,,5,28,559,421,3820000,2019-01-21,,0,0.0,22.220115,114.2086309
+72,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block C,2000-08-07,L,,,2,2,552,417,5860000,2019-01-13,2006-06-28,1538000,281.01,22.219649999999998,114.208208
+73,Hong Kong Island,Southern,Stanley,Pine Villa,Pine Villa,1963-10-17,,,,G,B,0,1611,50500000,2019-01-08,2001-08-24,11500000,339.13,22.220285999999998,114.212952
+74,Hong Kong Island,Southern,Stanley,Realfound Mansion,Realfound Mansion,1988-12-24,,,,3,C,0,316,3880000,2018-12-14,,0,0.0,22.217734999999998,114.213196
+75,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block C,2000-08-07,H,,,7,2,552,417,3820000,2018-12-13,2006-08-17,915000,317.49,22.219649999999998,114.208208
+76,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block A,2000-08-07,,,,LG1,17,552,417,5000000,2018-10-30,2015-08-02,4298000,16.330000000000002,22.220648,114.2077
+77,Hong Kong Island,Southern,Stanley,Pang Fat Lau,Pang Fat Lau,1992-11-09,H,,,5,A,0,179,2500000,2018-10-21,,0,0.0,22.218138,114.2132
+78,Hong Kong Island,Southern,Stanley,Yau Wing Lau,Yau Wing Lau,1978-09-05,,,,4,B,0,269,3750000,2018-10-15,2012-11-16,3100000,20.97,22.217829,114.212975
+79,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block D,2000-08-07,M,,,5,20,283,214,3680000,2018-10-01,2012-07-24,2000000,84.0,22.218915,114.208697
+80,Hong Kong Island,Southern,Stanley,Lung Yan Court,Block B,1993-12-15,H,2,2,9,11,776,530,4460000,2018-09-26,2002-03-14,800000,457.5,22.2214156,114.2052676
+81,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block D,2000-08-07,H,,,7,19,552,417,6400000,2018-09-18,2011-03-31,2830000,126.15,22.218915,114.208697
+82,Hong Kong Island,Southern,Stanley,Villa Piubello,Villa Piubello,1974-03-18,,,,3,D3,1800,1450,35500000,2018-09-18,2012-01-13,21300000,66.67,22.217301,114.20544
+83,Hong Kong Island,Southern,Stanley,Stanley Main Street 018-020,18-20 Stanley Main Street,1974-03-01,M,,,3,B,0,346,4700000,2018-09-09,,0,0.0,22.217444999999998,114.21300000000001
+84,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block A,2000-08-07,M,,,7,9,839,632,8080000,2018-08-27,,0,0.0,22.220648,114.2077
+85,Hong Kong Island,Southern,Stanley,Regalia Bay,Type II - House B17,2003-03-29,,,,,,0,2781,62000000,2018-08-27,2005-03-04,45000000,37.78,22.207829999999998,114.21287
+86,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block B,2000-08-07,M,,,4,12,552,417,5800000,2018-08-26,2008-05-22,1968000,194.72,22.220115,114.2086309
+87,Hong Kong Island,Southern,Stanley,Parisian,Parisian,1989-12-08,,,,3,18,0,1518,34000000,2018-08-23,2009-12-23,24500000,38.78,22.221548,114.21311
+88,Hong Kong Island,Southern,Stanley,Regalia Bay,Type II - House B12,2003-03-29,,,,,,0,2790,62000000,2018-08-08,,0,0.0,22.208005999999997,114.212875
+89,Hong Kong Island,Southern,Stanley,Pang Fat Lau,Pang Fat Lau,1992-11-09,M,,,3,A,0,179,2688000,2018-07-31,2006-09-20,530000,407.17,22.218138,114.2132
+90,Hong Kong Island,Southern,Stanley,Stanley Main Street 014-016A,14-16A Stanley Main Street,1965-11-07,,,,3,,0,356,3730000,2018-07-31,2012-09-17,2488000,49.92,22.21737,114.213005
+91,Hong Kong Island,Southern,Stanley,Bauhinia Garden,House F,1972-03-29,,,,,,0,2730,100000000,2018-07-30,2007-04-25,49000000,104.08,22.219518,114.203633
+92,Hong Kong Island,Southern,Stanley,Realfound Mansion,Realfound Mansion,1988-12-24,,,,4,A,0,282,3980000,2018-07-26,,0,0.0,22.217734999999998,114.213196
+93,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block A,2000-08-08,L,,,4,1,283,214,3300000,2018-07-16,,0,0.0,22.220648,114.2077
+94,Hong Kong Island,Southern,Stanley,Donmark Mansion,Donmark Mansion,1987-12-03,,,,3,A,0,375,6000000,2018-06-24,,0,0.0,22.218172,114.213005
+95,Hong Kong Island,Southern,Stanley,New Town Mansion,New Town Mansion,1975-07-29,,,,3,B,0,395,5450000,2018-06-19,,0,0.0,22.21754,114.213196
+96,Hong Kong Island,Southern,Stanley,Regalia Bay,Type III - House A3,2003-03-29,,,,,,0,3042,70000000,2018-06-19,,0,0.0,22.208102999999998,114.2132
+97,Hong Kong Island,Southern,Stanley,Regalia Bay,House No.D39,2004-01-19,,,,,,0,3384,85000000,2018-06-10,2007-06-28,67000000,26.87,22.20607,114.21254
+98,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block A,2000-08-07,H,,,8,24,559,421,5000000,2018-06-05,,0,0.0,22.220648,114.2077
+99,Hong Kong Island,Southern,Stanley,Yau Shing Lau,Yau Shing Lau,1978-02-23,M,,,4,D,0,285,3800000,2018-05-29,2007-10-11,1400000,171.43,22.218227,114.21265
+100,Hong Kong Island,Southern,Stanley,Regalia Bay,Type II - House B15,2003-03-29,,,,,,0,2787,72000000,2018-05-18,,0,0.0,22.207940999999998,114.21289
+101,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block B,2000-08-07,M,,,6,8,559,421,5310000,2018-05-03,2011-08-14,2880000,84.38,22.220115,114.2086309
+102,Hong Kong Island,Southern,Stanley,New Town Mansion,New Town Mansion,1975-07-29,,,,4,B,0,395,4700000,2018-05-03,,0,0.0,22.21754,114.213196
+103,Hong Kong Island,Southern,Stanley,Llandaff House,Llandaff House,1985-09-16,,,,4,A,0,290,4000000,2018-04-12,2009-08-03,2100000,90.48,22.217181999999998,114.21299
+104,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block C,2000-08-07,M,,,5,3,698,526,6500000,2018-04-10,,0,0.0,22.219649999999998,114.208208
+105,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block D,2000-08-07,M,,,4,21,283,214,3250000,2018-04-09,,0,0.0,22.218915,114.208697
+106,Hong Kong Island,Southern,Stanley,Lung Yan Court,Block A,1993-12-15,H,2,2,11,15,626,427,4980000,2018-04-09,,0,0.0,22.221883,114.2054664
+107,Hong Kong Island,Southern,Stanley,Scape,Seleno (Block 5),2010-03-25,,,,,,4828,3052,250000000,2018-04-09,,0,0.0,22.216241999999998,114.205505
+108,Hong Kong Island,Southern,Stanley,Regalia Bay,House No.D5,2003-03-29,,,,,,0,3379,101000000,2018-04-04,2007-10-24,77500000,30.32,22.208261,114.21224
+109,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block B,2000-08-07,L,,,3,7,559,421,3520000,2018-03-25,,0,0.0,22.220115,114.2086309
+110,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block B,2000-08-07,M,,,5,34,283,212,3300000,2018-03-20,2014-11-19,2480000,33.06,22.220115,114.2086309
+111,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block A,2000-08-07,,,,LG1,4,698,526,5980000,2018-03-12,2014-06-16,4680000,27.78,22.220648,114.2077
+112,Hong Kong Island,Southern,Stanley,Chik Tak Mansion,Chik Tak Mansion,1986-10-15,,,,2,C,0,459,1950000,2018-03-06,,0,0.0,22.218705999999997,114.21265
+113,Hong Kong Island,Southern,Stanley,Stanley Court,House 21,1988-06-15,,,,,,0,2199,72000000,2018-02-25,2005-03-04,29500000,144.07,22.221272,114.21191999999999
+114,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block B,2000-08-07,M,,,7,10,283,214,3260000,2018-02-22,2014-12-10,2530000,28.85,22.220115,114.2086309
+115,Hong Kong Island,Southern,Stanley,Louisette,House C,1994-11-14,,,,,,0,1929,91800000,2018-02-22,2007-03-28,38000000,141.58,,
+116,Hong Kong Island,Southern,Stanley,Lung Tak Court,Block A,2000-08-07,M,,,7,29,559,421,3520000,2018-02-21,,0,0.0,22.220648,114.2077
+117,Hong Kong Island,Southern,Stanley,Stanley Main Street 018-020,18-20 Stanley Main Street,1974-03-01,M,,,4,A,0,348,4500000,2018-02-21,,0,0.0,22.217444999999998,114.21300000000001
+118,Hong Kong Island,Southern,Stanley,No.2 Cape Drive,House 6,2014-01-22,,,,,,0,4198,249766000,2018-01-10,,0,0.0,22.217071999999998,114.20558
+119,Hong Kong Island,Southern,Stanley,No.2 Cape Drive,House 8,2014-01-22,,,,,,0,3414,213582000,2018-01-09,,0,0.0,22.217245,114.20568

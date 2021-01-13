@@ -1,0 +1,412 @@
+,region,subregion,district,estate,building,first_op_date,floor_level,bedroom,sitting_room,floor,flat,area,net_area,price,tx_date,last_tx_date,last_price,gain,lat,lon
+0,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Gold Ning Mansion,Gold Ning Mansion,1967-03-16,M,2,1,13,G,780,555,10000000,2021-01-06,,0,0.0,22.273954,114.19316
+1,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Yukon Heights,Yukon Heights,1982-09-23,L,3,2,,A,0,1001,21000000,2021-01-05,,0,0.0,22.275202999999998,114.193462
+2,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,H,2,2,32,H,769,616,12400000,2020-12-30,,0,0.0,22.2775714,114.192768
+3,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Linden Height,Linden Height,1975-01-09,L,3,2,5,A,1117,973,22000000,2020-12-24,,0,0.0,22.2689776,114.195104
+4,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cherry Court,Cherry Court,1965-12-09,M,3,2,5,12,1600,1355,21080000,2020-12-21,2018-11-15,23300000,-9.53,22.277067,114.19277
+5,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,L,2,2,2,F,696,568,10500000,2020-12-15,2013-01-07,6730000,56.02,22.2775714,114.192768
+6,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,L,3,2,23,B,1168,871,20000000,2020-12-14,2005-07-26,14216000,40.69,22.2747091,114.194808
+7,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,L,4,2,14,C,979,800,16900000,2020-12-09,,0,0.0,22.2775714,114.192768
+8,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,4A-4D Wang Fung Terrace,4C Wang Fung Terrace,1960-11-10,,,,3,,0,1445,24750000,2020-12-07,2010-04-27,14100000,75.53,22.276166999999997,114.19215
+9,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Gold King Mansion,Gold King Mansion,1967-03-16,M,2,1,12,D,800,567,10500000,2020-12-04,,0,0.0,22.274122,114.19319
+10,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Gold Ning Mansion,Gold Ning Mansion,1967-03-16,M,2,1,10,G,780,555,10000000,2020-12-04,2009-07-27,5200000,92.31,22.273954,114.19316
+11,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Ronsdale Garden,Block 1,1986-07-07,M,3,2,15,E,886,694,14880000,2020-12-04,2000-04-17,4000000,272.0,22.2747515,114.195512
+12,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,L,3,2,1,D,903,731,13200000,2020-12-03,2007-11-20,5150000,156.31,22.2775714,114.192768
+13,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Flora Garden,Block 1,1987-10-14,M,3,2,8,C,1302,1011,27300000,2020-12-03,2009-11-12,14280000,91.18,22.273547999999998,114.19442
+14,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cavendish Heights,Block 5,1986-12-23,H,3,2,19,B,1819,1439,48000000,2020-12-03,1997-03-19,21000000,128.57,22.270149,114.1928709
+15,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cavendish Heights,,1988-04-06,,,,,CP13,1819,1439,48000000,2020-11-26,,0,0.0,22.27057,114.19303
+16,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,L,2,,5,D,715,559,8000000,2020-11-25,2008-03-11,5400000,48.15,22.27804,114.191457
+17,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Morengo Court,Morengo Court,1976-05-20,H,3,2,9,D,1155,956,19180000,2020-11-25,,0,0.0,22.275441999999998,114.19331
+18,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Flora Garden,Block 2,1987-10-14,L,3,2,4,B,1518,1182,31380000,2020-11-25,,0,0.0,22.273274999999998,114.194397
+19,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block III,2006-11-24,L,4,2,29,B,2048,1538,38500000,2020-11-24,2020-08-26,38500000,0.0,22.274818999999997,114.195022
+20,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,L,2,2,6,H,769,616,10800000,2020-11-23,,0,0.0,22.2774344,114.193138
+21,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,H,4,,60,B,1563,1171,35200000,2020-11-20,2012-07-16,36105000,-2.5100000000000002,22.2765839,114.1954889
+22,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Gold Ning Mansion,Gold Ning Mansion,1967-03-16,H,2,1,18,F,800,567,10000000,2020-11-19,,0,0.0,22.273954,114.19316
+23,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block I,2006-11-24,M,3,2,43,A,1542,1104,33880000,2020-11-18,2011-03-29,27500000,23.2,22.2751864,114.195526
+24,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,H,3,2,42,A,910,731,15500000,2020-11-18,2007-07-10,7280000,112.91,22.2775714,114.192768
+25,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,M,2,2,24,H,769,616,11150000,2020-11-17,2009-06-19,5300000,110.38,22.2774344,114.193138
+26,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,L,3,2,,D,1176,871,22000000,2020-11-11,2005-08-02,13133000,67.52,22.2747091,114.194808
+27,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Butler Towers,Butler Towers,1974-12-20,M,4,2,12,D,1650,1492,40600000,2020-11-05,2016-11-09,36500000,11.23,22.270304,114.19571
+28,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Ronsdale Garden,Block 1,1986-07-07,L,3,2,2,D,1209,962,18000000,2020-11-03,1999-11-17,5100000,252.94,22.2747515,114.195512
+29,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,L,2,2,8,F,696,568,10100000,2020-11-02,2007-04-14,3680000,174.46,22.2775714,114.192768
+30,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,M,2,2,25,H,769,616,12280000,2020-11-02,2010-06-28,6180000,98.71000000000001,22.2774344,114.193138
+31,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Butler Towers,Butler Towers,1974-12-20,M,4,2,12,C,1650,1492,41380000,2020-10-30,2009-10-09,24500000,68.9,22.270304,114.19571
+32,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,H,3,2,,E,1080,823,21000000,2020-10-23,,0,0.0,22.2774344,114.193138
+33,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Gold King Mansion,Gold King Mansion,1967-03-16,H,2,1,17,B,800,567,9238000,2020-10-23,,0,0.0,22.274122,114.19319
+34,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Sunrise Court,Sunrise Court,1983-08-01,L,,,3,A,0,186,3680000,2020-10-19,,0,0.0,22.278558999999998,114.19087999999999
+35,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cavendish Heights,Block 7,1986-12-23,M,3,2,16,B,1907,1507,45000000,2020-10-16,,0,0.0,22.2707156,114.1935629
+36,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Harvest Moon Villa,Harvest Moon Villa,1991-08-06,,3,,1,A,1203,871,16000000,2020-10-15,2007-12-13,6880000,132.56,22.276097999999998,114.19389
+37,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Linden Height,Linden Height,1975-01-09,M,3,2,12,A,1117,973,24800000,2020-10-09,,0,0.0,22.2689776,114.195104
+38,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Mount Butler Lodge,10 Mount Butler Drive,1970-10-16,,,,G,,0,1580,85000000,2020-10-09,,0,0.0,22.2666034,114.1932785
+39,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Butler Towers,Butler Towers,1974-12-20,L,4,2,2,E,1650,1455,32500000,2020-10-09,2017-06-06,19250000,68.83,22.270304,114.19571
+40,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,L,3,2,19,D,1176,871,20400000,2020-10-07,2008-08-26,14480000,40.88,22.2747091,114.194808
+41,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Jardine's Lookout Garden Houses,45 Moorsom Road,1976-11-08,,,,,,0,2535,115000000,2020-09-25,,0,0.0,22.270636,114.19431
+42,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,M,3,2,30,D,1176,871,22720000,2020-09-23,2005-07-23,14241000,59.54,22.2747091,114.194808
+43,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Winway Court,Winway Court,1982-06-11,M,2,2,15,B,740,597,9880000,2020-09-21,,0,0.0,22.277839999999998,114.191991
+44,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,L,4,2,9,B,989,800,15750000,2020-09-21,2005-06-02,5980000,163.38,22.2774344,114.193138
+45,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,50-58 Tung Lo Wan Road,50-58 Tung Lo Wan Road,1965-11-13,M,,,4,,0,401,5200000,2020-09-15,,0,0.0,22.278717,114.191154
+46,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Wing On Towers,Block 2 (9 Boyce Road),1974-08-29,L,3,,6,A,1650,1260,33500000,2020-09-14,,0,0.0,22.269240999999997,114.19541
+47,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Park Garden,Park Garden,1972-08-15,H,3,2,23,A,1450,1161,35380000,2020-09-11,2014-11-07,24230000,46.02,22.273374999999998,114.192986
+48,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Ronsdale Garden,Block 2,1986-07-07,M,3,2,14,E,886,694,15720000,2020-09-11,2011-03-25,9800000,60.410000000000004,22.274748,114.195887
+49,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Jardine Summit,Jardine Summit,2005-06-28,H,3,,30,B,1155,769,16230000,2020-09-07,,0,0.0,22.275873,114.193855
+50,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Gold King Mansion,Gold King Mansion,1967-03-16,L,2,1,4,C,800,567,9600000,2020-09-07,2004-12-08,2600000,269.23,22.274122,114.19319
+51,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,H,3,,55,C,1367,1017,29500000,2020-09-03,2010-12-21,24606000,19.89,22.2765839,114.1954889
+52,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Ronsdale Garden,Block 1,1986-07-07,L,3,2,6,E,886,694,14380000,2020-09-01,,0,0.0,22.2747515,114.195512
+53,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,L,2,,7,C,738,575,10000000,2020-08-31,2015-04-21,10000000,0.0,22.27804,114.191457
+54,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Gold King Mansion,Gold King Mansion,1967-03-16,M,2,1,8,B,800,567,9480000,2020-08-27,2004-07-30,2038000,365.16,22.274122,114.19319
+55,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block III,2006-11-24,L,4,2,29,B,2048,1538,38500000,2020-08-26,2005-07-23,24380000,57.92,22.274818999999997,114.195022
+56,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,L,2,2,8,G,696,568,10000000,2020-08-25,2007-06-11,3680000,171.74,22.2774344,114.193138
+57,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,H,3,2,51,B,1168,871,20800000,2020-08-20,,0,0.0,22.2747091,114.194808
+58,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Louvre Court,Louvre Court,1979-11-23,,,,2,B,0,730,14700000,2020-08-18,1996-11-13,5200000,182.69,22.276168,114.194022
+59,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Gold Ning Mansion,Gold Ning Mansion,1967-03-15,L,2,1,7,F,800,567,4000000,2020-08-13,1997-04-29,3600000,11.11,22.273954,114.19316
+60,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Sunrise Court,Sunrise Court,1983-04-08,M,,,11,,1350,1070,21880000,2020-08-13,2008-07-24,3200000,583.75,22.275769999999998,114.193565
+61,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Jade Court,Jade Court,1981-01-30,,,,G,B,0,731,13280000,2020-08-12,2013-02-28,9780000,35.79,22.276583,114.19343
+62,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,H,2,2,37,F,696,568,11000000,2020-07-31,,0,0.0,22.2774344,114.193138
+63,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Park Garden,Park Garden,1972-08-15,M,3,2,16,C,1450,1132,28000000,2020-07-30,2016-11-17,21280000,31.580000000000002,22.273374999999998,114.192986
+64,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block III,2006-11-24,L,4,2,25,B,2048,1538,36800000,2020-07-29,2007-11-20,24880000,47.910000000000004,22.274818999999997,114.195022
+65,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Butler Towers,Butler Towers,1974-12-20,L,4,2,5,F,1650,1492,38000000,2020-07-29,2009-09-03,19500000,94.87,22.270304,114.19571
+66,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,L,3,2,22,A,1170,867,20380000,2020-07-29,2005-07-23,13572000,50.160000000000004,22.2747091,114.194808
+67,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Flora Garden,Block 1,1987-10-14,L,3,2,4,C,1302,1011,20000000,2020-07-27,2010-01-08,13880000,44.09,22.273547999999998,114.19442
+68,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Jardine Summit,Jardine Summit,2005-06-28,H,3,,30,A,1218,775,16280000,2020-07-24,,0,0.0,22.275873,114.193855
+69,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block III,2006-11-24,L,4,2,23,B,2048,1538,36000000,2020-07-22,2009-02-03,20000000,80.0,22.274818999999997,114.195022
+70,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Elm Tree Towers,Block A,1983-11-30,L,3,2,10,1,2028,1570,43500000,2020-07-21,2010-08-19,27200000,59.93,22.27366,114.19377
+71,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Grand Deco Tower,Grand Deco Tower,1999-03-18,M,,,23,A,1418,1003,23550000,2020-07-16,2010-10-28,12550000,87.65,22.276965999999998,114.19349
+72,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Trafalgar Court,Trafalgar Court,1984-06-27,H,,,21,B,0,2465,88800000,2020-07-16,,0,0.0,22.27711,114.19138
+73,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,H,3,2,52,D,1176,871,23800000,2020-07-16,2010-10-07,17800000,33.71,22.2747091,114.194808
+74,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,H,2,,20,B,711,559,10000000,2020-07-14,2005-08-26,5200000,92.31,22.27804,114.191457
+75,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Trafalgar Court,Trafalgar Court,1984-06-27,H,,,23,B,0,2465,88000000,2020-07-14,,0,0.0,22.27711,114.19138
+76,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cavendish Heights,Block 8,1988-04-06,L,3,2,2,A,1620,1300,34750000,2020-07-10,,0,0.0,22.2705709,114.1940654
+77,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Bellevue Heights,Bellevue Heights,1973-11-27,L,3,2,4,A,1600,1255,11750000,2020-07-08,,0,0.0,22.273443,114.19346
+78,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 1,2009-11-24,L,3,,18,C,1032,788,21000000,2020-06-30,2014-04-28,14750000,42.37,22.2769214,114.1953508
+79,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,H,2,1,16,4,0,559,12280000,2020-06-26,2009-08-04,4980000,146.59,22.274305,114.193825
+80,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,M,2,1,14,1,0,626,16600000,2020-06-26,1997-01-07,4498000,269.05,22.274305,114.193825
+81,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,H,2,2,39,E,769,616,13380000,2020-06-23,2006-04-29,4800000,178.75,22.2775714,114.192768
+82,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Dukes Place,Dukes Place,2018-06-28,M,3,,16,A,0,2761,222144000,2020-06-23,,0,0.0,22.269659,114.19412
+83,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,L,2,2,14,F,696,568,10600000,2020-06-23,2007-03-07,3930000,169.72,22.2775714,114.192768
+84,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Butler Towers,Butler Towers,1974-12-20,L,4,2,3,C,1650,1492,32500000,2020-06-22,,0,0.0,22.270304,114.19571
+85,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Park Garden,Park Garden,1972-08-15,H,3,2,19,D,1450,1161,28010000,2020-06-18,,0,0.0,22.273374999999998,114.192986
+86,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,L,3,2,22,D,1176,871,22900000,2020-06-16,2010-12-28,16050000,42.68,22.2747091,114.194808
+87,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Dragon Garden,Dragon Garden,1976-10-17,L,,,4,D,1750,1598,30500000,2020-06-15,,0,0.0,22.275074,114.19433
+88,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,7 Yik Kwan Avenue,7 Yik Kwan Avenue,1972-10-19,,,,2,B,0,708,10000000,2020-06-15,,0,0.0,22.276585999999998,114.193186
+89,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Jardine Summit,Jardine Summit,2005-06-27,H,3,,29,B,1155,769,15880000,2020-06-14,,0,0.0,22.275873,114.193855
+90,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Sunrise Court,Sunrise Court,1983-07-31,M,,,5,A,0,186,3800000,2020-06-11,2007-10-30,1100000,245.45000000000002,22.278558999999998,114.19087999999999
+91,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 1,2009-11-24,H,4,,67,B,1563,1170,36000000,2020-06-11,2012-05-18,35480000,1.47,22.2769214,114.1953508
+92,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Elm Tree Towers,Block A,1983-11-30,L,3,2,3,1,2028,1570,39000000,2020-06-10,2005-04-07,13800000,182.61,22.27366,114.19377
+93,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Sunrise Court,Sunrise Court,1983-04-07,M,,,18,,1350,1070,21980000,2020-06-09,2010-12-01,14480000,51.800000000000004,22.275769999999998,114.193565
+94,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Dukes Place,Dukes Place,2018-06-28,H,3,,17,A,0,2761,219296000,2020-06-09,,0,0.0,22.269659,114.19412
+95,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,L,3,2,19,A,1170,867,20000000,2020-06-09,2005-07-23,12829000,55.9,22.2747091,114.194808
+96,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Dukes Place,Dukes Place,2018-06-28,H,3,,18,A,0,2761,219296000,2020-06-09,,0,0.0,22.269659,114.19412
+97,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cavendish Heights,Block 4,1986-12-23,L,3,2,1,B,1819,1439,43800000,2020-06-08,2012-07-03,29000000,51.03,22.270360999999998,114.192676
+98,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Ronsdale Garden,Block 2,1986-07-06,L,3,2,6,C,1225,976,20500000,2020-06-07,2006-11-23,7100000,188.73,22.274748,114.195887
+99,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cavendish Heights,Block 7,1986-12-23,L,3,2,1,B,1907,1507,41000000,2020-06-04,1996-07-29,13500000,203.70000000000002,22.2707156,114.1935629
+100,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Elm Tree Towers,Block B,1983-11-30,L,3,2,8,1,2329,1857,53500000,2020-06-04,2004-03-31,13430000,298.36,22.27301,114.193596
+101,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Ronsdale Garden,Block 2,1986-07-06,M,3,2,12,E,886,694,15680000,2020-06-02,,0,0.0,22.274748,114.195887
+102,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Ronsdale Garden,Block 1,1986-07-06,L,3,2,11,F,886,694,14280000,2020-05-31,2012-08-13,10280000,38.910000000000004,22.2747515,114.195512
+103,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,M,3,2,40,A,1170,867,22600000,2020-05-28,2005-07-26,18603000,21.490000000000002,22.2747091,114.194808
+104,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,H,2,1,15,5,0,511,12500000,2020-05-27,2014-04-15,8000000,56.25,22.274305,114.193825
+105,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Wah Fung Mansion,Wah Fung Mansion,1986-03-05,H,3,2,17,,2087,1564,34380000,2020-05-27,2006-04-28,12320000,179.06,22.275633,114.193146
+106,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Jardine's Lookout Garden Mansion,Block A,1961-03-24,H,,,7,4,0,1133,30008000,2020-05-27,2004-11-18,5800000,417.38,22.26889,114.189705
+107,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Flora Garden,Block 1,1987-10-14,L,3,2,1,C,1302,1011,25000000,2020-05-25,2014-10-30,18800000,32.980000000000004,22.273547999999998,114.19442
+108,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,L,3,2,26,A,1170,867,20200000,2020-05-20,2016-11-02,18000000,12.22,22.2747091,114.194808
+109,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Park Garden,Park Garden,1972-08-15,L,3,2,7,A,1450,1161,20680000,2020-05-20,2005-07-06,8400000,146.19,22.273374999999998,114.192986
+110,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Kan Oke House,Kan Oke House,1966-11-17,L,,,1,,0,1204,17500000,2020-05-20,,0,0.0,22.27677,114.19391999999999
+111,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Dukes Place,Dukes Place,2018-06-28,L,3,,7,A,0,2760,168000000,2020-05-15,,0,0.0,22.269659,114.19412
+112,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Jardine Summit,Jardine Summit,2005-06-27,L,2,,7,B,1139,769,13600000,2020-05-12,2017-04-12,11550000,17.75,22.275873,114.193855
+113,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,L,3,2,21,A,1170,867,20180000,2020-05-12,2007-11-16,13390000,50.71,22.2747091,114.194808
+114,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Grand Deco Tower,Grand Deco Tower,1999-03-18,M,,,22,B,1415,1026,22650000,2020-05-12,2004-12-02,7900000,186.71,22.276965999999998,114.19349
+115,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,L,2,,9,D,715,559,10000000,2020-05-08,2008-05-02,6100000,63.93,22.27804,114.191457
+116,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,L,2,2,8,E,769,616,10580000,2020-04-29,2003-12-27,2580000,310.08,22.2774344,114.193138
+117,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Ronsdale Garden,Block 2,1986-07-06,L,3,2,11,F,886,694,14380000,2020-04-28,2009-02-26,5500000,161.45000000000002,22.274748,114.195887
+118,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,H,4,,62,B,1563,1170,34300000,2020-04-27,2012-05-29,36418000,-5.82,22.2765839,114.1954889
+119,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Avalon,Avalon,1994-12-13,L,3,,9,A,933,658,11800000,2020-04-27,2006-08-15,5350000,120.56,22.275161,114.193744
+120,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,L,2,2,5,F,696,568,9950000,2020-04-24,,0,0.0,22.2775714,114.192768
+121,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Ronsdale Garden,Block 2,1986-07-06,L,3,2,3,A,1209,962,20880000,2020-04-16,2010-02-24,9300000,124.52,22.274748,114.195887
+122,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block II,2006-11-24,L,4,2,19,A,1918,1387,37380000,2020-04-15,2005-07-22,23975000,55.910000000000004,22.275074,114.195216
+123,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,M,2,2,25,G,696,568,10380000,2020-04-09,2004-01-30,2760000,276.09000000000003,22.2775714,114.192768
+124,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Swiss Towers,Block 2,1971-06-29,H,3,,21,C,0,1248,36890000,2020-04-07,1997-06-26,16500000,123.58,22.273497,114.19216
+125,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,H,4,2,34,B,989,800,17500000,2020-04-03,2009-07-30,7960000,119.85000000000001,22.2774344,114.193138
+126,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,L,3,,20,D,0,788,18510000,2020-04-01,,0,0.0,22.2765839,114.1954889
+127,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,L,3,,17,A,0,788,20500000,2020-04-01,,0,0.0,22.2765839,114.1954889
+128,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,M,2,,10,B,711,559,11500000,2020-04-01,2009-07-13,5500000,109.09,22.27804,114.191457
+129,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,L,3,,19,D,0,788,19380000,2020-03-26,2011-05-03,14800000,30.95,22.2765839,114.1954889
+130,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,H,4,,63,B,1563,1170,34000000,2020-03-26,2012-06-06,36730500,-7.43,22.2765839,114.1954889
+131,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Morengo Court,Morengo Court,1976-05-20,H,3,2,12,B,1066,961,25000000,2020-03-26,2011-06-30,18500000,35.14,22.275441999999998,114.19331
+132,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block II,2006-11-24,H,4,2,55,A,1918,1415,48880000,2020-03-20,2007-03-29,41091000,18.96,22.275074,114.195216
+133,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,L,2,,9,C,738,575,11630000,2020-03-16,2018-05-04,1500000,675.33,22.27804,114.191457
+134,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,H,3,2,50,A,1170,867,23900000,2020-03-16,2007-12-11,23956000,-0.23,22.2747091,114.194808
+135,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Ronsdale Garden,Block 2,1986-07-06,L,3,2,5,E,886,694,17800000,2020-03-08,2000-10-16,3500000,408.57,22.274748,114.195887
+136,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Jardine Terrace,20 Price Road,1971-10-01,,,,,,0,2385,104000000,2020-03-06,2006-02-04,35280000,194.78,22.265417,114.19188
+137,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Gold King Mansion,Gold King Mansion,1967-03-15,L,2,1,1,B,800,567,9000000,2020-02-26,2015-02-01,7980000,12.780000000000001,22.274122,114.19319
+138,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block II,2006-11-24,M,4,2,31,A,1918,1387,38800000,2020-02-25,2014-09-12,32500000,19.38,22.275074,114.195216
+139,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,M,2,,14,B,711,559,11532800,2020-02-13,2016-11-01,9440000,22.17,22.27804,114.191457
+140,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,H,2,2,32,F,696,568,11180000,2020-02-13,,0,0.0,22.2774344,114.193138
+141,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,H,3,,21,A,1085,872,19680000,2020-02-12,,0,0.0,22.27804,114.191457
+142,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Dukes Place,Dukes Place,2018-06-28,M,3,,9,A,0,2846,176452000,2020-02-07,,0,0.0,22.269659,114.19412
+143,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,M,2,2,26,G,696,568,10000000,2020-02-04,1996-07-15,5150000,94.17,22.2775714,114.192768
+144,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Jardine Summit,Jardine Summit,2005-06-27,H,3,,29,A,1218,775,16200000,2020-01-22,,0,0.0,22.275873,114.193855
+145,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Jardine Summit,Jardine Summit,2005-06-27,H,3,,23,A,1221,771,15300000,2020-01-22,2009-07-20,9680000,58.06,22.275873,114.193855
+146,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Rosedale,Rosedale,1988-12-21,H,,,10,,2382,1626,36880000,2020-01-20,2015-12-28,27000000,36.59,22.276041,114.193721
+147,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,M,2,2,20,H,769,616,12500000,2020-01-17,2011-03-30,7800000,60.26,22.2775714,114.192768
+148,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Fontana Gardens,"Block G ,7-10 Ka Ning Path (Il 7885 C)",1964-08-25,,,,1,,0,770,18800000,2020-01-10,,0,0.0,22.277549999999998,114.18954
+149,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Carnation Court,Carnation Court,1996-05-06,M,,,20,B,2122,1662,41000000,2020-01-09,2010-08-03,25380000,61.54,22.275759,114.19289
+150,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,L,3,,22,A,0,788,20500000,2020-01-09,2011-03-15,16560000,23.79,22.2765839,114.1954889
+151,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Winway Court,Winway Court,1982-06-11,M,2,2,16,B,740,597,9960000,2020-01-09,,0,0.0,22.277839999999998,114.191991
+152,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block II,2006-11-24,H,4,2,46,A,1918,1387,43500000,2019-12-31,2012-04-18,36980000,17.63,22.275074,114.195216
+153,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,M,2,2,29,H,769,616,12600000,2019-12-27,2008-02-25,5630000,123.8,22.2774344,114.193138
+154,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,L,3,,16,C,0,788,19350000,2019-12-23,2011-04-06,15800000,22.47,22.2765839,114.1954889
+155,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Gardenview Heights,Gardenview Heights,1991-10-22,H,3,2,32,B,1350,1049,24500000,2019-12-19,,0,0.0,22.274808,114.194524
+156,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,M,2,1,10,11,0,511,9000000,2019-12-19,2007-07-25,4188000,114.9,22.274305,114.193825
+157,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Rosedale,Rosedale,1988-12-21,H,,,11,,2382,1626,32880000,2019-12-16,2012-09-25,26900000,22.23,22.276041,114.193721
+158,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Jolly Villa,Jolly Villa,1992-09-23,M,3,2,21,A,1552,1208,27980000,2019-12-03,,0,0.0,22.277379,114.192335
+159,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Flora Garden,Block 1,1987-10-14,L,3,2,7,A,1533,1193,30000000,2019-11-29,,0,0.0,22.273547999999998,114.19442
+160,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,H,3,2,53,B,1168,871,23000000,2019-11-27,2007-05-08,23827000,-3.47,22.2747091,114.194808
+161,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,H,3,2,53,A,1170,867,27000000,2019-11-27,2007-05-08,23868000,13.120000000000001,22.2747091,114.194808
+162,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,M,3,,36,C,1349,1003,24250000,2019-11-13,2010-03-25,21584000,12.35,22.2765839,114.1954889
+163,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Park Garden,Park Garden,1972-08-15,L,3,2,6,A,1450,1161,24080000,2019-11-13,2012-08-16,17500000,37.6,22.273374999999998,114.192986
+164,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 1,2009-11-24,M,3,,30,C,1032,788,21500000,2019-11-07,2016-07-05,16800000,27.98,22.2769214,114.1953508
+165,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,H,4,,61,B,1563,1170,33600000,2019-10-30,2015-07-29,30000000,12.0,22.2765839,114.1954889
+166,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,L,2,,1,B,711,559,9975000,2019-10-24,2001-02-27,2700000,269.44,22.27804,114.191457
+167,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Gold King Mansion,Gold King Mansion,1967-03-15,L,2,1,6,B,800,567,9450000,2019-10-23,2016-10-27,8080000,16.96,22.274122,114.19319
+168,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Ronsdale Garden,Block 2,1986-07-06,L,3,2,7,D,1209,962,22900000,2019-10-23,2013-07-07,15800000,44.94,22.274748,114.195887
+169,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Butler Towers,Butler Towers,1974-12-20,L,4,2,8,B,1650,1492,10600000,2019-10-23,1999-03-19,8900000,19.1,22.270304,114.19571
+170,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Sunrise Court,Sunrise Court,1983-07-31,H,,,9,B,0,186,3680000,2019-10-22,2010-07-14,1700000,116.47,22.278558999999998,114.19087999999999
+171,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,L,3,,15,A,0,788,20600000,2019-10-22,,0,0.0,22.2765839,114.1954889
+172,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 1,2009-11-24,M,3,,29,C,1032,788,21000000,2019-10-09,,0,0.0,22.2769214,114.1953508
+173,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,L,2,1,3,2,0,567,4500000,2019-09-18,,0,0.0,22.274305,114.193825
+174,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,L,4,2,5,B,989,800,17500000,2019-09-11,2004-06-16,4650000,276.34000000000003,22.2775714,114.192768
+175,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,L,3,2,27,C,1172,871,24000000,2019-09-11,2007-11-15,14780000,62.38,22.2747091,114.194808
+176,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 1,2009-11-24,L,3,,21,C,1032,788,20000000,2019-09-05,,0,0.0,22.2769214,114.1953508
+177,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,L,3,2,5,A,910,731,7750000,2019-09-04,2011-03-17,8400000,-7.74,22.2775714,114.192768
+178,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,L,3,2,13,A,910,731,16000000,2019-09-02,2006-07-28,5200000,207.69,22.2774344,114.193138
+179,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,M,3,,17,A,1085,872,18500000,2019-08-27,2007-03-03,7800000,137.18,22.27804,114.191457
+180,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Verde Green,Verde Green,2012-09-24,,,,,,0,2194,72157000,2019-08-26,,0,0.0,22.275339,114.192628
+181,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Ronsdale Garden,Block 1,1986-07-07,M,3,2,20,D,1209,962,23300000,2019-08-22,2010-02-09,9500000,145.26,22.2747515,114.195512
+182,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Jardine's Lookout Garden Mansion,Block B,1961-03-24,M,,,4,1,0,1411,33500000,2019-08-20,,0,0.0,22.268818,114.189316
+183,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block II,2006-11-24,L,4,2,19,B,1908,1385,38500000,2019-08-20,2014-01-20,30000000,28.330000000000002,22.275074,114.195216
+184,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Gold King Mansion,Gold King Mansion,1967-03-16,H,2,1,15,D,800,567,13800000,2019-08-16,2014-12-23,9570000,44.2,22.274122,114.19319
+185,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,L,2,2,9,H,769,616,11500000,2019-08-15,1998-06-25,4150000,177.11,22.2775714,114.192768
+186,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,80 Tung Lo Wan Road,80 Tung Lo Wan Road,1964-05-08,,,,4,,0,413,5400000,2019-08-12,,0,0.0,,
+187,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Gold Ning Mansion,Gold Ning Mansion,1967-03-15,H,2,1,19,H,800,567,14200000,2019-08-08,,0,0.0,22.273954,114.19316
+188,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Gold King Mansion,Gold King Mansion,1967-03-15,H,2,1,14,C,800,567,11580000,2019-08-07,,0,0.0,22.274122,114.19319
+189,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,M,2,,17,B,711,559,12600000,2019-08-07,2012-10-10,8550000,47.37,22.27804,114.191457
+190,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,M,4,2,23,C,989,800,18380000,2019-08-02,2018-04-18,14300000,28.53,22.2774344,114.193138
+191,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,4A-4D Wang Fung Terrace,4A Wang Fung Terrace,1960-11-10,,,,1,,0,1411,22000000,2019-08-02,2007-08-30,1930000,1039.9,22.27628,114.191956
+192,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Wing On Towers,Block 2 (9 Boyce Road),1974-08-28,L,3,,7,A,1650,1260,34000000,2019-08-01,2001-05-25,9550000,256.02,22.269240999999997,114.19541
+193,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serene Villa,Serene Villa,1965-03-15,,,,G,,0,1549,73505220,2019-07-17,2017-12-07,15000000,390.03000000000003,22.269849,114.19352
+194,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serene Villa,Serene Villa,1965-03-15,,,,G,,0,1302,61784245,2019-07-17,,0,0.0,22.269849,114.19352
+195,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serene Villa,Serene Villa,1965-03-15,,,,3,,0,1549,73505220,2019-07-17,,0,0.0,22.269849,114.19352
+196,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serene Villa,Serene Villa,1965-03-15,,,,2,,0,1401,66482126,2019-07-17,,0,0.0,22.269849,114.19352
+197,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serene Villa,Serene Villa,1965-03-15,,,,1,,0,1401,66482126,2019-07-17,,0,0.0,22.269849,114.19352
+198,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serene Villa,Serene Villa,1965-03-15,,,,2,,0,1549,73505220,2019-07-17,,0,0.0,22.269849,114.19352
+199,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serene Villa,Serene Villa,1965-03-15,,,,G,,0,1302,61784245,2019-07-17,,0,0.0,22.269849,114.19352
+200,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serene Villa,Serene Villa,1965-03-15,,,,1,,0,1549,73505220,2019-07-17,,0,0.0,22.269849,114.19352
+201,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serene Villa,Serene Villa,1965-03-15,,,,2,,0,1401,66482126,2019-07-17,2014-01-08,27000000,146.23,22.269849,114.19352
+202,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serene Villa,Serene Villa,1965-03-15,,,,3,,0,1401,66482126,2019-07-17,,0,0.0,22.269849,114.19352
+203,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serene Villa,Serene Villa,1965-03-15,,,,3,,0,1401,66482126,2019-07-17,,0,0.0,22.269849,114.19352
+204,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,M,3,,30,A,0,788,18000000,2019-07-16,2011-08-22,17000000,5.88,22.2765839,114.1954889
+205,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,L,4,2,6,C,979,800,17700000,2019-07-11,2000-05-10,5200000,240.38,22.2774344,114.193138
+206,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,4A-4D Wang Fung Terrace,4A Wang Fung Terrace,1960-11-10,,,,2,,0,1411,23800000,2019-07-08,2005-11-23,8180000,190.95000000000002,22.27628,114.191956
+207,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,L,2,,1,A,1085,872,15180000,2019-07-04,2009-05-21,6180000,145.63,22.27804,114.191457
+208,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cavendish Heights,Block 4,1986-12-23,M,3,2,13,A,1819,1439,37000000,2019-07-02,2016-11-10,37000000,0.0,22.270360999999998,114.192676
+209,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Ronsdale Garden,Block 2,1986-07-06,L,3,2,3,B,1225,976,21000000,2019-06-23,2007-05-06,6480000,224.07,22.274748,114.195887
+210,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Jardine's Lookout Garden Mansion,Block B,1961-03-24,M,,,6,1,0,1411,38200000,2019-06-21,2002-09-10,5400000,607.41,22.268818,114.189316
+211,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Elm Tree Towers,Block B,1983-11-30,M,3,2,11,1,2329,1857,56500000,2019-06-18,2009-09-07,29000000,94.83,22.27301,114.193596
+212,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,L,2,2,3,E,758,616,11000000,2019-06-17,2010-04-28,5300000,107.55,22.2774344,114.193138
+213,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Winway Court,Winway Court,1982-06-11,H,3,2,23,A,870,719,11750000,2019-06-14,2003-04-02,2500000,370.0,22.277839999999998,114.191991
+214,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Ronsdale Garden,Block 2,1986-07-06,L,3,2,1,C,1225,976,20950000,2019-06-11,2004-03-01,4800000,336.46,22.274748,114.195887
+215,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block I,2006-11-24,H,3,2,,A,1542,1104,37480000,2019-06-11,,0,0.0,22.2751864,114.195526
+216,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,M,4,2,25,C,989,800,17000000,2019-06-03,2008-02-18,8000000,112.5,22.2775714,114.192768
+217,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,L,4,2,6,C,979,800,17000000,2019-05-30,1998-03-16,7000000,142.86,22.2775714,114.192768
+218,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,M,3,2,36,B,1168,871,21500000,2019-05-29,2005-07-23,16936000,26.95,22.2747091,114.194808
+219,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Grand Deco Tower,Grand Deco Tower,1999-03-18,M,,,25,B,1415,1026,23880000,2019-05-28,2007-11-08,9300000,156.77,22.276965999999998,114.19349
+220,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block III,2006-11-24,M,4,2,37,B,2058,1528,43300000,2019-05-23,2011-01-14,28800000,50.35,22.274818999999997,114.195022
+221,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Regent Court,Regent Court,1977-05-09,,3,,1,A,0,879,15500000,2019-05-20,2013-10-03,12200000,27.05,22.276336999999998,114.19351
+222,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,L,2,1,4,2,0,567,13450000,2019-05-17,2006-11-30,3200000,320.31,22.274305,114.193825
+223,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,M,2,1,13,2,0,567,14000000,2019-05-16,2001-08-25,2880000,386.11,22.274305,114.193825
+224,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Swiss Towers,Block 4,1971-06-29,L,3,,6,H,0,1265,30200000,2019-05-14,2004-09-21,7100000,325.35,22.273397,114.19261
+225,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Elm Tree Towers,Block A,1983-11-30,M,3,2,12,2,2028,1570,42180000,2019-05-14,,0,0.0,22.27366,114.19377
+226,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,H,2,1,20,2,0,567,12380000,2019-05-08,2006-02-11,4280000,189.25,22.274305,114.193825
+227,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Y.I,Y. I,2001-03-14,M,2,,19,C,706,496,13500000,2019-05-08,2014-09-25,9800000,37.76,22.277234999999997,114.192649
+228,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cherry Court,Cherry Court,1965-12-09,L,3,2,3,,1600,1355,10000000,2019-05-07,,0,0.0,22.277067,114.19277
+229,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Pine Hill Villa,Pine Hill Villa,1965-01-14,,,,3,,0,1226,32500000,2019-05-07,2010-12-15,23880000,36.1,,
+230,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,H,2,2,32,G,696,568,11150000,2019-05-07,2014-09-18,8000000,39.38,22.2774344,114.193138
+231,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Bellevue Heights,Bellevue Heights,1973-11-26,L,3,2,6,B,1600,1255,27000000,2019-05-06,,0,0.0,22.273443,114.19346
+232,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Mount Butler Lodge,18 Mount Butler Drive,1970-10-16,,,,,,0,1376,80000000,2019-05-06,,0,0.0,,
+233,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,L,2,,5,C,738,575,12300000,2019-05-06,2006-12-20,4480000,174.55,22.27804,114.191457
+234,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Swiss Towers,Block 4,1971-06-29,L,3,,3,H,0,1265,28000000,2019-05-02,1997-06-03,8950000,212.85,22.273397,114.19261
+235,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Bellevue Heights,Bellevue Heights,1973-11-26,H,3,2,24,A,1600,1255,29520000,2019-04-25,1999-04-18,6250000,372.32,22.273443,114.19346
+236,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Swiss Towers,Block 3,1971-06-29,L,3,,7,F,0,1265,29500000,2019-04-25,2000-01-24,6200000,375.81,22.273418,114.19236
+237,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Grand Deco Tower,Grand Deco Tower,1999-03-18,L,,,12,A,1418,1003,21780000,2019-04-25,1999-08-06,7628000,185.53,22.276965999999998,114.19349
+238,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cavendish Heights,Block 8,1988-04-06,L,3,2,3,A,1620,1300,28544000,2019-04-25,2006-12-09,14500000,96.86,22.2705709,114.1940654
+239,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Jardine Summit,Jardine Summit,2005-06-28,H,3,,28,A,1218,775,17000000,2019-04-24,2007-09-14,10962000,55.08,22.275873,114.193855
+240,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Elm Tree Towers,Block A,1983-11-30,L,3,2,3,2,2028,1570,40000000,2019-04-24,2004-09-25,10622000,276.58,22.27366,114.19377
+241,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Y.I,Y. I,2001-03-13,H,3,,30,B,1420,1005,31000000,2019-04-23,2006-12-08,14080000,120.17,22.277234999999997,114.192649
+242,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Park Garden,Park Garden,1972-08-15,L,3,2,7,B,1450,1132,26330000,2019-04-23,2012-09-05,18500000,42.32,22.273374999999998,114.192986
+243,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Jolly Villa,Jolly Villa,1992-09-23,L,3,2,13,B,1579,1229,27800000,2019-04-17,2004-03-17,6800000,308.82,22.277379,114.192335
+244,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 1,2009-11-24,H,4,,57,B,1563,1170,36500000,2019-04-16,2010-03-25,26571000,37.37,22.2769214,114.1953508
+245,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Grandview Mansion,Grandview Mansion,1955-01-10,,,,3,,0,1250,16980000,2019-04-15,,0,0.0,22.2478005,114.1585491
+246,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Ronsdale Garden,Block 2,1986-07-06,M,3,2,17,C,1225,976,21680000,2019-04-10,1997-03-10,8888000,143.92000000000002,22.274748,114.195887
+247,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,M,3,2,40,B,1168,871,21800000,2019-04-10,2005-07-26,18571000,17.39,22.2747091,114.194808
+248,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Butler Towers,Butler Towers,1974-12-20,L,4,2,2,B,1650,1492,42800000,2019-04-10,2010-07-14,28200000,51.77,22.270304,114.19571
+249,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,H,2,1,16,11,0,511,11800000,2019-04-09,2006-02-09,3780000,212.17000000000002,22.274305,114.193825
+250,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Park Place,Block C,1985-01-21,L,3,,1,1,2288,2070,77000000,2019-04-08,2000-04-27,19999888,285.0,22.2579355,114.194648
+251,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Gold Ning Mansion,Gold Ning Mansion,1967-03-15,M,2,1,13,E,800,567,10000000,2019-04-08,2001-09-27,2050000,387.8,22.273954,114.19316
+252,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Gold King Mansion,Gold King Mansion,1967-03-15,L,2,1,3,D,800,567,10000000,2019-04-08,,0,0.0,22.274122,114.19319
+253,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,L,4,2,4,C,979,800,13800000,2019-04-08,2009-06-09,6900000,100.0,22.2774344,114.193138
+254,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,L,3,2,25,B,1168,871,17010000,2019-04-04,2014-01-08,16650000,2.16,22.2747091,114.194808
+255,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Yukon Heights,Yukon Heights,1982-09-22,L,3,2,11,B,1180,1001,19000000,2019-04-03,1997-09-19,8600000,120.93,22.275202999999998,114.193462
+256,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,M,2,,17,C,738,575,13200000,2019-03-28,2007-12-24,5930000,122.60000000000001,22.27804,114.191457
+257,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,M,2,2,27,F,696,568,9500000,2019-03-28,2011-01-17,5930000,60.2,22.2775714,114.192768
+258,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Ronsdale Garden,Block 2,1986-07-06,,3,2,31,F,886,694,17500000,2019-03-27,2005-11-21,6000000,191.67000000000002,22.274748,114.195887
+259,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,The Signature,The Signature,2011-08-14,L,3,,7,B,2016,1542,41000000,2019-03-27,2012-08-05,37146000,10.38,22.2752624,114.1945285
+260,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Yukon Heights,Yukon Heights,1982-09-23,H,3,2,,A,1180,1001,25300000,2019-03-27,,0,0.0,22.275202999999998,114.193462
+261,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,M,4,,50,B,1563,1170,33500000,2019-03-25,2012-04-11,33500000,0.0,22.2765839,114.1954889
+262,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Bellevue Heights,Bellevue Heights,1973-11-26,L,3,2,6,A,1600,1255,26380000,2019-03-24,1998-05-17,8250000,219.76,22.273443,114.19346
+263,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Ronsdale Garden,Block 1,1986-07-06,,3,2,29,E,886,694,15700000,2019-03-24,2007-10-08,6280000,150.0,22.2747515,114.195512
+264,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Gardenview Heights,Gardenview Heights,1991-10-21,H,3,2,32,A,1350,1049,25500000,2019-03-21,1997-01-14,10164000,150.89000000000001,22.274808,114.194524
+265,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cavendish Heights,Block 5,1986-12-23,M,3,2,10,A,1819,1439,38000000,2019-03-21,2007-11-20,19250000,97.4,22.270149,114.1928709
+266,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Regent Court,Regent Court,1977-05-09,,3,,UG,C,0,691,12400000,2019-03-21,,0,0.0,22.276336999999998,114.19351
+267,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Grand Deco Tower,Grand Deco Tower,1999-03-18,L,,,17,A,1418,1003,21680000,2019-03-18,1999-08-12,8100000,167.65,22.276965999999998,114.19349
+268,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,L,3,,3,A,1085,872,13800000,2019-03-15,,0,0.0,22.27804,114.191457
+269,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cavendish Heights,Block 8,1988-04-06,L,3,2,1,A,1620,1300,36300000,2019-03-08,,0,0.0,22.2705709,114.1940654
+270,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,H,2,,22,D,715,559,9980000,2019-03-08,,0,0.0,22.27804,114.191457
+271,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,H,3,2,51,A,1170,867,21900000,2019-03-07,2018-09-12,23280000,-5.93,22.2747091,114.194808
+272,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,L,2,1,4,4,0,559,9980000,2019-03-04,,0,0.0,22.274305,114.193825
+273,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,H,2,,19,D,715,559,12000000,2019-02-26,2007-08-07,5700000,110.53,22.27804,114.191457
+274,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Jardine's Lookout Garden Mansion,Block B,1961-03-24,H,,,7,1,0,1411,33200000,2019-02-21,,0,0.0,22.268818,114.189316
+275,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Swiss Towers,Block 3,1971-06-29,H,3,,17,F,0,1265,31280000,2019-02-19,2004-02-16,7300000,328.49,22.273418,114.19236
+276,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Grand Deco Tower,Grand Deco Tower,1999-03-18,L,,,18,A,1418,1003,21680000,2019-02-14,2011-01-31,13000000,66.77,22.276965999999998,114.19349
+277,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,L,2,2,10,G,696,568,9880000,2019-02-08,2011-04-04,6580000,50.15,22.2774344,114.193138
+278,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,H,4,2,41,C,989,800,16000000,2019-01-28,1997-07-16,13130000,21.86,22.2774344,114.193138
+279,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,H,2,2,32,E,769,616,12500000,2019-01-22,2009-08-10,5750000,117.39,22.2775714,114.192768
+280,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 1,2009-11-24,L,3,,12,C,1032,788,20500000,2019-01-16,,0,0.0,22.2769214,114.1953508
+281,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Mayflower Mansion,Mayflower Mansion,1962-03-08,,,,4,D,0,1234,25800000,2019-01-08,,0,0.0,22.274808999999998,114.19248999999999
+282,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Gold King Mansion,Gold King Mansion,1967-03-16,L,2,1,3,A,800,567,10138000,2018-12-31,2008-03-14,4760000,112.98,22.274122,114.19319
+283,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block II,2006-11-24,L,4,2,18,A,1918,1387,36300000,2018-12-20,2011-04-20,28280000,28.36,22.275074,114.195216
+284,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,M,3,2,42,B,1168,871,19000000,2018-12-19,2007-03-22,20557000,-7.57,22.2747091,114.194808
+285,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Jolly Garden,Jolly Garden,1971-05-05,,,,1,A,0,917,12000000,2018-12-11,2001-03-29,3650000,228.77,22.2755156,114.1925014
+286,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Elm Tree Towers,Block A,1983-11-30,M,3,2,18,2,2028,1570,46900000,2018-11-29,,0,0.0,22.27366,114.19377
+287,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Y.I,Y. I,2001-03-14,L,3,,12,B,1176,825,16500000,2018-11-20,2000-07-26,6326880,160.79,22.277234999999997,114.192649
+288,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cherry Court,Cherry Court,1965-12-09,M,3,2,5,,1600,1355,23300000,2018-11-15,,0,0.0,22.277067,114.19277
+289,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,M,3,2,22,A,910,731,16380000,2018-11-13,,0,0.0,22.2775714,114.192768
+290,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,H,2,1,20,5,0,511,9800000,2018-11-07,2010-08-12,5623800,74.26,22.274305,114.193825
+291,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cherry Court,Cherry Court,1965-12-09,L,3,2,4,,1600,1355,23080000,2018-10-31,,0,0.0,22.277067,114.19277
+292,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,L,2,1,4,5,0,511,9000000,2018-10-31,2000-01-12,2501000,259.86,22.274305,114.193825
+293,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,L,2,2,15,F,696,568,11680000,2018-10-30,2010-02-03,5320000,119.55,22.2775714,114.192768
+294,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block II,2006-11-24,M,4,2,43,B,1908,1411,41500000,2018-10-30,2015-03-17,34200000,21.35,22.275074,114.195216
+295,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Yick King Building,Yick King Building,1975-07-20,H,,,16,A,0,1207,26800000,2018-10-29,2010-04-08,15800000,69.62,22.274053,114.193607
+296,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,L,4,2,3,C,979,800,16000000,2018-10-19,2008-01-31,6850000,133.58,22.2774344,114.193138
+297,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block III,2006-11-24,H,5,2,52,A,2372,1752,46000000,2018-10-11,2007-04-21,48626000,-5.4,22.274818999999997,114.195022
+298,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Jardine Terrace,24 Price Road,1971-10-01,,,,G,,0,1601,123800000,2018-10-09,,0,0.0,22.265175,114.19171
+299,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,M,2,2,17,G,696,568,11800000,2018-10-04,1999-07-05,3965000,197.6,22.2775714,114.192768
+300,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Gold Ning Mansion,Gold Ning Mansion,1967-03-16,L,2,1,6,H,800,567,12680000,2018-09-13,2008-02-04,5660000,124.03,22.273954,114.19316
+301,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,H,3,2,51,A,1170,867,23280000,2018-09-12,,0,0.0,22.2747091,114.194808
+302,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,L,3,,9,B,0,788,24300000,2018-08-30,2011-02-10,14200000,71.13,22.2765839,114.1954889
+303,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Jardine Summit,Jardine Summit,2005-06-28,L,3,,6,A,1206,767,14980000,2018-08-29,,0,0.0,22.275873,114.193855
+304,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Flora Garden,Block 3,1987-10-14,H,3,2,19,A,1533,1193,32500000,2018-08-27,2007-01-17,9500000,242.11,22.273018,114.194305
+305,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Ronsdale Garden,Block 2,1986-07-06,,3,2,28,D,1209,962,23900000,2018-08-23,2008-06-04,11300000,111.5,22.274748,114.195887
+306,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Gold Ning Mansion,Gold Ning Mansion,1967-03-15,H,2,1,16,F,800,567,11140000,2018-08-22,2005-06-21,3180000,250.31,22.273954,114.19316
+307,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,L,2,2,2,F,696,568,9800000,2018-08-21,2008-02-11,4320000,126.85000000000001,22.2774344,114.193138
+308,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,58 Tai Hang Road,58 Tai Hang Road,1957-07-17,,,,4,,0,1431,34000000,2018-08-14,,0,0.0,22.276619999999998,114.19209
+309,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Elegance,The Elegance,1986-07-02,L,3,2,3,3,2381,1794,44600000,2018-08-14,1997-03-03,90300000,-50.61,22.2765135,114.1926344
+310,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Sunrise Court,Sunrise Court,1983-04-08,L,,,7,,1350,1070,23000000,2018-08-10,,0,0.0,22.275769999999998,114.193565
+311,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,M,4,2,21,C,989,800,17800000,2018-08-09,1997-02-22,7980000,123.06,22.2775714,114.192768
+312,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Wing On Towers,Block 2 (9 Boyce Road),1974-08-28,M,3,,10,B,1650,1260,34000000,2018-08-02,,0,0.0,22.269240999999997,114.19541
+313,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Sunrise Court,Sunrise Court,1983-04-07,M,,,16,,1350,1070,23000000,2018-07-25,1996-10-04,7250000,217.24,22.275769999999998,114.193565
+314,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cherry Court,Cherry Court,1965-12-09,M,3,2,6,,1600,1355,24500000,2018-07-20,,0,0.0,22.277067,114.19277
+315,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,H,2,1,17,12,0,527,13280000,2018-07-20,2015-02-05,8800000,50.910000000000004,22.274305,114.193825
+316,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,H,2,1,21,6,0,527,14488000,2018-07-18,,0,0.0,22.274305,114.193825
+317,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Cypress Court,Cypress Court,1963-06-06,,,,3,,0,1262,25020000,2018-07-17,,0,0.0,22.266903,114.19200000000001
+318,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Elm Tree Towers,Block A,1983-11-30,L,3,2,10,2,2028,1570,42000000,2018-07-17,2012-06-06,28500000,47.37,22.27366,114.19377
+319,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,M,3,2,23,D,910,731,16300000,2018-07-16,,0,0.0,22.2774344,114.193138
+320,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Trafalgar Court,Trafalgar Court,1984-06-27,M,,,13,A,0,2465,95200000,2018-07-13,1999-05-07,22600000,321.24,22.27711,114.19138
+321,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Y.I,Y. I,2001-03-13,L,3,,11,B,1176,825,19800000,2018-07-12,2014-12-09,15380000,28.740000000000002,22.277234999999997,114.192649
+322,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,2 Wang Fung Terrace,2 Wang Fung Terrace,1981-09-10,,,,2,C,0,1540,25000000,2018-07-12,2013-08-25,29500000,-15.25,22.276089,114.191895
+323,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,L,3,,12,A,0,788,18000000,2018-07-11,2014-03-28,15150000,18.81,22.2765839,114.1954889
+324,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,L,3,2,18,A,1170,867,19800000,2018-07-11,2007-11-09,11932000,65.94,22.2747091,114.194808
+325,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Fuk Kwan House,Fuk Kwan House,1959-12-07,,,,2,B,0,709,9980000,2018-07-09,,0,0.0,22.276201,114.193075
+326,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 1,2009-11-24,L,3,,19,B,1032,788,21900000,2018-07-09,2012-01-06,16100000,36.02,22.2769214,114.1953508
+327,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Jolly Villa,Jolly Villa,1992-09-23,H,3,2,28,B,1579,1229,29000000,2018-07-09,1996-11-14,11780000,146.18,22.277379,114.192335
+328,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,M,4,,38,B,1563,1170,35300000,2018-07-09,2010-03-24,32510000,8.58,22.2765839,114.1954889
+329,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,58 Tai Hang Road,58 Tai Hang Road,1957-07-17,,,,3,,0,1431,29050000,2018-07-08,,0,0.0,22.276619999999998,114.19209
+330,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,H,4,,65,B,1563,1171,37200000,2018-07-06,2012-09-25,36743000,1.24,22.2765839,114.1954889
+331,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Gold Ning Mansion,Gold Ning Mansion,1967-03-15,M,2,1,11,F,800,567,11000000,2018-07-05,2006-09-03,3800000,189.47,22.273954,114.19316
+332,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,58 Tai Hang Road,58 Tai Hang Road,1957-07-17,,,,2,,0,1431,27250000,2018-07-05,,0,0.0,22.276619999999998,114.19209
+333,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,58 Tai Hang Road,58 Tai Hang Road,1957-07-17,,,,G,,0,1431,25250000,2018-07-05,,0,0.0,22.276619999999998,114.19209
+334,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,58 Tai Hang Road,58 Tai Hang Road,1957-07-17,,,,1,,0,1431,26250000,2018-07-05,,0,0.0,22.276619999999998,114.19209
+335,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,L,2,2,15,F,696,568,9400000,2018-07-05,2018-01-31,9380000,0.21,22.2774344,114.193138
+336,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Flora Garden,Block 3,1987-10-14,L,3,2,1,B,1518,1182,31750000,2018-07-03,2011-02-01,18300000,73.5,22.273018,114.194305
+337,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,M,3,2,38,D,1176,871,22800000,2018-06-26,2005-07-22,16253000,40.28,22.2747091,114.194808
+338,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,M,3,2,41,B,1168,871,24200000,2018-06-22,2005-07-28,18805000,28.69,22.2747091,114.194808
+339,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,M,2,2,21,H,769,616,10800000,2018-06-15,2007-04-24,4650000,132.26,22.2774344,114.193138
+340,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Yukon Heights,Yukon Heights,1982-09-23,M,3,2,14,A,1180,1001,23000000,2018-06-13,,0,0.0,22.275202999999998,114.193462
+341,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,H,2,,21,B,711,559,12200000,2018-06-13,2015-02-24,10000000,22.0,22.27804,114.191457
+342,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cavendish Heights,Block 4,1986-12-23,M,3,2,16,A,1819,1439,40000000,2018-06-12,2012-10-10,33000000,21.21,22.270360999999998,114.192676
+343,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Cypress Court,Cypress Court,1963-06-06,,,,3,,0,1886,49000000,2018-06-11,,0,0.0,22.266903,114.19200000000001
+344,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Rosedale,Rosedale,1988-12-21,M,,,5,,2382,1626,32800000,2018-06-10,,0,0.0,22.276041,114.193721
+345,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Ronsdale Garden,Block 2,1986-07-06,L,3,2,1,A,1209,962,19380000,2018-06-07,2012-04-12,12300000,57.56,22.274748,114.195887
+346,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,H,2,,19,B,711,559,11880000,2018-06-07,1996-10-16,5720000,107.69,22.27804,114.191457
+347,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Jardine's Lookout Garden Mansion,Block A,1961-03-24,L,,,1,2,0,839,18380000,2018-06-07,1999-07-23,4480000,310.27,22.26889,114.189705
+348,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Gold King Mansion,Gold King Mansion,1967-03-16,M,2,1,12,B,800,567,10280000,2018-06-05,,0,0.0,22.274122,114.19319
+349,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Jardine's Lookout Garden Mansion,Block B,1961-03-24,H,,,7,2,0,792,18000000,2018-06-04,,0,0.0,22.268818,114.189316
+350,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Chi Foo Building,Chi Foo Building,1974-07-15,,,,2,B,0,576,9438000,2018-05-31,,0,0.0,22.2767284,114.1937643
+351,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Gold King Mansion,Gold King Mansion,1967-03-15,H,2,1,15,B,800,567,10500000,2018-05-27,2009-11-25,5450000,92.66,22.274122,114.19319
+352,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,L,2,2,,F,696,568,9800000,2018-05-18,,0,0.0,22.2774344,114.193138
+353,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Gold Ning Mansion,Gold Ning Mansion,1967-03-15,L,2,1,3,H,800,567,9310000,2018-05-17,2012-07-12,7150000,30.21,22.273954,114.19316
+354,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,H,3,2,56,D,1176,871,21680000,2018-05-17,2007-08-16,19757001,9.73,22.2747091,114.194808
+355,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Yukon Heights,Yukon Heights,1982-09-23,H,3,2,21,A,1180,1001,23880000,2018-05-15,2000-02-24,5690000,319.68,22.275202999999998,114.193462
+356,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Yick King Building,Yick King Building,1975-07-20,M,,,13,A,0,1207,24880000,2018-05-14,2009-05-12,11700000,112.65,22.274053,114.193607
+357,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block I,2006-11-24,H,3,2,52,A,1542,1104,37880000,2018-05-11,2007-08-24,32867001,15.25,22.2751864,114.195526
+358,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,H,3,2,56,C,1172,871,21680000,2018-05-10,2007-08-15,19690001,10.11,22.2747091,114.194808
+359,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Y.I,Y. I,2001-03-13,H,3,,29,B,1420,1005,28880000,2018-05-07,2000-08-06,10680000,170.41,22.277234999999997,114.192649
+360,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Harvest Moon Villa,Harvest Moon Villa,1991-08-06,,3,,4,A,1203,871,19900000,2018-05-07,2011-02-02,12500000,59.2,22.276097999999998,114.19389
+361,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Flora Garden,Block 3,1987-10-14,M,3,2,12,A,1533,1193,30000000,2018-05-03,2009-09-01,16500000,81.82000000000001,22.273018,114.194305
+362,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Pinewood Garden,Pinewood Garden,1967-10-31,,,,2,D,0,1019,21680000,2018-05-03,2010-07-12,16100000,34.660000000000004,22.27016,114.19375
+363,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cavendish Heights,Block 6,1986-12-23,M,3,2,18,A,1907,1507,54000000,2018-05-02,2007-07-31,19650000,174.81,22.2704996,114.19335699999999
+364,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,H,2,1,18,2,0,567,14000000,2018-05-02,2009-07-22,5000000,180.0,22.274305,114.193825
+365,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 1,2009-11-24,L,3,,10,D,0,788,19700000,2018-04-30,2015-01-28,16500000,19.39,22.2769214,114.1953508
+366,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Ronsdale Garden,Block 1,1986-07-06,M,3,2,12,B,1225,976,21800000,2018-04-29,2012-04-18,14200000,53.52,22.2747515,114.195512
+367,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,M,2,2,24,E,769,616,12000000,2018-04-27,2011-06-20,8180000,46.7,22.2775714,114.192768
+368,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,H,3,2,50,D,1176,871,25200000,2018-04-18,2007-03-23,17757000,41.92,22.2747091,114.194808
+369,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,M,4,2,23,C,989,800,14300000,2018-04-18,1997-06-13,10880000,31.43,22.2774344,114.193138
+370,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 1,2009-11-24,M,3,,31,C,1032,788,19900000,2018-04-17,,0,0.0,22.2769214,114.1953508
+371,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block II,2006-11-24,M,4,2,35,A,1918,1387,40000000,2018-04-16,2005-07-28,30496000,31.16,22.275074,114.195216
+372,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Ronsdale Garden,Block 1,1986-07-06,,3,2,32,C,1225,976,20000000,2018-04-15,,0,0.0,22.2747515,114.195512
+373,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block I,2006-11-24,H,3,2,47,A,1542,1104,35800000,2018-04-12,2012-06-20,26000000,37.69,22.2751864,114.195526
+374,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,L,2,2,15,G,696,568,10150000,2018-04-12,2012-10-09,7600000,33.55,22.2775714,114.192768
+375,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,L,4,2,12,B,989,800,12500000,2018-04-12,2008-01-29,7600000,64.47,22.2774344,114.193138
+376,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,L,2,2,13,G,696,568,9880000,2018-04-11,2008-02-01,4780000,106.69,22.2774344,114.193138
+377,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Avalon,Avalon,1994-12-12,M,3,,13,B,933,658,4500000,2018-04-09,2000-10-02,4600000,-2.17,22.275161,114.193744
+378,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cavendish Heights,Block 7,1986-12-23,M,3,2,13,A,1907,1507,49660000,2018-04-04,2011-03-10,29200000,70.07000000000001,22.2707156,114.1935629
+379,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,H,2,2,38,E,769,616,12580000,2018-04-04,,0,0.0,22.2775714,114.192768
+380,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Sunrise Court,Sunrise Court,1983-07-31,L,,,1,B,0,186,4230000,2018-03-25,,0,0.0,22.278558999999998,114.19087999999999
+381,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 2,2009-11-24,L,3,,18,A,0,788,22000000,2018-03-19,2012-08-16,16800000,30.95,22.2765839,114.1954889
+382,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Elm Tree Towers,Block A,1983-11-30,L,3,2,7,2,2028,1570,36270000,2018-03-12,,0,0.0,22.27366,114.19377
+383,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Royal Court,Royal Court,1993-07-29,H,3,2,29,,1036,661,15750000,2018-03-09,2010-11-24,8900000,76.97,22.275676999999998,114.19364
+384,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Yukon Heights,Yukon Heights,1982-09-23,H,3,2,24,A,1180,1001,25000000,2018-03-06,,0,0.0,22.275202999999998,114.193462
+385,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Swiss Towers,Block 2,1971-06-29,H,3,,16,C,0,1265,28500000,2018-03-05,1999-02-14,8500000,235.29,22.273497,114.19216
+386,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 1,2009-11-24,L,3,,16,C,1032,788,20500000,2018-03-02,,0,0.0,22.2769214,114.1953508
+387,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Jolly Villa,Jolly Villa,1992-09-23,M,3,2,18,B,1579,1229,26800000,2018-03-01,1998-11-09,6500000,312.31,22.277379,114.192335
+388,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,The First Mansion,The First Mansion,1995-11-26,L,1,,8,B,475,322,6500000,2018-02-27,2012-04-17,4670000,39.19,22.279049999999998,114.19175
+389,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,50-58 Tung Lo Wan Road,50-58 Tung Lo Wan Road,1965-11-12,L,,,1,,0,401,5000000,2018-02-27,2016-07-11,1400000,257.14,22.278717,114.191154
+390,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block II,2006-11-24,M,4,2,42,B,1908,1411,41000000,2018-02-26,,0,0.0,22.275074,114.195216
+391,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,H,2,1,19,11,0,511,12000000,2018-02-26,,0,0.0,22.274305,114.193825
+392,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,H,2,2,31,G,696,568,11000000,2018-02-23,2014-07-25,8180000,34.47,22.2775714,114.192768
+393,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Ronsdale Garden,Block 2,1986-07-06,L,3,2,7,A,1209,962,20200000,2018-02-22,2015-01-01,18000000,12.22,22.274748,114.195887
+394,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Fontana Gardens,"Block A,22-25 Ka Ning Path (Il 7885 E)",1971-05-24,H,,,18,,0,2750,62000000,2018-02-22,,0,0.0,22.277601,114.19042999999999
+395,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block V,2006-11-24,L,3,2,18,C,1172,871,19500000,2018-02-20,2008-06-26,14100000,38.300000000000004,22.2747091,114.194808
+396,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,1 Tai Hang Road,1 Tai Hang Road,1990-10-08,M,2,,13,D,715,559,9500000,2018-02-15,2012-10-16,8900000,6.74,22.27804,114.191457
+397,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Gold King Mansion,Gold King Mansion,1967-03-15,L,2,1,3,B,800,567,9450000,2018-02-14,2010-08-11,5420000,74.35000000000001,22.274122,114.19319
+398,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block II,2006-11-24,M,4,2,41,B,1908,1385,40380000,2018-02-14,2007-06-07,33008000,22.330000000000002,22.275074,114.195216
+399,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,9 Wang Fung Terrace,9 Wang Fung Terrace,1958-01-27,,,,2,,0,1542,23680000,2018-02-13,,0,0.0,22.275402,114.19250000000001
+400,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,Gardenview Heights,Gardenview Heights,1991-10-21,L,3,2,2,A,1350,1049,20380000,2018-02-13,2010-11-17,13380000,52.32,22.274808,114.194524
+401,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,The Legend At Jardine's Lookout,Block II,2006-11-24,H,4,2,46,B,1908,1385,39500000,2018-02-09,2007-11-14,37038000,6.65,22.275074,114.195216
+402,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,H,2,1,21,10,0,559,14480000,2018-02-09,2014-10-14,11710000,23.650000000000002,22.274305,114.193825
+403,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 1,1993-05-06,H,2,2,34,F,696,568,10400000,2018-02-07,2004-11-10,3800000,173.68,22.2775714,114.192768
+404,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 1,2009-11-24,L,3,,19,C,1032,788,20200000,2018-02-02,2011-06-09,16500000,22.42,22.2769214,114.1953508
+405,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Serenade,Tower 1,2009-11-24,M,3,,32,D,0,788,19900000,2018-02-01,,0,0.0,22.2769214,114.1953508
+406,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Illumination Terrace,Block 2,1993-05-06,L,2,2,15,F,696,568,9380000,2018-01-31,2014-08-19,7580000,23.75,22.2774344,114.193138
+407,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Cavendish Heights,Block 6,1986-12-23,L,3,2,1,B,1907,1507,41750000,2018-01-30,2010-08-03,24450000,70.76,22.2704996,114.19335699999999
+408,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,M,2,1,9,6,0,527,11000000,2018-01-22,2010-06-11,5000000,120.0,22.274305,114.193825
+409,Hong Kong Island,Wan Chai,Jardine'S Lookout / Tai Hang,59 Perkins Road,59 Perkin'S Road,1969-01-23,,,,G,,0,3411,161000000,2018-01-09,,0,0.0,22.269016,114.194675
+410,Hong Kong Island,Wan Chai,Jardine's Lookout / Tai Hang,Tai Hang Terrace,Tai Hang Terrace,1975-05-31,M,2,1,12,11,0,511,11000000,2018-01-08,,0,0.0,22.274305,114.193825

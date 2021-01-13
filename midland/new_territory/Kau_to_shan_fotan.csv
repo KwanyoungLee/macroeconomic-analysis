@@ -1,0 +1,1225 @@
+,region,subregion,district,estate,building,first_op_date,floor_level,bedroom,sitting_room,floor,flat,area,net_area,price,tx_date,last_tx_date,last_price,gain,lat,lon
+0,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,H,3,,,B,888,680,13300000,2021-01-06,2010-09-10,1500000,786.6700000000001,22.3942285,114.1989205
+1,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 6,1995-09-13,M,3,,25,B,1128,958,13400000,2021-01-05,2000-02-22,5430000,146.78,22.3998061,114.202128
+2,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 3,2018-08-27,L,4,,1,B,0,0,41594400,2020-12-31,,0,0.0,22.411963,114.20032
+3,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 5,1995-09-13,M,3,,23,A,822,676,10000000,2020-12-31,2015-02-13,8180000,22.25,22.400409,114.202526
+4,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 3,1995-09-13,H,3,,40,F,1620,1370,20800000,2020-12-30,1998-05-28,13600000,52.94,22.4007665,114.2027535
+5,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-12,H,3,2,28,11,703,617,5450000,2020-12-30,2009-05-08,2000000,172.5,22.392712,114.19378
+6,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,H,3,,37,C,892,699,11700000,2020-12-29,2012-08-31,7200000,62.5,22.3943906,114.19904700000001
+7,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 01,1995-09-13,H,3,,,D,1236,1041,14170000,2020-12-29,2000-07-03,5100000,177.84,22.402196,114.2036654
+8,New Territories,Sha Tin,Kau To Shan / Fotan,Shatin Lodge,Shatin Lodge,1981-10-05,L,,,3,C,0,1005,11000000,2020-12-29,2009-10-06,5120000,114.84,22.401719999999997,114.195326
+9,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 2,1995-09-13,M,2,2,26,B,715,594,8700000,2020-12-28,2014-07-11,5270000,65.09,22.4018169,114.2034486
+10,New Territories,Sha Tin,Kau To Shan / Fotan,Greenfields,House D,1998-03-06,,4,,,,0,1947,37300000,2020-12-28,1999-01-20,17138000,117.64,22.407904,114.20470399999999
+11,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 10,2008-12-12,M,4,,25,A,1575,1227,21800000,2020-12-28,2008-06-03,15004000,45.29,22.3958056,114.199187
+12,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block C,2006-01-12,M,3,,13,B,1180,922,13980000,2020-12-28,2009-05-20,6150000,127.32000000000001,22.4011044,114.1939205
+13,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,M,3,,19,C,892,696,11250000,2020-12-24,2008-06-02,5973000,88.35000000000001,22.3943906,114.19904700000001
+14,New Territories,Sha Tin,Kau To Shan / Fotan,Sha Tin 33,Rhine Heights (Block 4),1983-05-16,L,3,,,A,0,1296,14100000,2020-12-24,,0,0.0,22.394781,114.1919314
+15,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 6,2008-12-12,M,3,,28,C,897,696,11550000,2020-12-24,2008-06-04,6357000,81.69,22.3949355,114.1993475
+16,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block C,2006-01-12,L,3,,7,D,1008,794,10000000,2020-12-23,2014-10-21,8800000,13.64,22.4011044,114.1939205
+17,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 8,2008-12-12,H,,,60,C,1197,940,15300000,2020-12-23,2014-09-22,10280000,48.83,22.3953296,114.1993955
+18,New Territories,Sha Tin,Kau To Shan / Fotan,Sha Tin 33,Queen's Heights (Block 3),1984-04-25,M,3,,14,A,1676,1296,14800000,2020-12-22,2000-06-09,4580000,223.14000000000001,22.3950306,114.1917465
+19,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-12,L,2,2,9,4,468,411,4460000,2020-12-22,2015-02-03,3340000,33.53,22.392712,114.19378
+20,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,L,,,11,A,979,764,13180000,2020-12-21,2008-06-12,7190000,83.31,22.394567,114.1991585
+21,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 3,1995-09-13,H,2,,42,C,715,594,9280000,2020-12-18,2003-10-15,2350000,294.89,22.4007665,114.2027535
+22,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,House 9,2006-01-12,,,,,,2689,2075,37000000,2020-12-17,2007-05-08,26000000,42.31,22.400897999999998,114.19515
+23,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-23,M,2,2,15,10,468,411,4368000,2020-12-16,2008-08-11,1180000,270.17,22.390997,114.193427
+24,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,L,,,6,C,0,1507,19500000,2020-12-16,2016-07-27,22655300,-13.93,22.413071,114.199376
+25,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 7,1995-09-13,H,3,,38,B,1128,958,13500000,2020-12-16,2012-04-17,8280000,63.04,22.4000129,114.2015765
+26,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block D,2006-01-12,M,3,,15,A,1180,922,14380000,2020-12-15,2012-08-22,9330000,54.13,22.4009134,114.1937644
+27,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 5,1995-09-13,M,3,,25,D,822,676,10180000,2020-12-14,2012-03-21,6060000,67.99,22.400409,114.202526
+28,New Territories,Sha Tin,Kau To Shan / Fotan,Ficus Garden,Ficus Garden,1991-03-01,L,3,,2,A,1285,1124,12300000,2020-12-14,,0,0.0,22.398577,114.19979000000001
+29,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,L,2,,5,J,0,663,8000000,2020-12-14,2014-11-25,7260300,10.19,22.413346999999998,114.200305
+30,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 10,2008-12-12,L,,,19,D,996,761,12660000,2020-12-11,2016-09-27,9600000,31.88,22.3958056,114.199187
+31,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,H,2,,16,F,0,663,8780000,2020-12-11,2014-12-04,8573200,2.41,22.413321999999997,114.200015
+32,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,H,,,51,A,992,773,15000000,2020-12-11,2008-06-06,10118000,48.25,22.3947435,114.19925
+33,New Territories,Sha Tin,Kau To Shan / Fotan,Eden Gardens,Block 2,1984-03-30,L,3,2,9,B,1265,1033,11200000,2020-12-11,,0,0.0,22.401394,114.19709
+34,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 7,2008-12-12,H,,,35,C,1156,906,13980000,2020-12-11,2016-05-10,10580000,32.14,22.3951155,114.1994216
+35,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,M,2,2,24,8,626,550,5300000,2020-12-11,1996-07-09,750000,606.67,22.393952,114.194462
+36,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block C,1985-06-12,M,3,,16,4,687,537,7080000,2020-12-11,2012-05-15,3550000,99.44,22.3937625,114.1924369
+37,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,L,2,,2,D,0,657,9000000,2020-12-11,2014-12-01,7721100,16.56,22.413787,114.19907
+38,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 6,1995-09-13,L,3,,8,A,1236,1041,13500000,2020-12-09,1997-07-30,12288000,9.86,22.3998061,114.202128
+39,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 9,1996-12-23,H,3,,42,B,1127,974,13600000,2020-12-09,2011-02-21,8020000,69.58,22.4014314,114.2024154
+40,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,H,,,25,E,0,505,9825000,2020-12-09,,0,0.0,,
+41,New Territories,Sha Tin,Kau To Shan / Fotan,Sha Tin 33,Rhine Heights (Block 4),1983-05-16,H,3,,25,B,1676,1296,16000000,2020-12-09,,0,0.0,22.394781,114.1919314
+42,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,Apex 1,2017-04-27,,3,,2,D,0,925,17880000,2020-12-07,,0,0.0,22.415032999999998,114.20100000000001
+43,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,House 8,,,,,-,-,0,910,27835000,2020-12-04,,0,0.0,,
+44,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-12,M,2,2,24,9,537,471,4338000,2020-12-04,2011-05-04,2150000,101.77,22.393088,114.193415
+45,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 3,2017-06-21,L,3,,3&5,B,0,1554,32000000,2020-12-03,,0,0.0,22.413269,114.201706
+46,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,L,2,2,11,10,468,411,4660000,2020-12-03,2018-06-27,3000000,55.33,22.391341,114.193112
+47,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,L,,,6,E,0,505,8541000,2020-12-02,,0,0.0,,
+48,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-27,M,2,2,20,7,538,473,4980000,2020-12-02,2009-10-07,1600000,211.25,22.393645,114.194073
+49,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,M,,,16,F,0,484,10158000,2020-12-02,,0,0.0,,
+50,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,M,,,16,D,0,755,13373000,2020-12-02,,0,0.0,,
+51,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,Apex 1,2017-04-27,,3,,3,A,0,1049,20000000,2020-12-02,,0,0.0,22.415032999999998,114.20100000000001
+52,New Territories,Sha Tin,Kau To Shan / Fotan,Lok Lam Garden,Block A,1985-10-04,,3,,3,2,858,755,9980000,2020-12-01,2014-10-28,7480000,33.42,22.401419,114.19838
+53,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,H,,,50,E,719,563,9580000,2020-12-01,2016-03-02,7800000,22.82,22.3942285,114.1989205
+54,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-08-01,M,2,2,18,9,537,471,4080000,2020-12-01,,0,0.0,22.39164,114.193479
+55,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 7,2008-12-12,H,,,56,B,1298,1012,20680000,2020-12-01,2012-07-26,12880000,60.56,22.3951155,114.1994216
+56,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,H,,,50,A,1176,914,18648000,2020-12-01,2016-07-21,12680000,47.07,22.3943906,114.19904700000001
+57,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 2,1995-09-13,H,2,2,37,B,715,594,8650000,2020-11-30,2014-09-19,6500000,33.08,22.4018169,114.2034486
+58,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-27,M,3,2,18,5,703,617,6180000,2020-11-30,,0,0.0,22.393245999999998,114.19441
+59,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,L,,,5,F,0,484,8138000,2020-11-30,,0,0.0,,
+60,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 2,1995-09-13,H,3,2,31,F,1620,1370,19800000,2020-11-27,,0,0.0,22.4018169,114.2034486
+61,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,M,,,15,D,0,755,13295000,2020-11-27,,0,0.0,,
+62,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,11,F,0,484,9834000,2020-11-26,,0,0.0,,
+63,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,House 2,,,,,,,0,914,25700000,2020-11-26,,0,0.0,,
+64,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,H,,,18,E,0,505,9047000,2020-11-26,,0,0.0,,
+65,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,H,,,25,F,0,479,9173000,2020-11-26,,0,0.0,,
+66,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,8,E,0,505,9763000,2020-11-26,,0,0.0,,
+67,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,M,,,17,E,0,505,8771000,2020-11-26,,0,0.0,,
+68,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,19,E,0,505,9444000,2020-11-26,,0,0.0,,
+69,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,House 10,,,,,,,0,905,28960000,2020-11-26,,0,0.0,,
+70,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,8,F,0,484,9360000,2020-11-26,,0,0.0,,
+71,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,12,B,0,1053,24209000,2020-11-26,,0,0.0,,
+72,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,L,,,6,F,0,484,7983000,2020-11-26,,0,0.0,,
+73,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,3,D,0,767,15012000,2020-11-26,,0,0.0,,
+74,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,M,,,12,F,0,484,8262000,2020-11-26,,0,0.0,,
+75,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,H,,,19,D,0,755,13273000,2020-11-26,,0,0.0,,
+76,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,8,B,0,1053,18879000,2020-11-25,,0,0.0,,
+77,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,H,,,25,D,0,745,14067000,2020-11-24,,0,0.0,,
+78,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,12,F,0,484,8338000,2020-11-24,,0,0.0,,
+79,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,9,D,0,767,13019000,2020-11-24,,0,0.0,,
+80,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,6,D,0,767,12794000,2020-11-24,,0,0.0,,
+81,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,L,,,8,F,0,484,8198000,2020-11-24,,0,0.0,,
+82,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,10,F,0,484,8248000,2020-11-24,,0,0.0,,
+83,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,H,,,23,D,0,755,13929000,2020-11-24,,0,0.0,,
+84,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,16,F,0,484,8892000,2020-11-24,,0,0.0,,
+85,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,8,A,0,1213,23518000,2020-11-24,,0,0.0,,
+86,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,9,E,0,505,8759000,2020-11-24,,0,0.0,,
+87,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,11,B,0,1053,19627000,2020-11-24,,0,0.0,,
+88,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-23,L,2,2,10,9,537,471,4230000,2020-11-24,2012-03-13,2100000,101.43,22.390997,114.193427
+89,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,M,2,,8,D,0,654,6000000,2020-11-24,2014-12-05,8625400,-30.44,22.413954999999998,114.198637
+90,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,9,C,0,1226,24014000,2020-11-24,,0,0.0,,
+91,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 10,2008-12-12,H,,,51,C,993,776,13000000,2020-11-24,2009-10-23,7573000,71.66,22.3958056,114.199187
+92,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,L,,,18,D,717,556,9200000,2020-11-24,2014-12-05,6900000,33.33,22.3942285,114.1989205
+93,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,5,D,0,767,12424000,2020-11-24,,0,0.0,,
+94,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,6,E,0,505,8287000,2020-11-24,,0,0.0,,
+95,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,11,D,0,767,13191000,2020-11-24,,0,0.0,,
+96,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,12,D,0,767,13590000,2020-11-24,,0,0.0,,
+97,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,21,F,0,484,8708000,2020-11-23,,0,0.0,,
+98,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,22,D,0,767,13909000,2020-11-23,,0,0.0,,
+99,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,H,,,56,D,0,555,9600000,2020-11-23,2014-09-24,6830000,40.56,22.3943906,114.19904700000001
+100,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,21,E,0,505,8858000,2020-11-23,,0,0.0,,
+101,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 2,1995-09-13,M,3,2,18,F,1620,1370,18200000,2020-11-23,2000-05-17,7000000,160.0,22.4018169,114.2034486
+102,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,House 1,,,,,,,0,926,28000388,2020-11-23,,0,0.0,,
+103,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,House 9,,,,,,,0,912,25000000,2020-11-23,,0,0.0,,
+104,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,21,D,0,767,13843000,2020-11-23,,0,0.0,,
+105,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,House 6,,,,,,,0,909,22800000,2020-11-23,,0,0.0,,
+106,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,17,B,0,1053,20864000,2020-11-20,,0,0.0,,
+107,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,M,2,2,24,9,537,471,4800000,2020-11-20,2015-12-24,1800000,166.67000000000002,22.391341,114.193112
+108,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,L,,,7,F,0,484,7951000,2020-11-20,,0,0.0,,
+109,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,22,F,0,484,8750000,2020-11-20,,0,0.0,,
+110,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,L,,,8,E,0,505,8554000,2020-11-20,,0,0.0,,
+111,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,M,,,9,E,0,505,8601000,2020-11-20,,0,0.0,,
+112,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,22,E,0,505,9356000,2020-11-20,,0,0.0,,
+113,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,L,,,7,D,0,755,12723000,2020-11-20,,0,0.0,,
+114,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,L,,,7,E,0,505,8296000,2020-11-20,,0,0.0,,
+115,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,15,E,0,505,8543000,2020-11-20,,0,0.0,,
+116,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,18,D,0,767,13092000,2020-11-19,,0,0.0,,
+117,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,M,,,10,D,0,755,12940000,2020-11-19,,0,0.0,,
+118,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,25,F,0,479,9327000,2020-11-19,,0,0.0,,
+119,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 5,2018-08-27,H,4,,11,PH,0,2375,98000000,2020-11-19,,0,0.0,22.411624999999997,114.20047
+120,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,H,3,,35,B,1127,974,13100000,2020-11-19,2012-03-20,7450000,75.84,22.4017194,114.2027866
+121,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,25,D,0,756,14756000,2020-11-19,,0,0.0,,
+122,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,23,E,0,505,9468000,2020-11-19,,0,0.0,,
+123,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,17,E,0,505,9078000,2020-11-19,,0,0.0,,
+124,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,17,A,0,1213,25346000,2020-11-19,,0,0.0,,
+125,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,M,,,9,F,0,484,8245000,2020-11-19,,0,0.0,,
+126,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,23,F,0,484,8854000,2020-11-19,,0,0.0,,
+127,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,23,D,0,767,14075000,2020-11-19,,0,0.0,,
+128,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,17,D,0,767,13837000,2020-11-19,,0,0.0,,
+129,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,18,E,0,505,8699000,2020-11-19,,0,0.0,,
+130,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,19,D,0,767,13677000,2020-11-19,,0,0.0,,
+131,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,2,A,0,1168,22790000,2020-11-19,,0,0.0,,
+132,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,M,,,22,C,892,696,11038000,2020-11-18,2010-11-12,6460000,70.87,22.3943906,114.19904700000001
+133,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,M,,,11,E,0,505,8702000,2020-11-18,,0,0.0,,
+134,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,20,F,0,484,8645000,2020-11-18,,0,0.0,,
+135,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,3,F,0,484,7770000,2020-11-18,,0,0.0,,
+136,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,10,B,0,1053,19374000,2020-11-18,,0,0.0,,
+137,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,11,E,0,505,8654000,2020-11-18,,0,0.0,,
+138,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,12,A,0,1213,24814000,2020-11-18,,0,0.0,,
+139,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 61,2019-11-29,,,,,,0,4294,145996000,2020-11-18,,0,0.0,22.41206,114.20223
+140,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,H,2,,17,J,0,663,8565000,2020-11-18,2014-12-11,7790700,9.94,22.413321999999997,114.200015
+141,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,11,A,0,1213,23843000,2020-11-18,,0,0.0,,
+142,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,5,F,0,484,8012000,2020-11-18,,0,0.0,,
+143,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,25,E,0,505,9986000,2020-11-18,,0,0.0,,
+144,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,20,E,0,505,9245000,2020-11-18,,0,0.0,,
+145,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,7,E,0,505,8244000,2020-11-18,,0,0.0,,
+146,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,7,D,0,767,12885000,2020-11-18,,0,0.0,,
+147,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,20,D,0,767,14090000,2020-11-18,,0,0.0,,
+148,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,17,F,0,484,9163000,2020-11-18,,0,0.0,,
+149,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,8,D,0,767,12640000,2020-11-18,,0,0.0,,
+150,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,16,D,0,767,13101000,2020-11-18,,0,0.0,,
+151,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,2,F,0,489,7726000,2020-11-18,,0,0.0,,
+152,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,10,E,0,505,8602000,2020-11-18,,0,0.0,,
+153,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,17,C,0,1226,26256000,2020-11-18,,0,0.0,,
+154,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,H,,,18,D,0,755,13529000,2020-11-18,,0,0.0,,
+155,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,8,C,0,1226,23183000,2020-11-18,,0,0.0,,
+156,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,9,F,0,484,8396000,2020-11-18,,0,0.0,,
+157,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,12,E,0,505,8915000,2020-11-18,,0,0.0,,
+158,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,19,F,0,484,8605000,2020-11-17,,0,0.0,,
+159,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,15,F,0,484,8192000,2020-11-17,,0,0.0,,
+160,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,M,,,11,D,0,755,12533000,2020-11-17,,0,0.0,,
+161,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,M,,,10,F,0,484,8087000,2020-11-17,,0,0.0,,
+162,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,H,,,18,F,0,484,8342000,2020-11-16,,0,0.0,,
+163,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block B,1985-06-12,H,3,,24,4,687,537,7250000,2020-11-16,2014-10-08,4900000,47.96,22.393981999999998,114.192335
+164,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,L,,,8,D,0,755,12795000,2020-11-16,,0,0.0,,
+165,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 21,1987-08-12,,,,3,D,0,1143,14180000,2020-11-16,2001-07-05,4200000,237.62,22.391455,114.187649
+166,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,,2006-01-12,,,,,CP37,721,577,8000000,2020-11-16,,0,0.0,22.40107,114.19433
+167,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,M,,,10,E,0,505,8437000,2020-11-16,,0,0.0,,
+168,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,6,B,0,1053,18862000,2020-11-13,,0,0.0,,
+169,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,M,,,9,D,0,755,12868000,2020-11-13,,0,0.0,,
+170,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,M,2,,10,F,0,652,8450000,2020-11-13,2014-12-16,8199300,3.06,22.414033,114.198361
+171,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,16,E,0,505,8486000,2020-11-13,,0,0.0,,
+172,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,7,F,0,484,8105000,2020-11-13,,0,0.0,,
+173,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,H,2,,,C,0,554,9730000,2020-11-13,2008-06-05,5237000,85.79,22.3947435,114.19925
+174,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 6,1995-09-13,H,3,,29,E,1623,1373,20400000,2020-11-12,2002-11-13,6800000,200.0,22.3998061,114.202128
+175,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,6,F,0,484,8251000,2020-11-12,,0,0.0,,
+176,New Territories,Sha Tin,Kau To Shan / Fotan,Shatin Lodge,Shatin Lodge,1981-10-05,H,,,11,A,0,1005,11800000,2020-11-12,2011-06-22,7100000,66.2,22.401719999999997,114.195326
+177,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 1,,M,,,11,F,0,484,8341000,2020-11-12,,0,0.0,,
+178,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,M,,,10,D,0,767,13112000,2020-11-12,,0,0.0,,
+179,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 6,1995-09-13,H,3,,28,C,1128,958,12800000,2020-11-12,2014-01-30,9050000,41.44,22.3998061,114.202128
+180,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block B,2006-01-12,L,2,,12,D,756,602,9100000,2020-11-12,2010-08-19,4810000,89.19,22.401263999999998,114.194219
+181,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-12,H,2,2,29,7,538,473,4500000,2020-11-11,2011-04-15,2170000,107.37,22.392391,114.193324
+182,New Territories,Sha Tin,Kau To Shan / Fotan,El Futuro,Block 2,,L,,,5,E,0,505,8046000,2020-11-11,,0,0.0,,
+183,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,L,3,,3,F,1127,974,11600000,2020-11-11,2016-04-20,8600000,34.88,22.4010816,114.2021856
+184,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 2,2018-08-27,M,4,,5,A,0,2038,48461000,2020-11-10,,0,0.0,22.411863,114.20032
+185,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,,2006-01-12,M,,,,CP03,1008,794,11880000,2020-11-10,,0,0.0,22.40107,114.19433
+186,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block B,2006-01-12,M,2,,15,B,718,568,9950000,2020-11-09,2016-11-02,8050000,23.6,22.401263999999998,114.194219
+187,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 5,1995-09-13,H,3,,43,B,0,1294,18000000,2020-11-09,2008-12-24,7600000,136.84,22.400409,114.202526
+188,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,L,,,17,C,717,554,9050000,2020-11-06,2008-06-05,4419700,104.77,22.3947435,114.19925
+189,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 3,2015-06-15,L,3,,6,A,0,982,11500000,2020-11-06,2014-12-01,12242500,-6.0600000000000005,22.413785999999998,114.199326
+190,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,M,3,,10,D,0,944,12320000,2020-11-06,2014-12-29,12964200,-4.97,22.413176999999997,114.199644
+191,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-12,M,2,2,22,7,538,473,4768000,2020-11-06,2009-08-14,1550000,207.61,22.393088,114.193415
+192,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,L,3,,3,D,1206,1039,11000000,2020-11-06,2009-05-27,5080000,116.54,22.4017194,114.2027866
+193,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 7,2008-12-12,L,,,17,C,1156,906,13800000,2020-11-06,2015-04-14,9788000,40.99,22.3951155,114.1994216
+194,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 2,2018-08-27,M,4,,6,B,0,2038,44882000,2020-11-05,,0,0.0,22.411863,114.20032
+195,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House 2,2018-03-19,,3,,,,0,4101,138000000,2020-11-05,,0,0.0,,
+196,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-27,L,3,2,1,11,703,617,2850000,2020-11-03,,0,0.0,22.393245999999998,114.19441
+197,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block C,1985-06-12,L,3,,6,3,687,537,6750000,2020-10-30,2003-11-14,980000,588.78,22.3937625,114.1924369
+198,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block B,2006-01-12,M,2,,16,B,718,568,9950000,2020-10-29,2005-01-07,4992000,99.32000000000001,22.401263999999998,114.194219
+199,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,H,3,,17,E,0,1018,14500000,2020-10-28,2015-07-27,13103300,10.66,22.413954999999998,114.198637
+200,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 24,1987-08-12,H,3,,6,A,0,882,10880000,2020-10-28,2007-09-10,4630000,134.99,22.3916634,114.1868716
+201,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,Apex 3,2017-04-27,,4,,6,B,0,1526,35052000,2020-10-23,,0,0.0,22.41525,114.20078
+202,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,L,2,2,9,6,537,471,4750000,2020-10-23,2016-05-12,3180000,49.370000000000005,22.391341,114.193112
+203,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,H,,,51,D,717,554,9800000,2020-10-23,2008-06-12,5292000,85.19,22.394567,114.1991585
+204,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 5,1995-09-13,M,2,,19,B,715,594,4250000,2020-10-23,,0,0.0,22.400409,114.202526
+205,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 9,1996-12-23,M,3,,31,H,1206,1039,14000000,2020-10-22,1997-08-30,12060000,16.09,22.4014314,114.2024154
+206,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 7,2018-08-27,M,4,,7,B,0,1562,37800000,2020-10-22,,0,0.0,22.412003,114.20018999999999
+207,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,,3,,20,A,0,932,13650000,2020-10-19,2015-06-04,14859700,-8.14,22.413346999999998,114.200305
+208,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,L,3,,3,C,0,1009,15200000,2020-10-19,2015-04-23,13164200,15.46,22.413176999999997,114.199644
+209,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block D,2006-01-12,L,3,,7,D,998,777,10000000,2020-10-19,2012-05-28,7000000,42.86,22.4009134,114.1937644
+210,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,L,2,,2,E,0,692,8820000,2020-10-19,2014-11-25,8112400,8.72,22.413787,114.19907
+211,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-23,H,2,2,33,10,468,411,4840000,2020-10-16,2014-10-08,3200000,51.25,22.390997,114.193427
+212,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,M,3,2,25,11,703,617,6020000,2020-10-16,,0,0.0,22.393952,114.194462
+213,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,,1,,17,B,0,467,7180000,2020-10-16,2015-05-05,7190700,-0.15,22.413346999999998,114.200305
+214,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,H,3,,40,B,1127,974,13180000,2020-10-15,2017-02-22,10750000,22.6,22.4017194,114.2027866
+215,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,M,2,2,17,10,468,411,2000000,2020-10-15,,0,0.0,22.391341,114.193112
+216,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 3,2015-06-15,L,3,,6,B,0,958,15900000,2020-10-14,2014-12-19,13372900,18.900000000000002,22.413294,114.199334
+217,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 7,2008-12-12,H,,,52,C,1156,906,14500000,2020-10-14,2010-04-27,8998000,61.15,22.3951155,114.1994216
+218,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-27,L,2,2,12,1,538,473,4750000,2020-10-14,2016-02-03,3830000,24.02,22.393645,114.194073
+219,New Territories,Sha Tin,Kau To Shan / Fotan,Pine Villa,Block C,1985-08-12,,3,,1,1,0,1038,10000000,2020-10-12,,0,0.0,22.400192,114.198666
+220,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block D,2006-01-12,M,3,,19,C,1128,875,13300000,2020-10-12,2011-02-21,7380000,80.22,22.4009134,114.1937644
+221,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,M,2,2,23,7,538,473,4850000,2020-10-12,2013-07-25,3520000,37.78,22.393952,114.194462
+222,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-23,H,2,2,31,1,538,473,4738000,2020-10-12,2010-02-03,1580000,199.87,22.390997,114.193427
+223,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 7,1995-09-13,L,3,,3,C,1128,958,11000000,2020-10-12,2017-01-03,9980000,10.22,22.4000129,114.2015765
+224,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block B,1985-06-12,L,3,,2,3,687,537,7000000,2020-10-12,2015-06-29,5150000,35.92,22.393981999999998,114.192335
+225,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,Apex 2,2017-04-27,,4,,6,B,0,1522,34756000,2020-10-12,,0,0.0,22.415112999999998,114.20100000000001
+226,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,M,,,27,B,979,764,14180000,2020-10-09,2014-10-14,9800000,44.69,22.3947435,114.19925
+227,New Territories,Sha Tin,Kau To Shan / Fotan,Sha Tin 33,Queen's Heights (Block 3),1984-04-25,L,3,,1,B,1676,1296,13180000,2020-10-09,2015-06-19,11500000,14.61,22.3950306,114.1917465
+228,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block D,1985-06-12,H,2,,16,2,522,408,6250000,2020-10-08,,0,0.0,22.3935545,114.192546
+229,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-12,L,2,2,7,4,468,411,4300000,2020-10-07,2017-04-10,3700000,16.22,22.392391,114.193324
+230,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,H,1,,17,H,0,450,6950000,2020-10-06,2014-12-17,6199500,12.11,22.413321999999997,114.200015
+231,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-12,L,2,2,7,12,520,457,4000000,2020-10-06,1997-08-21,2128000,87.97,22.392712,114.19378
+232,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-12,L,3,2,3,5,703,617,5800000,2020-10-05,1998-12-17,1850000,213.51,22.392712,114.19378
+233,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,H,3,,41,G,1127,974,15500000,2020-09-30,2005-08-11,7100000,118.31,22.4017194,114.2027866
+234,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 5,1995-09-13,M,3,,29,A,822,676,10650000,2020-09-29,1996-01-06,4390000,142.6,22.400409,114.202526
+235,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 2,1995-09-13,L,2,2,10,B,715,594,8380000,2020-09-28,2009-04-24,3350000,150.15,22.4018169,114.2034486
+236,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 11,2008-12-12,L,,,5,E,700,544,8750000,2020-09-28,2008-06-12,5522000,58.46,22.3960286,114.199348
+237,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,Tower 1,2019-11-29,L,,,5,B,0,1588,34936000,2020-09-25,,0,0.0,22.41294,114.20089
+238,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block E,2006-01-12,M,2,,20,C,738,586,9800000,2020-09-25,2011-04-04,5200000,88.46000000000001,22.4007,114.193739
+239,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-27,M,2,2,20,10,468,411,4380000,2020-09-24,1996-11-09,1520000,188.16,22.393245999999998,114.19441
+240,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,L,,,11,B,979,764,12780000,2020-09-23,2008-06-04,7196000,77.60000000000001,22.3947435,114.19925
+241,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block E,2006-01-12,L,,,11,B,1412,1102,16380000,2020-09-23,2015-07-07,13880000,18.01,22.4007,114.193739
+242,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,Tower 1,2017-07-18,,3,,6,PH,0,1576,55600000,2020-09-22,,0,0.0,22.415748999999998,114.19987
+243,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 3,2015-06-15,M,2,,12,D,0,657,8650000,2020-09-22,2015-01-02,9094900,-4.89,22.413294,114.199334
+244,New Territories,Sha Tin,Kau To Shan / Fotan,Ville De Cascade,Powers Court ( C2 ),1988-12-23,L,3,,3,B,0,1077,11830000,2020-09-22,,0,0.0,22.393043,114.187106
+245,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,M,3,,19,E,1206,1039,13300000,2020-09-22,2006-08-21,5598000,137.58,22.4017194,114.2027866
+246,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 7,1995-09-13,L,3,,10,B,1128,958,12550000,2020-09-21,,0,0.0,22.4000129,114.2015765
+247,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,M,2,2,18,10,468,411,4400000,2020-09-17,2014-05-28,2900000,51.72,22.393952,114.194462
+248,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 9,1996-12-23,L,3,,12,E,1206,1039,13900000,2020-09-17,2010-06-09,7300000,90.41,22.4014314,114.2024154
+249,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-12,M,2,2,21,6,537,471,4700000,2020-09-17,2016-12-01,3728000,26.07,22.392712,114.19378
+250,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,L,2,2,8,2,626,550,5488000,2020-09-17,2012-08-03,2900000,89.24,22.391341,114.193112
+251,New Territories,Sha Tin,Kau To Shan / Fotan,Shatin Lodge,Shatin Lodge,1981-10-05,H,,,12,C,0,1005,10750000,2020-09-16,1999-11-19,3380000,218.05,22.401719999999997,114.195326
+252,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,L,3,,17,H,1206,1039,14680000,2020-09-16,2010-02-12,8100000,81.23,22.4017194,114.2027866
+253,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,M,,,19,C,717,554,9130000,2020-09-16,2015-11-11,7450000,22.55,22.3947435,114.19925
+254,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-23,H,3,2,29,5,703,617,5500000,2020-09-15,,0,0.0,22.390997,114.193427
+255,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 2,2017-06-21,M,4,,6,C,0,1602,32400000,2020-09-15,2017-11-20,38268576,-15.34,22.41314,114.20194
+256,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,L,3,,8,A,1206,1039,12680000,2020-09-15,2010-07-20,6980000,81.66,22.4010816,114.2021856
+257,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,,2,,G,D,0,786,11000000,2020-09-15,2015-08-24,13330600,-17.48,22.413176999999997,114.199644
+258,New Territories,Sha Tin,Kau To Shan / Fotan,Sha Tin 33,Rhine Heights (Block 4),1983-05-16,L,3,,9,A,1676,1296,15000000,2020-09-14,1999-05-20,6000000,150.0,22.394781,114.1919314
+259,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-12,M,2,2,17,8,626,550,5380000,2020-09-14,2010-12-06,2650000,103.02,22.392712,114.19378
+260,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,M,,,32,B,888,680,12550000,2020-09-14,2008-05-27,8665000,44.84,22.3942285,114.1989205
+261,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block E,2006-01-12,H,2,,22,C,738,586,8880000,2020-09-14,2015-01-06,7400000,20.0,22.4007,114.193739
+262,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,M,2,2,18,2,626,550,5710000,2020-09-14,2009-03-17,1600000,256.88,22.391341,114.193112
+263,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 5,1995-09-13,M,3,,20,D,822,676,9838000,2020-09-14,2014-08-29,7500000,31.17,22.400409,114.202526
+264,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 1,1995-09-13,M,3,,17,F,1628,1373,18380000,2020-09-14,2016-04-29,13000000,41.38,22.402196,114.2036654
+265,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,M,3,,25,A,1206,1039,13680000,2020-09-14,1997-11-06,11200000,22.14,22.4010816,114.2021856
+266,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H22,2018-03-19,,4,,,,0,2021,53352000,2020-09-11,,0,0.0,,
+267,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House 1,2018-03-19,,4,,,,0,4592,180000000,2020-09-11,,0,0.0,,
+268,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-12,M,2,2,21,1,538,473,4670000,2020-09-11,2011-11-14,1980000,135.86,22.393088,114.193415
+269,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,L,1,,1,C,0,492,6700000,2020-09-10,2015-05-06,6782100,-1.21,22.413321999999997,114.200015
+270,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 2,1995-09-13,H,3,2,36,A,822,676,9500000,2020-09-10,2011-03-30,5680000,67.25,22.4018169,114.2034486
+271,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block E,2006-01-12,H,2,,23,C,738,586,9180000,2020-09-09,2017-04-13,6480000,41.67,22.4007,114.193739
+272,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 7,1995-09-13,M,3,,23,D,1236,1041,13800000,2020-09-09,2002-06-27,4265000,223.56,22.4000129,114.2015765
+273,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,M,3,,10,D,0,988,12630000,2020-09-07,2015-07-20,14494500,-12.86,22.413071,114.199376
+274,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,M,,,20,C,717,554,9150000,2020-09-04,2009-05-15,3850000,137.66,22.3947435,114.19925
+275,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block B,2006-01-12,L,2,,6,D,756,602,8305000,2020-09-03,2005-01-19,4006700,107.28,22.401263999999998,114.194219
+276,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,M,2,,9,H,0,662,8300000,2020-09-02,2014-12-04,7390700,12.3,22.413346999999998,114.200305
+277,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 3,1995-09-13,L,2,,12,C,715,594,8450000,2020-09-02,2008-01-10,3950000,113.92,22.4007665,114.2027535
+278,New Territories,Sha Tin,Kau To Shan / Fotan,Rosary Villas,Block 1,1984-08-31,,,,1,,1624,1390,22500000,2020-09-02,2008-02-25,10680000,110.67,22.399207999999998,114.198944
+279,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 9,1996-12-23,H,3,,41,C,1127,974,12380000,2020-09-01,2002-06-06,4400000,181.36,22.4014314,114.2024154
+280,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 6,2008-12-12,M,,,31,A,1167,908,17230000,2020-08-28,2008-06-05,10906000,57.99,22.3949355,114.1993475
+281,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 3,2015-06-15,L,3,,2,B,0,913,13000000,2020-08-28,,0,0.0,22.413294,114.199334
+282,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 3,2015-06-15,L,3,,2,A,0,1876,16880000,2020-08-28,,0,0.0,22.413294,114.199334
+283,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 11,2008-12-12,H,,,57,C,686,534,9300000,2020-08-27,2008-06-06,5213000,78.4,22.3960286,114.199348
+284,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,L,2,,6,F,0,650,8000000,2020-08-25,2014-12-04,7799400,2.57,22.413954999999998,114.198637
+285,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-12,M,2,2,16,4,468,411,4700000,2020-08-25,2017-08-22,4170000,12.71,22.392712,114.19378
+286,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,Tower 2,2019-11-29,M,,,10,D,0,1792,43904000,2020-08-25,,0,0.0,22.41285,114.20119
+287,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House A18,2018-03-19,,4,,,,0,2845,81500000,2020-08-25,,0,0.0,,
+288,New Territories,Sha Tin,Kau To Shan / Fotan,Wesley Villa,House R,1993-12-31,,,,,,0,1624,33800000,2020-08-24,2006-12-19,15280000,121.2,22.408941,114.20671
+289,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-12,L,2,2,12,3,537,471,2000000,2020-08-24,2020-03-05,4000000,-50.0,22.393088,114.193415
+290,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 12,2019-11-29,,,,,,0,3057,82539000,2020-08-24,,0,0.0,22.4126,114.20097
+291,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-27,H,2,2,31,8,626,550,5630000,2020-08-24,2017-06-08,4688000,20.09,22.393645,114.194073
+292,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block E,2006-01-12,M,2,,21,C,738,586,8800000,2020-08-21,2012-08-10,5600000,57.14,22.4007,114.193739
+293,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,L,,,17,C,717,555,8940000,2020-08-20,2014-08-12,6650000,34.44,22.3942285,114.1989205
+294,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-08-01,M,2,2,21,10,468,411,4000000,2020-08-19,,0,0.0,22.39164,114.193479
+295,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,L,2,2,4,12,520,457,4100000,2020-08-19,,0,0.0,22.391341,114.193112
+296,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block A,1984-01-04,L,3,,4,1,1727,1370,15380000,2020-08-17,2004-08-28,4700000,227.23000000000002,22.394175,114.192071
+297,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,House 6,2018-08-27,,4,,,,0,2741,79280000,2020-08-17,,0,0.0,22.412300000000002,114.20006
+298,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block C,1985-06-12,L,3,,2,4,687,537,7280000,2020-08-14,2017-07-13,5780000,25.95,22.3937625,114.1924369
+299,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-14,H,2,,19,D,0,735,11000000,2020-08-13,2015-02-24,11381700,-3.35,22.413321999999997,114.200015
+300,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block C,2006-01-12,L,3,,10,D,1008,794,10000000,2020-08-13,2004-12-31,5544000,80.38,22.4011044,114.1939205
+301,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,Tower 5,2018-03-19,,4,,3,A,0,1572,48800000,2020-08-11,,0,0.0,,
+302,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,Apex 2,2017-04-27,,4,,2,B,0,1520,31139500,2020-08-11,,0,0.0,22.415112999999998,114.20100000000001
+303,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,M,3,,27,H,1206,1039,15300000,2020-08-07,,0,0.0,22.4017194,114.2027866
+304,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,House Sommet 5,2017-04-27,,,,,,0,3743,163888000,2020-08-07,,0,0.0,22.415201,114.200676
+305,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,House Sommet 9,2017-04-27,,,,,,0,3027,122467000,2020-08-07,,0,0.0,22.415253,114.200745
+306,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block B,1985-06-12,L,2,,8,1,522,408,5700000,2020-08-07,2014-01-13,3300000,72.73,22.393981999999998,114.192335
+307,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-27,,2,2,36,10,468,411,4700000,2020-08-06,,0,0.0,22.393245999999998,114.19441
+308,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 11,1996-12-23,L,3,,3,F,1127,974,10980000,2020-08-06,2001-08-14,3880000,182.99,22.4020695,114.2030154
+309,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-08-01,L,2,2,10,3,537,471,4200000,2020-08-06,2018-06-06,5100000,-17.650000000000002,22.39164,114.193479
+310,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 67,2019-11-29,,,,,,0,4476,124432800,2020-08-06,,0,0.0,22.412609999999997,114.20146
+311,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,House 18,2018-08-27,,4,,,,0,3040,94713800,2020-08-06,,0,0.0,22.412300000000002,114.20006
+312,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,Apex 2,2017-04-27,,4,,3,B,0,1520,28888000,2020-08-05,,0,0.0,22.415112999999998,114.20100000000001
+313,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 11,1996-12-23,M,3,,28,E,1206,1039,13500000,2020-08-05,,0,0.0,22.4020695,114.2030154
+314,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 11,1996-12-23,M,3,,29,C,1127,974,11800000,2020-08-05,2008-09-10,6670000,76.91,22.4020695,114.2030154
+315,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,Apex 2,2017-04-27,,3,,3,D,0,1004,19048000,2020-08-04,,0,0.0,22.415112999999998,114.20100000000001
+316,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,H,3,,16,D,0,988,12800000,2020-08-04,2015-10-07,15140800,-15.46,22.413071,114.199376
+317,New Territories,Sha Tin,Kau To Shan / Fotan,Pine Villa,Block D,1985-08-12,,3,,1,1,0,1038,14000000,2020-08-03,,0,0.0,22.400354999999998,114.198566
+318,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 10,2008-12-12,H,,,57,D,996,762,13460000,2020-08-03,2012-09-19,8100000,66.17,22.3958056,114.199187
+319,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block B,1985-06-12,M,3,,16,4,687,537,6800000,2020-08-03,,0,0.0,22.393981999999998,114.192335
+320,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-27,M,2,2,25,3,537,471,4000000,2020-08-03,2008-12-24,1130000,253.98000000000002,22.393645,114.194073
+321,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block C,1985-06-12,M,2,,14,1,522,408,5980000,2020-07-30,2005-08-03,1445000,313.84000000000003,22.3937625,114.1924369
+322,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,House 16,2018-08-27,,4,,,,0,3041,93837000,2020-07-30,,0,0.0,22.412300000000002,114.20006
+323,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block C,1985-06-12,H,3,,22,3,687,537,7380000,2020-07-30,2010-02-22,2780000,165.47,22.3937625,114.1924369
+324,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 3,2018-08-27,H,4,,9,A,0,1944,50628000,2020-07-30,,0,0.0,22.411963,114.20032
+325,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 10,2008-12-12,H,,,39,C,993,776,12750000,2020-07-30,2011-04-14,7980000,59.77,22.3958056,114.199187
+326,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-08-01,M,2,2,23,9,537,471,4680000,2020-07-29,2015-03-06,3630000,28.93,22.39164,114.193479
+327,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,,2,,G,D,0,654,9998000,2020-07-29,2015-04-23,11470000,-12.83,22.413787,114.19907
+328,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,L,2,,1,F,0,690,8450000,2020-07-28,2014-12-12,7442900,13.530000000000001,22.413346999999998,114.200305
+329,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,House 9,2018-08-27,,4,,,,0,2216,58000000,2020-07-28,,0,0.0,22.412300000000002,114.20006
+330,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 2,2018-08-27,M,4,,7,A,0,2038,50680000,2020-07-27,,0,0.0,22.411863,114.20032
+331,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 9,1996-12-23,M,3,,20,B,1127,974,13500000,2020-07-24,2007-09-28,5630000,139.79,22.4014314,114.2024154
+332,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block C,2006-01-12,L,3,,6,D,1008,794,11200000,2020-07-24,2005-01-04,5292000,111.64,22.4011044,114.1939205
+333,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block B,1985-06-12,H,2,,19,1,522,408,5780000,2020-07-24,2006-03-29,1510000,282.78000000000003,22.393981999999998,114.192335
+334,New Territories,Sha Tin,Kau To Shan / Fotan,Sha Tin 33,Rhine Heights (Block 4),1983-05-16,L,3,,8,B,1676,1296,14780000,2020-07-23,2013-09-24,11600000,27.41,22.394781,114.1919314
+335,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,H,,,52,D,717,554,9500000,2020-07-22,2008-06-02,5319000,78.61,22.394567,114.1991585
+336,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,House 27,2018-08-27,,4,,,,0,2559,66980000,2020-07-22,,0,0.0,22.412457999999997,114.19995
+337,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,House 17,2018-08-26,,4,,,,0,3041,93837000,2020-07-21,,0,0.0,22.412300000000002,114.20006
+338,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 1,1995-09-13,L,3,,8,B,1128,958,11580000,2020-07-21,2014-03-03,7990000,44.93,22.402196,114.2036654
+339,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,H,,,37,D,717,555,9168000,2020-07-21,2008-06-05,5199000,76.34,22.3943906,114.19904700000001
+340,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,L,2,,1,J,0,706,8600000,2020-07-20,2014-12-10,7973500,7.86,22.413346999999998,114.200305
+341,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block D,1985-06-12,L,3,,5,4,687,537,7080000,2020-07-20,2009-10-21,2730000,159.34,22.3935545,114.192546
+342,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block C,2006-01-12,M,3,,20,C,1008,790,11960000,2020-07-20,2014-09-11,8700000,37.47,22.4011044,114.1939205
+343,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,,2,,20,F,0,681,8760000,2020-07-20,2014-12-11,8068900,8.56,22.413346999999998,114.200305
+344,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,House 26,2018-08-27,,4,,,,0,2556,66000000,2020-07-17,,0,0.0,22.412457999999997,114.19995
+345,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,L,3,,8,B,1127,974,13200000,2020-07-16,2016-09-20,10200000,29.41,22.4010816,114.2021856
+346,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 8,2018-08-27,L,,,5,B,0,1563,34612500,2020-07-16,,0,0.0,22.412457999999997,114.19995
+347,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-12,M,2,2,15,9,537,471,4650000,2020-07-16,2001-11-14,680000,583.82,22.393088,114.193415
+348,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,H,,,55,C,717,554,9600000,2020-07-15,2008-06-05,5343000,79.67,22.3947435,114.19925
+349,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block B,2006-01-12,M,2,,17,E,721,577,8680000,2020-07-14,2012-10-05,5770000,50.43,22.401263999999998,114.194219
+350,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block B,2006-01-12,L,2,,12,B,718,568,9700000,2020-07-14,2014-08-29,6850000,41.61,22.401263999999998,114.194219
+351,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block C,2006-01-12,M,3,,17,D,1008,794,10000000,2020-07-13,2011-06-08,7000000,42.86,22.4011044,114.1939205
+352,New Territories,Sha Tin,Kau To Shan / Fotan,Greenfields,House A,1998-03-06,,,,,,0,1947,56300000,2020-07-10,2004-03-13,15390000,265.82,22.407778,114.20453
+353,New Territories,Sha Tin,Kau To Shan / Fotan,Greenfields,House B,1998-03-06,,,,,,2850,1947,55100000,2020-07-10,2004-03-13,15390000,258.02,22.407822,114.20459
+354,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-23,M,2,2,25,4,468,411,4738000,2020-07-10,2005-09-21,880000,438.41,22.390997,114.193427
+355,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,H,,,51,C,717,555,9800000,2020-07-10,2010-03-05,6220000,57.56,22.3942285,114.1989205
+356,New Territories,Sha Tin,Kau To Shan / Fotan,Sha Tin 33,Phenix Heights (Block 2),1984-02-10,L,,,2,A,1900,1492,16380000,2020-07-10,,0,0.0,22.3953085,114.191627
+357,New Territories,Sha Tin,Kau To Shan / Fotan,Greenfields,House J,1998-03-06,,,,,,0,1947,51500000,2020-07-10,2004-03-13,15390000,234.63,22.408087,114.20497
+358,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,L,2,2,11,7,538,473,4800000,2020-07-10,,0,0.0,22.393952,114.194462
+359,New Territories,Sha Tin,Kau To Shan / Fotan,Greenfields,House L,1998-03-06,,,,,,0,2384,67200000,2020-07-10,2004-03-13,19440000,245.68,22.408285,114.205086
+360,New Territories,Sha Tin,Kau To Shan / Fotan,Greenfields,House P,1998-03-06,,,,,,2850,1947,56100000,2020-07-10,2004-03-13,15390000,264.52,22.408431999999998,114.20497
+361,New Territories,Sha Tin,Kau To Shan / Fotan,Greenfields,House K,1998-03-06,,,,,,0,2384,67200000,2020-07-10,2004-03-13,19440000,245.68,22.408136,114.20502
+362,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-12,M,2,2,24,4,468,411,4450000,2020-07-10,,0,0.0,22.392712,114.19378
+363,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-12,M,2,2,17,3,537,471,4880000,2020-07-08,2016-05-12,3680000,32.61,22.393088,114.193415
+364,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 9,2008-12-12,L,,,5,C,1200,935,16450000,2020-07-06,2009-10-28,11550000,42.42,22.395554999999998,114.1993045
+365,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block D,1985-06-12,H,2,,18,2,522,408,5900000,2020-07-03,2012-08-14,2930000,101.37,22.3935545,114.192546
+366,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,M,3,2,23,5,703,617,6980000,2020-07-01,,0,0.0,22.392391,114.193324
+367,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-23,L,2,2,6,4,468,411,4470000,2020-06-30,2013-12-12,2750000,62.550000000000004,22.390997,114.193427
+368,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-27,L,2,2,2,12,520,457,4580000,2020-06-30,2009-09-11,1360000,236.76,22.393245999999998,114.19441
+369,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,H,,,36,A,979,764,15000000,2020-06-29,2009-12-18,9000000,66.67,22.394567,114.1991585
+370,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 5,1995-09-13,L,3,,15,D,822,676,10200000,2020-06-24,2012-04-17,6167000,65.4,22.400409,114.202526
+371,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,M,,,29,C,717,555,9080000,2020-06-24,2008-06-10,5921000,53.35,22.3942285,114.1989205
+372,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block B,2006-01-12,H,2,,25,E,721,577,8900000,2020-06-23,2005-01-08,4537200,96.16,22.401263999999998,114.194219
+373,New Territories,Sha Tin,Kau To Shan / Fotan,Sha Tin 33,Oriental Heights (Block 1),1984-04-25,L,,,2,B,1900,1492,17090000,2020-06-23,2009-03-27,8350000,104.67,22.395611,114.1915634
+374,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-14,H,3,,19,B,0,983,15280000,2020-06-22,,0,0.0,22.413954999999998,114.198637
+375,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 6,2008-12-12,H,,,50,A,1167,908,17500000,2020-06-22,2012-09-10,12380000,41.36,22.3949355,114.1993475
+376,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 5,1995-09-13,L,3,,8,D,822,676,9000000,2020-06-22,2014-01-07,6500000,38.46,22.400409,114.202526
+377,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 7,1995-09-13,H,3,,36,B,1128,958,13850000,2020-06-19,2010-07-12,7200000,92.36,22.4000129,114.2015765
+378,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,H,3,,38,G,1127,974,13980000,2020-06-19,2009-11-06,7100000,96.9,22.4010816,114.2021856
+379,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 2,1995-09-13,H,3,2,29,D,822,676,10000000,2020-06-18,2011-02-21,5630000,77.62,22.4018169,114.2034486
+380,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,L,3,,2,A,0,930,11700000,2020-06-17,2015-11-17,13115700,-10.790000000000001,22.413321999999997,114.200015
+381,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,M,2,,12,F,0,681,7500000,2020-06-17,2014-12-10,7773300,-3.52,22.413346999999998,114.200305
+382,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 7,2018-08-27,L,4,,3,A,0,1563,31525000,2020-06-17,,0,0.0,22.412003,114.20018999999999
+383,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 3,2017-06-21,H,4,,9,C,0,1602,39500000,2020-06-16,,0,0.0,22.413269,114.201706
+384,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block C,1985-06-12,L,3,,1,4,687,537,6100000,2020-06-16,2012-03-26,3030000,101.32000000000001,22.3937625,114.1924369
+385,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,M,3,,26,G,1127,974,13330000,2020-06-16,1996-07-26,6415900,107.77,22.4010816,114.2021856
+386,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block E,2006-01-12,H,3,,22,A,1160,905,14150000,2020-06-15,2007-11-13,7830000,80.72,22.4007,114.193739
+387,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,House Sommet 6,2017-04-26,,,,,,0,3749,160800000,2020-06-14,,0,0.0,22.415240999999998,114.20056
+388,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-12,L,2,2,7,9,537,471,4700000,2020-06-12,2006-12-30,795000,491.19,22.392391,114.193324
+389,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,L,2,2,11,12,520,457,4750000,2020-06-11,,0,0.0,22.392391,114.193324
+390,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,M,1,,9,C,0,466,6900000,2020-06-11,2015-01-02,6790700,1.61,22.413346999999998,114.200305
+391,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,H,1,,17,C,0,466,7190000,2020-06-10,2015-06-10,7529800,-4.51,22.413321999999997,114.200015
+392,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-17,M,3,2,19,11,703,617,6000000,2020-06-09,2003-04-28,830000,622.89,22.393952,114.194462
+393,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,L,2,2,10,1,538,473,4000000,2020-06-09,,0,0.0,22.392391,114.193324
+394,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,H,2,2,31,2,626,550,6080000,2020-06-09,2014-04-03,3650000,66.58,22.393645,114.194073
+395,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 7,1995-09-13,H,3,,38,D,1236,1041,12000000,2020-06-09,2003-02-11,4300000,179.07,22.4000129,114.2015765
+396,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-14,M,2,,15,D,0,657,9500000,2020-06-07,2014-11-30,8434100,12.64,22.413573,114.199231
+397,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 9,2008-12-12,L,,,8,A,2379,1845,30000000,2020-06-05,2010-12-03,24350000,23.2,22.395554999999998,114.1993045
+398,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block E,2006-01-12,M,2,,18,D,738,586,8000000,2020-06-05,2005-01-10,4413800,81.25,22.4007,114.193739
+399,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,M,3,,20,G,1127,974,13800000,2020-06-05,,0,0.0,22.4017194,114.2027866
+400,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,M,2,2,20,9,537,471,4620000,2020-06-04,,0,0.0,22.392712,114.19378
+401,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-14,M,3,,11,B,0,953,13698000,2020-06-04,2015-06-10,16085700,-14.84,22.413071,114.199376
+402,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,M,3,,29,F,1127,974,14100000,2020-06-04,2007-12-27,7000000,101.43,22.4010816,114.2021856
+403,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 24,1987-08-12,H,3,,7,B,0,882,11600000,2020-06-04,2010-03-05,5950000,94.96000000000001,22.3916634,114.1868716
+404,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,Tower 3,2018-03-18,,4,,5,B,0,2100,81992000,2020-06-02,,0,0.0,,
+405,New Territories,Sha Tin,Kau To Shan / Fotan,Hill Lodge,Hill Lodge,1982-02-15,H,,,15,,2478,2029,23280000,2020-06-02,2006-09-05,8380000,177.8,22.402058,114.19574
+406,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-14,M,3,,16,E,0,964,15800000,2020-06-01,2015-09-22,12952700,21.98,22.414033,114.198361
+407,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,House 1,2017-07-17,,4,,,,0,2765,79000000,2020-06-01,,0,0.0,22.415748999999998,114.19987
+408,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,M,,,28,C,717,554,9180000,2020-06-01,2008-06-05,4910000,86.97,22.3947435,114.19925
+409,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block B,2006-01-12,L,2,,8,E,721,577,8400000,2020-06-01,2011-06-08,5350000,57.01,22.401263999999998,114.194219
+410,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 22,1987-08-12,,3,,1,A,0,882,9900000,2020-05-29,1996-09-12,5218000,89.73,22.3916775,114.1874235
+411,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,House 10,2017-06-21,,4,,,,0,2721,75020000,2020-05-29,,0,0.0,22.412986999999998,114.20197999999999
+412,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,M,,,19,B,985,769,13500000,2020-05-28,2008-06-02,7587000,77.94,22.394567,114.1991585
+413,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,L,2,,2,F,0,682,8400000,2020-05-28,2014-12-10,7355900,14.19,22.413346999999998,114.200305
+414,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,H,2,2,34,12,520,457,3800000,2020-05-27,2004-06-10,820000,363.41,22.393645,114.194073
+415,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block D,1985-06-12,L,2,,5,2,522,408,5730000,2020-05-27,2010-06-30,2060000,178.16,22.3935545,114.192546
+416,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,L,,,15,D,717,556,8600000,2020-05-27,2014-10-14,6480000,32.72,22.3942285,114.1989205
+417,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,L,1,,3,C,0,466,6750000,2020-05-26,2015-01-02,6373400,5.91,22.413346999999998,114.200305
+418,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,M,3,,30,G,1127,974,13380000,2020-05-26,2007-12-20,6000000,123.0,22.4010816,114.2021856
+419,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block B,1985-06-12,H,3,,22,3,687,537,8000000,2020-05-26,2008-07-29,2600000,207.69,22.393981999999998,114.192335
+420,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 9,2008-12-12,H,,,63,A,4178,3062,80000000,2020-05-26,,0,0.0,22.395554999999998,114.1993045
+421,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,House 5,2018-08-26,,4,,,,0,2741,78907400,2020-05-25,,0,0.0,22.412300000000002,114.20006
+422,New Territories,Sha Tin,Kau To Shan / Fotan,Windsor Heights,House 21,1996-12-06,,,,,,0,2107,58700000,2020-05-24,1998-11-03,12870000,356.1,22.408901,114.20604
+423,New Territories,Sha Tin,Kau To Shan / Fotan,Windsor Heights,House 22,1996-12-06,,,,,,0,2107,60400000,2020-05-24,1998-11-03,12870000,369.31,22.40898,114.20618
+424,New Territories,Sha Tin,Kau To Shan / Fotan,Windsor Heights,House 81,1996-12-06,,,,,,0,2107,63000000,2020-05-24,1998-11-03,12870000,389.51,22.409520999999998,114.20456
+425,New Territories,Sha Tin,Kau To Shan / Fotan,Windsor Heights,House 82,1996-12-06,,,,,,0,2107,60100000,2020-05-24,1998-11-03,12870000,366.98,22.409481,114.20459
+426,New Territories,Sha Tin,Kau To Shan / Fotan,Windsor Heights,House 20,1996-12-06,,,,,,0,2107,58600000,2020-05-24,1998-11-03,12870000,355.32,22.408901,114.20598
+427,New Territories,Sha Tin,Kau To Shan / Fotan,Windsor Heights,House 85,1996-12-06,,,,,,0,2107,59200000,2020-05-24,1998-11-03,12870000,359.98,22.409371999999998,114.20467
+428,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-14,H,3,,17,G,0,990,12900000,2020-05-21,2015-11-11,14191800,-9.1,22.413321999999997,114.200015
+429,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,H,,,52,C,717,554,9280000,2020-05-20,2008-06-05,5316000,74.57000000000001,22.3947435,114.19925
+430,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 8,2018-08-26,M,,,6,A,0,1562,35706000,2020-05-19,,0,0.0,22.412457999999997,114.19995
+431,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-18,M,2,2,22,2,626,550,5450000,2020-05-19,1999-03-16,1500000,263.33,22.391341,114.193112
+432,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 8,2018-08-27,L,,,3,A,0,1562,32460000,2020-05-19,,0,0.0,22.412457999999997,114.19995
+433,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,M,,,21,D,717,555,8600000,2020-05-18,2013-05-28,6200000,38.71,22.3943906,114.19904700000001
+434,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block D,1985-06-12,H,3,,16,3,687,537,7050000,2020-05-18,2012-04-02,3250000,116.92,22.3935545,114.192546
+435,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block B,2006-01-12,M,3,,17,C,970,753,11000000,2020-05-18,2007-01-18,5600000,96.43,22.401263999999998,114.194219
+436,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 6,2008-12-12,L,,,5,C,897,699,9000000,2020-05-15,2012-11-16,7070000,27.3,22.3949355,114.1993475
+437,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 25,2019-11-29,,,,,,0,4310,123266000,2020-05-15,,0,0.0,22.41168,114.20158
+438,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,H,2,2,27,10,468,411,4500000,2020-05-14,2016-11-20,3400000,32.35,22.393088,114.193415
+439,New Territories,Sha Tin,Kau To Shan / Fotan,Sha Tin 33,Rhine Heights (Block 4),1983-05-16,H,3,,19,A,1676,1296,16000000,2020-05-14,2014-06-23,12030000,33.0,22.394781,114.1919314
+440,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,,3,,18,E,0,1011,13000000,2020-05-13,2014-12-12,11877300,9.450000000000001,22.413346999999998,114.200305
+441,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-14,L,3,,6,A,0,963,12000000,2020-05-12,2014-12-03,12859900,-6.69,22.413787,114.19907
+442,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,M,1,,11,H,0,450,6580000,2020-05-12,2014-12-11,6060400,8.57,22.413321999999997,114.200015
+443,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 58,2019-11-29,,,,,,0,5336,149408000,2020-05-11,,0,0.0,22.41211,114.20187
+444,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,House 8,2018-08-26,,4,,,,0,2216,58800000,2020-05-10,,0,0.0,22.412300000000002,114.20006
+445,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 1,1995-09-13,H,3,,31,C,1128,958,12988000,2020-05-08,2015-03-09,5000000,159.76,22.402196,114.2036654
+446,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block C,2006-01-12,L,3,,7,B,1180,922,13850000,2020-05-07,2011-02-14,8200000,68.9,22.4011044,114.1939205
+447,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,M,2,2,25,10,468,411,4000000,2020-05-06,2016-10-10,1550000,158.06,22.393645,114.194073
+448,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,M,2,2,14,3,537,471,4360000,2020-05-06,2010-06-30,1780000,144.94,22.391341,114.193112
+449,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,House 10,2018-08-26,,4,,,,0,2216,58000000,2020-05-05,,0,0.0,22.412300000000002,114.20006
+450,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 11,2008-12-12,H,,,36,C,686,534,9080000,2020-05-04,2008-06-10,4985000,82.15,22.3960286,114.199348
+451,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block B,2006-01-12,L,2,,10,B,718,568,9200000,2020-05-04,2010-11-15,4950000,85.86,22.401263999999998,114.194219
+452,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 2,1995-09-13,L,3,2,3,A,822,676,9100000,2020-04-29,2017-02-16,7800000,16.67,22.4018169,114.2034486
+453,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block B,2006-01-12,H,2,,22,D,756,602,8650000,2020-04-29,2005-01-07,4634100,86.66,22.401263999999998,114.194219
+454,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,Tower 5,2018-03-19,,4,,5,B,0,1652,64800000,2020-04-28,,0,0.0,,
+455,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,M,2,2,16,10,468,411,1670000,2020-04-26,,0,0.0,22.39164,114.193479
+456,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-14,H,1,,17,B,0,467,7000000,2020-04-23,2015-07-19,7816800,-10.450000000000001,22.413321999999997,114.200015
+457,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,L,2,2,8,8,626,550,5400000,2020-04-23,2012-09-10,2980000,81.21000000000001,22.393952,114.194462
+458,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,L,2,2,4,8,626,550,4750000,2020-04-22,2015-06-04,4200000,13.1,22.393952,114.194462
+459,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 11,2008-12-12,L,,,10,D,648,495,8090000,2020-04-17,2012-09-27,5250000,54.1,22.3960286,114.199348
+460,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House A21,2018-03-19,,4,,,,0,2147,61236000,2020-04-16,,0,0.0,,
+461,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,M,2,2,24,8,626,550,5670000,2020-04-14,,0,0.0,22.393245999999998,114.19441
+462,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block D,1985-06-12,L,2,,4,2,522,408,5488000,2020-04-14,2012-12-28,3280000,67.32000000000001,22.3935545,114.192546
+463,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block C,1985-06-12,H,2,,18,2,522,408,5100000,2020-04-14,2007-08-20,1350000,277.78000000000003,22.3937625,114.1924369
+464,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 27,1987-08-12,,3,,3,A,0,882,10000000,2020-04-09,1996-08-28,5630000,77.62,22.3916185,114.186063
+465,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-14,L,2,,3,D,0,657,8380000,2020-04-08,2014-11-30,8034100,4.3100000000000005,22.413573,114.199231
+466,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 3,2015-06-15,L,3,,1,C,0,967,15600000,2020-04-08,2015-07-03,12677300,23.05,22.413785999999998,114.199326
+467,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block B,2006-01-12,L,3,,7,A,970,753,11880000,2020-04-08,2016-05-20,8700000,36.550000000000004,22.401263999999998,114.194219
+468,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,L,2,2,1,1,538,473,4320000,2020-04-07,1996-10-25,550000,685.45,22.393088,114.193415
+469,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,M,2,2,16,8,626,550,5430000,2020-04-07,,0,0.0,22.393952,114.194462
+470,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-22,M,2,2,25,9,537,471,4550000,2020-04-02,2002-07-03,850000,435.29,22.390997,114.193427
+471,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,M,2,2,21,3,537,471,4968000,2020-04-02,2017-11-12,4235000,17.31,22.393245999999998,114.19441
+472,New Territories,Sha Tin,Kau To Shan / Fotan,Lok Lam Garden,Block C,1985-10-03,,,,2,2,606,530,7500000,2020-04-02,1997-07-03,3950000,89.87,22.401177999999998,114.198703
+473,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-23,M,2,2,20,2,626,550,5700000,2020-04-02,2010-07-13,2250000,153.33,22.390997,114.193427
+474,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block C,2006-01-12,H,3,,25,D,1008,794,10000000,2020-04-02,2016-12-01,10200000,-1.96,22.4011044,114.1939205
+475,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-14,M,3,,10,E,0,964,11750000,2020-04-01,2015-07-12,12538100,-6.29,22.414033,114.198361
+476,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,M,2,2,22,6,537,471,4700000,2020-04-01,2017-02-27,3830000,22.72,22.392712,114.19378
+477,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 11,1996-12-23,H,3,,47,F,0,990,14800000,2020-03-31,2008-08-01,8250000,79.39,22.4020695,114.2030154
+478,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-14,L,3,,6,C,0,951,11480000,2020-03-30,2014-12-01,11996300,-4.3,22.413787,114.19907
+479,New Territories,Sha Tin,Kau To Shan / Fotan,Lok Lam Garden,Block C,1985-10-04,,,,4,2,606,530,8500000,2020-03-27,2006-05-06,2550000,233.33,22.401177999999998,114.198703
+480,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,Tower 5,2018-03-19,,4,,5,A,0,2100,64800000,2020-03-26,,0,0.0,,
+481,New Territories,Sha Tin,Kau To Shan / Fotan,Windsor Park,House C8 ( Phase 1 ),1984-11-13,,4,,,,0,1744,52520000,2020-03-26,,0,0.0,22.407992999999998,114.20692
+482,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 9,1996-12-23,M,3,,26,F,1127,974,12500000,2020-03-24,2009-12-09,7780000,60.67,22.4014314,114.2024154
+483,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 3,1995-09-13,M,2,,26,B,715,594,8800000,2020-03-20,2010-11-02,4780000,84.10000000000001,22.4007665,114.2027535
+484,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-14,M,2,,12,F,0,663,8280000,2020-03-19,2014-11-30,8486300,-2.43,22.413321999999997,114.200015
+485,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block C,1985-06-12,H,3,,17,4,687,537,7080000,2020-03-17,2010-07-07,2820000,151.06,22.3937625,114.1924369
+486,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 11,2008-12-12,H,,,38,C,686,534,9500000,2020-03-16,2011-01-28,5100000,86.27,22.3960286,114.199348
+487,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Vienna,Mount Vienna,2018-02-07,H,4,,7,B,0,2536,88560000,2020-03-10,,0,0.0,22.399659999999997,114.200035
+488,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,H,3,,40,H,1206,1039,14800000,2020-03-05,2013-10-30,11100000,33.33,22.4017194,114.2027866
+489,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,L,2,2,12,3,537,471,4000000,2020-03-04,2019-04-07,4000000,0.0,22.393088,114.193415
+490,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 1,1995-09-13,H,3,,33,C,1128,958,11980000,2020-03-04,2005-04-13,6000000,99.67,22.402196,114.2036654
+491,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 3,1995-09-13,H,3,,36,E,1620,1370,20880000,2020-03-04,1999-10-29,9100000,129.45,22.4007665,114.2027535
+492,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,H,2,2,26,3,537,471,4750000,2020-02-27,2014-09-18,3498000,35.79,22.393088,114.193415
+493,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,M,,,28,C,892,696,11050000,2020-02-27,2008-06-05,6303000,75.31,22.3943906,114.19904700000001
+494,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 11,1996-12-23,L,3,,9,C,1127,974,12880000,2020-02-27,2016-08-22,9700000,32.78,22.4020695,114.2030154
+495,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H36,2018-03-18,,4,,,,0,1921,46921600,2020-02-24,2019-05-09,46904000,0.04,,
+496,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,H,2,2,28,9,537,471,4680000,2020-02-20,1997-07-25,2100000,122.86,22.393952,114.194462
+497,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-27,L,2,2,3,6,537,471,4260000,2020-02-19,2007-02-16,830000,413.25,22.393645,114.194073
+498,New Territories,Sha Tin,Kau To Shan / Fotan,Sha Tin 33,Rhine Heights (Block 4),1983-05-16,H,3,,21,B,1676,1296,14980000,2020-02-19,,0,0.0,22.394781,114.1919314
+499,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,M,2,2,23,12,520,457,4200000,2020-02-17,,0,0.0,22.393088,114.193415
+500,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,M,2,2,21,2,626,550,5828000,2020-02-16,1998-05-12,2250000,159.02,22.393245999999998,114.19441
+501,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,M,2,,16,G,0,665,8400000,2020-02-14,2014-12-17,7886300,6.51,22.413346999999998,114.200305
+502,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block B,1985-06-12,L,3,,3,3,687,537,7100000,2020-02-14,2017-02-21,5200000,36.54,22.393981999999998,114.192335
+503,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 8,2018-08-26,M,,,8,A,0,1623,40730000,2020-02-13,,0,0.0,22.412457999999997,114.19995
+504,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 8,2018-08-27,M,,,7,A,0,1623,36600000,2020-02-13,,0,0.0,22.412457999999997,114.19995
+505,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 8,2018-08-27,M,,,7,B,0,1625,37000000,2020-02-13,,0,0.0,22.412457999999997,114.19995
+506,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,House 12,2018-08-26,,5,,,,0,3655,116960000,2020-02-12,,0,0.0,22.412300000000002,114.20006
+507,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,M,2,,8,D,0,657,8700000,2020-02-11,2014-11-27,8260200,5.32,22.413573,114.199231
+508,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-08-01,M,3,2,24,11,703,617,6000000,2020-02-07,,0,0.0,22.39164,114.193479
+509,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,H,2,2,31,3,537,471,4848000,2020-02-05,2009-10-11,1498000,223.63,22.39164,114.193479
+510,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,M,2,2,23,12,520,457,4200000,2020-02-04,2011-09-29,2080000,101.92,22.393645,114.194073
+511,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,M,2,2,16,4,468,411,4000000,2020-02-03,,0,0.0,22.392391,114.193324
+512,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,L,2,2,4,12,520,457,4300000,2020-02-03,2011-03-01,1750000,145.71,22.39164,114.193479
+513,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,M,2,2,23,1,538,473,4830000,2020-02-03,2016-08-04,1600000,201.88,22.393645,114.194073
+514,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 2,2018-08-27,M,4,,8,A,0,2107,52255000,2020-02-03,,0,0.0,22.411863,114.20032
+515,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,H,3,,38,H,1206,1039,15230000,2020-02-03,1998-10-13,6400000,137.97,22.4017194,114.2027866
+516,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 26,2019-11-29,,,,,,0,4320,116472000,2020-02-03,,0,0.0,22.41162,114.20166
+517,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,Tower 2,2019-11-29,,,,G,C,0,2233,44716000,2020-01-24,,0,0.0,22.41285,114.20119
+518,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block B,1985-06-12,M,2,,11,1,522,408,5300000,2020-01-24,2012-03-19,2280000,132.46,22.393981999999998,114.192335
+519,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 8,2018-08-26,M,,,6,B,0,1625,32562000,2020-01-23,,0,0.0,22.412457999999997,114.19995
+520,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,L,,,10,D,717,556,9000000,2020-01-22,2008-06-05,4446000,102.43,22.3942285,114.1989205
+521,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H3,2018-03-19,,4,,,,0,2083,48475000,2020-01-20,,0,0.0,,
+522,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,L,2,2,5,8,626,550,5180000,2020-01-19,,0,0.0,22.393245999999998,114.19441
+523,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,H,2,2,27,1,538,473,5000000,2020-01-16,,0,0.0,22.392391,114.193324
+524,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,Apex 3,2017-04-26,,4,,5,B,0,1525,34610040,2020-01-14,,0,0.0,22.41525,114.20078
+525,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 3,1995-09-13,L,3,,15,F,1620,1370,18100000,2020-01-13,,0,0.0,22.4007665,114.2027535
+526,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 1,1995-09-13,L,3,,7,B,1128,958,12080000,2020-01-10,,0,0.0,22.402196,114.2036654
+527,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-17,L,2,2,5,1,538,473,4150000,2020-01-09,2016-07-04,3200000,29.69,22.393952,114.194462
+528,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,M,2,2,18,9,537,471,4850000,2020-01-05,2009-02-12,1130000,329.2,22.392391,114.193324
+529,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,M,3,,9,E,0,1011,12300000,2020-01-03,2014-12-03,12043500,2.13,22.413346999999998,114.200305
+530,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-22,H,3,2,33,11,703,617,6330000,2020-01-01,2004-07-18,1438000,340.19,22.390997,114.193427
+531,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-18,H,2,2,28,2,626,550,5450000,2020-01-01,2007-12-17,1510000,260.93,22.391341,114.193112
+532,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,M,,,28,A,992,773,15000000,2019-12-30,2016-11-25,12050000,24.48,22.3947435,114.19925
+533,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-22,L,2,2,10,4,468,411,4300000,2019-12-29,,0,0.0,22.390997,114.193427
+534,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,L,2,2,6,7,538,473,4000000,2019-12-26,2011-02-17,2150000,86.05,22.393088,114.193415
+535,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,M,2,2,17,6,537,471,4650000,2019-12-26,,0,0.0,22.392712,114.19378
+536,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 50,2019-11-29,,,,,,0,10706,268508000,2019-12-24,,0,0.0,22.41182,114.20277
+537,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 51,2019-11-29,,,,,,0,5685,142580000,2019-12-24,,0,0.0,22.41192,114.20292
+538,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 52,2019-11-29,,,,,,0,5697,142881000,2019-12-24,,0,0.0,22.412000000000003,114.20312
+539,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 65,2019-11-29,,,,,,0,8096,203048000,2019-12-24,,0,0.0,22.41216,114.20277
+540,New Territories,Sha Tin,Kau To Shan / Fotan,Monte Villa,House 3,,,,,G,,0,700,7600000,2019-12-23,2013-09-29,5080000,49.61,22.40864,114.20433
+541,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 31,2019-11-29,,,,,,0,4039,101299000,2019-12-20,,0,0.0,22.41162,114.20226
+542,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 38,2019-11-29,,,,,,0,2710,67968000,2019-12-20,,0,0.0,22.41187,114.20223
+543,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,L,3,,3,H,1206,1039,11600000,2019-12-20,,0,0.0,22.4017194,114.2027866
+544,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,H,,,56,D,0,556,10000000,2019-12-20,2014-08-28,6780000,47.49,22.3942285,114.1989205
+545,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block E,2006-01-12,L,2,,10,C,738,586,9000000,2019-12-19,2010-02-11,4018000,123.99000000000001,22.4007,114.193739
+546,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,Tower 1,2019-11-29,H,,,15,A,0,2784,55750000,2019-12-19,,0,0.0,22.41294,114.20089
+547,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 56,2019-11-29,,,,,,0,5393,135257000,2019-12-19,,0,0.0,22.412139999999997,114.20164
+548,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 73,2019-11-29,,,,,,0,8308,223993000,2019-12-19,,0,0.0,22.412309999999998,114.20240000000001
+549,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 27,2019-11-29,,,,,,0,4315,108221000,2019-12-19,,0,0.0,22.4116,114.20183
+550,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 1,2019-11-29,,,,,,0,2713,68043000,2019-12-19,,0,0.0,22.412209999999998,114.2009
+551,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 29,2019-11-29,,,,,,0,4317,108271000,2019-12-19,,0,0.0,22.411569999999998,114.20204
+552,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 28,2019-11-29,,,,,,0,4326,108497000,2019-12-19,,0,0.0,22.41159,114.20193
+553,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 63,2019-11-29,,,,,,0,5376,134831000,2019-12-19,,0,0.0,22.41208,114.2026
+554,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,Tower 2,2019-11-29,H,,,15,C,0,2984,59755000,2019-12-19,,0,0.0,22.41285,114.20119
+555,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,H,3,,38,D,1206,1039,14280000,2019-12-19,2011-05-13,8400000,70.0,22.4017194,114.2027866
+556,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 30,2019-11-29,,,,,,0,4068,102026000,2019-12-19,,0,0.0,22.41163,114.202156
+557,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 10,2008-12-12,H,,,50,D,996,761,13300000,2019-12-18,2008-06-04,7806000,70.38,22.3958056,114.199187
+558,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 62,2019-11-29,,,,,,0,10727,269034000,2019-12-18,,0,0.0,22.412029999999998,114.20247
+559,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 55,2019-11-29,,,,,,0,5976,149879000,2019-12-18,,0,0.0,22.411972,114.20360000000001
+560,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 11,1996-12-23,L,3,,3,D,1206,1039,11000000,2019-12-17,1997-06-27,10000000,10.0,22.4020695,114.2030154
+561,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 72,2019-11-29,,,,,,0,4103,102904000,2019-12-17,,0,0.0,22.412326999999998,114.202225
+562,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,L,2,2,6,8,626,550,4500000,2019-12-16,2010-08-01,1920000,134.38,22.393645,114.194073
+563,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,L,,,15,C,888,699,12200000,2019-12-16,2008-06-03,5961000,104.66,22.394567,114.1991585
+564,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 60,2019-11-29,,,,,,0,4307,118147000,2019-12-16,,0,0.0,22.41206,114.20208
+565,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 3,2015-06-14,M,3,,10,A,0,982,15000000,2019-12-15,2014-11-30,12520800,19.8,22.413785999999998,114.199326
+566,New Territories,Sha Tin,Kau To Shan / Fotan,The Cavaridge,House 32,2019-11-29,,,,,,0,2734,73712000,2019-12-13,,0,0.0,22.411900000000003,114.20169
+567,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,L,2,2,2,3,537,471,4500000,2019-12-12,2014-07-08,2980000,51.01,22.393088,114.193415
+568,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block E,2006-01-12,L,2,,12,C,738,586,8700000,2019-12-12,2005-01-08,4307100,101.99000000000001,22.4007,114.193739
+569,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-18,L,2,2,2,2,626,550,4900000,2019-12-11,2015-02-01,4168000,17.56,22.391341,114.193112
+570,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 2,2018-08-27,L,4,,3,A,0,2107,47000000,2019-12-10,,0,0.0,22.411863,114.20032
+571,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-14,M,1,,10,H,0,450,6560000,2019-12-09,2014-12-08,6025600,8.870000000000001,22.413321999999997,114.200015
+572,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 8,2018-08-26,L,,,2,A,0,1623,31000000,2019-12-08,,0,0.0,22.412457999999997,114.19995
+573,New Territories,Sha Tin,Kau To Shan / Fotan,Sha Tin 33,Phenix Heights (Block 2),1984-02-10,M,,,15,A,1900,1492,19250000,2019-12-06,2007-11-13,9480000,103.06,22.3953085,114.191627
+574,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 1,1995-09-13,M,3,,16,D,1236,1041,14550000,2019-12-06,2004-12-07,5780000,151.73,22.402196,114.2036654
+575,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,H,3,,45,B,1126,974,13350000,2019-12-06,2013-01-30,8700000,53.45,22.4017194,114.2027866
+576,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 9,1996-12-23,L,3,,5,F,1127,974,12000000,2019-12-06,2011-12-30,7350000,63.27,22.4014314,114.2024154
+577,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,H,3,,17,E,0,1011,12600000,2019-12-03,2014-12-11,12487500,0.9,22.413346999999998,114.200305
+578,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block C,1985-06-12,H,2,,22,1,522,408,5580000,2019-12-03,2013-07-26,3430000,62.68,22.3937625,114.1924369
+579,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,M,,,28,B,985,769,15550000,2019-12-02,2015-09-07,11880000,30.89,22.394567,114.1991585
+580,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,L,,,15,C,892,696,10800000,2019-12-02,2010-02-04,6200000,74.19,22.3943906,114.19904700000001
+581,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,M,2,2,16,7,538,473,5010000,2019-11-29,,0,0.0,22.393952,114.194462
+582,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block B,2006-01-12,H,2,,27,B,718,568,10000000,2019-11-29,2010-02-01,4948000,102.10000000000001,22.401263999999998,114.194219
+583,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block C,2006-01-12,H,3,,22,A,1180,922,14300000,2019-11-27,2004-12-31,8968000,59.46,22.4011044,114.1939205
+584,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,L,2,2,2,2,626,550,4800000,2019-11-24,2012-03-05,2300000,108.7,22.393245999999998,114.19441
+585,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 11,2008-12-12,L,,,7,C,686,534,9500000,2019-11-22,2015-12-22,6850000,38.69,22.3960286,114.199348
+586,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,L,2,2,12,8,626,550,5450000,2019-11-21,2015-03-09,4000000,36.25,22.391341,114.193112
+587,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 3,2017-06-21,M,3,,8,B,0,1554,39980000,2019-11-19,,0,0.0,22.413269,114.201706
+588,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,L,3,2,7,11,703,617,6168000,2019-11-18,2015-06-23,4300000,43.44,22.393088,114.193415
+589,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 8,2008-12-12,M,,,28,B,1835,1426,25500000,2019-11-15,2011-01-21,21330000,19.55,22.3953296,114.1993955
+590,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,M,2,2,21,12,520,457,4300000,2019-11-14,2016-08-03,3180000,35.22,22.393645,114.194073
+591,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block B,1985-06-12,M,2,,12,1,522,408,5500000,2019-11-14,2009-09-17,1828000,200.88,22.393981999999998,114.192335
+592,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,L,2,2,2,8,626,550,5128000,2019-11-13,2016-10-24,3850000,33.19,22.393952,114.194462
+593,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,H,2,2,28,3,537,471,4750000,2019-11-10,,0,0.0,22.393088,114.193415
+594,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 29,1987-08-12,M,3,,6,B,0,1381,21000000,2019-11-08,2014-04-10,14200000,47.89,22.3915096,114.1855626
+595,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,L,2,2,9,7,538,473,5100000,2019-11-07,2010-11-22,2000000,155.0,22.392712,114.19378
+596,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,L,2,2,5,6,537,471,4600000,2019-11-07,,0,0.0,22.393245999999998,114.19441
+597,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,M,2,2,17,12,520,457,4080000,2019-11-06,,0,0.0,22.39164,114.193479
+598,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,Apex 2,2017-04-26,,3,,3,A,0,990,18800000,2019-11-04,,0,0.0,22.415112999999998,114.20100000000001
+599,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,H,,,36,C,888,689,12000000,2019-11-01,2013-06-19,8160000,47.06,22.394567,114.1991585
+600,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,M,2,2,22,6,537,471,4680000,2019-11-01,2007-03-21,1185000,294.94,22.393952,114.194462
+601,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 8,2018-08-26,L,,,2,B,0,1625,31500000,2019-10-30,,0,0.0,22.412457999999997,114.19995
+602,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 8,2018-08-26,M,,,8,B,0,1625,40000000,2019-10-28,,0,0.0,22.412457999999997,114.19995
+603,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block D,2006-01-12,M,3,,20,B,1180,922,14500000,2019-10-28,2005-01-05,8862900,63.6,22.4009134,114.1937644
+604,New Territories,Sha Tin,Kau To Shan / Fotan,Ficus Garden,Ficus Garden,1991-02-28,L,3,,2,G,1070,935,11300000,2019-10-27,2009-06-09,4380000,157.99,22.398577,114.19979000000001
+605,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 8,2018-08-26,L,,,1,B,0,1625,30000000,2019-10-27,,0,0.0,22.412457999999997,114.19995
+606,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,H,3,2,31,11,703,617,5790000,2019-10-24,2014-03-18,1900000,204.74,22.392391,114.193324
+607,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,M,2,2,22,2,626,550,5600000,2019-10-24,2010-02-02,2130000,162.91,22.392391,114.193324
+608,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,M,2,2,25,7,538,473,3800000,2019-10-22,,0,0.0,22.392712,114.19378
+609,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 27,1987-08-12,,3,,2,B,0,882,11720000,2019-10-22,2016-10-27,9600000,22.080000000000002,22.3916185,114.186063
+610,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 11,2008-12-12,L,,,17,A,1290,1006,20200000,2019-10-22,2015-06-29,14200000,42.25,22.3960286,114.199348
+611,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 8,2018-08-26,L,,,3,B,0,1625,33000000,2019-10-20,,0,0.0,22.412457999999997,114.19995
+612,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block E,2006-01-12,H,3,,25,A,1160,905,13200000,2019-10-17,2010-08-31,8500000,55.29,22.4007,114.193739
+613,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 21,1987-08-12,,,,5,D,0,1143,14000000,2019-10-17,2001-11-27,3480000,302.3,22.391455,114.187649
+614,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,L,2,2,10,12,520,457,4200000,2019-10-16,2011-10-07,1875000,124.0,22.391341,114.193112
+615,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,H,2,2,27,12,520,457,4180000,2019-10-15,2014-04-04,2980000,40.27,22.391341,114.193112
+616,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,H,,,51,B,985,769,15580000,2019-10-09,2011-10-10,9850000,58.17,22.394567,114.1991585
+617,New Territories,Sha Tin,Kau To Shan / Fotan,Kam On Garden,Block A,1984-06-11,,,,,,0,2541,178000000,2019-10-08,,0,0.0,,
+618,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,M,2,2,13,7,538,473,4000000,2019-10-08,,0,0.0,22.393245999999998,114.19441
+619,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block C,1985-06-12,M,3,,11,4,687,537,6000000,2019-10-04,2002-11-09,1430000,319.58,22.3937625,114.1924369
+620,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block A,1984-01-04,L,3,,7,1,1727,1370,11000000,2019-10-02,,0,0.0,22.394175,114.192071
+621,New Territories,Sha Tin,Kau To Shan / Fotan,Evergreen Garden,House 5,1984-03-12,,,,,,0,1610,30000000,2019-10-01,2018-01-29,39380000,-23.82,,
+622,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,H,2,2,34,12,520,457,4360000,2019-09-25,2014-06-23,3000000,45.33,22.393088,114.193415
+623,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,L,2,2,5,10,468,411,3900000,2019-09-25,2002-05-09,330000,1081.82,22.391341,114.193112
+624,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 8,2008-12-12,L,,,5,A,1815,1409,27100000,2019-09-23,2008-06-04,22279000,21.64,22.3953296,114.1993955
+625,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,M,2,2,25,3,537,471,4650000,2019-09-22,2007-11-28,1252800,271.17,22.39164,114.193479
+626,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 20,1987-08-12,,,,3,C,0,1143,11000000,2019-09-20,,0,0.0,22.3912101,114.1876916
+627,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 9,1996-12-23,L,3,,8,B,1127,974,13000000,2019-09-20,2016-03-15,9080000,43.17,22.4014314,114.2024154
+628,New Territories,Sha Tin,Kau To Shan / Fotan,Windsor Heights,House 28,1996-12-06,,,,,,0,3031,30000000,2019-09-04,1999-11-29,32000000,-6.25,22.40934,114.20603
+629,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-14,H,3,,17,C,0,952,16000000,2019-09-03,2014-11-30,12783500,25.16,22.413787,114.19907
+630,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,,2,2,G,6,537,471,4000000,2019-09-03,2016-05-08,3600000,11.11,22.393245999999998,114.19441
+631,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 2,1995-09-13,L,3,2,8,A,822,676,9000000,2019-09-02,1999-02-26,3920000,129.59,22.4018169,114.2034486
+632,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,Tower 5,2018-03-19,,4,,2,B,0,1614,40640520,2019-08-30,,0,0.0,,
+633,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,M,,,30,D,717,556,9000000,2019-08-29,2009-08-05,4800000,87.5,22.3942285,114.1989205
+634,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,L,2,2,2,6,537,471,4100000,2019-08-28,,0,0.0,22.392712,114.19378
+635,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,House 8,2017-06-21,,4,,,,0,2715,86368800,2019-08-28,,0,0.0,22.412857,114.20215
+636,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,H,2,2,27,4,468,411,4600000,2019-08-25,2014-02-24,2950000,55.93,22.392391,114.193324
+637,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,H,3,2,27,5,703,617,7780000,2019-08-25,2014-02-19,4000000,94.5,22.392391,114.193324
+638,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 6,2008-12-12,M,,,31,B,1146,891,17500000,2019-08-22,2016-04-01,12380000,41.36,22.3949355,114.1993475
+639,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,M,2,,15,E,0,693,9950000,2019-08-21,2014-12-01,8877500,12.08,22.413573,114.199231
+640,New Territories,Sha Tin,Kau To Shan / Fotan,Pine Villa,Block G,1985-08-11,,3,,2,1,0,1111,13520000,2019-08-19,,0,0.0,22.400776,114.198292
+641,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,L,2,2,7,9,537,471,4450000,2019-08-19,2012-10-25,1560000,185.26,22.392712,114.19378
+642,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,L,3,,15,G,1127,974,14800000,2019-08-16,2009-01-19,5618000,163.44,22.4017194,114.2027866
+643,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,M,3,,25,G,1127,974,12000000,2019-08-16,,0,0.0,22.4017194,114.2027866
+644,New Territories,Sha Tin,Kau To Shan / Fotan,Mountainville Court,Mountainville Court,1983-02-11,L,3,,2,B,0,1118,13880000,2019-08-14,2000-12-09,3700000,275.14,22.401995,114.19668
+645,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,M,2,2,14,6,537,471,4680000,2019-08-13,,0,0.0,22.392712,114.19378
+646,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,L,2,2,6,12,520,457,4320000,2019-08-12,2014-06-02,2660000,62.410000000000004,22.393645,114.194073
+647,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,M,,,33,A,979,764,15700000,2019-08-09,2014-10-20,10400000,50.96,22.394567,114.1991585
+648,New Territories,Sha Tin,Kau To Shan / Fotan,Rosary Villas,Block 2,1984-08-30,,,,4,,1665,1431,18500000,2019-08-08,2001-04-10,5088000,263.6,22.399179,114.1990896
+649,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,House 6,2017-06-20,,4,,,,0,2738,88534300,2019-08-08,,0,0.0,22.412872,114.20224999999999
+650,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,M,2,2,21,3,537,471,4918000,2019-08-08,2005-12-08,1000000,391.8,22.393645,114.194073
+651,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,H,2,2,26,10,468,411,4550000,2019-08-07,2005-07-22,885000,414.12,22.393952,114.194462
+652,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,M,2,2,18,3,537,471,5050000,2019-08-05,,0,0.0,22.393952,114.194462
+653,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-12,M,2,2,23,8,626,550,4800000,2019-08-02,,0,0.0,22.392712,114.19378
+654,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 8,2018-08-27,,,,G,B,0,1575,49612500,2019-08-01,,0,0.0,22.412457999999997,114.19995
+655,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,L,2,2,12,10,468,411,4700000,2019-07-29,2012-02-29,1780000,164.04,22.393088,114.193415
+656,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H33,2018-03-18,,4,,,,0,2105,54820000,2019-07-29,,0,0.0,22.413912,114.20276
+657,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 1,1995-09-13,M,3,,19,D,1236,1041,13000000,2019-07-29,2015-02-17,10000000,30.0,22.402196,114.2036654
+658,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 10,2008-12-12,M,,,25,C,993,776,12000000,2019-07-26,2008-06-03,6568000,82.7,22.3958056,114.199187
+659,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block D,1985-06-12,M,2,,11,1,522,408,6000000,2019-07-25,,0,0.0,22.3935545,114.192546
+660,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 32,1987-08-12,M,3,,6,B,0,1381,21600000,2019-07-25,,0,0.0,22.3909545,114.1851684
+661,New Territories,Sha Tin,Kau To Shan / Fotan,Sha Tin 33,Oriental Heights (Block 1),1984-04-25,M,,,16,B,1900,1492,18280000,2019-07-23,1999-01-22,7110000,157.1,22.395611,114.1915634
+662,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 9,2008-12-12,H,,,63,B,3401,2498,76000000,2019-07-23,,0,0.0,22.395554999999998,114.1993045
+663,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,H,,,38,B,979,764,12000000,2019-07-22,2008-06-06,9790000,22.57,22.3947435,114.19925
+664,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,H,,,38,A,992,773,12000000,2019-07-22,2008-06-06,9920000,20.97,22.3947435,114.19925
+665,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,M,2,2,22,8,626,550,6000000,2019-07-19,2007-03-09,1400000,328.57,22.391341,114.193112
+666,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,H,,,52,B,1276,996,21600000,2019-07-18,2014-11-17,13700000,57.660000000000004,22.3943906,114.19904700000001
+667,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,H,2,2,33,12,520,457,4330000,2019-07-17,2009-11-24,1423000,204.29,22.392712,114.19378
+668,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,L,2,,2,H,0,662,8500000,2019-07-17,2014-12-04,7103800,19.650000000000002,22.413346999999998,114.200305
+669,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 9,1987-08-12,,,,,,0,1692,21000000,2019-07-16,,0,0.0,22.390427,114.187096
+670,New Territories,Sha Tin,Kau To Shan / Fotan,Monte Villa,House 14,,,,,1,,0,700,5000000,2019-07-15,,0,0.0,22.408732999999998,114.20393
+671,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block B,1985-06-12,L,3,,7,3,687,537,7500000,2019-07-15,2010-08-05,2800000,167.86,22.393981999999998,114.192335
+672,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 5,1995-09-13,M,3,,29,E,1620,1370,18200000,2019-07-12,1996-12-09,12500000,45.6,22.400409,114.202526
+673,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,H,,,50,C,892,696,12880000,2019-07-11,2009-10-09,7066000,82.28,22.3943906,114.19904700000001
+674,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,L,,,17,A,1402,1086,18700000,2019-07-10,2009-11-24,10838000,72.54,22.3942285,114.1989205
+675,New Territories,Sha Tin,Kau To Shan / Fotan,Greenery Villas,Block 19,1986-05-21,,,,,,0,1916,27500000,2019-07-09,2012-12-11,42680000,-35.57,,
+676,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,H,3,,47,G,1129,990,13000000,2019-07-09,2012-03-27,8480000,53.300000000000004,22.4010816,114.2021856
+677,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 7,2008-12-12,L,,,6,A,1300,1012,17800000,2019-07-05,2012-02-20,9700000,83.51,22.3951155,114.1994216
+678,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 3,2015-06-15,,,,G,A,0,2143,44000000,2019-07-05,,0,0.0,22.413294,114.199334
+679,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 1,2018-08-26,,4,,11,,0,2659,112000000,2019-07-04,,0,0.0,22.412300000000002,114.20006
+680,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,M,2,2,15,10,468,411,4200000,2019-07-04,,0,0.0,22.393645,114.194073
+681,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,M,,,19,A,979,764,13000000,2019-07-04,2009-04-30,5800000,124.14,22.394567,114.1991585
+682,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 1,1995-09-13,M,3,,25,F,1628,1373,22000000,2019-07-04,2018-05-07,19600000,12.24,22.402196,114.2036654
+683,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-17,,3,2,36,11,703,617,6380000,2019-07-03,,0,0.0,22.393952,114.194462
+684,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,M,2,2,23,4,468,411,4000000,2019-07-02,2007-03-20,870000,359.77,22.392391,114.193324
+685,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 27,1987-08-12,,3,,5,A,0,882,9000000,2019-07-02,,0,0.0,22.3916185,114.186063
+686,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,H,2,2,31,9,537,471,5000000,2019-07-02,2010-10-07,1668000,199.76,22.393952,114.194462
+687,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,L,2,2,9,12,520,457,4438000,2019-06-27,2005-08-29,800000,454.75,22.393088,114.193415
+688,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-27,L,3,2,5,5,703,617,6000000,2019-06-27,,0,0.0,22.393645,114.194073
+689,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 7,2018-08-26,H,4,,11,,0,2430,99800000,2019-06-26,,0,0.0,22.412003,114.20018999999999
+690,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 3,2018-08-27,,4,,G,B,0,2255,72160000,2019-06-25,,0,0.0,22.411963,114.20032
+691,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,L,2,2,5,3,537,471,4810000,2019-06-25,2016-04-08,3300000,45.76,22.391341,114.193112
+692,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,L,2,2,11,8,626,550,6000000,2019-06-20,2013-03-26,3000000,100.0,22.39164,114.193479
+693,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,H,2,2,28,3,537,471,4800000,2019-06-19,2011-05-19,2180000,120.18,22.393245999999998,114.19441
+694,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,Tower 2,2018-03-19,,4,,5,B,0,2172,78000000,2019-06-19,,0,0.0,,
+695,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,Tower 5,2018-03-19,,4,,2,A,0,1572,41964000,2019-06-18,,0,0.0,,
+696,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-08-01,H,3,2,35,11,703,617,6550000,2019-06-17,2013-01-11,4000000,63.75,22.39164,114.193479
+697,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,M,3,,20,B,1127,974,13000000,2019-06-14,1996-07-26,6123600,112.29,22.4010816,114.2021856
+698,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,H,,,35,A,992,773,14000000,2019-06-14,2013-02-27,9780000,43.15,22.3947435,114.19925
+699,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,M,2,2,15,1,538,473,4000000,2019-06-13,2018-01-03,4000000,0.0,22.393245999999998,114.19441
+700,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block C,1985-06-12,H,3,,22,4,687,537,7218000,2019-06-13,2013-07-26,4520000,59.69,22.3937625,114.1924369
+701,New Territories,Sha Tin,Kau To Shan / Fotan,Shatin Knoll,House 25,1983-08-07,,,,,,0,1696,53900000,2019-06-12,2011-11-06,34000000,58.53,22.409457999999997,114.20872
+702,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 8,2008-12-12,H,,,62,C,1197,940,17380000,2019-06-12,2010-08-30,9733000,78.57000000000001,22.3953296,114.1993955
+703,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block B,1985-06-12,L,2,,2,1,522,408,6000000,2019-06-12,,0,0.0,22.393981999999998,114.192335
+704,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 8,2008-12-12,H,,,51,A,1815,1409,29500000,2019-06-10,2011-06-09,23750000,24.21,22.3953296,114.1993955
+705,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,H,2,2,34,12,520,457,4000000,2019-06-05,,0,0.0,22.392712,114.19378
+706,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-22,M,2,2,13,4,468,411,4600000,2019-06-05,2016-05-11,3180000,44.65,22.390997,114.193427
+707,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,M,2,2,22,7,538,473,5000000,2019-06-05,1999-01-15,1200000,316.67,22.393645,114.194073
+708,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,M,2,2,20,6,537,471,4500000,2019-06-05,2007-06-26,1180000,281.36,22.392712,114.19378
+709,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H29,2018-03-18,,4,,,,0,2222,57549000,2019-06-04,,0,0.0,,
+710,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,L,2,2,2,2,626,550,4500000,2019-06-04,2010-07-25,1920000,134.38,22.392712,114.19378
+711,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,Tower 1,2018-03-19,,3,,6,,0,1613,68230000,2019-06-04,,0,0.0,22.414559999999998,114.20176000000001
+712,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 2,2018-08-27,,,,G,B,0,2044,64283800,2019-06-04,,0,0.0,22.411863,114.20032
+713,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,House 33,2017-07-17,,4,,,,0,1724,47237600,2019-06-03,,0,0.0,22.415748999999998,114.19987
+714,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,House 19,2018-08-26,,4,,,,0,3011,93846848,2019-06-02,,0,0.0,22.412300000000002,114.20006
+715,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 11,1996-12-23,L,3,,16,H,1206,1039,14800000,2019-05-31,1996-06-10,6638400,122.95,22.4020695,114.2030154
+716,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 10,2008-12-12,M,,,33,D,996,764,12000000,2019-05-31,2012-04-03,7768000,54.480000000000004,22.3958056,114.199187
+717,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,L,3,,2,C,0,1013,17200000,2019-05-31,2016-03-22,14906400,15.39,22.414033,114.198361
+718,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,H,3,2,32,11,703,617,6000000,2019-05-30,,0,0.0,22.393245999999998,114.19441
+719,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,M,2,2,19,7,538,473,5200000,2019-05-30,2013-02-21,2980000,74.5,22.39164,114.193479
+720,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H28,2018-03-18,,4,,,,0,2222,55106000,2019-05-30,,0,0.0,,
+721,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,L,2,2,10,9,537,471,4700000,2019-05-30,,0,0.0,22.393245999999998,114.19441
+722,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 23,1987-08-12,L,,,2,C,0,1143,16200000,2019-05-30,1998-02-05,7150000,126.57000000000001,22.3917044,114.187123
+723,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,H,2,2,30,10,468,411,4950000,2019-05-30,1999-06-24,600000,725.0,22.393952,114.194462
+724,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-14,H,3,,16,D,0,945,17080000,2019-05-29,2015-03-17,13242400,28.98,22.413176999999997,114.199644
+725,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,House 17,2017-06-20,,4,,,,0,2114,55832200,2019-05-29,,0,0.0,22.413164,114.201546
+726,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 11,2008-12-12,L,,,12,D,648,495,9480000,2019-05-29,2008-06-10,3984000,137.95000000000002,22.3960286,114.199348
+727,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,H,2,2,29,10,468,411,4700000,2019-05-27,2014-06-20,2840000,65.49,22.393952,114.194462
+728,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,H,2,2,33,10,468,411,4630000,2019-05-26,2014-08-31,3080000,50.32,22.393645,114.194073
+729,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 6,2008-12-12,H,,,57,C,897,696,12450000,2019-05-24,2015-05-28,8600000,44.77,22.3949355,114.1993475
+730,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,M,2,2,20,8,626,550,5600000,2019-05-23,,0,0.0,22.393952,114.194462
+731,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block D,2006-01-12,M,3,,15,D,998,777,12000000,2019-05-23,2012-08-29,7280000,64.84,22.4009134,114.1937644
+732,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 3,2015-06-15,H,3,,19,C,0,982,15000000,2019-05-23,2014-12-01,12486000,20.13,22.413785999999998,114.199326
+733,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Regalia,Tower 3,2018-08-27,H,4,,11,,0,2659,111701000,2019-05-23,,0,0.0,22.411963,114.20032
+734,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H59,2018-03-19,,3,,,,0,1791,44507000,2019-05-23,,0,0.0,,
+735,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 3,2015-06-15,H,3,,19,D,0,944,14200000,2019-05-23,2014-12-01,12112100,17.240000000000002,22.413785999999998,114.199326
+736,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,,2,2,G,6,537,471,4450000,2019-05-22,,0,0.0,22.393645,114.194073
+737,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H20,2018-03-18,,4,,,,0,1949,51509600,2019-05-22,,0,0.0,22.413729999999997,114.20218
+738,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H25,2018-03-18,,4,,,,0,2077,51094000,2019-05-22,,0,0.0,,
+739,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H17,2018-03-18,,4,,,,0,2066,49377000,2019-05-22,,0,0.0,22.41371,114.20231
+740,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Vienna,Mount Vienna,2018-02-07,M,4,,5,A,0,1579,37600000,2019-05-22,,0,0.0,22.399659999999997,114.200035
+741,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 8,2008-12-12,L,,,8,C,1197,940,15180000,2019-05-22,2014-10-08,9470000,60.300000000000004,22.3953296,114.1993955
+742,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,H,3,,39,C,1127,974,15000000,2019-05-22,2015-12-16,9800000,53.06,22.4017194,114.2027866
+743,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block D,2006-01-12,L,3,,12,C,1128,875,13500000,2019-05-22,2005-01-03,6429600,109.97,22.4009134,114.1937644
+744,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 8,2008-12-12,L,,,10,C,1197,940,14500000,2019-05-22,2010-10-05,8400000,72.62,22.3953296,114.1993955
+745,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,House 1,2017-06-20,,5,,,,0,3568,146980000,2019-05-20,,0,0.0,22.412733,114.202515
+746,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H16,2018-03-18,,4,,,,0,2078,48800000,2019-05-19,,0,0.0,,
+747,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H30,2018-03-18,,4,,,,0,2222,53773000,2019-05-19,,0,0.0,,
+748,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H23,2018-03-18,,4,,,,0,2100,50400000,2019-05-19,,0,0.0,,
+749,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,M,3,,22,E,1206,1039,15600000,2019-05-17,,0,0.0,22.4017194,114.2027866
+750,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,M,2,2,14,1,538,473,4650000,2019-05-16,2000-10-09,970000,379.38,22.39164,114.193479
+751,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 2,1995-09-13,H,2,2,31,C,715,594,9430000,2019-05-16,2006-03-04,3600000,161.94,22.4018169,114.2034486
+752,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 10,2008-12-12,H,,,51,A,1575,1227,26800000,2019-05-16,2010-07-28,18155000,47.62,22.3958056,114.199187
+753,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H18,2018-03-19,,4,,,,0,2084,49156000,2019-05-15,,0,0.0,,
+754,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H35,2018-03-18,,4,,,,0,2000,47500000,2019-05-14,,0,0.0,22.41395,114.20233
+755,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 21,1987-08-12,,3,,5,B,0,882,11500000,2019-05-14,2016-05-16,8380000,37.230000000000004,22.391455,114.187649
+756,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H52,2018-03-19,,3,,,,0,1593,39662500,2019-05-10,,0,0.0,,
+757,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H56,2018-03-19,,3,,,,0,1777,43359000,2019-05-10,,0,0.0,,
+758,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H15,2018-03-19,,4,,,,0,1953,49015000,2019-05-10,,0,0.0,,
+759,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H37,2018-03-19,,3,,,,0,1594,40439000,2019-05-10,,0,0.0,,
+760,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,M,1,,11,C,0,466,7280000,2019-05-10,2015-01-02,7316700,-0.5,22.413346999999998,114.200305
+761,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 10,2008-12-12,L,,,17,A,1575,1227,24500000,2019-05-10,2009-10-12,14898000,64.45,22.3958056,114.199187
+762,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H36,2018-03-18,,4,,,,0,1921,46904000,2019-05-09,,0,0.0,,
+763,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 9,1996-12-23,H,3,,36,D,1206,1039,15000000,2019-05-09,1997-05-29,10500000,42.86,22.4014314,114.2024154
+764,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 1,1995-09-13,H,3,,30,E,1628,1373,19000000,2019-05-09,2011-09-07,12800000,48.44,22.402196,114.2036654
+765,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 7,2008-12-12,L,,,6,C,1157,905,13900000,2019-05-09,2008-06-19,7884000,76.31,22.3951155,114.1994216
+766,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-27,M,2,2,19,4,468,411,4600000,2019-05-09,2008-01-24,1308000,251.68,22.393245999999998,114.19441
+767,New Territories,Sha Tin,Kau To Shan / Fotan,Juniper Villa,Block B,1984-09-23,,3,2,2,1,1097,1040,13680000,2019-05-08,2014-10-22,9380000,45.84,22.400917,114.19904700000001
+768,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H60,2018-03-19,,3,,,,0,1637,40817000,2019-05-08,,0,0.0,,
+769,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H50,2018-03-19,,3,,,,0,1643,39186000,2019-05-08,,0,0.0,,
+770,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,L,3,,11,A,1206,1039,15180000,2019-05-08,2014-04-17,9450000,60.63,22.4010816,114.2021856
+771,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,House 12,2017-06-21,,4,,,,0,2114,57600000,2019-05-08,,0,0.0,22.412933,114.20186
+772,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,M,2,2,23,1,538,473,4850000,2019-05-07,2012-04-12,2150000,125.58,22.392712,114.19378
+773,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H51,2018-03-19,,3,,,,0,1673,39734000,2019-05-07,,0,0.0,,
+774,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,M,3,,29,A,1206,1039,15700000,2019-05-07,2010-01-27,7150000,119.58,22.4010816,114.2021856
+775,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H55,2018-03-19,,3,,,,0,1670,39663000,2019-05-06,,0,0.0,,
+776,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H39,2018-03-19,,3,,,,0,1559,38750000,2019-05-06,,0,0.0,22.41384,114.20308
+777,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H38,2018-03-19,,3,,,,0,1635,38668000,2019-05-06,,0,0.0,,
+778,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,H,2,2,30,3,537,471,5020000,2019-05-03,2010-08-04,1850000,171.35,22.391341,114.193112
+779,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,H,3,,40,C,1127,974,14400000,2019-05-03,2013-02-15,9000000,60.0,22.4010816,114.2021856
+780,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,L,,,8,A,1176,913,15380000,2019-05-03,2009-10-28,8430000,82.44,22.3943906,114.19904700000001
+781,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,L,2,2,9,3,537,471,2000000,2019-05-02,2007-01-30,970000,106.19,22.392712,114.19378
+782,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block D,2006-01-12,L,3,,8,A,1180,922,14250000,2019-05-02,2012-08-06,8700000,63.79,22.4009134,114.1937644
+783,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 8,2008-12-12,H,,,50,A,1815,1409,30000000,2019-05-02,2010-04-09,22388000,34.0,22.3953296,114.1993955
+784,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 7,1995-09-13,H,3,,28,D,1236,1041,15080000,2019-05-02,2010-10-19,8250000,82.79,22.4000129,114.2015765
+785,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,L,2,2,12,10,468,411,4000000,2019-05-01,2007-12-12,820000,387.8,22.392391,114.193324
+786,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,H,3,2,28,5,703,617,6600000,2019-05-01,,0,0.0,22.392391,114.193324
+787,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-22,M,2,2,19,6,537,471,4500000,2019-05-01,,0,0.0,22.390997,114.193427
+788,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-27,M,2,2,22,9,537,471,4600000,2019-04-30,2012-09-13,2300000,100.0,22.393645,114.194073
+789,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-22,L,2,2,3,8,626,550,5330000,2019-04-29,1998-11-22,1330000,300.75,22.390997,114.193427
+790,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 6,2008-12-12,H,,,39,C,897,696,12500000,2019-04-26,2008-06-02,6649000,88.0,22.3949355,114.1993475
+791,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 2,1995-09-13,L,2,2,9,C,715,594,9200000,2019-04-26,2013-03-14,6200000,48.39,22.4018169,114.2034486
+792,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 24,1987-08-12,M,,,4,C,0,1143,15950000,2019-04-25,2010-07-26,7500000,112.67,22.3916634,114.1868716
+793,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 5,1995-09-13,L,2,,9,C,715,594,9480000,2019-04-25,2008-11-11,3300000,187.27,22.400409,114.202526
+794,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-27,M,2,2,21,6,537,471,4630000,2019-04-25,2011-07-22,150000,2986.67,22.393645,114.194073
+795,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-23,L,2,2,7,10,468,411,4160000,2019-04-24,2000-10-25,880000,372.73,22.390997,114.193427
+796,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block A,1984-01-04,H,3,,26,2,1241,1008,10000000,2019-04-23,1997-10-28,7738000,29.23,22.394175,114.192071
+797,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-23,L,2,2,4,2,626,550,5470000,2019-04-23,2014-08-04,3600000,51.94,22.390997,114.193427
+798,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,House 2,2017-06-20,,5,,,,0,3564,141686500,2019-04-16,,0,0.0,22.412767,114.20272
+799,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-14,M,3,,8,B,0,952,13600000,2019-04-16,2015-10-27,15841900,-14.15,22.413071,114.199376
+800,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 11,2008-12-12,L,,,9,B,1186,924,16350000,2019-04-16,2013-01-29,11500000,42.17,22.3960286,114.199348
+801,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 7,2008-12-12,M,,,21,C,1156,906,14500000,2019-04-16,2009-06-04,8700000,66.67,22.3951155,114.1994216
+802,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,H,2,2,28,10,468,411,3000000,2019-04-15,2012-08-13,2263000,32.57,22.393245999999998,114.19441
+803,New Territories,Sha Tin,Kau To Shan / Fotan,Cloudview Mansion,Cloudview Mansion,1984-07-17,M,,,8,C,1609,1204,15600000,2019-04-15,,0,0.0,22.401996999999998,114.19639
+804,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,M,2,2,18,8,626,550,5600000,2019-04-15,2000-04-13,1480000,278.38,22.393245999999998,114.19441
+805,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-27,L,3,2,10,5,703,617,6000000,2019-04-12,2008-02-15,2200000,172.73,22.393645,114.194073
+806,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-23,M,2,2,15,1,538,473,4200000,2019-04-12,2011-10-27,2220000,89.19,22.390997,114.193427
+807,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,H,2,2,29,12,520,457,4586000,2019-04-11,2011-07-06,2090000,119.43,22.393645,114.194073
+808,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,M,2,2,18,7,538,473,4500000,2019-04-10,2005-12-12,960000,368.75,22.393245999999998,114.19441
+809,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,L,2,2,11,2,626,550,5900000,2019-04-10,2012-01-26,2700000,118.52,22.392712,114.19378
+810,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,M,2,2,17,12,520,457,4000000,2019-04-10,2005-02-28,860000,365.12,22.392712,114.19378
+811,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,L,3,,7,C,0,1009,13900000,2019-04-09,2015-02-12,13407600,3.67,22.413176999999997,114.199644
+812,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 21,1987-08-12,,,,5,C,0,1143,15650000,2019-04-09,,0,0.0,22.391455,114.187649
+813,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,L,2,2,12,3,537,471,4000000,2019-04-07,2009-03-08,1190000,236.13,22.393088,114.193415
+814,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,H,2,2,27,7,538,473,5020000,2019-04-03,,0,0.0,22.39164,114.193479
+815,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,M,2,2,25,12,520,457,4260000,2019-04-03,2016-03-21,2680000,58.96,22.392712,114.19378
+816,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 2,2017-06-21,H,4,,9,C,0,1596,41522000,2019-04-03,,0,0.0,22.41314,114.20194
+817,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,M,2,2,22,3,537,471,4430000,2019-04-02,,0,0.0,22.393645,114.194073
+818,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,H,2,2,29,3,537,471,4820000,2019-03-28,2007-04-17,1063000,353.43,22.392391,114.193324
+819,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 9,2008-12-12,L,,,16,A,2379,1862,32300000,2019-03-28,2010-03-23,25938000,24.53,22.395554999999998,114.1993045
+820,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,L,,,12,A,992,784,13400000,2019-03-28,2008-06-06,8140000,64.62,22.3947435,114.19925
+821,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 10,2008-12-12,H,,,57,B,1568,1223,22500000,2019-03-26,2011-01-13,18020000,24.86,22.3958056,114.199187
+822,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block E,2006-01-12,M,3,,20,A,1160,905,9500000,2019-03-25,2005-01-11,8298640,14.48,22.4007,114.193739
+823,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block E,2006-01-12,L,2,,7,C,738,586,8600000,2019-03-25,2005-01-08,4082400,110.66,22.4007,114.193739
+824,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 11,2008-12-12,L,,,7,D,648,495,8550000,2019-03-25,2016-01-26,6330000,35.07,22.3960286,114.199348
+825,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,L,2,2,1,7,538,473,4038000,2019-03-22,1997-09-11,2250000,79.47,22.391341,114.193112
+826,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 7,2008-12-12,L,,,9,A,1300,1012,17000000,2019-03-22,2009-07-03,9450000,79.89,22.3951155,114.1994216
+827,New Territories,Sha Tin,Kau To Shan / Fotan,Sha Tin 33,Oriental Heights (Block 1),1984-04-25,L,,,1,B,1900,1492,15000000,2019-03-21,,0,0.0,22.395611,114.1915634
+828,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 6,2008-12-12,L,,,17,B,1146,891,15380000,2019-03-21,2014-06-19,9700000,58.56,22.3949355,114.1993475
+829,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,L,,,9,A,979,764,13000000,2019-03-21,2009-10-08,6500000,100.0,22.394567,114.1991585
+830,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 8,2008-12-12,H,,,63,B,3423,2519,73880000,2019-03-21,,0,0.0,22.3953296,114.1993955
+831,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,M,2,2,20,7,538,473,4759000,2019-03-20,2002-12-20,1000000,375.90000000000003,22.393088,114.193415
+832,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,L,3,,13,H,1206,1039,15000000,2019-03-20,,0,0.0,22.4017194,114.2027866
+833,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,House 18,2017-06-20,,4,,,,0,2607,80000000,2019-03-19,,0,0.0,22.413006,114.201546
+834,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,House 11,2017-06-20,,4,,,,0,2131,60218000,2019-03-19,,0,0.0,22.412962,114.20191
+835,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 7,2008-12-12,L,,,10,C,1157,905,13800000,2019-03-19,2011-10-10,8750000,57.71,22.3951155,114.1994216
+836,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Garden Duplex,2017-06-20,,4,,,,0,3074,80000000,2019-03-17,,0,0.0,22.413214,114.20214
+837,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,H,,,38,C,888,689,11950000,2019-03-15,2018-04-23,12550000,-4.78,22.394567,114.1991585
+838,New Territories,Sha Tin,Kau To Shan / Fotan,Ville De Cascade,Sutherland Court ( C3 ),1988-12-22,H,3,,6,B,0,1076,12800000,2019-03-14,1998-11-25,4165000,207.32,22.3929479,114.1868334
+839,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block C,2006-01-12,M,3,,13,D,1008,794,10500000,2019-03-14,2013-05-31,8000000,31.25,22.4011044,114.1939205
+840,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,L,2,2,12,7,538,473,4800000,2019-03-14,,0,0.0,22.393952,114.194462
+841,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,M,2,2,13,2,626,550,5313000,2019-03-11,2012-06-27,2950000,80.10000000000001,22.393245999999998,114.19441
+842,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 9,1996-12-23,H,3,,45,H,1207,1042,13900000,2019-03-11,2005-04-22,6650000,109.02,22.4014314,114.2024154
+843,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 10,2008-12-12,H,,,51,D,996,762,11968000,2019-03-11,2015-03-02,10000000,19.68,22.3958056,114.199187
+844,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,L,2,2,2,1,538,473,4300000,2019-03-10,,0,0.0,22.392391,114.193324
+845,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,H,3,,47,E,1213,1057,16880000,2019-03-07,2012-06-01,10050000,67.96000000000001,22.4010816,114.2021856
+846,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,L,2,2,1,4,468,411,3830000,2019-03-04,2010-07-29,1370000,179.56,22.39164,114.193479
+847,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-22,M,2,2,23,12,520,457,4180000,2019-03-03,2010-08-15,1360000,207.35,22.390997,114.193427
+848,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,H,,,38,C,717,554,9080000,2019-03-01,2008-06-05,5237000,73.38,22.3947435,114.19925
+849,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House A16,2018-03-19,,4,,,,0,2738,77432400,2019-02-28,,0,0.0,,
+850,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 9,1996-12-23,H,3,,43,F,1127,974,14720000,2019-02-28,2004-02-10,5300000,177.74,22.4014314,114.2024154
+851,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-22,M,2,2,14,7,538,473,4000000,2019-02-25,2017-01-31,4068000,-1.67,22.390997,114.193427
+852,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,M,2,2,24,6,537,471,4300000,2019-02-24,,0,0.0,22.392391,114.193324
+853,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 2,1995-09-13,M,3,2,18,A,822,676,8978000,2019-02-20,2007-04-10,3700000,142.65,22.4018169,114.2034486
+854,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,H,2,2,28,3,537,471,4770000,2019-02-14,1996-08-21,1700000,180.59,22.39164,114.193479
+855,New Territories,Sha Tin,Kau To Shan / Fotan,Ficus Garden,Ficus Garden,1991-03-01,H,3,,12,F,940,822,9000000,2019-02-13,,0,0.0,22.398577,114.19979000000001
+856,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,House 3,2017-06-20,,4,,,,0,2572,93312000,2019-02-03,,0,0.0,22.412717999999998,114.20251
+857,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,House 9,2017-06-21,,4,,,,0,2597,81800000,2019-02-01,,0,0.0,22.412758,114.20206999999999
+858,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,Tower 3,2017-07-18,,4,,2,A,0,1559,40265000,2019-02-01,,0,0.0,22.415748999999998,114.19987
+859,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block A,1984-01-04,L,3,,9,1,1727,1370,12800000,2019-01-31,,0,0.0,22.394175,114.192071
+860,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block C,2006-01-12,M,3,,17,C,1008,790,11520000,2019-01-30,2015-01-12,8830000,30.46,22.4011044,114.1939205
+861,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,M,2,2,15,12,520,457,4160000,2019-01-30,2014-11-10,3000000,38.67,22.391341,114.193112
+862,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 3,1995-09-13,M,3,,27,A,822,676,10000000,2019-01-30,2015-10-30,4230000,136.41,22.4007665,114.2027535
+863,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,L,3,,6,D,1206,1039,11000000,2019-01-25,2006-07-14,5268000,108.81,22.4017194,114.2027866
+864,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 8,2008-12-12,L,,,15,A,1815,1409,27000000,2019-01-25,2016-07-26,19500000,38.46,22.3953296,114.1993955
+865,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,M,2,2,20,4,468,411,4000000,2019-01-23,2010-08-19,1750000,128.57,22.392391,114.193324
+866,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,House 7,2017-06-21,,4,,,,0,2597,82680000,2019-01-23,,0,0.0,22.412817,114.20206999999999
+867,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 2,2017-06-21,H,,,10,B,0,2676,84000000,2019-01-23,,0,0.0,22.41314,114.20194
+868,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,M,1,,12,C,0,466,6638000,2019-01-23,2015-01-02,6921200,-4.09,22.413346999999998,114.200305
+869,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-22,H,3,2,30,11,703,617,5000000,2019-01-21,,0,0.0,22.390997,114.193427
+870,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 6,2008-12-12,M,,,21,A,1167,908,16180000,2019-01-17,2013-08-02,11280000,43.44,22.3949355,114.1993475
+871,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,House 16,2017-06-20,,4,,,,0,2113,56458000,2019-01-15,,0,0.0,22.413,114.20187
+872,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,L,2,2,12,12,520,457,3967500,2019-01-15,,0,0.0,22.393645,114.194073
+873,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 9,1996-12-23,L,3,,12,C,1127,974,11880000,2019-01-14,2004-11-16,4860000,144.44,22.4014314,114.2024154
+874,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,M,2,2,13,9,537,471,3800000,2019-01-10,1998-03-31,1500000,153.33,22.39164,114.193479
+875,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 11,1996-12-23,L,3,,10,B,1127,974,12000000,2019-01-10,2009-12-09,6100000,96.72,22.4020695,114.2030154
+876,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-27,M,2,2,20,4,468,411,4900000,2019-01-10,2015-12-24,3630000,34.99,22.393245999999998,114.19441
+877,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,H,2,2,30,7,538,473,4000000,2019-01-09,2004-07-16,998000,300.8,22.392391,114.193324
+878,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,H,,,36,D,717,555,8000000,2019-01-09,2012-08-08,5880000,36.050000000000004,22.3943906,114.19904700000001
+879,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H11,2018-03-18,,4,,,,0,2066,47828000,2019-01-08,,0,0.0,,
+880,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House A7,2018-03-18,,4,,,,0,3064,86000000,2019-01-08,,0,0.0,,
+881,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,M,2,2,19,3,537,471,4238000,2019-01-07,2014-06-26,3223000,31.490000000000002,22.392712,114.19378
+882,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H12,2018-03-19,,4,,,,0,2083,48743000,2019-01-04,,0,0.0,,
+883,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 6,2008-12-12,L,,,17,C,897,696,10500000,2019-01-03,2009-05-25,5750000,82.61,22.3949355,114.1993475
+884,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H9,2018-03-19,,4,,,,0,2066,46589000,2019-01-03,,0,0.0,,
+885,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,L,,,11,A,1176,927,15000000,2019-01-03,2008-06-06,9519000,57.58,22.3943906,114.19904700000001
+886,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,H,2,2,29,4,468,411,4580000,2019-01-02,2011-03-28,1950000,134.87,22.393088,114.193415
+887,New Territories,Sha Tin,Kau To Shan / Fotan,Ville De Jardin,Block C8,1988-03-07,,,,,,0,1742,23080000,2018-12-27,,0,0.0,22.391265999999998,114.18816
+888,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,M,2,2,20,4,468,411,4500000,2018-12-20,2013-11-19,2800000,60.71,22.393952,114.194462
+889,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 3,2017-06-21,H,3,,10,B,0,1790,58600000,2018-12-19,,0,0.0,22.413269,114.201706
+890,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,L,2,2,6,1,538,473,4500000,2018-12-17,2010-02-17,990000,354.55,22.392712,114.19378
+891,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 9,2008-12-12,H,,,39,C,1200,935,16000000,2018-12-17,2010-04-19,9472000,68.92,22.395554999999998,114.1993045
+892,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,Tower 5,2017-07-17,,4,,2,A,0,1614,41757000,2018-12-16,,0,0.0,22.415748999999998,114.19987
+893,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,L,2,2,4,3,537,471,4150000,2018-12-16,2014-10-12,3260000,27.3,22.393645,114.194073
+894,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,M,2,2,24,12,520,457,5000000,2018-12-13,2016-11-15,3350000,49.25,22.393645,114.194073
+895,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,L,2,2,1,6,537,471,3050000,2018-12-13,1998-03-15,1280000,138.28,22.393245999999998,114.19441
+896,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,Tower 5,2017-07-17,,4,,2,B,0,1611,41800000,2018-12-12,,0,0.0,22.415748999999998,114.19987
+897,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H8,2018-03-18,,4,,,,0,2083,46867500,2018-12-11,,0,0.0,,
+898,New Territories,Sha Tin,Kau To Shan / Fotan,Eden Gardens,Block 2,1984-03-29,H,3,2,18,B,1265,1033,13500000,2018-12-11,2010-04-27,7800000,73.08,22.401394,114.19709
+899,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H1,2018-03-18,,4,,,,0,2144,59400000,2018-12-11,,0,0.0,,
+900,New Territories,Sha Tin,Kau To Shan / Fotan,Sha Tin 33,Oriental Heights (Block 1),1984-04-25,M,,,11,B,1900,1492,15000000,2018-12-11,1996-10-24,7680000,95.31,22.395611,114.1915634
+901,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block E,2006-01-12,H,2,,27,D,738,586,9100000,2018-12-05,2015-06-12,8000000,13.75,22.4007,114.193739
+902,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House 3,2018-03-19,,3,,,,0,4429,174059700,2018-12-03,,0,0.0,,
+903,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H2,2018-03-19,,4,,,,0,2066,51237000,2018-11-30,,0,0.0,,
+904,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 3,2017-06-21,M,4,,7,A,0,1761,50188000,2018-11-30,,0,0.0,22.413269,114.201706
+905,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 2,2017-06-21,H,,,10,A,0,2775,86700000,2018-11-29,,0,0.0,22.41314,114.20194
+906,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,L,2,2,8,7,538,473,4500000,2018-11-29,2013-12-06,3260000,38.04,22.393952,114.194462
+907,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 3,2017-06-20,M,4,,7,C,0,1602,38448000,2018-11-28,,0,0.0,22.413269,114.201706
+908,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,House Premier 11,,,,,,,0,2905,124147895,2018-11-28,,0,0.0,22.415122999999998,114.20065
+909,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,Tower 2,2018-03-19,,4,,5,A,0,2245,82688000,2018-11-23,,0,0.0,,
+910,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H5,2018-03-18,,4,,,,0,2066,46369000,2018-11-22,,0,0.0,,
+911,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,M,2,2,24,9,537,471,4320000,2018-11-21,2013-09-29,3000000,44.0,22.39164,114.193479
+912,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H10,2018-03-18,,4,,,,0,2083,47493000,2018-11-19,,0,0.0,,
+913,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block A,1984-01-04,M,3,,16,1,1727,1370,14200000,2018-11-16,,0,0.0,22.394175,114.192071
+914,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H6,2018-03-19,,4,,,,0,2083,46750000,2018-11-16,,0,0.0,,
+915,New Territories,Sha Tin,Kau To Shan / Fotan,La Vetta,House H7,2018-03-19,,4,,,,0,2066,45039000,2018-11-16,,0,0.0,22.413629999999998,114.20270000000001
+916,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 11,2008-12-12,H,,,55,D,648,494,9480000,2018-11-15,2008-06-03,4900000,93.47,22.3960286,114.199348
+917,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-14,L,3,,2,C,0,1009,13000000,2018-11-12,2015-02-12,13059800,-0.46,22.413176999999997,114.199644
+918,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 2,1995-09-13,H,3,2,30,F,1620,1370,16850000,2018-11-09,2009-04-16,9480000,77.74,22.4018169,114.2034486
+919,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 3,2017-06-20,L,4,,5,C,0,1602,36848000,2018-11-04,,0,0.0,22.413269,114.201706
+920,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-14,L,2,,7,D,0,654,9300000,2018-11-04,2014-12-15,8547100,8.81,22.413954999999998,114.198637
+921,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 9,1996-12-23,L,3,,15,H,1206,1039,15500000,2018-11-02,2008-06-16,7480000,107.22,22.4014314,114.2024154
+922,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,L,,,2,A,0,1490,19600000,2018-10-30,2017-07-18,24019900,-18.400000000000002,22.413071,114.199376
+923,New Territories,Sha Tin,Kau To Shan / Fotan,Ville De Cascade,House A20,1988-12-23,,,,,,0,1761,19500000,2018-10-23,,0,0.0,22.393099,114.18730000000001
+924,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-22,M,2,2,23,4,468,411,2425000,2018-10-22,,0,0.0,22.390997,114.193427
+925,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 6,2008-12-12,M,,,27,D,991,775,12980000,2018-10-18,2009-10-22,6950000,86.76,22.3949355,114.1993475
+926,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 3,2017-06-21,M,4,,6,C,0,1602,39299000,2018-10-16,,0,0.0,22.413269,114.201706
+927,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,Apex 3,2017-04-27,,3,,3,D,0,1052,24923000,2018-10-16,,0,0.0,22.41525,114.20078
+928,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,Apex 3,2017-04-27,,4,,3,B,0,1524,36697000,2018-10-16,,0,0.0,22.41525,114.20078
+929,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 7,2008-12-12,L,,,19,B,1296,1011,19000000,2018-10-15,2008-06-06,10870000,74.79,22.3951155,114.1994216
+930,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,H,2,2,26,12,520,457,4000000,2018-10-12,,0,0.0,22.393952,114.194462
+931,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 8,2008-12-12,L,,,12,C,1197,940,15300000,2018-10-10,2009-12-15,8220000,86.13,22.3953296,114.1993955
+932,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 1,1995-09-13,L,3,,15,F,1628,1373,21000000,2018-10-10,2010-07-19,10300000,103.88,22.402196,114.2036654
+933,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-22,H,3,2,30,5,703,617,6680000,2018-10-08,,0,0.0,22.390997,114.193427
+934,New Territories,Sha Tin,Kau To Shan / Fotan,Windsor Heights,House 23,1996-12-06,,,,G,,0,2107,50000000,2018-10-08,1997-12-04,37340000,33.9,22.409039,114.20618
+935,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 10,2008-12-12,M,,,21,C,993,776,13000000,2018-10-02,2013-07-12,8500000,52.94,22.3958056,114.199187
+936,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,L,2,2,7,3,537,471,4950000,2018-10-02,2007-07-04,968000,411.36,22.391341,114.193112
+937,New Territories,Sha Tin,Kau To Shan / Fotan,Sha Tin 33,Oriental Heights (Block 1),1984-04-25,H,,,19,A,1900,1492,16000000,2018-09-28,2013-02-18,13930000,14.86,22.395611,114.1915634
+938,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 1,1995-09-13,H,3,,37,A,1236,1041,12000000,2018-09-28,,0,0.0,22.402196,114.2036654
+939,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,Tower 3,2017-07-17,,4,,2,B,0,1611,41836600,2018-09-26,,0,0.0,22.415748999999998,114.19987
+940,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-23,H,2,2,30,2,626,550,6000000,2018-09-26,2014-06-19,3900000,53.85,22.390997,114.193427
+941,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 1,2017-06-20,L,4,,3,B,0,1980,53258000,2018-09-23,,0,0.0,22.41303,114.20228
+942,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 1,2017-06-20,M,4,,5,A,0,1930,55440000,2018-09-23,,0,0.0,22.41303,114.20228
+943,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 1,2017-06-20,M,4,,5,B,0,1930,54450000,2018-09-23,,0,0.0,22.41303,114.20228
+944,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 1,2017-06-20,L,4,,3,A,0,1930,50490000,2018-09-23,,0,0.0,22.41303,114.20228
+945,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,Apex 3,2017-04-26,,4,,G,C,0,1721,50000000,2018-09-20,,0,0.0,22.41525,114.20078
+946,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-14,M,3,,8,D,0,945,14400000,2018-09-19,2014-12-21,12894600,11.67,22.413176999999997,114.199644
+947,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block B,2006-01-12,H,3,,27,A,970,753,13850000,2018-09-19,2014-05-12,8760000,58.11,22.401263999999998,114.194219
+948,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block D,2006-01-12,M,3,,18,B,1180,922,15680000,2018-09-19,2011-05-20,8500000,84.47,22.4009134,114.1937644
+949,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,M,,,22,D,717,555,8890000,2018-09-14,2011-01-25,5200000,70.96000000000001,22.3943906,114.19904700000001
+950,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,Apex 3,2017-04-26,,3,,2,A,0,956,21436000,2018-09-12,,0,0.0,22.41525,114.20078
+951,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,M,2,2,16,2,626,550,6150000,2018-09-12,,0,0.0,22.393952,114.194462
+952,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,L,2,2,12,4,468,411,4750000,2018-09-11,2011-08-24,1968000,141.36,22.393645,114.194073
+953,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 2,2017-06-20,L,4,,3,A,0,1761,42831000,2018-09-11,,0,0.0,22.41314,114.20194
+954,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,Apex 3,2017-04-27,,5,,5,A,0,1628,64586190,2018-09-11,,0,0.0,22.41525,114.20078
+955,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-12,L,2,2,1,8,626,550,5000000,2018-09-11,2011-02-11,1950000,156.41,22.392391,114.193324
+956,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 3,2017-06-21,L,4,,3,A,0,1761,45497000,2018-09-11,,0,0.0,22.413269,114.201706
+957,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,M,,,19,A,1402,1086,15200000,2018-09-10,2009-10-14,11208000,35.62,22.3942285,114.1989205
+958,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,Apex 3,2017-04-27,,3,,3,A,0,1005,23484300,2018-09-10,,0,0.0,22.41525,114.20078
+959,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-17,L,3,2,3,11,703,617,6000000,2018-09-09,2006-12-19,1230000,387.8,22.393952,114.194462
+960,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-14,L,1,,2,C,0,466,8800000,2018-09-09,2015-05-07,6738600,30.59,22.413321999999997,114.200015
+961,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 3,2017-06-20,H,4,,10,A,0,2593,84838000,2018-09-06,,0,0.0,22.413269,114.201706
+962,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,M,2,2,14,8,626,550,5800000,2018-09-05,2006-08-31,1290000,349.61,22.391341,114.193112
+963,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,Tower 1,2017-07-18,,4,,G,A,0,2214,71955000,2018-09-04,,0,0.0,22.415748999999998,114.19987
+964,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,Tower 3,2017-07-17,,4,,3,B,0,1611,41461000,2018-09-03,,0,0.0,22.415748999999998,114.19987
+965,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,L,2,2,11,6,537,471,5100000,2018-08-30,,0,0.0,22.391341,114.193112
+966,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-27,L,2,2,8,4,468,411,3980000,2018-08-30,2008-04-25,1168000,240.75,22.393245999999998,114.19441
+967,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,H,2,2,27,12,520,457,4800000,2018-08-27,2015-08-18,3800000,26.32,22.392712,114.19378
+968,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,H,2,2,30,2,626,550,5730000,2018-08-26,2009-06-29,1943800,194.78,22.392391,114.193324
+969,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,M,,,25,C,717,555,9800000,2018-08-24,2009-09-23,5270000,85.96000000000001,22.3942285,114.1989205
+970,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 3,2017-06-20,L,4,,3,C,0,1602,38450000,2018-08-22,,0,0.0,22.413269,114.201706
+971,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 3,2017-06-21,M,4,,8,C,0,1602,41652000,2018-08-22,,0,0.0,22.413269,114.201706
+972,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 5,1995-09-13,L,3,,5,E,1620,1370,17000000,2018-08-22,,0,0.0,22.400409,114.202526
+973,New Territories,Sha Tin,Kau To Shan / Fotan,Richmond Court,Block 2,1983-09-12,,,,3,B,0,1255,12000000,2018-08-21,1999-08-20,6200000,93.55,,
+974,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-14,L,2,,7,D,0,657,11600000,2018-08-20,2014-12-03,7929800,46.28,22.413787,114.19907
+975,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,M,3,,23,G,1127,974,16980000,2018-08-17,,0,0.0,22.4017194,114.2027866
+976,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,House Sommet 7,,,,,,,0,3746,187604000,2018-08-16,,0,0.0,22.415152,114.20076
+977,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block D,2006-01-12,M,3,,15,B,1180,922,16500000,2018-08-16,2015-01-07,11800000,39.83,22.4009134,114.1937644
+978,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 11,2008-12-12,M,,,29,C,686,534,8600000,2018-08-15,2012-10-18,5970000,44.050000000000004,22.3960286,114.199348
+979,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 7,2008-12-12,M,,,32,C,1156,906,13000000,2018-08-15,2010-04-19,8520000,52.58,22.3951155,114.1994216
+980,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-12,H,2,2,27,8,626,550,5650000,2018-08-15,2015-08-05,4750000,18.95,22.392391,114.193324
+981,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,M,2,2,15,6,537,471,4200000,2018-08-14,,0,0.0,22.393245999999998,114.19441
+982,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,H,2,2,29,10,468,411,4100000,2018-08-14,2009-06-15,1800000,127.78,22.393088,114.193415
+983,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,L,2,2,12,2,626,550,5880000,2018-08-14,,0,0.0,22.393952,114.194462
+984,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block C,1985-06-12,M,2,,11,1,522,408,5700000,2018-08-13,2007-06-20,1442000,295.28000000000003,22.3937625,114.1924369
+985,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,H,2,2,27,3,537,471,5200000,2018-08-12,2015-07-06,3950000,31.650000000000002,22.393245999999998,114.19441
+986,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block D,2006-01-12,L,3,,12,D,998,777,11780000,2018-08-10,2005-01-03,5773900,104.02,22.4009134,114.1937644
+987,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 11,2008-12-12,L,,,6,A,1290,1006,17800000,2018-08-10,2008-06-03,11013000,61.63,22.3960286,114.199348
+988,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,M,2,2,16,7,538,473,5280000,2018-08-09,2014-09-11,3510000,50.43,22.39164,114.193479
+989,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-22,M,2,2,20,7,538,473,5280000,2018-08-07,2001-04-18,980000,438.78000000000003,22.390997,114.193427
+990,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,Tower 2,2017-07-17,,4,,2,A,0,1597,40609900,2018-08-06,,0,0.0,22.415748999999998,114.19987
+991,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,House Sommet 3,,,,,,,0,3727,180180000,2018-08-06,,0,0.0,22.415152,114.20082
+992,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,M,3,2,22,11,703,617,6400000,2018-08-03,,0,0.0,22.391341,114.193112
+993,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 3,1995-09-13,L,3,,11,F,1620,1370,22888000,2018-08-03,2011-02-28,11730000,95.12,22.4007665,114.2027535
+994,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,H,3,2,29,11,703,617,5900000,2018-08-02,2009-06-11,2000000,195.0,22.393088,114.193415
+995,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 6,1995-09-13,H,3,,36,C,1128,958,10400000,2018-08-01,2016-11-21,2200000,372.73,22.3998061,114.202128
+996,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-22,M,3,2,16,5,703,617,6550000,2018-07-29,2014-07-03,4200000,55.95,22.390997,114.193427
+997,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,House Premier 9,,,,,,,0,3760,178000000,2018-07-27,,0,0.0,22.415274,114.20059
+998,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,Tower 1,2017-07-18,,4,,G,B,0,1827,68992500,2018-07-27,,0,0.0,22.415748999999998,114.19987
+999,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,Tower 1,2017-07-18,,4,,G,C,0,2144,81007500,2018-07-27,,0,0.0,22.415748999999998,114.19987
+1000,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 11,2008-12-12,L,,,19,B,1186,924,18000000,2018-07-25,2008-06-03,11637000,54.68,22.3960286,114.199348
+1001,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,House Premier 12,2017-04-27,,4,,,,0,2905,123240000,2018-07-25,,0,0.0,22.415101999999997,114.20076
+1002,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,L,,,12,D,717,565,10500000,2018-07-25,2008-06-06,4610000,127.77,22.3943906,114.19904700000001
+1003,New Territories,Sha Tin,Kau To Shan / Fotan,Evergreen Garden,House 2,1984-03-13,,,,,,0,1610,41500000,2018-07-25,,0,0.0,22.407553,114.20332
+1004,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,H,2,2,35,10,468,411,4750000,2018-07-23,,0,0.0,22.392391,114.193324
+1005,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,Tower 3,2017-07-17,,4,,3,A,0,1597,42334100,2018-07-19,,0,0.0,22.415748999999998,114.19987
+1006,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,M,2,2,23,10,468,411,4750000,2018-07-18,,0,0.0,22.39164,114.193479
+1007,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-14,H,2,,20,F,0,650,10550000,2018-07-18,2014-12-03,8347200,26.39,22.413954999999998,114.198637
+1008,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-14,M,2,,9,D,0,657,10400000,2018-07-17,2014-11-30,8260200,25.900000000000002,22.413573,114.199231
+1009,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-14,M,2,,10,D,0,735,13680000,2018-07-17,2015-02-10,10442600,31.0,22.413321999999997,114.200015
+1010,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,M,3,,18,H,1206,1039,15399000,2018-07-13,2009-06-23,6480000,137.64000000000001,22.4010816,114.2021856
+1011,New Territories,Sha Tin,Kau To Shan / Fotan,Hill Lodge,Hill Lodge,1982-02-15,H,,,14,,2478,2029,23980000,2018-07-13,2009-09-07,12000000,99.83,22.402058,114.19574
+1012,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,M,1,,16,B,0,467,9050000,2018-07-12,2015-04-20,7147200,26.62,22.413346999999998,114.200305
+1013,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 2,2017-06-21,L,4,,5,C,0,1602,38680000,2018-07-11,,0,0.0,22.41314,114.20194
+1014,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,L,2,2,11,2,626,550,5550000,2018-07-09,,0,0.0,22.393245999999998,114.19441
+1015,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-14,M,2,,11,F,0,650,10080000,2018-07-09,2014-12-04,8008000,25.87,22.413954999999998,114.198637
+1016,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-17,M,2,2,20,1,538,473,4938000,2018-07-09,2010-10-06,1828000,170.13,22.393952,114.194462
+1017,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block C,1985-06-12,H,2,,18,1,522,408,5700000,2018-07-06,2015-08-26,4200000,35.71,22.3937625,114.1924369
+1018,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 3,2017-06-20,L,4,,5,A,0,1761,47899200,2018-07-05,,0,0.0,22.413269,114.201706
+1019,New Territories,Sha Tin,Kau To Shan / Fotan,Lok Lam Garden,Block B,1985-10-03,,3,,3,2,1029,906,11700000,2018-07-05,2011-01-13,5600000,108.93,22.401303,114.198538
+1020,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block D,1985-06-12,H,2,,20,2,522,408,6000000,2018-07-05,2012-08-24,2928000,104.92,22.3935545,114.192546
+1021,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,M,2,2,23,7,538,473,5105000,2018-07-04,2014-11-18,3600000,41.81,22.393245999999998,114.19441
+1022,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block C,1985-06-12,L,3,,4,3,687,537,6400000,2018-07-04,2011-06-03,3500000,82.86,22.3937625,114.1924369
+1023,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,M,2,2,24,4,468,411,4800000,2018-07-03,2006-10-27,870000,451.72,22.393952,114.194462
+1024,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-08-01,M,3,2,18,11,703,617,5950000,2018-07-03,2014-11-07,4280000,39.02,22.39164,114.193479
+1025,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,L,3,2,12,11,703,617,6000000,2018-07-03,2014-10-29,4480000,33.93,22.391341,114.193112
+1026,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,L,,,6,C,717,555,9550000,2018-07-03,2009-09-23,4450000,114.61,22.3942285,114.1989205
+1027,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 23,1987-08-12,L,3,,2,B,0,882,11350000,2018-07-03,1996-10-19,5800000,95.69,22.3917044,114.187123
+1028,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 3,2015-06-15,L,2,,1,D,0,694,10000000,2018-07-03,2015-03-18,9242700,8.19,22.413294,114.199334
+1029,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,Tower 2,2017-07-18,,4,,G,A,0,2181,66739000,2018-06-29,,0,0.0,22.415748999999998,114.19987
+1030,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-14,L,3,,2,D,0,944,15628000,2018-06-28,2015-02-12,12407700,25.95,22.413176999999997,114.199644
+1031,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,H,,,52,D,888,689,12780000,2018-06-28,2011-02-07,6820000,87.39,22.3947435,114.19925
+1032,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,M,,,31,C,717,555,11000000,2018-06-28,2009-11-02,5920000,85.81,22.3942285,114.1989205
+1033,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-14,H,3,,20,E,0,964,14500000,2018-06-27,2015-07-23,13233700,9.57,22.414033,114.198361
+1034,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 3,1995-09-13,M,3,,29,D,822,676,9000000,2018-06-27,2015-07-21,6000000,50.0,22.4007665,114.2027535
+1035,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,L,2,2,11,10,468,411,3000000,2018-06-27,2015-11-11,300000,900.0,22.391341,114.193112
+1036,New Territories,Sha Tin,Kau To Shan / Fotan,Sha Tin 33,Queen's Heights (Block 3),1984-04-25,H,3,,24,B,1676,1296,15180000,2018-06-27,2013-01-16,12100000,25.45,22.3950306,114.1917465
+1037,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block E,2006-01-12,M,2,,16,D,738,586,9380000,2018-06-27,2012-10-22,6000000,56.33,22.4007,114.193739
+1038,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,House Sommet 2,,,,,,,0,3727,162800000,2018-06-26,,0,0.0,22.415032999999998,114.200874
+1039,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,Tower 3,2017-07-17,,4,,G,C,0,2144,65178000,2018-06-26,,0,0.0,22.415748999999998,114.19987
+1040,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,House Sommet 12,,,,,,,0,2582,79128000,2018-06-26,,0,0.0,22.415152,114.20075
+1041,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,House Sommet 11,,,,,,,0,2610,83548420,2018-06-25,,0,0.0,22.415003,114.20075
+1042,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 1,2017-06-20,M,4,,6,B,0,1980,57420000,2018-06-25,,0,0.0,22.41303,114.20228
+1043,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Vienna,Mount Vienna,2018-02-07,,4,,G,,0,2455,76800000,2018-06-25,,0,0.0,22.399659999999997,114.200035
+1044,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 10,2008-12-12,H,,,,D,996,764,13830000,2018-06-22,,0,0.0,22.3958056,114.199187
+1045,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block D,1985-06-12,M,2,,8,1,522,408,5990000,2018-06-22,2010-08-09,2068000,189.65,22.3935545,114.192546
+1046,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 7,2008-12-12,L,,,,C,1157,905,16250000,2018-06-21,,0,0.0,22.3951155,114.1994216
+1047,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,L,2,2,12,10,468,411,4200000,2018-06-21,2014-10-29,3000000,40.0,22.391341,114.193112
+1048,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-27,M,2,2,15,6,537,471,4800000,2018-06-20,2012-12-05,2650000,81.13,22.393645,114.194073
+1049,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,M,2,2,16,10,468,411,4468000,2018-06-19,2014-04-10,2200000,103.09,22.393245999999998,114.19441
+1050,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,L,2,2,10,2,626,550,5580000,2018-06-19,2004-03-16,400000,1295.0,22.393952,114.194462
+1051,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block B,2006-01-12,L,2,,7,B,718,568,9400000,2018-06-19,2011-03-01,5100000,84.31,22.401263999999998,114.194219
+1052,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 11,1996-12-23,L,3,,16,F,1127,974,13950000,2018-06-15,2009-07-20,5960000,134.06,22.4020695,114.2030154
+1053,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 6,2008-12-12,L,,,12,B,1146,891,15400000,2018-06-15,2015-04-23,9800000,57.14,22.3949355,114.1993475
+1054,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,L,2,2,4,7,538,473,4770000,2018-06-14,2008-03-16,1425000,234.74,22.393645,114.194073
+1055,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,M,,,33,D,717,554,9988000,2018-06-14,2008-06-02,5012000,99.28,22.394567,114.1991585
+1056,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 3,1995-09-13,H,3,,32,D,822,676,9800000,2018-06-14,2002-07-19,3080000,218.18,22.4007665,114.2027535
+1057,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 23,1987-08-12,M,3,,3,B,0,882,11600000,2018-06-14,2007-11-02,4288000,170.52,22.3917044,114.187123
+1058,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,House 8,,,4,,,,0,3285,165550000,2018-06-14,,0,0.0,22.415748999999998,114.19987
+1059,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,House Premier 1,,,,,,,0,2938,110906980,2018-06-13,,0,0.0,22.414944,114.200874
+1060,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,House Premier 2,,,,,,,0,2892,120470059,2018-06-13,,0,0.0,22.414965,114.20114
+1061,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block B,2006-01-12,M,2,,21,E,721,577,9380000,2018-06-13,2005-01-05,4470000,109.84,22.401263999999998,114.194219
+1062,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 2,1995-09-13,M,3,2,23,F,1620,1370,22280000,2018-06-13,2006-09-22,9000000,147.56,22.4018169,114.2034486
+1063,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block B,2006-01-12,H,2,,26,E,721,577,9580000,2018-06-12,2014-08-19,6638000,44.32,22.401263999999998,114.194219
+1064,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,L,,,18,E,719,563,9650000,2018-06-12,2008-06-02,4486000,115.11,22.3942285,114.1989205
+1065,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 9,1996-12-23,L,3,,16,E,1206,1039,14500000,2018-06-11,1996-07-29,6722900,115.68,22.4014314,114.2024154
+1066,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,L,3,,13,C,1127,974,13680000,2018-06-11,2006-02-25,5080000,169.29,22.4017194,114.2027866
+1067,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 3,2017-06-20,M,4,,8,A,0,1761,51597300,2018-06-10,,0,0.0,22.413269,114.201706
+1068,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block A,1984-01-04,M,3,,19,2,1241,1008,12850000,2018-06-08,1999-05-31,4600000,179.35,22.394175,114.192071
+1069,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,M,2,2,18,2,626,550,5550000,2018-06-08,2006-09-30,1418000,291.40000000000003,22.393952,114.194462
+1070,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,H,2,2,26,1,538,473,4800000,2018-06-07,2002-03-05,908000,428.63,22.393088,114.193415
+1071,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 26,1987-08-12,,3,,3,A,0,882,12280000,2018-06-07,1998-06-22,5350000,129.53,22.3915975,114.1863175
+1072,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,L,2,2,10,3,537,471,5100000,2018-06-05,2013-11-14,2980000,71.14,22.39164,114.193479
+1073,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,Tower 2,2017-07-18,,4,,3,B,0,1573,41067960,2018-06-05,,0,0.0,22.415748999999998,114.19987
+1074,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,Tower 2,2017-07-18,,4,,G,B,0,1826,56103800,2018-06-05,,0,0.0,22.415748999999998,114.19987
+1075,New Territories,Sha Tin,Kau To Shan / Fotan,Le Cap,Tower 2,2017-07-17,,4,,2,B,0,1611,39539000,2018-06-04,,0,0.0,22.415748999999998,114.19987
+1076,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 24,1987-08-12,L,3,,2,B,0,882,11880000,2018-06-04,2010-10-25,6450000,84.19,22.3916634,114.1868716
+1077,New Territories,Sha Tin,Kau To Shan / Fotan,Rosary Villas,Block 9,1984-08-30,,,,2,,1665,1427,17600000,2018-05-31,2009-08-27,8730000,101.60000000000001,22.399794999999997,114.1996429
+1078,New Territories,Sha Tin,Kau To Shan / Fotan,Greenwood Terrace,Block 30,1987-08-12,L,3,,2,B,0,1381,18800000,2018-05-31,2001-12-21,4088000,359.88,22.3913245,114.1854284
+1079,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 11,2008-12-12,M,,,31,E,697,543,9500000,2018-05-31,2017-12-07,8980000,5.79,22.3960286,114.199348
+1080,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 3,2017-06-20,M,4,,6,A,0,1761,49308000,2018-05-28,,0,0.0,22.413269,114.201706
+1081,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 3,1995-09-13,H,2,,33,B,715,594,9900000,2018-05-28,2010-08-12,4700000,110.64,22.4007665,114.2027535
+1082,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,L,,,5,A,1176,913,18500000,2018-05-23,2013-01-14,9500000,94.74,22.3943906,114.19904700000001
+1083,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,House Premier 6,,,,,,,0,3777,162000000,2018-05-22,,0,0.0,22.415122999999998,114.20101
+1084,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 1,1995-09-13,H,3,,28,A,1236,1041,13200000,2018-05-21,1999-03-06,6300000,109.52,22.402196,114.2036654
+1085,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,L,2,2,3,8,626,550,5230000,2018-05-21,2012-03-01,2190000,138.81,22.391341,114.193112
+1086,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,H,2,2,28,7,538,473,5448000,2018-05-21,2015-04-30,4128000,31.98,22.391341,114.193112
+1087,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-18,H,2,2,33,2,626,550,5480000,2018-05-20,,0,0.0,22.391341,114.193112
+1088,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,L,2,2,4,2,626,550,5230000,2018-05-17,2000-07-28,1138000,359.58,22.393645,114.194073
+1089,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 7,2008-12-12,H,,,56,C,1156,906,16000000,2018-05-16,2013-01-30,9000000,77.78,22.3951155,114.1994216
+1090,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,House Premier 5,2017-04-27,,4,,,,0,2938,112000000,2018-05-16,,0,0.0,22.414925,114.20100000000001
+1091,New Territories,Sha Tin,Kau To Shan / Fotan,St. Moritz,House Premier 7,,,,,,,0,3740,159000000,2018-05-16,,0,0.0,22.415232,114.20089
+1092,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,M,2,2,25,1,538,473,3500000,2018-05-15,,0,0.0,22.39164,114.193479
+1093,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-12,M,2,2,24,10,468,411,4238000,2018-05-15,2012-03-01,1780000,138.09,22.392712,114.19378
+1094,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,L,3,,13,A,1206,1039,12000000,2018-05-15,2014-10-07,9380000,27.93,22.4017194,114.2027866
+1095,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 10,2008-12-12,L,,,19,C,993,776,13180000,2018-05-14,2008-05-27,6672000,97.54,22.3958056,114.199187
+1096,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,M,2,2,15,3,537,471,4918888,2018-05-14,2011-02-18,2000000,145.94,22.393952,114.194462
+1097,New Territories,Sha Tin,Kau To Shan / Fotan,Ficus Garden,Ficus Garden,1991-02-28,H,3,,12,G,1070,935,12630000,2018-05-13,2012-10-30,7500000,68.4,22.398577,114.19979000000001
+1098,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 6,1995-09-13,M,3,,19,C,1128,958,13000000,2018-05-10,2003-10-07,3700000,251.35,22.3998061,114.202128
+1099,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,L,,,9,B,979,764,12880000,2018-05-08,2015-04-09,9600000,34.17,22.3947435,114.19925
+1100,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,L,2,2,8,3,537,471,5100000,2018-05-07,,0,0.0,22.392391,114.193324
+1101,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 1,1995-09-13,M,3,,25,F,1628,1373,19600000,2018-05-07,2010-04-01,12000000,63.33,22.402196,114.2036654
+1102,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,H,2,,19,E,0,692,10650000,2018-05-07,2014-12-01,8781900,21.27,22.413787,114.19907
+1103,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,M,2,2,15,7,538,473,4000000,2018-05-07,2010-02-11,1778000,124.97,22.393952,114.194462
+1104,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-22,M,3,2,21,5,703,617,6460000,2018-05-06,1999-11-15,2100000,207.62,22.390997,114.193427
+1105,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,L,3,,17,A,1206,1039,13680000,2018-05-04,2009-06-01,6150000,122.44,22.4010816,114.2021856
+1106,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 9,1996-12-23,M,3,,22,B,1127,974,13280000,2018-05-04,1997-07-31,10023500,32.49,22.4014314,114.2024154
+1107,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Vienna,Mount Vienna,2018-02-07,L,4,,3,B,0,1645,36800000,2018-05-04,,0,0.0,22.399659999999997,114.200035
+1108,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,M,2,2,18,2,626,550,5400000,2018-05-03,,0,0.0,22.393645,114.194073
+1109,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Vienna,Mount Vienna,2018-02-07,L,4,,3,A,0,1645,36800000,2018-05-02,,0,0.0,22.399659999999997,114.200035
+1110,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 3,1995-09-13,H,3,,35,A,822,676,10558000,2018-04-30,2011-08-29,6400000,64.97,22.4007665,114.2027535
+1111,New Territories,Sha Tin,Kau To Shan / Fotan,Kau To Highland,75 Lai Ping Road,2015-06-14,,,,,,0,2032,75000000,2018-04-26,,0,0.0,22.414509,114.20045999999999
+1112,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-27,L,2,2,10,4,468,411,4300000,2018-04-26,2008-02-15,1280000,235.94,22.393645,114.194073
+1113,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 05,1995-09-13,L,3,,,E,1620,1370,18450000,2018-04-25,,0,0.0,22.400409,114.202526
+1114,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,H,2,2,31,12,520,457,4600000,2018-04-24,2013-01-31,2800000,64.29,22.393645,114.194073
+1115,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,M,2,2,13,2,626,550,5640000,2018-04-24,2014-06-23,3880000,45.36,22.393088,114.193415
+1116,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 11,1996-12-23,M,3,,23,F,1127,974,13900000,2018-04-24,2007-08-16,5180000,168.34,22.4020695,114.2030154
+1117,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,L,2,2,4,2,626,550,5080000,2018-04-23,2014-05-15,3460000,46.82,22.393952,114.194462
+1118,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,H,,,38,C,888,689,12550000,2018-04-23,2011-02-21,7200000,74.31,22.394567,114.1991585
+1119,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 7,1995-09-13,L,3,,6,B,1128,958,12750000,2018-04-20,2007-04-18,5138000,148.15,22.4000129,114.2015765
+1120,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,H,2,2,32,10,468,411,3930000,2018-04-20,,0,0.0,22.393952,114.194462
+1121,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,L,2,2,12,6,537,471,4680000,2018-04-19,2010-01-05,1580000,196.20000000000002,22.39164,114.193479
+1122,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 11,2008-12-12,M,,,29,B,1186,924,18680000,2018-04-18,2008-06-10,12769000,46.29,22.3960286,114.199348
+1123,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,L,3,,16,H,1206,1039,14300000,2018-04-18,1996-07-26,6503400,119.88,22.4010816,114.2021856
+1124,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,H,2,2,28,1,538,473,4800000,2018-04-17,,0,0.0,22.393088,114.193415
+1125,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-12,L,2,2,7,8,626,550,5380000,2018-04-17,2008-08-18,1680000,220.24,22.392391,114.193324
+1126,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block D,1985-06-12,H,2,,17,2,522,408,5848000,2018-04-16,2012-06-04,2800000,108.86,22.3935545,114.192546
+1127,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 1,2017-06-20,,5,,10,B,0,2829,101988000,2018-04-15,,0,0.0,22.41303,114.20228
+1128,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,L,,,9,B,1276,996,15980000,2018-04-11,2014-08-15,9700000,64.74,22.3943906,114.19904700000001
+1129,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,H,2,,18,J,0,663,10200000,2018-04-09,2014-12-10,7868900,29.62,22.413321999999997,114.200015
+1130,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-14,L,3,,3,C,0,947,14600000,2018-04-05,2014-11-30,11425200,27.79,22.413573,114.199231
+1131,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 5,1995-09-13,H,2,,37,C,715,594,8880000,2018-04-03,2013-10-25,5600000,58.57,22.400409,114.202526
+1132,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 2,1995-09-13,L,3,2,8,E,1620,1370,16850000,2018-03-29,2007-11-30,8300000,103.01,22.4018169,114.2034486
+1133,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-22,M,2,2,14,8,626,550,5400000,2018-03-27,,0,0.0,22.390997,114.193427
+1134,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,L,,,11,C,888,689,11700000,2018-03-27,2009-10-14,5800000,101.72,22.394567,114.1991585
+1135,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,L,2,2,4,12,520,457,4338000,2018-03-23,2015-01-28,3480000,24.66,22.393952,114.194462
+1136,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,M,3,,18,A,1206,1039,13680000,2018-03-22,1999-08-07,5900000,131.86,22.4010816,114.2021856
+1137,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,H,2,2,30,10,468,411,4560000,2018-03-20,2010-08-18,1710000,166.67000000000002,22.393645,114.194073
+1138,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,M,2,2,17,4,468,411,4460000,2018-03-20,2007-09-04,1000000,346.0,22.391341,114.193112
+1139,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,H,3,,40,B,1127,974,13200000,2018-03-20,1997-08-09,11280000,17.02,22.4010816,114.2021856
+1140,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,H,2,2,27,2,626,550,5400000,2018-03-19,,0,0.0,22.393088,114.193415
+1141,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,M,,,27,C,888,689,10930000,2018-03-19,2014-03-25,7000000,56.14,22.394567,114.1991585
+1142,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,H,2,2,29,7,538,473,4650000,2018-03-19,,0,0.0,22.391341,114.193112
+1143,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,L,,,16,B,1276,996,15200000,2018-03-19,2008-06-05,9626000,57.910000000000004,22.3943906,114.19904700000001
+1144,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 6,2008-12-12,L,,,15,B,1146,903,15000000,2018-03-16,2016-12-13,13000000,15.38,22.3949355,114.1993475
+1145,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 2,1995-09-13,M,2,2,18,C,715,594,8000000,2018-03-15,2014-05-12,6160000,29.87,22.4018169,114.2034486
+1146,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 10,2008-12-12,L,,,12,D,996,761,11100000,2018-03-15,2008-06-11,6736000,64.79,22.3958056,114.199187
+1147,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block D,1985-06-12,M,2,,10,2,522,408,5800000,2018-03-14,2013-04-18,3700000,56.76,22.3935545,114.192546
+1148,New Territories,Sha Tin,Kau To Shan / Fotan,Kau To Highland,57 Lai Ping Road,2015-06-15,,,,,,0,2606,76895000,2018-03-14,,0,0.0,22.413864,114.20108
+1149,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,L,,,10,E,719,563,8880000,2018-03-13,2012-04-26,5180000,71.43,22.3942285,114.1989205
+1150,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-14,M,2,,11,J,0,663,9980000,2018-03-12,2014-12-07,8103000,23.16,22.413321999999997,114.200015
+1151,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 1,2015-06-15,H,1,,18,C,0,466,8000000,2018-03-12,2015-01-02,7138500,12.07,22.413346999999998,114.200305
+1152,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 3,1995-09-13,M,3,,22,F,1620,1370,18000000,2018-03-09,1998-04-03,11800000,52.54,22.4007665,114.2027535
+1153,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 11,2008-12-12,H,,,,E,697,543,9350000,2018-03-09,,0,0.0,22.3960286,114.199348
+1154,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,M,3,,28,B,1127,974,13780000,2018-03-07,,0,0.0,22.4017194,114.2027866
+1155,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 11,2008-12-12,L,,,8,C,686,534,8600000,2018-03-07,2012-04-20,5200000,65.38,22.3960286,114.199348
+1156,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,L,2,2,8,4,468,411,1950000,2018-03-06,,0,0.0,22.392391,114.193324
+1157,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 11,1996-12-23,H,3,,46,G,0,990,14980000,2018-03-06,2011-03-02,8960000,67.19,22.4020695,114.2030154
+1158,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-22,M,2,2,20,6,537,471,4800000,2018-03-05,,0,0.0,22.390997,114.193427
+1159,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-11,L,2,2,8,7,538,473,4920000,2018-03-05,,0,0.0,22.392712,114.19378
+1160,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yue House,1980-06-18,M,2,2,24,3,537,471,4600000,2018-03-05,2012-12-07,2650000,73.58,22.393952,114.194462
+1161,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,L,2,2,6,3,537,471,4350000,2018-03-02,2013-08-06,3150000,38.1,22.391341,114.193112
+1162,New Territories,Sha Tin,Kau To Shan / Fotan,Kau To Highland,55 Lai Ping Road,2015-06-14,,,,,,0,2606,72890000,2018-03-01,,0,0.0,22.413809,114.20115
+1163,New Territories,Sha Tin,Kau To Shan / Fotan,Kau To Highland,59 Lai Ping Road,2015-06-14,,,,,,0,2640,73883000,2018-02-28,,0,0.0,22.413929,114.20098
+1164,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,H,3,,38,H,1206,1039,14960000,2018-02-28,2013-11-22,8600000,73.95,22.4010816,114.2021856
+1165,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 1,2017-06-21,H,4,,8,B,0,1980,58509000,2018-02-28,,0,0.0,22.41303,114.20228
+1166,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,L,,,9,B,985,769,12680000,2018-02-27,2014-10-23,8508000,49.04,22.394567,114.1991585
+1167,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block C,1985-06-12,M,2,,15,1,522,408,5150000,2018-02-26,2014-08-29,3870000,33.07,22.3937625,114.1924369
+1168,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing On House,1980-09-22,M,2,2,18,3,537,471,4500000,2018-02-25,2014-08-19,3550000,26.76,22.390997,114.193427
+1169,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block B,1985-06-12,H,3,,21,4,687,537,7330000,2018-02-23,2012-05-21,3600000,103.61,22.393981999999998,114.192335
+1170,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 11,1996-12-23,L,3,,8,A,1206,1039,10500000,2018-02-22,2010-08-30,7220000,45.43,22.4020695,114.2030154
+1171,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 7,1995-09-13,L,3,,9,A,1236,1041,12880000,2018-02-22,2000-08-28,5200000,147.69,22.4000129,114.2015765
+1172,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 6,1995-09-13,M,3,,26,E,1623,1373,20880000,2018-02-22,1996-06-27,10380000,101.16,22.3998061,114.202128
+1173,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,M,2,2,20,7,538,473,4900000,2018-02-21,2009-07-02,1500000,226.67000000000002,22.391341,114.193112
+1174,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Cheung House,1980-11-12,L,2,2,10,10,468,411,3800000,2018-02-20,2012-12-12,2400000,58.33,22.392712,114.19378
+1175,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 5,1995-09-13,L,2,,5,B,715,594,8680000,2018-02-20,2014-12-17,2750000,215.64000000000001,22.400409,114.202526
+1176,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,L,,,11,A,992,773,12880000,2018-02-15,2015-01-20,9480000,35.86,22.3947435,114.19925
+1177,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 5,2008-12-12,H,,,,D,888,689,11900000,2018-02-15,,0,0.0,22.3947435,114.19925
+1178,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-19,M,2,2,14,6,537,471,4300000,2018-02-15,1996-08-30,1480000,190.54,22.391341,114.193112
+1179,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block D,1985-06-12,L,2,,2,2,522,408,5780000,2018-02-15,2014-06-16,3880000,48.97,22.3935545,114.192546
+1180,New Territories,Sha Tin,Kau To Shan / Fotan,Ascot Heights,Block B,1983-05-09,,3,2,1,1B,1505,1256,13500000,2018-02-15,2010-09-28,9200000,46.74,22.400274,114.19982
+1181,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 3,2015-06-15,H,3,,16,D,0,946,15450000,2018-02-13,2014-12-01,11833800,30.560000000000002,22.413785999999998,114.199326
+1182,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,H,2,2,26,4,468,411,4200000,2018-02-12,2014-02-04,2830000,48.410000000000004,22.393645,114.194073
+1183,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,L,3,,3,G,1127,974,12150000,2018-02-12,2012-11-06,7800000,55.77,22.4017194,114.2027866
+1184,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 1,2017-06-20,M,4,,7,B,0,1930,57699200,2018-02-11,,0,0.0,22.41303,114.20228
+1185,New Territories,Sha Tin,Kau To Shan / Fotan,Lok Lam Garden,Block C,1985-10-03,,2,,1,2,606,530,8400000,2018-02-08,2014-01-08,5700000,47.37,22.401177999999998,114.198703
+1186,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 2,2015-06-15,H,1,,18,H,0,450,7500000,2018-02-07,2014-12-17,6269000,19.64,22.413321999999997,114.200015
+1187,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,M,3,,29,B,1127,974,12600000,2018-02-07,2012-06-28,8138000,54.83,22.4010816,114.2021856
+1188,New Territories,Sha Tin,Kau To Shan / Fotan,Ville De Cascade,House A6,1988-12-23,,,,,,0,1862,19980000,2018-02-05,,0,0.0,22.392886999999998,114.18784
+1189,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 9,1996-12-23,M,3,,27,F,1127,974,12000000,2018-02-05,1999-10-09,5500000,118.18,22.4014314,114.2024154
+1190,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 3,2008-12-12,L,,,7,B,985,769,12000000,2018-02-02,2008-05-27,6748000,77.83,22.394567,114.1991585
+1191,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,M,2,2,21,7,538,473,4400000,2018-02-01,2000-02-09,1150000,282.61,22.393088,114.193415
+1192,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Wan House,1980-07-31,L,2,2,2,3,537,471,4348000,2018-02-01,2007-10-15,1100000,295.27,22.39164,114.193479
+1193,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,M,2,2,24,12,520,457,4000000,2018-02-01,2001-12-28,848000,371.7,22.392391,114.193324
+1194,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-18,M,2,2,22,9,537,471,4100000,2018-01-30,,0,0.0,22.391341,114.193112
+1195,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Yat House,1980-08-26,M,3,2,21,11,703,617,6000000,2018-01-30,2003-07-11,1000000,500.0,22.393645,114.194073
+1196,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 10,2008-12-12,M,,,31,B,1568,1223,22520000,2018-01-30,2008-06-05,17498000,28.7,22.3958056,114.199187
+1197,New Territories,Sha Tin,Kau To Shan / Fotan,Evergreen Garden,House 5,1984-03-12,,,,,,0,1610,39380000,2018-01-29,,0,0.0,,
+1198,New Territories,Sha Tin,Kau To Shan / Fotan,Dragons Range,Tower 3,2015-06-15,L,3,,1,D,0,924,14000000,2018-01-29,2014-12-16,11294800,23.95,22.413785999999998,114.199326
+1199,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block D,1985-06-12,H,2,,20,1,522,408,5700000,2018-01-29,2013-02-25,3550000,60.56,22.3935545,114.192546
+1200,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Hing House,1980-11-11,H,2,2,29,9,537,471,4600000,2018-01-28,2001-10-10,790000,482.28000000000003,22.392391,114.193324
+1201,New Territories,Sha Tin,Kau To Shan / Fotan,Evergreen Garden,House 18,1984-03-12,,,,,,0,1610,38380000,2018-01-25,,0,0.0,22.407211,114.20268
+1202,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 11,1996-12-23,H,3,,37,F,1127,974,13260000,2018-01-25,2010-02-26,7000000,89.43,22.4020695,114.2030154
+1203,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,L,3,,10,A,1206,1039,13400000,2018-01-25,2013-05-29,8750000,53.14,22.4010816,114.2021856
+1204,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,M,2,2,18,6,537,471,4450000,2018-01-24,2000-09-20,885000,402.82,22.393245999999998,114.19441
+1205,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 7,1995-09-13,H,3,,36,F,1623,1373,21500000,2018-01-23,,0,0.0,22.4000129,114.2015765
+1206,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block C,1985-06-12,H,3,,21,3,687,537,6230000,2018-01-22,2006-09-05,2050000,203.9,22.3937625,114.1924369
+1207,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 3,1995-09-13,M,3,,20,D,822,676,9600000,2018-01-22,2007-08-31,3680000,160.87,22.4007665,114.2027535
+1208,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Wing Mau House,1980-11-11,L,2,2,3,3,537,471,4220000,2018-01-21,,0,0.0,22.393088,114.193415
+1209,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 10,2008-12-12,H,,,39,D,996,761,12000000,2018-01-19,2008-06-11,7767000,54.5,22.3958056,114.199187
+1210,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,M,,,27,D,717,556,8700000,2018-01-19,2008-06-06,5126000,69.72,22.3942285,114.1989205
+1211,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 10,1996-12-23,M,3,,18,E,1206,1039,12980000,2018-01-18,1997-11-12,11180000,16.1,22.4017194,114.2027866
+1212,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 1,2008-12-12,L,,,12,D,717,566,8600000,2018-01-16,2011-03-15,5000000,72.0,22.3942285,114.1989205
+1213,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Hing Sing House,1980-09-18,M,2,2,25,9,537,471,4300000,2018-01-15,2011-06-20,2020000,112.87,22.391341,114.193112
+1214,New Territories,Sha Tin,Kau To Shan / Fotan,Sui Wo Court,Fung Lin House,1980-08-26,H,2,2,32,12,520,457,4380000,2018-01-15,2011-03-28,1880000,132.98,22.393245999999998,114.19441
+1215,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 2,1995-09-13,L,2,2,8,C,715,594,8100000,2018-01-15,2001-07-10,3080000,162.99,22.4018169,114.2034486
+1216,New Territories,Sha Tin,Kau To Shan / Fotan,The Grandville,Block E,2006-01-12,M,3,,,A,1160,905,13850000,2018-01-15,,0,0.0,22.4007,114.193739
+1217,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,H,,,35,C,892,696,10350000,2018-01-15,2014-11-19,8550000,21.05,22.3943906,114.19904700000001
+1218,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Vienna,Mount Vienna,2018-02-07,H,4,,7,A,0,2605,94400000,2018-01-15,,0,0.0,22.399659999999997,114.200035
+1219,New Territories,Sha Tin,Kau To Shan / Fotan,The Palazzo,Tower 2,2008-12-12,M,,,30,C,892,696,10398000,2018-01-11,2008-06-03,6829000,52.26,22.3943906,114.19904700000001
+1220,New Territories,Sha Tin,Kau To Shan / Fotan,Scenery Garden,Block D,1985-06-12,L,2,,6,1,522,408,5478000,2018-01-11,2009-12-28,1975000,177.37,22.3935545,114.192546
+1221,New Territories,Sha Tin,Kau To Shan / Fotan,Mount Vienna,Mount Vienna,2018-02-07,M,4,,6,A,0,1645,40800000,2018-01-10,,0,0.0,22.399659999999997,114.200035
+1222,New Territories,Sha Tin,Kau To Shan / Fotan,Royal Ascot,Block 8,1996-12-23,L,3,,7,D,1206,1039,12380000,2018-01-08,1999-08-23,10230000,21.02,22.4010816,114.2021856
+1223,New Territories,Sha Tin,Kau To Shan / Fotan,La Cresta,Tower 2,2017-06-20,M,,,8,B,0,1554,40093200,2018-01-07,,0,0.0,22.41314,114.20194

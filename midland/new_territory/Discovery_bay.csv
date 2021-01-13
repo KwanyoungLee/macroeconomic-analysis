@@ -1,0 +1,1037 @@
+,region,subregion,district,estate,building,first_op_date,floor_level,bedroom,sitting_room,floor,flat,area,net_area,price,tx_date,last_tx_date,last_price,gain,lat,lon
+0,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,H,1,,16,C,0,556,8332000,2021-01-06,,0.0,0.0,22.30756,114.01529
+1,New Territories,Islands,Discovery Bay,Discovery Bay,Block L48,2002-01-15,,3,,1,A,1300,1020,12880000,2021-01-04,2004-03-17,4720000.0,172.88,22.305678,114.013451
+2,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,M,1,,11,C,0,556,8088000,2020-12-31,,0.0,0.0,22.30756,114.01529
+3,New Territories,Islands,Discovery Bay,Discovery Bay,27 Headland Drive,1982-09-22,,3,,,,0,1889,26000000,2020-12-31,,0.0,0.0,22.302225,114.01256
+4,New Territories,Islands,Discovery Bay,Discovery Bay,Amalfi One,2011-02-02,L,4,,2,SA,2083,1533,15300000,2020-12-29,2014-02-18,13953000.0,9.65,22.307036999999998,114.014293
+5,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,H,3,,22,F,2132,1675,20000000,2020-12-29,2008-02-05,17880000.0,11.86,22.307644999999997,114.012918
+6,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5 (Lustre),2006-04-24,H,3,,17,E,1265,977,10830000,2020-12-29,2007-08-16,6900000.0,56.96,22.307326,114.013562
+7,New Territories,Islands,Discovery Bay,Discovery Bay,11 Vista Avenue,1994-09-09,,3,,1,B,1026,924,11380000,2020-12-24,2011-04-01,7800000.0,45.9,22.293484,114.018234
+8,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,L,2,2,2,C,699,591,5600000,2020-12-24,2014-09-01,4500000.0,24.44,22.294334,114.015333
+9,New Territories,Islands,Discovery Bay,Discovery Bay,Onda Court,1995-05-17,L,2,2,6,D,760,628,7700000,2020-12-24,2012-08-21,5430000.0,41.800000000000004,22.295434999999998,114.020238
+10,New Territories,Islands,Discovery Bay,Discovery Bay,11 Seabee Lane,1983-01-13,,3,,1,E,0,962,10000000,2020-12-24,,0.0,0.0,22.30069,114.01350000000001
+11,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,L,3,,5,A,0,1200,16860000,2020-12-24,,0.0,0.0,22.30754,114.015396
+12,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,H,1,2,17,F,533,456,4350000,2020-12-24,2015-07-08,3950000.0,10.13,22.305273,114.009554
+13,New Territories,Islands,Discovery Bay,Discovery Bay,Graceful Mansion (Block H2),2002-07-30,H,2,,22,B,815,602,6280000,2020-12-23,,0.0,0.0,22.3077505,114.0110951
+14,New Territories,Islands,Discovery Bay,Discovery Bay,Greenery Court,1990-05-24,M,2,2,14,A,856,693,6200000,2020-12-23,2016-12-19,5650000.0,9.73,22.303098,114.010329
+15,New Territories,Islands,Discovery Bay,Discovery Bay,Graceful Mansion (Block H2),2002-07-30,L,1,,11,E,603,447,5250000,2020-12-22,2009-08-07,2050000.0,156.1,22.3077505,114.0110951
+16,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,L,1,,5,B,0,551,7511000,2020-12-21,,0.0,0.0,22.30756,114.01529
+17,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,L,2,,1,E,0,755,10125000,2020-12-21,,0.0,0.0,22.30756,114.01529
+18,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,L,3,2,4,F,859,709,6700000,2020-12-18,2004-10-28,1720000.0,289.53000000000003,22.294563,114.021821
+19,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,L,2,2,3,A,776,649,5940000,2020-12-18,2017-10-06,5450000.0,8.99,22.306808999999998,114.0095
+20,New Territories,Islands,Discovery Bay,Discovery Bay,8 Seahorse Lane,1982-10-05,,3,,1,E,0,962,10000000,2020-12-18,2014-01-10,9000000.0,11.11,22.296903999999998,114.014465
+21,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,2,,10,C,0,715,10530000,2020-12-17,,0.0,0.0,22.30752,114.0151
+22,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,M,2,,11,A,747,580,6150000,2020-12-17,2015-10-09,5270000.0,16.7,22.307591,114.009801
+23,New Territories,Islands,Discovery Bay,Discovery Bay,Jovial Court,1990-04-03,M,3,2,11,D,889,755,7300000,2020-12-17,2013-12-12,5600000.0,30.36,22.293784,114.022455
+24,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,L,2,2,3,C,727,624,7020000,2020-12-16,2012-08-17,4200000.0,67.14,22.294738,114.012819
+25,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,H,1,2,15,E,530,440,4598000,2020-12-15,2017-06-15,4250000.0,8.19,22.302934,114.01157
+26,New Territories,Islands,Discovery Bay,Discovery Bay,Db Plaza ( C ),1991-11-14,H,,,7,10,0,464,4950000,2020-12-15,1999-08-04,1810000.0,173.48,22.295209,114.016682
+27,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,M,1,,7,C,0,556,7775000,2020-12-14,,0.0,0.0,22.30756,114.01529
+28,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,L,3,,3,A,0,1066,13880000,2020-12-14,,0.0,0.0,22.30756,114.01529
+29,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,L,1,,6,C,0,556,7838000,2020-12-14,,0.0,0.0,22.30756,114.01529
+30,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,M,1,,10,B,0,551,7980000,2020-12-14,,0.0,0.0,22.30756,114.01529
+31,New Territories,Islands,Discovery Bay,Discovery Bay,35 Seahorse Lane,1983-01-13,,3,,LG,B,0,1295,19680000,2020-12-14,,0.0,0.0,22.299256999999997,114.01408
+32,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5 (Lustre),2006-04-24,H,3,,19,E,1266,977,11000000,2020-12-14,2007-08-29,7380000.0,49.050000000000004,22.307326,114.013562
+33,New Territories,Islands,Discovery Bay,Discovery Bay,Block H1 (Starview),1982-08-05,H,2,2,15,A,713,588,6508888,2020-12-11,2001-09-28,630000.0,933.16,22.302169,114.011488
+34,New Territories,Islands,Discovery Bay,Discovery Bay,Blossom Court,1992-04-16,H,2,2,12,E,628,545,5500000,2020-12-09,2011-07-04,2700000.0,103.7,22.295603,114.024628
+35,New Territories,Islands,Discovery Bay,Discovery Bay,3 Parkland Drive,1987-09-30,,3,,2,E,1356,1270,13300000,2020-12-09,2016-10-25,12200000.0,9.02,22.3031,114.01231
+36,New Territories,Islands,Discovery Bay,Discovery Bay,32 Coastline Villa,1996-04-22,,3,,3,B,0,1282,13900000,2020-12-09,,0.0,0.0,22.294297999999998,114.02611
+37,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,M,3,2,11,A,919,776,8750000,2020-12-09,2010-12-15,5150000.0,69.9,22.294423,114.014961
+38,New Territories,Islands,Discovery Bay,Discovery Bay,Cherish Court,1992-04-16,M,2,2,9,E,628,545,5800000,2020-12-09,2011-12-29,3150000.0,84.13,22.295914999999997,114.0250171
+39,New Territories,Islands,Discovery Bay,Discovery Bay,3 Vista Avenue,1994-09-09,,1,,3,C,504,452,5480000,2020-12-08,2015-08-31,4490000.0,22.05,22.294043,114.01813
+40,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,H,2,,23,B,1000,779,9050000,2020-12-08,2015-09-18,7450000.0,21.48,22.307644999999997,114.012918
+41,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,M,3,,17,D,1168,904,9880000,2020-12-07,2007-02-08,5720000.0,72.73,22.307644999999997,114.012918
+42,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,H,3,2,18,A,919,776,8900000,2020-12-07,2014-12-22,6960000.0,27.87,22.294423,114.014961
+43,New Territories,Islands,Discovery Bay,Discovery Bay,Onda Court,1995-05-17,H,2,2,15,D,760,628,7800000,2020-12-04,2004-10-08,2580000.0,202.33,22.295434999999998,114.020238
+44,New Territories,Islands,Discovery Bay,Discovery Bay,25 Caperidge Drive,1990-06-01,,3,,G,A,1597,1384,16200000,2020-12-04,2009-01-08,9000000.0,80.0,22.295659999999998,114.02208999999999
+45,New Territories,Islands,Discovery Bay,Discovery Bay,33 Caperidge Drive,1990-06-01,,,,,D,1618,1359,14500000,2020-12-04,2010-11-26,10850000.0,33.64,22.29591,114.02248
+46,New Territories,Islands,Discovery Bay,Discovery Bay,Serene Court,2000-02-10,M,2,,10,B,0,555,7250000,2020-12-03,,0.0,0.0,22.292375999999997,114.016379
+47,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,M,1,,10,C,0,556,8009000,2020-12-02,,0.0,0.0,22.30756,114.01529
+48,New Territories,Islands,Discovery Bay,Discovery Bay,1 Caperidge Drive,1991-03-02,,3,,G,A,0,1171,16400000,2020-12-02,2015-04-01,14320000.0,14.530000000000001,22.294345999999997,114.02235
+49,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,L,2,2,6,E,661,545,5400000,2020-12-02,2009-02-12,2070000.0,160.87,22.294563,114.021821
+50,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,M,2,,17,C,860,629,7500000,2020-12-01,2018-05-28,7270000.0,3.16,22.307726,114.012096
+51,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,L,2,,2,E,0,763,10325000,2020-11-30,,0.0,0.0,22.30756,114.01529
+52,New Territories,Islands,Discovery Bay,Discovery Bay,Amalfi Three,2011-02-02,M,3,,7,D,958,753,8600000,2020-11-27,2012-11-21,8239000.0,4.38,22.307363,114.014762
+53,New Territories,Islands,Discovery Bay,Discovery Bay,23 Seabird Lane,1982-11-05,,,,2,G,0,1119,16000000,2020-11-26,2010-04-21,10800000.0,48.15,22.297672,114.01349
+54,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,M,1,,15,E,590,438,5150000,2020-11-26,2003-08-05,1542900.0,233.79,22.307726,114.012096
+55,New Territories,Islands,Discovery Bay,Discovery Bay,Block H2 (Seaview),1982-07-27,H,2,2,16,B,713,588,5650000,2020-11-25,1997-03-12,2800000.0,101.79,22.302550999999998,114.011782
+56,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6 (Premiep),2006-04-24,M,3,,9,F,1293,989,10000000,2020-11-24,2007-10-05,7638000.0,30.92,22.307340999999997,114.01395099999999
+57,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,L,2,,2,D,0,710,9494000,2020-11-24,,0.0,0.0,22.30756,114.01529
+58,New Territories,Islands,Discovery Bay,Discovery Bay,Amalfi Two,2011-02-02,H,3,,16,D,1215,953,13000000,2020-11-23,2013-02-06,14680000.0,-11.44,22.307230999999998,114.01449
+59,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,H,3,2,18,F,919,776,8280000,2020-11-20,2005-06-15,3400000.0,143.53,22.294521,114.014563
+60,New Territories,Islands,Discovery Bay,Discovery Bay,Celestial Mansion (Block H1),2002-07-30,M,3,,16,E,1200,864,9850000,2020-11-20,2009-09-14,5300000.0,85.85000000000001,22.307664,114.010687
+61,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,L,2,2,2,D,727,624,6680000,2020-11-20,2006-10-20,2130000.0,213.62,22.294738,114.012819
+62,New Territories,Islands,Discovery Bay,Discovery Bay,Blossom Court,1992-04-16,L,2,2,3,A,629,546,4920000,2020-11-19,,0.0,0.0,22.295603,114.024628
+63,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,H,2,,20,D,990,767,8450000,2020-11-18,2014-12-19,6900000.0,22.46,22.307644999999997,114.012918
+64,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,M,3,2,8,D,891,757,7700000,2020-11-17,2016-06-17,5800000.0,32.76,22.293332,114.023026
+65,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon I,2000-01-03,H,2,,23,C,752,578,6550000,2020-11-16,2017-11-21,6000000.0,9.17,22.307256,114.00962799999999
+66,New Territories,Islands,Discovery Bay,Discovery Bay,Costa Court,1995-05-17,M,2,,8,C,760,628,7250000,2020-11-16,2012-10-11,5600000.0,29.46,22.295717,114.020394
+67,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,L,2,,1,D,0,702,9192000,2020-11-16,,0.0,0.0,22.30756,114.01529
+68,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,H,2,,17,C,0,881,16020000,2020-11-13,,0.0,0.0,22.30754,114.015396
+69,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,H,3,2,17,C,865,744,7500000,2020-11-13,1998-10-13,2380000.0,215.13,22.304589,114.009774
+70,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,H,2,2,15,G,718,609,6380000,2020-11-13,1998-05-08,3050000.0,109.18,22.293332,114.023026
+71,New Territories,Islands,Discovery Bay,Discovery Bay,25 Seahorse Lane,1982-12-15,,3,,LG,B,0,1295,19700000,2020-11-12,2009-02-06,11400000.0,72.81,22.298326,114.01435
+72,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6 (Premiep),2006-04-24,H,1,,17,G,672,517,5650000,2020-11-12,2017-09-25,5180000.0,9.07,22.307340999999997,114.01395099999999
+73,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,H,3,2,15,F,919,776,8800000,2020-11-12,2016-11-23,7250000.0,21.38,22.294334,114.015333
+74,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,L,2,2,3,C,699,591,5750000,2020-11-12,2012-04-30,3600000.0,59.72,22.294334,114.015333
+75,New Territories,Islands,Discovery Bay,Discovery Bay,Db Plaza ( C ),1991-11-14,M,,,5,530,0,633,6350000,2020-11-11,2010-12-29,3650000.0,73.97,22.295209,114.016682
+76,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,H,3,2,16,A,919,776,8330000,2020-11-06,2015-02-18,7250000.0,14.9,22.294334,114.015333
+77,New Territories,Islands,Discovery Bay,Discovery Bay,Blossom Court,1992-04-16,L,2,2,2,D,628,545,4950000,2020-11-04,2014-11-07,4150000.0,19.28,22.295603,114.024628
+78,New Territories,Islands,Discovery Bay,Discovery Bay,Skyline Mansion (Block M2),2002-04-08,L,1,,5,H,648,482,5000000,2020-11-03,2011-02-25,2000000.0,150.0,22.3047,114.011723
+79,New Territories,Islands,Discovery Bay,Discovery Bay,Pine View,1985-09-13,L,2,2,4,A,870,729,8000000,2020-11-03,2017-07-07,6000000.0,33.33,22.296992,114.011149
+80,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,H,0,,21,E,472,398,4550000,2020-11-03,2015-09-15,3888000.0,17.03,22.294334,114.015333
+81,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,M,3,2,8,B,903,771,7000000,2020-11-02,2012-05-15,4850000.0,44.33,22.293332,114.023026
+82,New Territories,Islands,Discovery Bay,Discovery Bay,Graceful Mansion (Block H2),2002-07-30,H,3,,25,D,1165,844,10000000,2020-11-02,2015-12-18,8500000.0,17.650000000000002,22.3077505,114.0110951
+83,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6 (Premiep),2006-04-24,M,3,,12,F,1298,989,11500000,2020-10-30,2005-12-08,7338000.0,56.72,22.307340999999997,114.01395099999999
+84,New Territories,Islands,Discovery Bay,Discovery Bay,Costa Court,1995-05-17,M,1,,9,B,527,439,5700000,2020-10-29,2019-05-17,6000000.0,-5.0,22.295717,114.020394
+85,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5 (Lustre),2006-04-24,M,3,,12,F,1296,989,10650000,2020-10-29,2007-08-29,7140000.0,49.160000000000004,22.307326,114.013562
+86,New Territories,Islands,Discovery Bay,Discovery Bay,Woodgreen Court,1988-06-14,L,3,2,1,A,895,769,7550000,2020-10-29,2015-02-16,6000000.0,25.830000000000002,22.295666,114.01217
+87,New Territories,Islands,Discovery Bay,Discovery Bay,Block H1 (Starview),1982-08-05,M,1,2,9,F,530,440,4520000,2020-10-27,2006-05-17,1080000.0,318.52,22.302169,114.011488
+88,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,H,0,,16,E,472,398,4550000,2020-10-27,2011-01-21,1950000.0,133.33,22.294423,114.014961
+89,New Territories,Islands,Discovery Bay,Discovery Bay,Skyline Mansion (Block M2),2002-04-08,M,1,,8,D,678,501,5700000,2020-10-23,2015-07-08,4700000.0,21.28,22.3047,114.011723
+90,New Territories,Islands,Discovery Bay,Discovery Bay,Graceful Mansion (Block H2),2002-07-30,M,2,,17,C,858,629,7250000,2020-10-23,2012-11-14,5900000.0,22.88,22.3077505,114.0110951
+91,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5 (Lustre),2006-04-24,M,1,,15,G,673,517,5400000,2020-10-22,2010-04-09,2500000.0,116.0,22.307326,114.013562
+92,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,L,2,2,2,A,835,722,6650000,2020-10-22,2012-03-22,3900000.0,70.51,22.294738,114.012819
+93,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,L,2,,3,D,0,708,9661000,2020-10-21,,0.0,0.0,22.30756,114.01529
+94,New Territories,Islands,Discovery Bay,Discovery Bay,Greenfield Court,1990-05-24,H,3,2,22,D,1068,876,9000000,2020-10-20,2014-10-28,7600000.0,18.42,22.303828,114.010061
+95,New Territories,Islands,Discovery Bay,Discovery Bay,Costa Court,1995-05-17,H,1,,13,E,527,439,5700000,2020-10-19,2009-10-27,2400000.0,137.5,22.295717,114.020394
+96,New Territories,Islands,Discovery Bay,Discovery Bay,Skyline Mansion (Block M2),2002-04-08,M,1,,9,E,678,501,5650000,2020-10-19,2005-04-14,2400000.0,135.42000000000002,22.3047,114.011723
+97,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,H,3,2,20,F,919,776,8450000,2020-10-19,2009-11-11,4190000.0,101.67,22.294334,114.015333
+98,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,H,3,2,19,F,919,776,7800000,2020-10-19,2008-08-04,4050000.0,92.59,22.294334,114.015333
+99,New Territories,Islands,Discovery Bay,Discovery Bay,1 Vista Avenue,1994-09-09,,3,,2,B,976,877,9800000,2020-10-19,2010-04-14,5700000.0,71.93,22.293747,114.01777
+100,New Territories,Islands,Discovery Bay,Discovery Bay,42 Crestmont Villa,1994-10-24,,3,,G,A,1282,1108,14200000,2020-10-16,,0.0,0.0,22.297026,114.02421
+101,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon I,2000-01-03,L,1,,8,E,575,440,4550000,2020-10-12,2013-03-08,3300000.0,37.88,22.307256,114.00962799999999
+102,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,L,1,,9,E,592,438,5238000,2020-10-12,2010-12-01,2500000.0,109.52,22.307726,114.012096
+103,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,M,3,2,10,C,865,744,7200000,2020-10-12,2017-04-26,6000000.0,20.0,22.305273,114.009554
+104,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,H,2,,16,D,0,708,12934000,2020-10-06,,0.0,0.0,22.30756,114.01529
+105,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,M,0,,12,E,432,368,3690000,2020-10-05,2012-10-17,2300000.0,60.43,22.294738,114.012819
+106,New Territories,Islands,Discovery Bay,Discovery Bay,Block L48,2002-01-15,,3,,2,B,1235,962,12600000,2020-10-05,2016-12-16,10100000.0,24.75,22.305678,114.013451
+107,New Territories,Islands,Discovery Bay,Discovery Bay,Costa Court,1995-05-17,H,1,,18,F,527,439,5800000,2020-10-05,2000-11-25,2300000.0,152.17000000000002,22.295717,114.020394
+108,New Territories,Islands,Discovery Bay,Discovery Bay,Woodgreen Court,1988-06-14,H,3,2,17,C,1134,980,8000000,2020-09-29,2008-05-21,5600000.0,42.86,22.295666,114.01217
+109,New Territories,Islands,Discovery Bay,Discovery Bay,Costa Court,1995-05-17,M,1,,9,E,527,439,5360000,2020-09-28,1997-05-02,3880000.0,38.14,22.295717,114.020394
+110,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,M,2,2,12,F,796,689,7100000,2020-09-28,2012-10-15,4950000.0,43.43,22.294738,114.012819
+111,New Territories,Islands,Discovery Bay,Discovery Bay,Greenburg Court,1990-05-24,L,3,2,8,C,1068,876,8150000,2020-09-28,2007-11-20,3050000.0,167.21,22.303431999999997,114.010239
+112,New Territories,Islands,Discovery Bay,Discovery Bay,Onda Court,1995-05-17,L,2,2,6,C,760,628,6800000,2020-09-25,2009-05-25,2620000.0,159.54,22.295434999999998,114.020238
+113,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,0,,8,F,0,350,5293000,2020-09-25,2019-04-16,5410000.0,-2.16,22.30752,114.0151
+114,New Territories,Islands,Discovery Bay,Discovery Bay,Pine View,1985-09-13,M,2,2,10,C,831,703,6000000,2020-09-25,2013-05-03,4650000.0,29.03,22.296992,114.011149
+115,New Territories,Islands,Discovery Bay,Discovery Bay,Pine View,1985-09-13,M,2,2,10,A,870,729,7880000,2020-09-25,2008-04-10,3450000.0,128.41,22.296992,114.011149
+116,New Territories,Islands,Discovery Bay,Discovery Bay,Crestine Mansion (Block M1),2002-04-08,M,3,,9,A,1108,809,9150000,2020-09-25,2016-12-07,8700000.0,5.17,22.304298,114.011966
+117,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,L,1,,6,B,0,551,7628000,2020-09-24,,0.0,0.0,22.30756,114.01529
+118,New Territories,Islands,Discovery Bay,Discovery Bay,Celestial Mansion (Block H1),2002-07-30,H,2,,27,A,832,600,6360000,2020-09-23,2009-12-28,2638000.0,141.09,22.307664,114.010687
+119,New Territories,Islands,Discovery Bay,Discovery Bay,Celestial Mansion (Block H1),2002-07-30,M,3,,15,C,1135,840,9530000,2020-09-23,2011-06-16,6510000.0,46.39,22.307664,114.010687
+120,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,H,3,2,17,F,919,776,8250000,2020-09-22,2011-10-18,5600000.0,47.32,22.294334,114.015333
+121,New Territories,Islands,Discovery Bay,Discovery Bay,Joyful Mansion (Block H3),2002-07-30,M,3,,15,C,1122,825,9300000,2020-09-22,2012-08-02,6500000.0,43.08,22.307577,114.011718
+122,New Territories,Islands,Discovery Bay,Discovery Bay,Block 30,2002-07-30,L,1,,1,C,565,442,5280000,2020-09-22,2008-02-28,2400000.0,120.0,22.306894999999997,114.010745
+123,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,L,4,2,5,F,1088,947,8500000,2020-09-21,2016-07-05,6850000.0,24.09,22.306207999999998,114.009702
+124,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,H,0,,15,E,472,398,4550000,2020-09-21,2016-08-17,3750000.0,21.330000000000002,22.294521,114.014563
+125,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,L,3,2,3,E,891,757,7340000,2020-09-21,2006-02-21,2850000.0,157.54,22.293332,114.023026
+126,New Territories,Islands,Discovery Bay,Discovery Bay,Block H4 (Mountain View),1982-06-26,L,1,2,5,E,530,440,4340000,2020-09-21,2013-01-31,2812000.0,54.34,22.302999,114.011104
+127,New Territories,Islands,Discovery Bay,Discovery Bay,Block 3 (Hemex),2006-04-24,M,3,,15,A,1160,892,9258000,2020-09-17,2007-10-08,5738000.0,61.35,22.307316,114.013199
+128,New Territories,Islands,Discovery Bay,Discovery Bay,Graceful Mansion (Block H2),2002-07-30,M,2,,15,A,933,660,7000000,2020-09-15,2009-09-03,2930000.0,138.91,22.3077505,114.0110951
+129,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,L,1,,3,B,0,551,7394000,2020-09-15,,0.0,0.0,22.30756,114.01529
+130,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,M,1,,9,C,0,556,7941000,2020-09-15,,0.0,0.0,22.30756,114.01529
+131,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,M,2,,9,E,0,763,12689000,2020-09-11,,0.0,0.0,22.30756,114.01529
+132,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,L,2,2,3,A,665,545,4700000,2020-09-11,1999-04-19,1680000.0,179.76,22.294563,114.021821
+133,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,H,3,,17,A,0,1066,20804000,2020-09-07,,0.0,0.0,22.30756,114.01529
+134,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,H,1,,17,C,0,556,8746000,2020-09-07,,0.0,0.0,22.30756,114.01529
+135,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,H,2,,17,D,0,708,13663000,2020-09-07,,0.0,0.0,22.30756,114.01529
+136,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,H,1,,17,B,0,551,8715000,2020-09-07,,0.0,0.0,22.30756,114.01529
+137,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,H,2,,17,E,0,763,14872000,2020-09-07,,0.0,0.0,22.30756,114.01529
+138,New Territories,Islands,Discovery Bay,Discovery Bay,Block L18,2011-02-02,,3,,2,D,0,1708,21500000,2020-09-04,2015-02-10,29705000.0,-27.62,22.307045,114.015063
+139,New Territories,Islands,Discovery Bay,Discovery Bay,Skyline Mansion (Block M2),2002-04-08,M,2,,10,F,850,617,7500000,2020-09-04,2005-03-22,4000000.0,87.5,22.3047,114.011723
+140,New Territories,Islands,Discovery Bay,Discovery Bay,Vista Court,1994-09-09,L,2,2,1,C,781,619,7250000,2020-09-04,2015-12-31,5900000.0,22.88,22.293454999999998,114.017951
+141,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,M,3,2,10,C,891,757,8000000,2020-08-31,2002-05-14,2250000.0,255.56,22.293332,114.023026
+142,New Territories,Islands,Discovery Bay,Discovery Bay,Blossom Court,1992-04-16,L,1,2,4,B,472,410,4180000,2020-08-28,2005-09-30,1160000.0,260.34000000000003,22.295603,114.024628
+143,New Territories,Islands,Discovery Bay,Discovery Bay,35 Seahorse Lane,1983-01-13,,3,,G,D,0,1442,18500000,2020-08-28,2007-05-08,13320000.0,38.89,22.299256999999997,114.01408
+144,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,M,3,2,9,A,919,776,8200000,2020-08-28,2012-07-18,5800000.0,41.38,22.294521,114.014563
+145,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,H,3,,15,B,0,1379,26220000,2020-08-26,,0.0,0.0,22.30754,114.015396
+146,New Territories,Islands,Discovery Bay,Discovery Bay,Onda Court,1995-05-17,L,1,2,3,F,527,439,5450000,2020-08-25,2013-12-17,4310000.0,26.45,22.295434999999998,114.020238
+147,New Territories,Islands,Discovery Bay,Discovery Bay,Db Plaza ( C ),1991-11-14,M,,,5,27,0,662,6300000,2020-08-25,2016-08-15,6350000.0,-0.79,22.295209,114.016682
+148,New Territories,Islands,Discovery Bay,Discovery Bay,10  La Costa,1995-05-17,,3,,2,A,0,929,11800000,2020-08-21,,0.0,0.0,22.295361999999997,114.01855499999999
+149,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,H,3,,20,A,1170,915,10130000,2020-08-20,2017-06-21,10100000.0,0.3,22.307644999999997,114.012918
+150,New Territories,Islands,Discovery Bay,Discovery Bay,Bay View,1985-09-13,L,2,2,2,C,830,703,6600000,2020-08-18,2010-12-09,2580000.0,155.81,22.297698,114.011168
+151,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,M,2,2,8,C,727,624,7000000,2020-08-17,,0.0,0.0,22.294363,114.012951
+152,New Territories,Islands,Discovery Bay,Discovery Bay,Costa Court,1995-05-17,L,2,,3,D,760,628,6700000,2020-08-17,2007-09-21,3000000.0,123.33,22.295717,114.020394
+153,New Territories,Islands,Discovery Bay,Discovery Bay,Woodland Court,1988-06-14,L,3,,4,A,895,769,7980000,2020-08-14,2011-02-09,4400000.0,81.36,22.295372,114.012336
+154,New Territories,Islands,Discovery Bay,Discovery Bay,Pine View,1985-09-13,L,2,2,3,C,831,703,6000000,2020-08-13,2017-08-02,5400000.0,11.11,22.296992,114.011149
+155,New Territories,Islands,Discovery Bay,Discovery Bay,Onda Court,1995-05-17,H,2,2,16,C,760,628,7630000,2020-08-13,2011-03-10,3830000.0,99.22,22.295434999999998,114.020238
+156,New Territories,Islands,Discovery Bay,Discovery Bay,9 Parkland Drive,1987-09-30,,3,,1,D,1259,1183,11300000,2020-08-11,,0.0,0.0,22.30366,114.012505
+157,New Territories,Islands,Discovery Bay,Discovery Bay,27 Caperidge Drive,1990-06-01,,3,,G,B,1594,1381,17500000,2020-08-11,,0.0,0.0,22.295724999999997,114.02219
+158,New Territories,Islands,Discovery Bay,Discovery Bay,Woodland Court,1988-06-14,L,3,,1,C,1134,980,10800000,2020-08-10,2011-02-02,6060000.0,78.22,22.295372,114.012336
+159,New Territories,Islands,Discovery Bay,Discovery Bay,Block 10,2002-07-30,,3,,1,A,1362,1058,13300000,2020-08-07,2011-04-15,9280000.0,43.32,22.305056999999998,114.010381
+160,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,H,1,,12,C,0,556,8176000,2020-08-05,,0.0,0.0,22.30756,114.01529
+161,New Territories,Islands,Discovery Bay,Discovery Bay,Block 32,2002-07-30,M,,,3,D,590,451,5300000,2020-08-05,2017-03-03,4820000.0,9.96,22.306936999999998,114.011116
+162,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,H,1,,15,B,0,551,8224000,2020-08-05,,0.0,0.0,22.30756,114.01529
+163,New Territories,Islands,Discovery Bay,Discovery Bay,Greenburg Court,1990-05-24,M,2,2,16,F,856,693,6480000,2020-08-05,2011-02-01,3200000.0,102.5,22.303431999999997,114.010239
+164,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,H,2,,15,E,0,763,13823000,2020-08-05,,0.0,0.0,22.30756,114.01529
+165,New Territories,Islands,Discovery Bay,Discovery Bay,5 Vista Avenue,1994-09-09,,3,,3,A,948,850,10000000,2020-08-04,2015-01-29,8200000.0,21.95,22.294307999999997,114.01843
+166,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,2,,6,C,0,715,10032000,2020-08-03,,0.0,0.0,22.30752,114.0151
+167,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,H,3,2,23,D,999,870,7800000,2020-07-31,2011-02-24,5900000.0,32.2,22.305875999999998,114.009446
+168,New Territories,Islands,Discovery Bay,Discovery Bay,Block 46,2002-07-30,H,,,6,C,565,442,5450000,2020-07-30,2004-07-28,2076000.0,162.52,22.307108,114.01228499999999
+169,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,2,,9,C,0,715,10541000,2020-07-29,,0.0,0.0,22.30752,114.0151
+170,New Territories,Islands,Discovery Bay,Discovery Bay,1 Parkvale Drive,1987-10-23,,1,,4,B,0,449,4500000,2020-07-29,2012-03-28,3060000.0,47.06,22.294697,114.01336
+171,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,L,3,2,4,C,859,709,6600000,2020-07-29,2004-04-24,1490000.0,342.95,22.294563,114.021821
+172,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,L,2,2,1,H,776,649,4500000,2020-07-28,2009-08-20,1700000.0,164.71,22.306207999999998,114.009702
+173,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,L,1,,5,C,0,556,7540000,2020-07-28,,0.0,0.0,22.30756,114.01529
+174,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,L,3,2,5,D,999,870,7900000,2020-07-28,2010-05-18,3900000.0,102.56,22.305875999999998,114.009446
+175,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,M,2,,12,A,747,580,6580000,2020-07-28,2016-12-13,5100000.0,29.02,22.307591,114.009801
+176,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,L,3,2,1,G,868,757,5500000,2020-07-28,2008-02-04,1930000.0,184.97,22.306207999999998,114.009702
+177,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,L,2,2,1,H,776,649,5100000,2020-07-27,2008-07-03,2450000.0,108.16,22.306808999999998,114.0095
+178,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,L,3,2,3,A,889,755,6500000,2020-07-27,2012-03-16,4000000.0,62.5,22.293332,114.023026
+179,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,L,3,2,1,G,868,757,5500000,2020-07-27,2008-07-03,2750000.0,100.0,22.306808999999998,114.0095
+180,New Territories,Islands,Discovery Bay,Discovery Bay,Costa Court,1995-05-17,M,2,,11,C,760,628,7180000,2020-07-24,,0.0,0.0,22.295717,114.020394
+181,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,M,2,,19,A,750,582,6400000,2020-07-23,2000-09-16,2388000.0,168.01,22.307591,114.009801
+182,New Territories,Islands,Discovery Bay,Discovery Bay,Woodgreen Court,1988-06-14,M,3,2,8,C,1134,980,10000000,2020-07-22,1997-07-23,6850000.0,45.99,22.295666,114.01217
+183,New Territories,Islands,Discovery Bay,Discovery Bay,Block H2 (Seaview),1982-07-27,L,1,2,2,E,530,440,4480000,2020-07-22,2011-02-09,1720000.0,160.47,22.302550999999998,114.011782
+184,New Territories,Islands,Discovery Bay,Discovery Bay,Block H1 (Starview),1982-08-05,M,1,2,11,F,530,440,4520000,2020-07-22,2007-05-25,1150000.0,293.04,22.302169,114.011488
+185,New Territories,Islands,Discovery Bay,Discovery Bay,Block 9,2000-02-10,,3,,5,B,0,1405,17500000,2020-07-21,,0.0,0.0,22.292693999999997,114.016985
+186,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,H,2,,22,A,750,582,6210000,2020-07-21,2017-02-09,5580000.0,11.290000000000001,22.307591,114.009801
+187,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,2,,8,C,0,715,10412000,2020-07-21,,0.0,0.0,22.30752,114.0151
+188,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,M,3,,18,A,1195,915,10000000,2020-07-21,2009-09-01,6450000.0,55.04,22.307644999999997,114.012918
+189,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,L,0,,4,B,472,398,4300000,2020-07-20,2013-07-03,2860000.0,50.35,22.294334,114.015333
+190,New Territories,Islands,Discovery Bay,Discovery Bay,Serene Court,2000-02-10,H,2,,12,B,0,555,7450000,2020-07-20,,0.0,0.0,22.292375999999997,114.016379
+191,New Territories,Islands,Discovery Bay,Discovery Bay,Amalfi Two,2011-02-02,M,3,,7,E,876,689,8800000,2020-07-17,2013-01-02,7708800.0,14.16,22.307230999999998,114.01449
+192,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,H,4,2,19,F,1088,947,9330000,2020-07-17,2014-04-24,6450000.0,44.65,22.306207999999998,114.009702
+193,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,H,4,2,21,C,1088,947,9500000,2020-07-16,2012-06-04,6000000.0,58.33,22.306207999999998,114.009702
+194,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,H,3,2,12,B,903,771,7000000,2020-07-15,2002-09-13,1970000.0,255.33,22.293332,114.023026
+195,New Territories,Islands,Discovery Bay,Discovery Bay,23 Seabird Lane,1982-11-05,,,,1,E,0,962,9825000,2020-07-14,2009-08-24,6900000.0,42.39,22.297672,114.01349
+196,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,H,2,2,23,H,776,649,6600000,2020-07-14,2008-04-09,2130000.0,209.86,22.306808999999998,114.0095
+197,New Territories,Islands,Discovery Bay,Discovery Bay,6  La Costa,1995-05-17,,,,4,A,0,1183,15500000,2020-07-13,,0.0,0.0,22.295375999999997,114.01813
+198,New Territories,Islands,Discovery Bay,Discovery Bay,Block 1 (Pavilion),2006-04-24,L,2,,6,G,1022,780,8450000,2020-07-10,2015-09-08,7450000.0,13.42,22.308004999999998,114.012901
+199,New Territories,Islands,Discovery Bay,Discovery Bay,44 Coastline Villa,1996-04-22,,,,4,A,0,1903,25380000,2020-07-10,2007-07-04,6000000.0,323.0,22.295279999999998,114.02525
+200,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,M,1,,8,C,0,556,7863000,2020-07-09,,0.0,0.0,22.30756,114.01529
+201,New Territories,Islands,Discovery Bay,Discovery Bay,Block 3 (Hemex),2006-04-24,H,1,,19,G,672,517,5700000,2020-07-09,2014-07-25,4000000.0,42.5,22.307316,114.013199
+202,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,L,0,,4,E,472,398,4400000,2020-07-08,1997-12-30,2480000.0,77.42,22.294334,114.015333
+203,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,2,,1,C,0,715,9641000,2020-07-08,,0.0,0.0,22.30752,114.0151
+204,New Territories,Islands,Discovery Bay,Discovery Bay,Greenland Court,1991-12-10,M,3,2,7,C,865,744,7280000,2020-07-07,2013-02-18,5280000.0,37.88,22.304947,114.009637
+205,New Territories,Islands,Discovery Bay,Discovery Bay,Haven Court,1990-04-03,M,3,2,10,D,889,755,7100000,2020-07-06,2010-02-02,3180000.0,123.27,22.293629,114.022786
+206,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,H,0,,18,E,472,398,4500000,2020-07-06,2014-12-24,3600000.0,25.0,22.294521,114.014563
+207,New Territories,Islands,Discovery Bay,Discovery Bay,Celestial Mansion (Block H1),2002-07-30,H,2,,28,A,832,600,7000000,2020-07-06,2002-10-11,2209880.0,216.76,22.307664,114.010687
+208,New Territories,Islands,Discovery Bay,Discovery Bay,Celestial Mansion (Block H1),2002-07-30,L,2,,8,A,830,597,6280000,2020-07-06,2004-07-28,2168000.0,189.67000000000002,22.307664,114.010687
+209,New Territories,Islands,Discovery Bay,Discovery Bay,Greenfield Court,1990-05-24,L,1,2,7,E,517,439,4450000,2020-07-03,2012-11-08,3180000.0,39.94,22.303828,114.010061
+210,New Territories,Islands,Discovery Bay,Discovery Bay,Skyline Mansion (Block M2),2002-04-08,L,1,,3,A,648,482,4800000,2020-07-03,2008-10-24,2400000.0,100.0,22.3047,114.011723
+211,New Territories,Islands,Discovery Bay,Discovery Bay,Block H2 (Seaview),1982-07-27,H,1,2,17,F,530,440,4650000,2020-07-03,2005-05-23,1160000.0,300.86,22.302550999999998,114.011782
+212,New Territories,Islands,Discovery Bay,Discovery Bay,Woodgreen Court,1988-06-14,L,3,2,6,D,895,769,7800000,2020-07-02,1998-12-16,2250000.0,246.67000000000002,22.295666,114.01217
+213,New Territories,Islands,Discovery Bay,Discovery Bay,8 Vista Avenue,1994-09-09,,3,,3,A,1026,924,10800000,2020-07-02,,0.0,0.0,22.294067,114.01846
+214,New Territories,Islands,Discovery Bay,Discovery Bay,Clear View,1985-09-13,M,0,,8,B,606,478,5000000,2020-07-02,,0.0,0.0,22.297888999999998,114.010983
+215,New Territories,Islands,Discovery Bay,Discovery Bay,Block 42,2002-07-30,H,,,6,D,590,451,5590000,2020-06-29,2020-03-13,6000000.0,-6.83,22.307109999999998,114.012047
+216,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,L,3,2,5,G,868,757,6800000,2020-06-29,2016-11-30,5700000.0,19.3,22.306207999999998,114.009702
+217,New Territories,Islands,Discovery Bay,Discovery Bay,Greenburg Court,1990-05-24,M,1,2,11,B,517,439,4530000,2020-06-29,2009-07-07,1800000.0,151.67000000000002,22.303431999999997,114.010239
+218,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,2,,5,C,0,715,9905000,2020-06-29,,0.0,0.0,22.30752,114.0151
+219,New Territories,Islands,Discovery Bay,Discovery Bay,Costa Court,1995-05-17,L,1,,2,F,527,439,5680000,2020-06-24,2004-12-24,1680000.0,238.1,22.295717,114.020394
+220,New Territories,Islands,Discovery Bay,Discovery Bay,Woodland Court,1988-06-14,H,3,,15,C,1134,980,10000000,2020-06-23,2014-06-05,7800000.0,28.21,22.295372,114.012336
+221,New Territories,Islands,Discovery Bay,Discovery Bay,Woodgreen Court,1988-06-14,L,3,2,1,C,1134,980,10000000,2020-06-22,2015-09-09,8700000.0,14.94,22.295666,114.01217
+222,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,H,3,2,17,D,891,757,8000000,2020-06-19,2012-05-11,4680000.0,70.94,22.293332,114.023026
+223,New Territories,Islands,Discovery Bay,Discovery Bay,1 Seabee Lane,1983-01-13,,3,,UG,D,0,962,12500000,2020-06-19,2009-07-08,8100000.0,54.32,22.3006463,114.0135321
+224,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,M,3,2,9,F,919,776,7900000,2020-06-19,2008-06-04,4120000.0,91.75,22.294521,114.014563
+225,New Territories,Islands,Discovery Bay,Discovery Bay,Block 46,2002-07-30,L,,,2,B,585,457,5700000,2020-06-19,2017-03-31,4700000.0,21.28,22.307108,114.01228499999999
+226,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,M,3,2,11,G,868,757,7000000,2020-06-17,2008-06-17,2600000.0,169.23,22.306207999999998,114.009702
+227,New Territories,Islands,Discovery Bay,Discovery Bay,Woodgreen Court,1988-06-14,H,3,2,16,C,1134,980,10800000,2020-06-17,2007-05-14,4550000.0,137.36,22.295666,114.01217
+228,New Territories,Islands,Discovery Bay,Discovery Bay,Block 30,2002-07-30,M,,,3,D,590,451,5100000,2020-06-16,2003-07-19,1714980.0,197.38,22.306894999999997,114.010745
+229,New Territories,Islands,Discovery Bay,Discovery Bay,Onda Court,1995-05-17,M,1,2,8,B,527,439,5480000,2020-06-16,2012-05-17,3100000.0,76.77,22.295434999999998,114.020238
+230,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,M,0,,14,E,432,368,4300000,2020-06-15,2015-03-26,3810000.0,12.86,22.294363,114.012951
+231,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,L,2,2,3,A,776,649,6180000,2020-06-12,2015-07-03,5700000.0,8.42,22.306207999999998,114.009702
+232,New Territories,Islands,Discovery Bay,Discovery Bay,22  La Costa,1995-05-17,,3,,1,A,0,929,11800000,2020-06-12,,0.0,0.0,22.295149,114.01958
+233,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,L,3,2,7,D,999,870,8350000,2020-06-12,2009-06-01,3300000.0,153.03,22.305875999999998,114.009446
+234,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,M,3,2,13,B,868,757,7180000,2020-06-12,2004-11-09,1750000.0,310.29,22.306808999999998,114.0095
+235,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,M,3,2,12,A,919,776,8150000,2020-06-11,2002-06-19,1820000.0,347.8,22.294423,114.014961
+236,New Territories,Islands,Discovery Bay,Discovery Bay,3 Vista Avenue,1994-09-09,,3,,G,B,961,864,11600000,2020-06-11,,0.0,0.0,22.294043,114.01813
+237,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,H,2,,15,C,0,881,15151000,2020-06-11,,0.0,0.0,22.30754,114.015396
+238,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,L,1,2,6,F,533,456,4600000,2020-06-11,2015-03-17,1700000.0,170.59,22.305273,114.009554
+239,New Territories,Islands,Discovery Bay,Discovery Bay,Block H4 (Mountain View),1982-06-26,M,2,2,10,C,713,588,5830000,2020-06-10,2012-01-26,3510000.0,66.1,22.302999,114.011104
+240,New Territories,Islands,Discovery Bay,Discovery Bay,46 Coastline Villa,1996-04-22,,3,,2,B,0,1314,14000000,2020-06-10,,0.0,0.0,22.295513,114.02525
+241,New Territories,Islands,Discovery Bay,Discovery Bay,Greenfield Court,1990-05-24,L,1,2,1,E,517,450,4088000,2020-06-09,2014-10-30,3200000.0,27.75,22.303828,114.010061
+242,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,H,2,2,20,H,776,649,6000000,2020-06-08,2013-10-18,4300000.0,39.53,22.306207999999998,114.009702
+243,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,H,3,2,18,E,999,870,8600000,2020-06-05,2011-07-08,4950000.0,73.74,22.306808999999998,114.0095
+244,New Territories,Islands,Discovery Bay,Discovery Bay,Clear View,1985-09-13,M,0,,7,D,570,453,4280000,2020-06-04,1997-08-05,2800000.0,52.86,22.297888999999998,114.010983
+245,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,M,0,,12,E,472,398,4575000,2020-06-04,2013-11-26,3175000.0,44.09,22.294334,114.015333
+246,New Territories,Islands,Discovery Bay,Discovery Bay,Clear View,1985-09-13,L,0,,4,A,583,468,4900000,2020-06-03,2012-10-15,3500000.0,40.0,22.297888999999998,114.010983
+247,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,L,3,2,6,D,999,870,8000000,2020-06-03,2013-04-12,6330000.0,26.38,22.305875999999998,114.009446
+248,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,H,2,2,14,E,689,592,6180000,2020-06-01,2017-03-30,5700000.0,8.42,22.304589,114.009774
+249,New Territories,Islands,Discovery Bay,Discovery Bay,Woodgreen Court,1988-06-14,M,3,2,11,A,895,769,7780000,2020-06-01,2010-03-19,3900000.0,99.49000000000001,22.295666,114.01217
+250,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,L,2,2,3,H,776,649,5900000,2020-05-29,2013-10-29,4200000.0,40.480000000000004,22.305875999999998,114.009446
+251,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,L,2,2,3,D,727,624,7100000,2020-05-29,2017-05-19,6300000.0,12.700000000000001,22.294363,114.012951
+252,New Territories,Islands,Discovery Bay,Discovery Bay,Onda Court,1995-05-17,M,1,2,8,F,527,439,5550000,2020-05-29,2007-12-10,2120000.0,161.79,22.295434999999998,114.020238
+253,New Territories,Islands,Discovery Bay,Discovery Bay,14 Caperidge Drive,1990-06-01,,,,G,B,1595,1381,15890000,2020-05-28,,0.0,0.0,22.295858,114.02171
+254,New Territories,Islands,Discovery Bay,Discovery Bay,Woodgreen Court,1988-06-14,M,3,2,9,D,895,769,7600000,2020-05-27,2003-12-05,1500000.0,406.67,22.295666,114.01217
+255,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,H,3,,19,A,1195,915,10050000,2020-05-27,2005-12-09,5795000.0,73.43,22.307644999999997,114.012918
+256,New Territories,Islands,Discovery Bay,Discovery Bay,Jovial Court,1990-04-03,L,3,2,2,D,889,755,6900000,2020-05-27,,0.0,0.0,22.293784,114.022455
+257,New Territories,Islands,Discovery Bay,Discovery Bay,Block H1 (Starview),1982-08-05,L,2,2,5,C,713,588,5900000,2020-05-26,1997-04-23,3150000.0,87.3,22.302169,114.011488
+258,New Territories,Islands,Discovery Bay,Discovery Bay,1 Parkland Drive,1987-09-30,,3,,3,H,1259,1183,11900000,2020-05-26,2008-01-15,7550000.0,57.620000000000005,22.30293,114.01236
+259,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,L,3,,9,F,813,624,6400000,2020-05-25,2015-10-07,5830000.0,9.78,22.307591,114.009801
+260,New Territories,Islands,Discovery Bay,Discovery Bay,Block 32,2002-07-30,L,1,,1,B,585,457,5250000,2020-05-25,2010-08-12,2330000.0,125.32000000000001,22.306936999999998,114.011116
+261,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,M,3,2,8,A,919,776,7600000,2020-05-22,2009-06-19,3280000.0,131.71,22.294423,114.014961
+262,New Territories,Islands,Discovery Bay,Discovery Bay,Skyline Mansion (Block M2),2002-04-08,L,2,,7,F,850,617,7500000,2020-05-22,2004-06-24,3150000.0,138.1,22.3047,114.011723
+263,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,H,3,2,20,B,868,757,6570000,2020-05-21,2013-02-18,4600000.0,42.83,22.306207999999998,114.009702
+264,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,L,3,2,1,F,859,709,6710000,2020-05-21,2015-10-22,5800000.0,15.69,22.294563,114.021821
+265,New Territories,Islands,Discovery Bay,Discovery Bay,Block H2 (Seaview),1982-07-27,L,2,2,1,B,713,588,5650000,2020-05-21,,0.0,0.0,22.302550999999998,114.011782
+266,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,M,3,,8,A,0,1200,18500000,2020-05-20,,0.0,0.0,22.30754,114.015396
+267,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,M,2,2,11,C,727,624,7100000,2020-05-20,,0.0,0.0,22.294738,114.012819
+268,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,H,0,,17,B,472,398,4500000,2020-05-20,2019-08-12,4700000.0,-4.26,22.294423,114.014961
+269,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,H,2,2,20,B,713,588,6000000,2020-05-19,2007-04-19,1630000.0,268.1,22.302934,114.01157
+270,New Territories,Islands,Discovery Bay,Discovery Bay,Greenland Court,1991-12-10,M,3,2,10,D,865,744,7350000,2020-05-18,2015-07-16,6200000.0,18.55,22.304947,114.009637
+271,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,H,2,,21,B,786,608,6520000,2020-05-18,2008-05-26,2965000.0,119.9,22.307591,114.009801
+272,New Territories,Islands,Discovery Bay,Discovery Bay,Amalfi One,2011-02-02,L,,,5,SA,2083,1533,16300000,2020-05-14,2014-02-07,14032000.0,16.16,22.307036999999998,114.014293
+273,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,L,2,2,1,C,727,624,6300000,2020-05-11,2012-08-22,4080000.0,54.410000000000004,22.294363,114.012951
+274,New Territories,Islands,Discovery Bay,Discovery Bay,Cherish Court,1992-04-16,L,3,2,1,F,814,708,6800000,2020-05-07,2012-08-06,3880000.0,75.26,22.295914999999997,114.0250171
+275,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,H,2,2,16,D,727,624,7100000,2020-05-06,2007-02-21,2348000.0,202.39000000000001,22.294363,114.012951
+276,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon I,2000-01-03,H,1,,25,D,638,487,5500000,2020-05-05,2015-01-08,3700000.0,48.65,22.307256,114.00962799999999
+277,New Territories,Islands,Discovery Bay,Discovery Bay,Blossom Court,1992-04-16,M,3,2,8,C,814,708,7000000,2020-05-05,1997-02-26,4180000.0,67.46000000000001,22.295603,114.024628
+278,New Territories,Islands,Discovery Bay,Discovery Bay,6 Vista Avenue,1994-09-09,,3,,1,B,1016,914,10000000,2020-05-04,2012-04-25,7450000.0,34.230000000000004,22.294600000000003,114.01850999999999
+279,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,M,2,2,12,A,776,649,6250000,2020-04-29,2008-01-11,1800000.0,247.22,22.306207999999998,114.009702
+280,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,M,3,2,10,B,868,757,7000000,2020-04-28,2009-09-07,2300000.0,204.35,22.305875999999998,114.009446
+281,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,L,2,,10,B,800,580,6170000,2020-04-28,2004-08-12,2245400.0,174.78,22.307726,114.012096
+282,New Territories,Islands,Discovery Bay,Discovery Bay,46 Crestmont Villa,1994-10-24,,3,,G,B,1268,1108,13100000,2020-04-27,2006-06-22,7350000.0,78.23,22.297038999999998,114.024506
+283,New Territories,Islands,Discovery Bay,Discovery Bay,Clear View,1985-09-13,L,0,,3,E,570,453,4200000,2020-04-24,2017-04-21,3800000.0,10.53,22.297888999999998,114.010983
+284,New Territories,Islands,Discovery Bay,Discovery Bay,Haven Court,1990-04-03,L,3,2,1,B,903,771,6800000,2020-04-23,2015-04-15,5870000.0,15.84,22.293629,114.022786
+285,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,H,1,2,12,B,496,411,4600000,2020-04-22,2008-07-08,1550000.0,196.77,22.294563,114.021821
+286,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,L,3,2,5,A,919,776,7480000,2020-04-22,,0.0,0.0,22.294521,114.014563
+287,New Territories,Islands,Discovery Bay,Discovery Bay,16 Caperidge Drive,1990-06-01,,3,,G,B,1595,1381,16600000,2020-04-21,,0.0,0.0,22.29591,114.021805
+288,New Territories,Islands,Discovery Bay,Discovery Bay,Greenery Court,1990-05-24,L,3,2,5,C,1068,876,7650000,2020-04-21,2011-02-16,3600000.0,112.5,22.303098,114.010329
+289,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,L,3,,9,A,1195,915,9980000,2020-04-17,,0.0,0.0,22.307644999999997,114.012918
+290,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,H,0,,15,B,432,368,3300000,2020-04-17,2016-08-24,3200000.0,3.13,22.294738,114.012819
+291,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5 (Lustre),2006-04-24,M,1,,15,D,798,625,7300000,2020-04-15,2012-10-16,5410000.0,34.94,22.307326,114.013562
+292,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,H,3,2,24,D,999,870,8700000,2020-04-14,2016-12-09,7450000.0,16.78,22.306207999999998,114.009702
+293,New Territories,Islands,Discovery Bay,Discovery Bay,Block H2 (Seaview),1982-07-27,M,2,2,9,D,713,588,6360000,2020-04-09,2012-08-17,4060000.0,56.65,22.302550999999998,114.011782
+294,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,L,2,,9,C,862,628,7200000,2020-04-07,2012-11-09,3990000.0,80.45,22.307726,114.012096
+295,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,H,2,2,15,A,835,722,7200000,2020-04-07,2016-08-26,6000000.0,20.0,22.294738,114.012819
+296,New Territories,Islands,Discovery Bay,Discovery Bay,Woodgreen Court,1988-06-14,H,3,2,18,B,1134,980,10800000,2020-04-07,2009-05-05,4600000.0,134.78,22.295666,114.01217
+297,New Territories,Islands,Discovery Bay,Discovery Bay,46 Crestmont Villa,1994-10-24,,3,,2,A,1298,1108,11500000,2020-04-07,2016-08-08,10280000.0,11.870000000000001,22.297038999999998,114.024506
+298,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,H,3,,15,A,0,1066,19660000,2020-04-02,,0.0,0.0,22.30756,114.01529
+299,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,H,2,,12,E,0,763,14038000,2020-03-31,,0.0,0.0,22.30756,114.01529
+300,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,M,1,2,9,G,496,411,4600000,2020-03-31,2014-01-08,3115000.0,47.67,22.294563,114.021821
+301,New Territories,Islands,Discovery Bay,Discovery Bay,32 Crestmont Villa,1994-10-24,,3,,4,B,0,1436,18500000,2020-03-30,2007-10-18,10000000.0,85.0,22.296816,114.02347
+302,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,M,3,,10,A,0,1200,19000000,2020-03-30,,0.0,0.0,22.30754,114.015396
+303,New Territories,Islands,Discovery Bay,Discovery Bay,32 Crestmont Villa,1994-10-24,,3,,3,B,0,1108,11200000,2020-03-30,,0.0,0.0,22.296816,114.02347
+304,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,L,1,2,5,F,533,456,4300000,2020-03-27,2009-10-05,1430000.0,200.70000000000002,22.305273,114.009554
+305,New Territories,Islands,Discovery Bay,Discovery Bay,Blossom Court,1992-04-16,M,1,2,7,G,472,410,4500000,2020-03-26,2016-06-17,3500000.0,28.57,22.295603,114.024628
+306,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5 (Lustre),2006-04-24,L,3,,3,C,1350,995,11330000,2020-03-26,2016-10-28,9000000.0,25.89,22.307326,114.013562
+307,New Territories,Islands,Discovery Bay,Discovery Bay,Skyline Mansion (Block M2),2002-04-08,M,3,,10,B,1310,957,11500000,2020-03-25,2015-06-08,9000000.0,27.78,22.3047,114.011723
+308,New Territories,Islands,Discovery Bay,Discovery Bay,Jovial Court,1990-04-03,M,3,2,7,D,889,755,7350000,2020-03-25,2011-03-18,3800000.0,93.42,22.293784,114.022455
+309,New Territories,Islands,Discovery Bay,Discovery Bay,1 Parkvale Drive,1987-10-23,,1,,2,C,0,449,4000000,2020-03-23,,0.0,0.0,22.294697,114.01336
+310,New Territories,Islands,Discovery Bay,Discovery Bay,1 Seabird Lane,1982-07-24,,3,,G,B,0,1282,17380000,2020-03-23,2010-10-20,14000000.0,24.14,22.295901999999998,114.01428
+311,New Territories,Islands,Discovery Bay,Discovery Bay,3 Parkvale Drive,1987-10-23,,1,,4,C,0,449,4900000,2020-03-23,2017-02-07,2025000.0,141.98,22.294698999999998,114.01359
+312,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,H,4,2,17,F,1088,947,8500000,2020-03-20,2010-12-22,4720000.0,80.08,22.305875999999998,114.009446
+313,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,L,3,2,6,A,919,776,7800000,2020-03-19,2009-07-07,3600000.0,116.67,22.294521,114.014563
+314,New Territories,Islands,Discovery Bay,Discovery Bay,35 Seabird Lane,1982-12-30,,3,,1,F,0,962,10000000,2020-03-18,,0.0,0.0,22.298859,114.01316
+315,New Territories,Islands,Discovery Bay,Discovery Bay,Celestial Mansion (Block H1),2002-07-30,L,3,,7,E,1200,864,8800000,2020-03-16,2015-12-15,8280000.0,6.28,22.307664,114.010687
+316,New Territories,Islands,Discovery Bay,Discovery Bay,Blossom Court,1992-04-16,L,1,2,1,G,472,410,4200000,2020-03-16,2012-08-15,2080000.0,101.92,22.295603,114.024628
+317,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,L,3,,6,B,0,1379,22546600,2020-03-13,,0.0,0.0,22.30754,114.015396
+318,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,M,3,,10,E,1155,890,9800000,2020-03-13,2012-06-21,7180000.0,36.49,22.307644999999997,114.012918
+319,New Territories,Islands,Discovery Bay,Discovery Bay,Block 42,2002-07-30,H,,,6,D,590,451,6000000,2020-03-13,2016-09-06,3600000.0,66.67,22.307109999999998,114.012047
+320,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,M,3,2,10,A,919,776,8300000,2020-03-13,2010-08-25,4250000.0,95.29,22.294423,114.014961
+321,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,H,3,,12,A,0,1066,18800000,2020-03-12,,0.0,0.0,22.30756,114.01529
+322,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,H,3,,26,A,1025,792,9180000,2020-03-11,2000-08-29,3758000.0,144.28,22.307591,114.009801
+323,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon I,2000-01-03,M,2,,12,A,747,580,6300000,2020-03-10,2012-05-14,3630000.0,73.55,22.307256,114.00962799999999
+324,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,H,2,2,19,D,699,591,6450000,2020-03-06,1996-07-27,2470000.0,161.13,22.294334,114.015333
+325,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,L,2,2,5,A,835,722,6500000,2020-03-06,2016-09-01,5950000.0,9.24,22.294738,114.012819
+326,New Territories,Islands,Discovery Bay,Discovery Bay,Block 3 (Hemex),2006-04-24,M,1,,10,D,800,628,6550000,2020-03-02,2007-10-11,4420000.0,48.19,22.307316,114.013199
+327,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,H,0,,18,B,472,398,4980000,2020-02-28,2007-12-14,1438000.0,246.31,22.294521,114.014563
+328,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,H,2,,12,B,0,821,15831000,2020-02-24,,0.0,0.0,22.30752,114.0151
+329,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,H,0,,15,B,472,398,5080000,2020-02-24,,0.0,0.0,22.294521,114.014563
+330,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,M,3,2,11,D,865,744,7000000,2020-02-21,2014-04-01,5138000.0,36.24,22.304589,114.009774
+331,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,H,3,,18,A,0,1425,36000000,2020-02-21,,0.0,0.0,22.30756,114.01529
+332,New Territories,Islands,Discovery Bay,Discovery Bay,Woodbury Court,1988-06-14,M,3,2,11,A,895,769,7950000,2020-02-20,2013-03-08,5800000.0,37.07,22.295894999999998,114.011837
+333,New Territories,Islands,Discovery Bay,Discovery Bay,46 Coastline Villa,1996-04-22,,3,,3,A,0,1282,12600000,2020-02-19,2012-06-01,11800000.0,6.78,22.295513,114.02525
+334,New Territories,Islands,Discovery Bay,Discovery Bay,Block H2 (Seaview),1982-07-27,H,1,2,18,F,530,440,4880000,2020-02-19,2006-01-23,1060000.0,360.38,22.302550999999998,114.011782
+335,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,L,3,2,4,D,865,744,6950000,2020-02-18,2010-02-17,2500000.0,178.0,22.304589,114.009774
+336,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,L,1,2,4,F,533,456,4250000,2020-02-17,,0.0,0.0,22.305273,114.009554
+337,New Territories,Islands,Discovery Bay,Discovery Bay,Celestial Mansion (Block H1),2002-07-30,M,2,,19,A,830,600,6980000,2020-02-14,2012-10-30,4350000.0,60.46,22.307664,114.010687
+338,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,M,2,,18,B,786,608,6800000,2020-02-13,2011-06-16,3380000.0,101.18,22.307591,114.009801
+339,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,M,2,,11,C,0,881,14882000,2020-02-13,,0.0,0.0,22.30754,114.015396
+340,New Territories,Islands,Discovery Bay,Discovery Bay,House 3,,,4,,,,0,2023,55228000,2020-02-12,,0.0,0.0,,
+341,New Territories,Islands,Discovery Bay,Discovery Bay,Block 36,2002-07-30,L,1,,1,D,590,451,5150000,2020-02-10,2011-03-08,2500000.0,106.0,22.306988999999998,114.011345
+342,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,0,,11,F,0,350,5376000,2020-02-10,,0.0,0.0,22.30752,114.0151
+343,New Territories,Islands,Discovery Bay,Discovery Bay,Greenland Court,1991-12-10,M,3,2,11,C,865,744,7550000,2020-02-06,2008-06-24,3200000.0,135.94,22.304947,114.009637
+344,New Territories,Islands,Discovery Bay,Discovery Bay,Haven Court,1990-04-03,H,3,2,12,B,903,771,7375000,2020-02-06,2007-06-21,2650000.0,178.3,22.293629,114.022786
+345,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,L,0,,2,E,432,368,4080000,2020-02-06,2017-11-10,3680000.0,10.870000000000001,22.294738,114.012819
+346,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,M,2,2,9,A,665,545,5330000,2020-02-05,2011-05-12,2580000.0,106.59,22.294563,114.021821
+347,New Territories,Islands,Discovery Bay,Discovery Bay,3 Vista Avenue,1994-09-09,,3,,3,A,948,850,9980000,2020-02-05,2016-11-25,9350000.0,6.74,22.294043,114.01813
+348,New Territories,Islands,Discovery Bay,Discovery Bay,Cherish Court,1992-04-16,L,3,2,1,C,814,708,7200000,2020-02-05,2017-02-16,6000000.0,20.0,22.295914999999997,114.0250171
+349,New Territories,Islands,Discovery Bay,Discovery Bay,Joyful Mansion (Block H3),2002-07-30,M,3,,11,C,1122,825,9500000,2020-02-03,2004-03-11,2940696.0,223.05,22.307577,114.011718
+350,New Territories,Islands,Discovery Bay,Discovery Bay,Serene Court,2000-02-10,L,2,,5,E,0,621,7230000,2020-02-03,2013-09-25,5430000.0,33.15,22.292375999999997,114.016379
+351,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,H,2,2,17,E,689,592,5500000,2020-01-24,2015-06-26,5300000.0,3.77,22.304589,114.009774
+352,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,H,2,,12,C,0,715,11202000,2020-01-23,,0.0,0.0,22.30752,114.0151
+353,New Territories,Islands,Discovery Bay,Discovery Bay,Graceful Mansion (Block H2),2002-07-30,M,2,,19,B,815,602,6200000,2020-01-23,2014-10-31,5480000.0,13.14,22.3077505,114.0110951
+354,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,H,0,,15,F,0,350,5444000,2020-01-21,,0.0,0.0,22.30752,114.0151
+355,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,M,2,2,9,B,713,588,5900000,2020-01-17,2005-01-08,1330000.0,343.61,22.302934,114.01157
+356,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,H,2,,12,C,0,881,15009000,2020-01-17,,0.0,0.0,22.30754,114.015396
+357,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,0,,10,F,0,350,5337000,2020-01-16,,0.0,0.0,22.30752,114.0151
+358,New Territories,Islands,Discovery Bay,Discovery Bay,Jovial Court,1990-04-03,M,3,2,9,F,903,771,7300000,2020-01-16,2011-08-12,4500000.0,62.22,22.293784,114.022455
+359,New Territories,Islands,Discovery Bay,Discovery Bay,Onda Court,1995-05-17,M,2,2,12,D,760,628,7500000,2020-01-14,2006-01-12,3400000.0,120.59,22.295434999999998,114.020238
+360,New Territories,Islands,Discovery Bay,Discovery Bay,11 Seabee Lane,1983-01-13,,3,,1,F,0,962,11900000,2020-01-13,2014-02-18,9450000.0,25.93,22.30069,114.01350000000001
+361,New Territories,Islands,Discovery Bay,Discovery Bay,Block H2 (Seaview),1982-07-27,M,2,2,14,B,713,588,5700000,2020-01-10,2008-01-30,2180000.0,161.47,22.302550999999998,114.011782
+362,New Territories,Islands,Discovery Bay,Discovery Bay,Costa Court,1995-05-17,H,2,,17,C,760,628,7800000,2020-01-10,2011-12-13,4480000.0,74.11,22.295717,114.020394
+363,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,M,0,,10,E,472,398,4500000,2020-01-07,2013-07-18,3000000.0,50.0,22.294521,114.014563
+364,New Territories,Islands,Discovery Bay,Discovery Bay,11 Seabird Lane,1982-07-24,,3,,G,C,0,962,13200000,2020-01-07,,0.0,0.0,22.296553,114.01408
+365,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,M,3,,11,A,0,1200,19560000,2019-12-31,,0.0,0.0,22.30754,114.015396
+366,New Territories,Islands,Discovery Bay,Discovery Bay,13 Seabird Lane,1982-11-05,,3,,1,E,0,962,10000000,2019-12-30,,0.0,0.0,22.296986,114.0139
+367,New Territories,Islands,Discovery Bay,Discovery Bay,Jovial Court,1990-04-03,L,3,2,1,F,903,771,6880000,2019-12-27,,0.0,0.0,22.293784,114.022455
+368,New Territories,Islands,Discovery Bay,Discovery Bay,Vista Court,1994-09-09,H,2,2,10,B,748,592,7400000,2019-12-24,2014-05-12,5100000.0,45.1,22.293454999999998,114.017951
+369,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,L,1,,3,C,0,556,7806000,2019-12-23,,0.0,0.0,22.30756,114.01529
+370,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,H,3,2,16,E,891,757,8200000,2019-12-23,2008-01-30,3630000.0,125.9,22.293332,114.023026
+371,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,H,3,2,19,D,999,870,8750000,2019-12-19,2004-09-13,2900000.0,201.72,22.306808999999998,114.0095
+372,New Territories,Islands,Discovery Bay,Discovery Bay,Block H4 (Mountain View),1982-06-26,H,1,2,16,E,530,440,4900000,2019-12-13,2011-05-05,2460000.0,99.19,22.302999,114.011104
+373,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,H,3,2,,D,999,870,8750000,2019-12-13,,0.0,0.0,22.306808999999998,114.0095
+374,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,M,0,,10,B,432,368,4150000,2019-12-11,2014-01-08,2700000.0,53.7,22.294738,114.012819
+375,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,H,2,,12,E,0,717,11554000,2019-12-10,,0.0,0.0,22.30752,114.0151
+376,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,H,4,2,23,F,1088,947,9680000,2019-12-06,,0.0,0.0,22.306207999999998,114.009702
+377,New Territories,Islands,Discovery Bay,Discovery Bay,Block 42,2002-07-30,H,,,6,C,565,442,5650000,2019-12-06,2016-09-06,3800000.0,48.68,22.307109999999998,114.012047
+378,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,M,4,2,16,C,1088,947,9800000,2019-12-06,2004-02-24,2700000.0,262.96,22.305875999999998,114.009446
+379,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5,2019-04-16,H,1,,15,C,0,556,8898000,2019-12-04,,0.0,0.0,22.30756,114.01529
+380,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,M,0,,10,B,472,398,4700000,2019-12-02,2008-02-11,1630000.0,188.34,22.294334,114.015333
+381,New Territories,Islands,Discovery Bay,Discovery Bay,Jovial Court,1990-04-03,H,2,2,12,G,723,609,6000000,2019-11-29,2011-03-11,2930000.0,104.78,22.293784,114.022455
+382,New Territories,Islands,Discovery Bay,Discovery Bay,Serene Court,2000-02-10,M,2,,6,B,0,555,7500000,2019-11-28,2014-04-03,5000000.0,50.0,22.292375999999997,114.016379
+383,New Territories,Islands,Discovery Bay,Discovery Bay,Blossom Court,1992-04-16,L,3,2,1,F,814,708,6330000,2019-11-28,2016-07-06,5300000.0,19.43,22.295603,114.024628
+384,New Territories,Islands,Discovery Bay,Discovery Bay,Haven Court,1990-04-03,H,3,2,14,C,903,771,7300000,2019-11-27,2016-10-17,6100000.0,19.67,22.293629,114.022786
+385,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,H,2,,21,A,750,582,7050000,2019-11-26,2008-01-14,2600000.0,171.15,22.307591,114.009801
+386,New Territories,Islands,Discovery Bay,Discovery Bay,Block H1 (Starview),1982-08-05,H,1,2,16,E,530,440,4700000,2019-11-26,2016-07-22,3450000.0,36.230000000000004,22.302169,114.011488
+387,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,H,0,,17,B,472,398,4950000,2019-11-26,2010-03-16,1860000.0,166.13,22.294334,114.015333
+388,New Territories,Islands,Discovery Bay,Discovery Bay,5 Parkland Drive,1987-09-30,,3,,3,G,1356,1270,15100000,2019-11-26,2010-12-09,8900000.0,69.66,22.303303,114.01228
+389,New Territories,Islands,Discovery Bay,Discovery Bay,Crestine Mansion (Block M1),2002-04-08,H,1,,12,D,708,540,5950000,2019-11-26,2009-06-16,3125000.0,90.4,22.304298,114.011966
+390,New Territories,Islands,Discovery Bay,Discovery Bay,Crestine Mansion (Block M1),2002-04-08,H,1,,12,C,708,540,5950000,2019-11-25,2009-06-16,3125000.0,90.4,22.304298,114.011966
+391,New Territories,Islands,Discovery Bay,Discovery Bay,Celestial Mansion (Block H1),2002-07-30,M,2,,19,B,773,567,7000000,2019-11-25,2015-11-16,5750000.0,21.740000000000002,22.307664,114.010687
+392,New Territories,Islands,Discovery Bay,Discovery Bay,Block 1 (Pavilion),2006-04-24,M,3,,11,F,1246,968,10800000,2019-11-25,2007-10-10,7321000.0,47.52,22.308004999999998,114.012901
+393,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon I,2000-01-03,M,2,,12,C,812,629,6550000,2019-11-21,2004-05-11,2500000.0,162.0,22.307256,114.00962799999999
+394,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,M,3,2,14,D,999,870,8450000,2019-11-20,2013-02-28,6000000.0,40.83,22.305875999999998,114.009446
+395,New Territories,Islands,Discovery Bay,Discovery Bay,Costa Court,1995-05-17,L,1,,7,E,527,439,6400000,2019-11-20,2004-03-03,1398000.0,357.8,22.295717,114.020394
+396,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,H,2,2,16,D,699,591,6900000,2019-11-19,2005-08-18,2300000.0,200.0,22.294521,114.014563
+397,New Territories,Islands,Discovery Bay,Discovery Bay,Blossom Court,1992-04-16,L,2,2,1,D,628,545,5438000,2019-11-19,2016-09-13,4000000.0,35.95,22.295603,114.024628
+398,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,H,0,,17,F,0,350,5658000,2019-11-15,,0.0,0.0,22.30752,114.0151
+399,New Territories,Islands,Discovery Bay,Discovery Bay,Woodgreen Court,1988-06-14,M,3,2,10,A,895,769,8000000,2019-11-15,2012-10-29,5400000.0,48.15,22.295666,114.01217
+400,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,H,2,2,17,E,661,545,6050000,2019-11-14,2012-03-09,3180000.0,90.25,22.294563,114.021821
+401,New Territories,Islands,Discovery Bay,Discovery Bay,Block 22,2002-07-30,,3,,1,A,1368,1062,11750000,2019-11-12,2012-11-23,10460000.0,12.33,22.3063115,114.0103745
+402,New Territories,Islands,Discovery Bay,Discovery Bay,Graceful Mansion (Block H2),2002-07-30,H,2,,28,F,860,608,7900000,2019-11-11,2015-01-28,5900000.0,33.9,22.3077505,114.0110951
+403,New Territories,Islands,Discovery Bay,Discovery Bay,12 Caperidge Drive,1990-06-01,,3,,2,D,1618,1359,14580000,2019-11-08,,0.0,0.0,22.295762999999997,114.02164
+404,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon I,2000-01-03,H,2,,21,C,812,629,6300000,2019-11-07,2007-12-07,2810000.0,124.2,22.307256,114.00962799999999
+405,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,L,2,,8,C,965,737,7280000,2019-11-05,2008-06-12,4900000.0,48.57,22.307644999999997,114.012918
+406,New Territories,Islands,Discovery Bay,Discovery Bay,Db Plaza ( C ),1991-11-14,H,,,6,8,0,640,6540000,2019-11-04,,0.0,0.0,22.295209,114.016682
+407,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,L,0,,7,E,432,368,4200000,2019-11-01,2009-09-07,1198000.0,250.58,22.294363,114.012951
+408,New Territories,Islands,Discovery Bay,Discovery Bay,1 Parkvale Drive,1987-10-23,,2,,2,A,0,586,6999000,2019-10-31,2013-03-18,4415000.0,58.53,22.294697,114.01336
+409,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,H,3,,17,B,0,1379,26245000,2019-10-23,,0.0,0.0,22.30754,114.015396
+410,New Territories,Islands,Discovery Bay,Discovery Bay,Block H4 (Mountain View),1982-06-26,H,1,2,21,E,530,440,5100000,2019-10-22,2013-03-08,3300000.0,54.550000000000004,22.302999,114.011104
+411,New Territories,Islands,Discovery Bay,Discovery Bay,10 Seahorse Lane,1982-10-05,,3,,UG,D,0,962,12800000,2019-10-21,2007-10-31,7300000.0,75.34,22.29685,114.01432
+412,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,M,2,2,9,F,796,689,7300000,2019-10-18,2015-01-06,5680000.0,28.52,22.294738,114.012819
+413,New Territories,Islands,Discovery Bay,Discovery Bay,Cherish Court,1992-04-16,H,1,2,13,G,472,410,4200000,2019-10-14,2010-09-22,1720000.0,144.19,22.295914999999997,114.0250171
+414,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,H,3,,12,A,0,1019,18444000,2019-10-14,,0.0,0.0,22.30752,114.0151
+415,New Territories,Islands,Discovery Bay,Discovery Bay,Block 1 (Pavilion),2006-04-24,H,2,,25,G,1022,780,8250000,2019-10-11,2007-10-10,3946000.0,109.07000000000001,22.308004999999998,114.012901
+416,New Territories,Islands,Discovery Bay,Discovery Bay,Cherish Court,1992-04-16,H,2,2,12,A,629,546,5300000,2019-10-04,2013-05-09,680000.0,679.41,22.295914999999997,114.0250171
+417,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,M,2,2,12,B,689,592,6150000,2019-10-02,2006-05-30,2268000.0,171.16,22.305273,114.009554
+418,New Territories,Islands,Discovery Bay,Discovery Bay,Cherish Court,1992-04-16,L,3,2,4,F,814,708,7180000,2019-09-20,2000-05-09,2600000.0,176.15,22.295914999999997,114.0250171
+419,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,M,4,2,15,F,1088,947,9000000,2019-09-13,2015-07-10,7700000.0,16.88,22.305875999999998,114.009446
+420,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,H,3,2,15,F,919,776,9000000,2019-09-12,2012-05-16,6000000.0,50.0,22.294423,114.014961
+421,New Territories,Islands,Discovery Bay,Discovery Bay,Pine View,1985-09-13,M,2,2,8,D,831,703,6000000,2019-09-11,,0.0,0.0,22.296992,114.011149
+422,New Territories,Islands,Discovery Bay,Discovery Bay,Block 38,2002-07-30,M,,,5,A,792,593,8350000,2019-09-11,2009-08-12,3200000.0,160.94,22.307060999999997,114.011572
+423,New Territories,Islands,Discovery Bay,Discovery Bay,Woodland Court,1988-06-14,H,3,,18,A,895,769,8680000,2019-09-05,1997-01-18,3760000.0,130.85,22.295372,114.012336
+424,New Territories,Islands,Discovery Bay,Discovery Bay,Block 1 (Pavilion),2006-04-24,M,2,,18,A,1018,775,8200000,2019-09-03,2006-04-25,4226000.0,94.04,22.308004999999998,114.012901
+425,New Territories,Islands,Discovery Bay,Discovery Bay,Pine View,1985-09-13,H,2,2,14,A,870,729,7950000,2019-09-02,2008-09-11,3600000.0,120.83,22.296992,114.011149
+426,New Territories,Islands,Discovery Bay,Discovery Bay,Block H4 (Mountain View),1982-06-26,L,1,2,1,F,530,440,4270000,2019-08-30,2006-04-18,1070000.0,299.07,22.302999,114.011104
+427,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,L,1,2,7,E,530,440,4750000,2019-08-28,2015-03-30,3980000.0,19.35,22.302934,114.01157
+428,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,H,2,,16,B,0,821,15702000,2019-08-26,,0.0,0.0,22.30752,114.0151
+429,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,H,3,2,16,F,919,776,8999000,2019-08-26,2012-07-17,6250000.0,43.980000000000004,22.294334,114.015333
+430,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,H,3,,16,A,0,1019,19411000,2019-08-26,,0.0,0.0,22.30752,114.0151
+431,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,L,0,,2,E,472,398,4530000,2019-08-23,2012-07-18,2198000.0,106.10000000000001,22.294521,114.014563
+432,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,H,1,2,18,E,530,440,5500000,2019-08-23,2016-10-18,3870000.0,42.12,22.302934,114.01157
+433,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,H,0,,20,B,472,398,4920000,2019-08-22,,0.0,0.0,22.294521,114.014563
+434,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,L,0,,1,E,432,368,4000000,2019-08-21,2011-01-27,1680000.0,138.1,22.294363,114.012951
+435,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,L,3,2,2,B,868,757,6800000,2019-08-21,2011-07-06,3700000.0,83.78,22.305875999999998,114.009446
+436,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,H,0,,15,D,0,412,7277000,2019-08-16,,0.0,0.0,22.30752,114.0151
+437,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,H,3,,17,A,0,1200,21668000,2019-08-16,,0.0,0.0,22.30754,114.015396
+438,New Territories,Islands,Discovery Bay,Discovery Bay,Block H1 (Starview),1982-08-05,H,2,2,16,B,713,588,7290000,2019-08-15,2008-07-15,2800000.0,160.36,22.302169,114.011488
+439,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,M,3,2,12,A,919,776,8880000,2019-08-14,2014-05-05,6400000.0,38.75,22.294521,114.014563
+440,New Territories,Islands,Discovery Bay,Discovery Bay,Block H1 (Starview),1982-08-05,H,2,2,15,C,713,588,6580000,2019-08-13,2014-09-10,3950000.0,66.58,22.302169,114.011488
+441,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,M,0,,8,E,472,398,4500000,2019-08-12,,0.0,0.0,22.294423,114.014961
+442,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,H,0,,17,B,472,398,4700000,2019-08-12,2012-08-24,2950000.0,59.32,22.294423,114.014961
+443,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,H,3,2,17,B,868,757,7200000,2019-08-12,2007-05-16,2200000.0,227.27,22.306207999999998,114.009702
+444,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,H,3,2,19,G,868,757,7080000,2019-08-09,2007-07-26,1000000.0,608.0,22.305875999999998,114.009446
+445,New Territories,Islands,Discovery Bay,Discovery Bay,Vista Court,1994-09-09,L,3,2,4,E,1006,799,8860000,2019-08-07,2005-12-16,3700000.0,139.46,22.293454999999998,114.017951
+446,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,L,3,2,1,C,865,744,7250000,2019-08-07,2014-11-06,4960000.0,46.17,22.304589,114.009774
+447,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,H,3,2,15,C,859,709,7100000,2019-08-07,2000-05-16,2280000.0,211.4,22.294563,114.021821
+448,New Territories,Islands,Discovery Bay,Discovery Bay,13 Middle Lane,1986-11-05,,,,1,D,0,1519,17750000,2019-08-07,2007-08-01,8830000.0,101.02,22.297570999999998,114.011856
+449,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2,2002-07-30,,,,2,B,1515,1170,14400000,2019-08-05,2003-11-22,5034850.0,186.01,22.304413,114.010636
+450,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,H,0,,12,D,0,412,7238000,2019-08-05,,0.0,0.0,22.30752,114.0151
+451,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,0,,1,D,0,410,6596000,2019-08-05,,0.0,0.0,22.30752,114.0151
+452,New Territories,Islands,Discovery Bay,Discovery Bay,Amalfi Two,2011-02-02,H,3,,12,E,876,689,10700000,2019-08-05,2012-11-22,9636000.0,11.040000000000001,22.307230999999998,114.01449
+453,New Territories,Islands,Discovery Bay,Discovery Bay,Db Plaza ( C ),1991-11-14,H,,,7,11,0,662,7500000,2019-08-01,,0.0,0.0,22.295209,114.016682
+454,New Territories,Islands,Discovery Bay,Discovery Bay,7 Caperidge Drive,1991-03-02,,3,,1,A,0,1171,12500000,2019-08-01,,0.0,0.0,22.294746,114.022415
+455,New Territories,Islands,Discovery Bay,Discovery Bay,Block H2 (Seaview),1982-07-27,M,1,2,13,E,530,440,3900000,2019-08-01,2015-03-16,2900000.0,34.480000000000004,22.302550999999998,114.011782
+456,New Territories,Islands,Discovery Bay,Discovery Bay,Greenland Court,1991-12-10,M,1,2,7,F,533,456,4800000,2019-07-31,1996-01-26,590000.0,713.5600000000001,22.304947,114.009637
+457,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,0,,9,F,0,350,5438000,2019-07-29,,0.0,0.0,22.30752,114.0151
+458,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,H,2,,15,E,0,717,11691000,2019-07-29,,0.0,0.0,22.30752,114.0151
+459,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,H,1,,22,E,703,534,5390000,2019-07-25,2015-11-26,4280000.0,25.93,22.307591,114.009801
+460,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,M,2,2,8,E,689,592,6420000,2019-07-25,1997-06-20,3520000.0,82.39,22.304589,114.009774
+461,New Territories,Islands,Discovery Bay,Discovery Bay,Skyline Mansion (Block M2),2002-04-08,L,2,,5,F,858,623,7150000,2019-07-25,2002-03-23,2564390.0,178.82,22.3047,114.011723
+462,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,H,2,,23,A,845,604,6980000,2019-07-24,2011-01-18,3030000.0,130.36,22.307726,114.012096
+463,New Territories,Islands,Discovery Bay,Discovery Bay,26 Coastline Villa,1996-04-22,,3,,2,A,0,1314,14850000,2019-07-23,,0.0,0.0,22.29429,114.025475
+464,New Territories,Islands,Discovery Bay,Discovery Bay,13 Parkvale Drive,1988-01-18,,3,,3,H,0,1138,13600000,2019-07-22,2007-05-07,6300000.0,115.87,22.295762999999997,114.013405
+465,New Territories,Islands,Discovery Bay,Discovery Bay,Block 3,2000-02-10,,1,,1,C,0,498,5500000,2019-07-22,2008-07-04,3000000.0,83.33,22.293315999999997,114.016953
+466,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,L,1,,7,E,575,440,4500000,2019-07-19,2019-03-19,4500000.0,0.0,22.307591,114.009801
+467,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,L,2,2,3,A,796,689,6800000,2019-07-17,2004-11-25,1850000.0,267.57,22.294363,114.012951
+468,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,H,2,2,12,E,661,545,6000000,2019-07-16,2007-10-17,1800000.0,233.33,22.294563,114.021821
+469,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,0,,7,F,0,350,5239000,2019-07-16,,0.0,0.0,22.30752,114.0151
+470,New Territories,Islands,Discovery Bay,Discovery Bay,Woodgreen Court,1988-06-14,M,3,2,14,B,1134,980,11350000,2019-07-12,,0.0,0.0,22.295666,114.01217
+471,New Territories,Islands,Discovery Bay,Discovery Bay,Bay View,1985-09-13,H,3,2,16,B,1284,1085,13000000,2019-07-12,2005-04-19,7000000.0,85.71000000000001,22.297698,114.011168
+472,New Territories,Islands,Discovery Bay,Discovery Bay,Cherish Court,1992-04-16,M,2,2,10,A,629,546,6000000,2019-07-12,2014-12-02,4280000.0,40.19,22.295914999999997,114.0250171
+473,New Territories,Islands,Discovery Bay,Discovery Bay,Jovial Court,1990-04-03,M,3,2,10,F,903,771,7880000,2019-07-12,2002-01-12,2020000.0,290.1,22.293784,114.022455
+474,New Territories,Islands,Discovery Bay,Discovery Bay,Woodland Court,1988-06-14,L,3,,2,D,895,769,7550000,2019-07-12,2012-11-08,4920000.0,53.46,22.295372,114.012336
+475,New Territories,Islands,Discovery Bay,Discovery Bay,Block H4 (Mountain View),1982-06-26,L,2,2,4,B,713,588,6000000,2019-07-11,2012-04-11,3000000.0,100.0,22.302999,114.011104
+476,New Territories,Islands,Discovery Bay,Discovery Bay,Amalfi Two,2011-02-02,L,3,,2,C,1186,930,10638000,2019-07-10,2012-12-05,9488000.0,12.120000000000001,22.307230999999998,114.01449
+477,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2002-07-30,,3,,1,A,1362,1058,12000000,2019-07-10,2004-03-02,5200000.0,130.77,22.30485,114.010424
+478,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,H,1,2,14,G,496,411,5000000,2019-07-09,2011-02-14,1970000.0,153.81,22.294563,114.021821
+479,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,L,1,2,3,E,530,440,4800000,2019-07-08,2008-10-10,1350000.0,255.56,22.302934,114.01157
+480,New Territories,Islands,Discovery Bay,Discovery Bay,59 Crestmont Villa,1994-10-24,,3,,2,B,0,1108,12200000,2019-07-08,2007-05-07,5850000.0,108.55,22.296764,114.02473
+481,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,M,1,2,12,F,530,440,4560000,2019-07-08,2009-10-19,1400000.0,225.71,22.302934,114.01157
+482,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,M,2,2,8,D,699,591,6175000,2019-07-08,2009-06-03,2150000.0,187.21,22.294423,114.014961
+483,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,L,2,2,5,D,699,591,6600000,2019-07-05,2011-05-04,3500000.0,88.57000000000001,22.294521,114.014563
+484,New Territories,Islands,Discovery Bay,Discovery Bay,30 Coastline Villa,1996-04-22,,3,,2,B,0,1314,14800000,2019-07-05,,0.0,0.0,22.29414,114.02589
+485,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,M,3,2,9,B,868,757,7200000,2019-07-05,2013-06-24,4530000.0,58.94,22.306808999999998,114.0095
+486,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,M,2,2,9,G,718,609,6300000,2019-07-05,2011-11-23,3300000.0,90.91,22.293332,114.023026
+487,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,L,2,,9,A,747,580,6300000,2019-07-04,2006-01-06,5450000.0,15.6,22.307591,114.009801
+488,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,H,0,,20,B,472,398,5000000,2019-07-03,2009-07-16,1680000.0,197.62,22.294423,114.014961
+489,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,M,3,2,12,D,865,744,7600000,2019-07-03,2012-06-26,4000000.0,90.0,22.305273,114.009554
+490,New Territories,Islands,Discovery Bay,Discovery Bay,11 Parkvale Drive,1988-01-18,,3,,1,C,0,1138,14250000,2019-07-03,2009-05-08,6200000.0,129.84,22.295635,114.013504
+491,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,L,2,2,6,A,776,649,6780000,2019-07-02,2004-11-04,1320000.0,413.64,22.305875999999998,114.009446
+492,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,M,2,,12,B,800,580,6340000,2019-06-28,2014-07-15,4400000.0,44.09,22.307726,114.012096
+493,New Territories,Islands,Discovery Bay,Discovery Bay,55 Crestmont Villa,1994-10-24,,3,,4,B,0,1436,18050000,2019-06-28,,0.0,0.0,22.296474,114.02448
+494,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,H,2,,23,B,786,608,7208000,2019-06-28,2015-02-24,5580000.0,29.18,22.307591,114.009801
+495,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,0,,2,D,0,412,6828000,2019-06-27,,0.0,0.0,22.30752,114.0151
+496,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,H,3,2,24,E,999,870,9850000,2019-06-27,2011-02-01,4050000.0,143.21,22.305875999999998,114.009446
+497,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,L,2,2,2,C,713,588,5880000,2019-06-26,2010-08-30,2220000.0,164.86,22.302934,114.01157
+498,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,H,3,,25,D,2056,1629,18388000,2019-06-26,2009-08-12,16000000.0,14.93,22.307644999999997,114.012918
+499,New Territories,Islands,Discovery Bay,Discovery Bay,Woodland Court,1988-06-14,M,3,,11,D,895,769,8000000,2019-06-26,2014-06-05,5500000.0,45.45,22.295372,114.012336
+500,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,H,3,2,19,D,999,870,9080000,2019-06-24,2012-06-05,5500000.0,65.09,22.305875999999998,114.009446
+501,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,M,2,2,11,H,776,649,6450000,2019-06-21,2015-03-18,4830000.0,33.54,22.305875999999998,114.009446
+502,New Territories,Islands,Discovery Bay,Discovery Bay,1 Vista Avenue,1994-09-09,,1,,2,C,504,452,5650000,2019-06-20,,0.0,0.0,22.293747,114.01777
+503,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,L,2,,1,C,0,881,13073000,2019-06-19,,0.0,0.0,22.30754,114.015396
+504,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,H,3,,16,A,0,1200,20496000,2019-06-19,,0.0,0.0,22.30754,114.015396
+505,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,H,3,,17,A,0,1019,19635000,2019-06-19,,0.0,0.0,22.30752,114.0151
+506,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2000-02-10,,3,,3,B,0,1010,12320000,2019-06-18,,0.0,0.0,22.292859999999997,114.017167
+507,New Territories,Islands,Discovery Bay,Discovery Bay,Graceful Mansion (Block H2),2002-07-30,L,1,,9,E,603,447,5800000,2019-06-18,,0.0,0.0,22.3077505,114.0110951
+508,New Territories,Islands,Discovery Bay,Discovery Bay,1 Parkvale Drive,1987-10-23,,2,,G,D,0,602,8950000,2019-06-18,2012-08-02,6950000.0,28.78,22.294697,114.01336
+509,New Territories,Islands,Discovery Bay,Discovery Bay,Amalfi One,2011-02-02,L,,,5,SB,1985,1462,16200000,2019-06-18,2014-02-14,13054000.0,24.1,22.307036999999998,114.014293
+510,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,H,0,,16,F,0,350,5483000,2019-06-17,,0.0,0.0,22.30752,114.0151
+511,New Territories,Islands,Discovery Bay,Discovery Bay,Greenery Court,1990-05-24,L,1,2,4,B,517,439,4950000,2019-06-17,2011-08-22,2140000.0,131.31,22.303098,114.010329
+512,New Territories,Islands,Discovery Bay,Discovery Bay,2  La Costa,1995-05-17,,3,,1,B,0,927,12920000,2019-06-17,,0.0,0.0,22.295403999999998,114.01794
+513,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,2,,11,E,0,717,11407000,2019-06-17,,0.0,0.0,22.30752,114.0151
+514,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,M,2,,19,B,786,608,7050000,2019-06-14,2008-05-13,2830000.0,149.12,22.307591,114.009801
+515,New Territories,Islands,Discovery Bay,Discovery Bay,6 Caperidge Drive,1990-06-01,,3,,2,D,1618,1359,15200000,2019-06-14,,0.0,0.0,22.29559,114.02130000000001
+516,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,2,,2,B,0,821,11144000,2019-06-14,,0.0,0.0,22.30752,114.0151
+517,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,L,2,2,3,D,699,591,6350000,2019-06-14,2016-05-13,4500000.0,41.11,22.294334,114.015333
+518,New Territories,Islands,Discovery Bay,Discovery Bay,57 Crestmont Villa,1994-10-24,,3,,G,B,1282,1108,14700000,2019-06-14,,0.0,0.0,22.2966,114.024666
+519,New Territories,Islands,Discovery Bay,Discovery Bay,Block H2 (Seaview),1982-07-27,H,2,2,21,A,713,588,6700000,2019-06-11,2005-09-15,2410000.0,178.01,22.302550999999998,114.011782
+520,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,2,,7,C,0,715,10793000,2019-06-10,,0.0,0.0,22.30752,114.0151
+521,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,0,,6,F,0,350,5200000,2019-06-10,,0.0,0.0,22.30752,114.0151
+522,New Territories,Islands,Discovery Bay,Discovery Bay,Jovial Court,1990-04-03,H,3,2,16,A,889,755,8000000,2019-06-10,2011-12-08,4100000.0,95.12,22.293784,114.022455
+523,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,2,,2,C,0,715,9573000,2019-06-10,,0.0,0.0,22.30752,114.0151
+524,New Territories,Islands,Discovery Bay,Discovery Bay,Greenery Court,1990-05-24,L,1,2,8,E,517,439,5080000,2019-06-06,2015-07-14,3980000.0,27.64,22.303098,114.010329
+525,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,H,3,,25,E,1915,1448,20700000,2019-06-06,2005-12-03,22418000.0,-7.66,22.307644999999997,114.012918
+526,New Territories,Islands,Discovery Bay,Discovery Bay,Cherish Court,1992-04-16,M,3,2,9,F,814,708,7200000,2019-06-06,2012-09-13,4450000.0,61.800000000000004,22.295914999999997,114.0250171
+527,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,L,2,,9,C,812,629,7150000,2019-06-05,2015-05-19,2750000.0,160.0,22.307591,114.009801
+528,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,L,2,,8,A,845,604,6300000,2019-06-05,2004-06-04,2110000.0,198.58,22.307726,114.012096
+529,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,L,2,,6,B,786,608,6000000,2019-06-05,2014-09-02,4200000.0,42.86,22.307591,114.009801
+530,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,L,3,2,3,A,919,776,8950000,2019-06-05,2015-04-27,6750000.0,32.59,22.294521,114.014563
+531,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,0,,2,F,0,350,5000000,2019-06-04,,0.0,0.0,22.30752,114.0151
+532,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,L,0,,5,E,472,398,4300000,2019-06-03,2017-07-13,1800000.0,138.89000000000001,22.294334,114.015333
+533,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,L,2,2,4,G,718,609,6300000,2019-05-31,2013-07-15,4360000.0,44.5,22.293332,114.023026
+534,New Territories,Islands,Discovery Bay,Discovery Bay,Block H2 (Seaview),1982-07-27,H,2,2,20,A,713,588,7150000,2019-05-31,2014-09-08,5000000.0,43.0,22.302550999999998,114.011782
+535,New Territories,Islands,Discovery Bay,Discovery Bay,Woodbury Court,1988-06-14,L,3,2,5,D,895,769,7500000,2019-05-31,2014-11-10,5950000.0,26.05,22.295894999999998,114.011837
+536,New Territories,Islands,Discovery Bay,Discovery Bay,Blossom Court,1992-04-16,H,1,2,13,B,472,410,4800000,2019-05-30,2016-04-22,3200000.0,50.0,22.295603,114.024628
+537,New Territories,Islands,Discovery Bay,Discovery Bay,Costa Court,1995-05-17,L,1,,3,F,527,439,6280000,2019-05-30,,0.0,0.0,22.295717,114.020394
+538,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,M,3,2,13,D,865,744,7610000,2019-05-30,2013-02-14,5368000.0,41.77,22.304589,114.009774
+539,New Territories,Islands,Discovery Bay,Discovery Bay,Amalfi Two,2011-02-02,M,1,,9,C,656,523,6430000,2019-05-29,2012-11-13,5030000.0,27.830000000000002,22.307230999999998,114.01449
+540,New Territories,Islands,Discovery Bay,Discovery Bay,Woodbury Court,1988-06-14,H,3,2,21,D,895,769,8100000,2019-05-29,2012-10-16,5350000.0,51.4,22.295894999999998,114.011837
+541,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,M,2,,9,C,0,881,14980000,2019-05-29,,0.0,0.0,22.30754,114.015396
+542,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,2,,7,E,0,717,10922000,2019-05-28,,0.0,0.0,22.30752,114.0151
+543,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,2,,10,E,0,717,11142500,2019-05-28,,0.0,0.0,22.30752,114.0151
+544,New Territories,Islands,Discovery Bay,Discovery Bay,Graceful Mansion (Block H2),2002-07-30,L,1,,6,E,603,447,5750000,2019-05-28,,0.0,0.0,22.3077505,114.0110951
+545,New Territories,Islands,Discovery Bay,Discovery Bay,Greenery Court,1990-05-24,M,1,2,9,E,517,439,4720000,2019-05-27,,0.0,0.0,22.303098,114.010329
+546,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,0,,5,D,0,412,6730000,2019-05-24,,0.0,0.0,22.30752,114.0151
+547,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,L,0,,6,B,472,398,4500000,2019-05-24,2010-07-28,1680000.0,167.86,22.294334,114.015333
+548,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,M,2,,10,C,0,881,15098578,2019-05-24,,0.0,0.0,22.30754,114.015396
+549,New Territories,Islands,Discovery Bay,Discovery Bay,8 Seahorse Lane,1982-10-05,,3,,2,H,0,1119,14900000,2019-05-24,2007-10-22,9100000.0,63.74,22.296903999999998,114.014465
+550,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,0,,7,D,0,412,7000000,2019-05-23,,0.0,0.0,22.30752,114.0151
+551,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,L,2,2,1,A,713,588,5980000,2019-05-23,2011-06-09,2850000.0,109.82000000000001,22.302934,114.01157
+552,New Territories,Islands,Discovery Bay,Discovery Bay,Woodbury Court,1988-06-14,H,3,2,16,B,1134,980,11380000,2019-05-22,2006-12-30,4450000.0,155.73,22.295894999999998,114.011837
+553,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,L,1,2,1,F,530,440,4520000,2019-05-22,2011-06-09,2000000.0,126.0,22.302934,114.01157
+554,New Territories,Islands,Discovery Bay,Discovery Bay,Greenburg Court,1990-05-24,H,2,2,17,A,856,693,7200000,2019-05-21,2015-11-20,5680000.0,26.76,22.303431999999997,114.010239
+555,New Territories,Islands,Discovery Bay,Discovery Bay,Haven Court,1990-04-03,L,2,2,3,G,723,609,5700000,2019-05-21,,0.0,0.0,22.293629,114.022786
+556,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,0,,11,D,0,412,7107000,2019-05-21,,0.0,0.0,22.30752,114.0151
+557,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,L,3,,1,A,0,1200,16560000,2019-05-20,,0.0,0.0,22.30754,114.015396
+558,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,H,3,,12,B,0,1379,26201000,2019-05-20,,0.0,0.0,22.30754,114.015396
+559,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,L,2,,2,C,0,881,14080000,2019-05-20,,0.0,0.0,22.30754,114.015396
+560,New Territories,Islands,Discovery Bay,Discovery Bay,15 Seabird Lane,1982-11-05,,,,1,F,0,962,10000000,2019-05-17,2008-05-08,6900000.0,44.93,22.297117,114.01384
+561,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,H,3,,12,A,0,1200,20400000,2019-05-17,,0.0,0.0,22.30754,114.015396
+562,New Territories,Islands,Discovery Bay,Discovery Bay,Costa Court,1995-05-17,M,1,,9,B,527,439,6000000,2019-05-17,2007-11-26,1990000.0,201.51,22.295717,114.020394
+563,New Territories,Islands,Discovery Bay,Discovery Bay,Woodgreen Court,1988-06-14,L,3,2,5,B,1134,980,11500000,2019-05-16,,0.0,0.0,22.295666,114.01217
+564,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,H,1,,25,G,665,511,5650000,2019-05-16,2005-11-28,2899400.0,94.87,22.307644999999997,114.012918
+565,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,L,2,,6,C,0,881,13750000,2019-05-16,,0.0,0.0,22.30754,114.015396
+566,New Territories,Islands,Discovery Bay,Discovery Bay,Jovial Court,1990-04-03,H,3,2,13,B,903,771,7450000,2019-05-16,,0.0,0.0,22.293784,114.022455
+567,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,M,1,2,9,F,533,456,4700000,2019-05-15,2013-09-24,3200000.0,46.88,22.305273,114.009554
+568,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,M,1,,16,G,665,510,5850000,2019-05-15,2015-09-21,5000000.0,17.0,22.307644999999997,114.012918
+569,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,M,1,,17,G,665,510,5900000,2019-05-15,2008-05-09,2700000.0,118.52,22.307644999999997,114.012918
+570,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,L,3,2,1,B,903,771,6850000,2019-05-14,,0.0,0.0,22.293332,114.023026
+571,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,H,1,,23,E,590,438,5860000,2019-05-14,2015-02-27,4690000.0,24.95,22.307726,114.012096
+572,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,M,3,2,8,C,865,744,6800000,2019-05-14,,0.0,0.0,22.304589,114.009774
+573,New Territories,Islands,Discovery Bay,Discovery Bay,Bay View,1985-09-13,L,2,2,4,D,830,703,6000000,2019-05-14,2015-02-17,5650000.0,6.19,22.297698,114.011168
+574,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,M,1,2,9,F,533,456,4680000,2019-05-09,2013-02-06,2990000.0,56.52,22.304589,114.009774
+575,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,3,,1,A,0,1015,15000000,2019-05-09,,0.0,0.0,22.30752,114.0151
+576,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,2,,3,E,0,717,10396500,2019-05-09,,0.0,0.0,22.30752,114.0151
+577,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,0,,9,D,0,412,6963000,2019-05-09,,0.0,0.0,22.30752,114.0151
+578,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,2,,5,E,0,717,10556000,2019-05-09,,0.0,0.0,22.30752,114.0151
+579,New Territories,Islands,Discovery Bay,Discovery Bay,3 Parkland Drive,1987-09-30,,3,,1,C,1356,1270,14000000,2019-05-08,,0.0,0.0,22.3031,114.01231
+580,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,L,3,,3,B,0,1379,21800000,2019-05-08,,0.0,0.0,22.30754,114.015396
+581,New Territories,Islands,Discovery Bay,Discovery Bay,Bay View,1985-09-13,H,2,2,12,D,830,703,6380000,2019-05-08,1997-05-14,3330000.0,91.59,22.297698,114.011168
+582,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,M,3,2,10,D,999,870,8200000,2019-05-07,2008-07-11,4750000.0,72.63,22.305875999999998,114.009446
+583,New Territories,Islands,Discovery Bay,Discovery Bay,Jovial Court,1990-04-03,L,3,2,3,C,903,771,6800000,2019-05-07,2014-12-08,5430000.0,25.23,22.293784,114.022455
+584,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,M,4,2,10,C,1088,947,8600000,2019-05-07,2008-07-21,4600000.0,86.96000000000001,22.305875999999998,114.009446
+585,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,2,,6,E,0,717,11100000,2019-05-07,,0.0,0.0,22.30752,114.0151
+586,New Territories,Islands,Discovery Bay,Discovery Bay,Costa Court,1995-05-17,M,2,,9,C,760,628,7100000,2019-05-06,,0.0,0.0,22.295717,114.020394
+587,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,M,3,2,13,C,865,744,7250000,2019-05-06,,0.0,0.0,22.304589,114.009774
+588,New Territories,Islands,Discovery Bay,Discovery Bay,Block 26,2002-07-30,,3,,3,A,1315,1020,13800000,2019-05-06,2007-09-18,6950000.0,98.56,22.306525,114.010433
+589,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,L,2,,5,C,0,881,13479000,2019-05-03,,0.0,0.0,22.30754,114.015396
+590,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,H,0,,16,B,472,398,4600000,2019-05-03,2005-10-04,1520000.0,202.63,22.294423,114.014961
+591,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,L,3,,2,A,0,1200,16800000,2019-05-03,,0.0,0.0,22.30754,114.015396
+592,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,H,2,2,20,D,713,588,7398000,2019-05-03,2000-04-12,2000000.0,269.9,22.302934,114.01157
+593,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,H,1,2,20,E,530,440,4732000,2019-05-03,2010-08-09,1700000.0,178.35,22.302934,114.01157
+594,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,M,1,2,9,E,530,440,4700000,2019-05-02,2011-11-28,2300000.0,104.35000000000001,22.302934,114.01157
+595,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,2,,9,E,0,717,11545000,2019-05-02,,0.0,0.0,22.30752,114.0151
+596,New Territories,Islands,Discovery Bay,Discovery Bay,44 Crestmont Villa,1994-10-24,,3,,3,B,0,1108,12980000,2019-04-30,2010-12-15,8400000.0,54.52,22.297007,114.02435
+597,New Territories,Islands,Discovery Bay,Discovery Bay,Clear View,1985-09-13,M,0,,10,C,585,470,5330000,2019-04-30,2015-04-13,3700000.0,44.050000000000004,22.297888999999998,114.010983
+598,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2,2000-02-10,,3,,3,B,0,1012,12100000,2019-04-30,2009-05-26,6000000.0,101.67,22.293439,114.016759
+599,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,H,2,,23,D,752,578,6800000,2019-04-30,2009-12-14,2820000.0,141.13,22.307591,114.009801
+600,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,H,3,2,15,F,891,757,8400000,2019-04-29,2005-07-05,3100000.0,170.97,22.293332,114.023026
+601,New Territories,Islands,Discovery Bay,Discovery Bay,9 Caperidge Drive,1991-03-02,,3,,G,B,0,1158,13950000,2019-04-29,2012-10-24,13775000.0,1.27,22.294939,114.02253999999999
+602,New Territories,Islands,Discovery Bay,Discovery Bay,Greenfield Court,1990-05-24,L,1,2,3,B,517,439,4350000,2019-04-26,2011-04-21,2500000.0,74.0,22.303828,114.010061
+603,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,0,,8,D,0,412,7040000,2019-04-26,,0.0,0.0,22.30752,114.0151
+604,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,2,,8,E,0,717,10900000,2019-04-26,,0.0,0.0,22.30752,114.0151
+605,New Territories,Islands,Discovery Bay,Discovery Bay,Amalfi Three,2011-02-02,H,1,,15,B,661,527,6300000,2019-04-25,2012-11-21,4800000.0,31.25,22.307363,114.014762
+606,New Territories,Islands,Discovery Bay,Discovery Bay,Graceful Mansion (Block H2),2002-07-30,H,1,,22,E,602,447,5700000,2019-04-25,2015-08-06,4780000.0,19.25,22.3077505,114.0110951
+607,New Territories,Islands,Discovery Bay,Discovery Bay,Block H4 (Mountain View),1982-06-26,M,1,2,14,F,530,440,4980000,2019-04-25,2015-11-05,3950000.0,26.080000000000002,22.302999,114.011104
+608,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,L,3,,5,B,0,1379,23787750,2019-04-25,,0.0,0.0,22.30754,114.015396
+609,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,0,,6,D,0,412,7068000,2019-04-24,,0.0,0.0,22.30752,114.0151
+610,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,3,,5,A,0,1019,15180000,2019-04-24,,0.0,0.0,22.30752,114.0151
+611,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,0,,5,F,0,350,5110000,2019-04-24,,0.0,0.0,22.30752,114.0151
+612,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,M,2,,8,C,0,881,14700000,2019-04-24,,0.0,0.0,22.30754,114.015396
+613,New Territories,Islands,Discovery Bay,Discovery Bay,Greenburg Court,1990-05-24,M,1,2,14,B,517,439,4800000,2019-04-24,1996-07-12,1780000.0,169.66,22.303431999999997,114.010239
+614,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,L,2,,3,C,0,881,13303100,2019-04-24,,0.0,0.0,22.30754,114.015396
+615,New Territories,Islands,Discovery Bay,Discovery Bay,Haven Court,1990-04-03,M,2,2,8,H,724,610,6000000,2019-04-23,2000-02-26,2300000.0,160.87,22.293629,114.022786
+616,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,M,3,,8,B,0,1379,22880000,2019-04-18,,0.0,0.0,22.30754,114.015396
+617,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,2,,3,C,0,715,9800000,2019-04-18,,0.0,0.0,22.30752,114.0151
+618,New Territories,Islands,Discovery Bay,Discovery Bay,Block 46,2002-07-30,L,,,2,C,565,442,5680000,2019-04-18,2002-10-11,1324620.0,328.8,22.307108,114.01228499999999
+619,New Territories,Islands,Discovery Bay,Discovery Bay,Cherish Court,1992-04-16,L,2,2,1,E,628,545,5750000,2019-04-18,2000-10-26,1870000.0,207.49,22.295914999999997,114.0250171
+620,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,H,0,,12,F,0,350,5368000,2019-04-18,,0.0,0.0,22.30752,114.0151
+621,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,L,3,2,,D,999,870,7980000,2019-04-17,,0.0,0.0,22.306207999999998,114.009702
+622,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,H,2,2,18,D,699,591,7050000,2019-04-17,2015-10-14,5500000.0,28.18,22.294423,114.014961
+623,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,H,3,,15,A,0,1019,20380000,2019-04-16,,0.0,0.0,22.30752,114.0151
+624,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,0,,3,D,0,412,6728400,2019-04-16,,0.0,0.0,22.30752,114.0151
+625,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,H,2,,23,C,812,629,7050000,2019-04-16,2012-10-03,4600000.0,53.26,22.307591,114.009801
+626,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,0,,1,F,0,344,5000000,2019-04-16,,0.0,0.0,22.30752,114.0151
+627,New Territories,Islands,Discovery Bay,Discovery Bay,Block 8,2019-04-16,L,3,,3,A,0,1200,17470000,2019-04-16,,0.0,0.0,22.30754,114.015396
+628,New Territories,Islands,Discovery Bay,Discovery Bay,Woodbury Court,1988-06-14,M,3,2,9,D,895,769,7480000,2019-04-16,2008-10-16,3350000.0,123.28,22.295894999999998,114.011837
+629,New Territories,Islands,Discovery Bay,Discovery Bay,Jovial Court,1990-04-03,M,3,2,7,C,903,771,7250000,2019-04-16,2014-12-30,5600000.0,29.46,22.293784,114.022455
+630,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,0,,10,D,0,412,6968000,2019-04-16,,0.0,0.0,22.30752,114.0151
+631,New Territories,Islands,Discovery Bay,Discovery Bay,Block L8,2002-01-15,,,,2,,2162,1711,19500000,2019-04-16,,0.0,0.0,22.305153,114.011181
+632,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,3,,3,A,0,1019,14280000,2019-04-16,,0.0,0.0,22.30752,114.0151
+633,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,H,2,,15,B,0,821,16420000,2019-04-16,,0.0,0.0,22.30752,114.0151
+634,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,L,0,,3,F,0,350,5005000,2019-04-16,,0.0,0.0,22.30752,114.0151
+635,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,2,,10,B,0,821,14613800,2019-04-16,,0.0,0.0,22.30752,114.0151
+636,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,0,,8,F,0,350,5410000,2019-04-16,,0.0,0.0,22.30752,114.0151
+637,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2019-04-16,M,3,,7,A,0,1019,17000000,2019-04-16,,0.0,0.0,22.30752,114.0151
+638,New Territories,Islands,Discovery Bay,Discovery Bay,Block 36,2002-07-30,M,,,5,D,590,451,5500000,2019-04-15,2014-02-27,3980000.0,38.19,22.306988999999998,114.011345
+639,New Territories,Islands,Discovery Bay,Discovery Bay,Block 20,2002-07-30,,4,,1,B,1570,1214,15000000,2019-04-15,2008-02-29,11500000.0,30.43,22.305987,114.010316
+640,New Territories,Islands,Discovery Bay,Discovery Bay,Greenery Court,1990-05-24,M,1,2,10,E,517,439,4790000,2019-04-12,2011-05-12,2000000.0,139.5,22.303098,114.010329
+641,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,H,2,2,21,D,699,591,6000000,2019-04-12,2016-01-29,4700000.0,27.66,22.294334,114.015333
+642,New Territories,Islands,Discovery Bay,Discovery Bay,Block H1 (Starview),1982-08-05,M,2,2,9,A,713,588,6100000,2019-04-12,2015-05-29,5500000.0,10.91,22.302169,114.011488
+643,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,L,3,2,4,F,919,776,8500000,2019-04-12,2012-09-12,5850000.0,45.300000000000004,22.294521,114.014563
+644,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,H,3,2,19,C,865,744,8200000,2019-04-12,2011-05-16,4150000.0,97.59,22.304589,114.009774
+645,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,L,2,,8,F,895,631,6850000,2019-04-12,2014-10-07,5550000.0,23.42,22.307726,114.012096
+646,New Territories,Islands,Discovery Bay,Discovery Bay,Block L38,2002-01-15,,3,,3,B,1235,962,12200000,2019-04-11,2002-05-16,4055832.0,200.8,22.306051,114.012614
+647,New Territories,Islands,Discovery Bay,Discovery Bay,46 Crestmont Villa,1994-10-24,,3,,3,A,1298,1108,11800000,2019-04-10,2008-06-02,7300000.0,61.64,22.297038999999998,114.024506
+648,New Territories,Islands,Discovery Bay,Discovery Bay,Jovial Court,1990-04-03,M,2,2,8,G,723,609,5940000,2019-04-10,2010-06-15,2350000.0,152.77,22.293784,114.022455
+649,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,H,4,2,19,F,1088,947,9280000,2019-04-10,2011-08-19,5780000.0,60.550000000000004,22.305875999999998,114.009446
+650,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,H,3,,22,C,2025,1597,20000000,2019-04-10,2008-04-08,17380000.0,15.07,22.307644999999997,114.012918
+651,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,M,3,,17,A,1195,915,11380000,2019-04-10,2010-03-11,6730000.0,69.09,22.307644999999997,114.012918
+652,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,H,2,2,17,C,713,588,6500000,2019-04-09,1996-12-20,2700000.0,140.74,22.302934,114.01157
+653,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,M,2,2,8,D,699,591,6450000,2019-04-08,2012-05-28,4110000.0,56.93,22.294521,114.014563
+654,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,M,2,2,12,D,713,588,6250000,2019-04-08,2013-09-10,4500000.0,38.89,22.302934,114.01157
+655,New Territories,Islands,Discovery Bay,Discovery Bay,44 Coastline Villa,1996-04-22,,3,,3,A,0,1282,14700000,2019-04-08,2011-11-23,11000000.0,33.64,22.295279999999998,114.02525
+656,New Territories,Islands,Discovery Bay,Discovery Bay,Woodland Court,1988-06-14,H,3,,21,B,1134,980,10000000,2019-04-04,2012-05-31,8000000.0,25.0,22.295372,114.012336
+657,New Territories,Islands,Discovery Bay,Discovery Bay,Pine View,1985-09-13,H,3,2,17,C,1136,953,10500000,2019-04-04,2012-09-24,8300000.0,26.51,22.296992,114.011149
+658,New Territories,Islands,Discovery Bay,Discovery Bay,Woodbury Court,1988-06-14,L,3,2,4,A,895,769,7400000,2019-04-03,2009-09-24,3250000.0,127.69,22.295894999999998,114.011837
+659,New Territories,Islands,Discovery Bay,Discovery Bay,Woodbury Court,1988-06-14,L,3,2,4,B,1134,980,10100000,2019-04-01,2010-11-17,6100000.0,65.57000000000001,22.295894999999998,114.011837
+660,New Territories,Islands,Discovery Bay,Discovery Bay,Joyful Mansion (Block H3),2002-07-30,H,1,,27,D,612,453,5830000,2019-03-29,2012-04-13,3500000.0,66.57000000000001,22.307577,114.011718
+661,New Territories,Islands,Discovery Bay,Discovery Bay,Block H1 (Starview),1982-08-05,M,1,2,10,F,530,440,4130000,2019-03-29,2000-11-28,1150000.0,259.13,22.302169,114.011488
+662,New Territories,Islands,Discovery Bay,Discovery Bay,Block H4 (Mountain View),1982-06-26,M,2,2,8,C,713,588,5950000,2019-03-29,2008-03-14,2150000.0,176.74,22.302999,114.011104
+663,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,L,0,,5,E,472,398,4150000,2019-03-28,,0.0,0.0,22.294521,114.014563
+664,New Territories,Islands,Discovery Bay,Discovery Bay,7 Seahorse Lane,1982-10-05,,3,,1,D,2075,1995,21000000,2019-03-28,2009-09-07,19128000.0,9.790000000000001,22.29672,114.014786
+665,New Territories,Islands,Discovery Bay,Discovery Bay,Crestine Mansion (Block M1),2002-04-08,M,3,,7,A,1108,809,8700000,2019-03-27,2002-04-18,3212810.0,170.79,22.304298,114.011966
+666,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,H,1,2,15,B,496,411,4300000,2019-03-22,2014-12-31,3500000.0,22.86,22.294563,114.021821
+667,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,H,2,,25,B,2025,778,8700000,2019-03-20,2011-08-01,5980000.0,45.480000000000004,22.307644999999997,114.012918
+668,New Territories,Islands,Discovery Bay,Discovery Bay,Block L8,2011-02-02,,3,,2,3,0,1436,22500000,2019-03-19,,0.0,0.0,22.306800000000003,114.013682
+669,New Territories,Islands,Discovery Bay,Discovery Bay,Joyful Mansion,2002-07-30,H,1,,,D,612,453,5830000,2019-03-19,,0.0,0.0,22.307577,114.011718
+670,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,L,1,,7,E,575,440,4500000,2019-03-19,2012-08-09,2590000.0,73.75,22.307591,114.009801
+671,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,L,3,,7,D,1168,904,10680000,2019-03-18,2007-12-31,6600000.0,61.82,22.307644999999997,114.012918
+672,New Territories,Islands,Discovery Bay,Discovery Bay,Sunrise,1982-07-02,M,2,2,,A,713,588,5700000,2019-03-18,,0.0,0.0,22.302934,114.01157
+673,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,M,1,2,8,E,530,440,4500000,2019-03-18,2015-03-05,3650000.0,23.29,22.302934,114.01157
+674,New Territories,Islands,Discovery Bay,Discovery Bay,59 Seabird Lane,1982-12-30,,3,,G,D,0,1442,15000000,2019-03-14,2010-02-24,15300000.0,-1.96,22.300559999999997,114.01436
+675,New Territories,Islands,Discovery Bay,Discovery Bay,Cherish Court,1992-04-16,H,1,2,15,B,472,410,4300000,2019-03-13,2009-03-13,1300000.0,230.77,22.295914999999997,114.0250171
+676,New Territories,Islands,Discovery Bay,Discovery Bay,Woodland Court,1988-06-14,L,3,,1,A,895,769,6650000,2019-03-11,2011-05-17,3880000.0,71.39,22.295372,114.012336
+677,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,L,3,2,6,D,999,870,7900000,2019-03-08,2011-04-08,5520000.0,43.12,22.306207999999998,114.009702
+678,New Territories,Islands,Discovery Bay,Discovery Bay,Mountain View,1982-06-26,H,2,2,,D,713,588,5980000,2019-03-08,,0.0,0.0,22.302999,114.011104
+679,New Territories,Islands,Discovery Bay,Discovery Bay,Woodbury Court,1988-06-14,L,3,2,5,C,1134,980,9700000,2019-03-06,2014-06-25,7900000.0,22.78,22.295894999999998,114.011837
+680,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,H,1,2,16,E,530,440,3800000,2019-03-04,2009-04-06,1150000.0,230.43,22.302934,114.01157
+681,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,H,3,,19,E,1155,890,9860000,2019-03-04,2009-08-18,5900000.0,67.12,22.307644999999997,114.012918
+682,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,L,3,2,3,D,865,744,7000000,2019-02-28,,0.0,0.0,22.304589,114.009774
+683,New Territories,Islands,Discovery Bay,Discovery Bay,13 Parkland Drive,1987-09-30,,3,,3,G,1356,1270,13800000,2019-02-28,2009-07-02,8000000.0,72.5,22.304064,114.01267
+684,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,M,2,2,7,D,661,545,5650000,2019-02-28,2011-04-06,3000000.0,88.33,22.294563,114.021821
+685,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,L,4,2,4,C,1088,947,7880000,2019-02-26,2011-05-31,6000000.0,31.330000000000002,22.306808999999998,114.0095
+686,New Territories,Islands,Discovery Bay,Discovery Bay,48 Crestmont Villa,1994-10-24,,3,,1,B,0,1108,11328000,2019-02-20,2007-09-06,6200000.0,82.71000000000001,22.296926,114.02468999999999
+687,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,L,2,2,3,E,689,592,5630000,2019-02-19,,0.0,0.0,22.304589,114.009774
+688,New Territories,Islands,Discovery Bay,Discovery Bay,Graceful Mansion (Block H2),2002-07-30,M,2,,18,F,860,607,6000000,2019-02-19,2010-11-24,3590000.0,67.13,22.3077505,114.0110951
+689,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,M,4,2,10,C,1088,947,8800000,2019-02-18,,0.0,0.0,22.306207999999998,114.009702
+690,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6,2000-02-10,,3,,2,A,0,1015,11500000,2019-02-15,2012-04-20,9600000.0,19.79,22.293101,114.017443
+691,New Territories,Islands,Discovery Bay,Discovery Bay,6 Coastline Villa,1996-04-22,,3,,3,A,0,1282,14300000,2019-02-15,2018-10-05,15000000.0,-4.67,22.294783,114.02343
+692,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,L,2,2,5,C,713,588,5950000,2019-02-15,2011-03-21,2915000.0,104.12,22.302934,114.01157
+693,New Territories,Islands,Discovery Bay,Discovery Bay,Block 1 (Pavilion),2006-04-24,H,,,27,B,1003,778,7900000,2019-02-13,2012-05-24,6200000.0,27.42,22.308004999999998,114.012901
+694,New Territories,Islands,Discovery Bay,Discovery Bay,Block H2 (Seaview),1982-07-27,L,1,2,1,E,530,440,3680000,2019-02-13,2010-10-11,1680000.0,119.05,22.302550999999998,114.011782
+695,New Territories,Islands,Discovery Bay,Discovery Bay,Block 1 (Pavilion),2006-04-24,H,,,27,A,1002,775,7950000,2019-02-13,2012-05-24,6250000.0,27.2,22.308004999999998,114.012901
+696,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,L,1,2,2,A,533,456,3950000,2019-02-11,2014-12-04,3150000.0,25.400000000000002,22.304589,114.009774
+697,New Territories,Islands,Discovery Bay,Discovery Bay,1 Parkvale Drive,1987-10-23,,1,,4,C,0,449,4350000,2019-02-01,2013-10-23,3620000.0,20.17,22.294697,114.01336
+698,New Territories,Islands,Discovery Bay,Discovery Bay,Greenfield Court,1990-05-24,L,3,2,3,C,1068,876,7300000,2019-01-31,2011-04-21,4080000.0,78.92,22.303828,114.010061
+699,New Territories,Islands,Discovery Bay,Discovery Bay,Greenburg Court,1990-05-24,H,2,2,18,A,856,693,6650000,2019-01-29,2008-06-10,2850000.0,133.33,22.303431999999997,114.010239
+700,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,M,2,2,12,B,689,592,5950000,2019-01-25,2009-11-26,2380000.0,150.0,22.304589,114.009774
+701,New Territories,Islands,Discovery Bay,Discovery Bay,Greenery Court,1990-05-24,M,2,2,11,A,856,693,5900000,2019-01-24,2008-06-04,2500000.0,136.0,22.303098,114.010329
+702,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,L,3,,6,D,1163,900,9480000,2019-01-24,2008-06-24,6000000.0,58.0,22.307644999999997,114.012918
+703,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,L,2,2,4,C,699,591,5900000,2019-01-16,2005-03-15,1850000.0,218.92000000000002,22.294334,114.015333
+704,New Territories,Islands,Discovery Bay,Discovery Bay,Block 3 (Hemex),2006-04-24,M,1,,11,G,672,517,5100000,2019-01-16,2015-02-09,4560000.0,11.84,22.307316,114.013199
+705,New Territories,Islands,Discovery Bay,Discovery Bay,Crestine Mansion (Block M1),2002-04-08,H,2,,12,F,870,639,6500000,2019-01-10,2012-07-25,4250000.0,52.94,22.304298,114.011966
+706,New Territories,Islands,Discovery Bay,Discovery Bay,Woodland Court,1988-06-14,M,3,,12,D,895,769,7800000,2019-01-09,2012-09-10,4810000.0,62.160000000000004,22.295372,114.012336
+707,New Territories,Islands,Discovery Bay,Discovery Bay,Jovial Court,1990-04-03,L,3,2,1,D,889,755,6000000,2019-01-08,,0.0,0.0,22.293784,114.022455
+708,New Territories,Islands,Discovery Bay,Discovery Bay,17 Caperidge Drive,1990-06-01,,3,,2,D,1618,1359,13015000,2019-01-03,,0.0,0.0,22.295422,114.02173
+709,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,H,2,2,14,G,718,609,6350000,2018-12-31,2010-11-22,2580000.0,146.12,22.293332,114.023026
+710,New Territories,Islands,Discovery Bay,Discovery Bay,5 Vista Avenue,1994-09-09,,1,,2,C,504,452,5168000,2018-12-24,2014-07-02,3400000.0,52.0,22.294307999999997,114.01843
+711,New Territories,Islands,Discovery Bay,Discovery Bay,Skyline Mansion (Block M2),2002-04-08,M,1,,11,H,648,482,5480000,2018-12-20,2010-07-16,1860000.0,194.62,22.3047,114.011723
+712,New Territories,Islands,Discovery Bay,Discovery Bay,Costa Court,1995-05-17,L,2,,5,A,650,527,6800000,2018-12-20,2014-08-08,5000000.0,36.0,22.295717,114.020394
+713,New Territories,Islands,Discovery Bay,Discovery Bay,26 Caperidge Drive,1990-06-01,,,,2,C,1616,1364,16000000,2018-12-19,2010-09-10,10500000.0,52.38,22.296232,114.022255
+714,New Territories,Islands,Discovery Bay,Discovery Bay,Block 38,2002-07-30,L,2,,,A,792,593,6550000,2018-12-13,,0.0,0.0,22.307060999999997,114.011572
+715,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,L,2,2,5,E,689,592,6280000,2018-12-11,1996-12-21,2710000.0,131.73,22.304589,114.009774
+716,New Territories,Islands,Discovery Bay,Discovery Bay,Bay View,1985-09-13,M,2,2,11,C,830,703,6000000,2018-12-11,,0.0,0.0,22.297698,114.011168
+717,New Territories,Islands,Discovery Bay,Discovery Bay,Block H2 (Seaview),1982-07-27,M,2,2,10,D,713,588,6500000,2018-12-10,2015-03-03,5350000.0,21.5,22.302550999999998,114.011782
+718,New Territories,Islands,Discovery Bay,Discovery Bay,Block 1 (Pavilion),2006-04-24,M,3,,15,E,1168,904,9690000,2018-12-10,2007-10-16,6948000.0,39.46,22.308004999999998,114.012901
+719,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,L,2,2,8,H,776,649,6000000,2018-12-04,2010-06-04,2650000.0,126.42,22.306207999999998,114.009702
+720,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,L,3,2,8,G,868,757,6100000,2018-12-04,2010-06-14,3300000.0,84.85000000000001,22.306207999999998,114.009702
+721,New Territories,Islands,Discovery Bay,Discovery Bay,55 Crestmont Villa,1994-10-24,,3,,4,A,0,1436,18000000,2018-12-03,2009-09-04,11900000.0,51.26,22.296474,114.02448
+722,New Territories,Islands,Discovery Bay,Discovery Bay,Greenery Court,1990-05-24,L,2,2,4,A,856,693,6875000,2018-11-30,2015-01-07,4850000.0,41.75,22.303098,114.010329
+723,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,H,3,2,13,F,859,709,7260000,2018-11-29,2015-09-30,5800000.0,25.17,22.294563,114.021821
+724,New Territories,Islands,Discovery Bay,Discovery Bay,Db Plaza ( C ),1991-11-14,L,,,2,223,0,662,6000000,2018-11-26,2015-07-21,5670000.0,5.82,22.295209,114.016682
+725,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,H,3,2,14,D,865,744,7500000,2018-11-26,2011-03-04,3570000.0,110.08,22.304589,114.009774
+726,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5 (Lustre),2006-04-24,L,,,8,E,1500,1159,13800000,2018-11-23,2009-07-13,7400000.0,86.49,22.307326,114.013562
+727,New Territories,Islands,Discovery Bay,Discovery Bay,Onda Court,1995-05-17,H,3,2,16,G,1180,963,11300000,2018-11-22,,0.0,0.0,22.295434999999998,114.020238
+728,New Territories,Islands,Discovery Bay,Discovery Bay,Costa Court,1995-05-17,L,1,,3,B,527,439,5500000,2018-11-12,2015-11-26,4500000.0,22.22,22.295717,114.020394
+729,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,M,2,,20,A,750,582,6638000,2018-11-12,2010-10-26,1525000.0,335.28000000000003,22.307591,114.009801
+730,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,H,2,2,18,A,776,649,6100000,2018-11-09,2002-12-03,1300000.0,369.23,22.305875999999998,114.009446
+731,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,M,2,2,16,H,776,649,6300000,2018-11-08,2013-09-03,3990000.0,57.89,22.305875999999998,114.009446
+732,New Territories,Islands,Discovery Bay,Discovery Bay,Block 1 (Pavilion),2006-04-24,L,2,,6,C,965,737,9388000,2018-11-07,2006-04-12,5133000.0,82.89,22.308004999999998,114.012901
+733,New Territories,Islands,Discovery Bay,Discovery Bay,Serene Court,2000-02-10,H,3,,11,A,0,837,10000000,2018-11-07,,0.0,0.0,22.292375999999997,114.016379
+734,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,H,2,2,17,A,776,649,6350000,2018-11-06,2015-06-01,5000000.0,27.0,22.306808999999998,114.0095
+735,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,H,2,,25,C,752,578,6800000,2018-11-06,2015-04-17,5780000.0,17.650000000000002,22.307591,114.009801
+736,New Territories,Islands,Discovery Bay,Discovery Bay,Greenburg Court,1990-05-24,M,1,2,15,B,517,439,4600000,2018-11-05,2009-09-04,1700000.0,170.59,22.303431999999997,114.010239
+737,New Territories,Islands,Discovery Bay,Discovery Bay,7 Vista Avenue,1994-09-09,,3,,1,B,1026,924,10380000,2018-10-31,,0.0,0.0,22.294525,114.01868
+738,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,M,2,2,11,H,665,545,5830000,2018-10-26,2007-07-11,1780000.0,227.53,22.294563,114.021821
+739,New Territories,Islands,Discovery Bay,Discovery Bay,Vista Court,1994-09-09,L,1,2,5,A,579,450,5450000,2018-10-24,2004-05-05,1510000.0,260.93,22.293454999999998,114.017951
+740,New Territories,Islands,Discovery Bay,Discovery Bay,Woodland Court,1988-06-14,L,3,,6,C,1134,980,11500000,2018-10-24,2010-10-13,5650000.0,103.54,22.295372,114.012336
+741,New Territories,Islands,Discovery Bay,Discovery Bay,Graceful Mansion (Block H2),2002-07-30,M,3,,20,D,1165,844,9800000,2018-10-23,,0.0,0.0,22.3077505,114.0110951
+742,New Territories,Islands,Discovery Bay,Discovery Bay,Block H4 (Mountain View),1982-06-26,M,1,2,11,E,530,440,5225000,2018-10-22,2011-06-08,2283000.0,128.87,22.302999,114.011104
+743,New Territories,Islands,Discovery Bay,Discovery Bay,Clear View,1985-09-13,M,0,,9,E,570,453,4500000,2018-10-22,2012-01-13,2220000.0,102.7,22.297888999999998,114.010983
+744,New Territories,Islands,Discovery Bay,Discovery Bay,Vista Court,1994-09-09,M,1,2,,A,579,450,5450000,2018-10-16,,0.0,0.0,22.293454999999998,114.017951
+745,New Territories,Islands,Discovery Bay,Discovery Bay,Greenland Court,1991-12-10,L,1,2,3,A,533,456,4000000,2018-10-15,2015-06-12,3500000.0,14.290000000000001,22.304947,114.009637
+746,New Territories,Islands,Discovery Bay,Discovery Bay,2 Vista Avenue,1994-09-09,,3,,1,A,948,850,8700000,2018-10-05,2008-01-03,4900000.0,77.55,22.293896,114.017944
+747,New Territories,Islands,Discovery Bay,Discovery Bay,6 Coastline Villa,1996-04-22,,3,,3,A,0,1282,15000000,2018-10-05,2009-11-02,8920000.0,68.16,22.294783,114.02343
+748,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,L,3,2,1,F,891,757,6600000,2018-09-27,2012-06-08,4150000.0,59.04,22.293332,114.023026
+749,New Territories,Islands,Discovery Bay,Discovery Bay,Jovial Court,1990-04-03,L,3,2,3,D,889,755,6700000,2018-09-27,2009-09-24,2700000.0,148.15,22.293784,114.022455
+750,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,L,2,2,1,B,689,592,5450000,2018-09-26,,0.0,0.0,22.305273,114.009554
+751,New Territories,Islands,Discovery Bay,Discovery Bay,Greenburg Court,1990-05-24,L,3,2,5,D,1068,876,8330000,2018-09-26,2010-12-14,3600000.0,131.39000000000001,22.303431999999997,114.010239
+752,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,M,3,,10,D,1168,904,9250000,2018-09-26,2008-04-30,6500000.0,42.31,22.307644999999997,114.012918
+753,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,M,2,,19,F,890,633,7670000,2018-09-26,2003-09-17,2150000.0,256.74,22.307726,114.012096
+754,New Territories,Islands,Discovery Bay,Discovery Bay,Jovial Court,1990-04-03,M,3,2,9,C,903,771,7100000,2018-09-21,,0.0,0.0,22.293784,114.022455
+755,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,L,3,2,4,D,999,870,7700000,2018-09-20,2012-04-25,4450000.0,73.03,22.305875999999998,114.009446
+756,New Territories,Islands,Discovery Bay,Discovery Bay,6 Coastline Villa,1996-04-22,,3,,1,B,0,1347,14600000,2018-09-20,2010-10-29,9500000.0,53.68,22.294783,114.02343
+757,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,M,3,2,8,A,889,755,7300000,2018-09-17,2012-06-04,4850000.0,50.52,22.293332,114.023026
+758,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,M,4,2,10,C,1088,947,9470000,2018-09-14,2011-05-12,5950000.0,59.160000000000004,22.306808999999998,114.0095
+759,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,L,0,,5,B,472,398,4580000,2018-09-14,2007-03-26,1270000.0,260.63,22.294521,114.014563
+760,New Territories,Islands,Discovery Bay,Discovery Bay,Greenland Court,1991-12-10,H,3,2,14,C,865,744,7800000,2018-09-14,2008-01-18,3080000.0,153.25,22.304947,114.009637
+761,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,M,2,2,15,H,776,649,6000000,2018-09-12,2008-05-08,2430000.0,146.91,22.306808999999998,114.0095
+762,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,M,3,2,15,G,868,757,6500000,2018-09-12,2008-05-08,2550000.0,154.9,22.306808999999998,114.0095
+763,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,H,2,,23,C,858,629,7850000,2018-09-11,2003-10-30,2448289.8,220.63,22.307726,114.012096
+764,New Territories,Islands,Discovery Bay,Discovery Bay,Block H2 (Seaview),1982-07-27,L,2,2,4,C,713,588,5800000,2018-09-11,2001-03-21,1650000.0,251.52,22.302550999999998,114.011782
+765,New Territories,Islands,Discovery Bay,Discovery Bay,Block H2 (Seaview),1982-07-27,L,2,2,1,D,713,588,5800000,2018-09-10,2010-10-11,2330000.0,148.93,22.302550999999998,114.011782
+766,New Territories,Islands,Discovery Bay,Discovery Bay,Greenfield Court,1990-05-24,L,1,2,2,B,517,439,5000000,2018-09-10,2017-06-28,3980000.0,25.63,22.303828,114.010061
+767,New Territories,Islands,Discovery Bay,Discovery Bay,Graceful Mansion (Block H2),2002-07-30,L,1,,8,E,603,447,5000000,2018-09-10,2012-12-28,3800000.0,31.580000000000002,22.3077505,114.0110951
+768,New Territories,Islands,Discovery Bay,Discovery Bay,Greenfield Court,1990-05-24,M,3,2,14,C,1068,876,8350000,2018-09-07,2012-02-29,4980000.0,67.67,22.303828,114.010061
+769,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,M,1,2,13,A,533,456,4760000,2018-09-03,2008-02-13,1380000.0,244.93,22.305273,114.009554
+770,New Territories,Islands,Discovery Bay,Discovery Bay,Greenburg Court,1990-05-24,M,2,2,15,A,856,693,6700000,2018-09-03,2009-09-04,2800000.0,139.29,22.303431999999997,114.010239
+771,New Territories,Islands,Discovery Bay,Discovery Bay,Graceful Mansion (Block H2),2002-07-30,M,2,,12,C,858,629,7640000,2018-08-30,2011-07-15,4460000.0,71.3,22.3077505,114.0110951
+772,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,L,2,2,6,E,689,592,6000000,2018-08-29,2005-11-12,2030000.0,195.57,22.305273,114.009554
+773,New Territories,Islands,Discovery Bay,Discovery Bay,Marine View,1985-09-13,H,3,2,15,C,1399,1206,13300000,2018-08-29,,0.0,0.0,22.297518999999998,114.011404
+774,New Territories,Islands,Discovery Bay,Discovery Bay,Greenery Court,1990-05-24,L,1,2,2,B,517,439,4700000,2018-08-29,2005-07-07,1280000.0,267.19,22.303098,114.010329
+775,New Territories,Islands,Discovery Bay,Discovery Bay,5 Caperidge Drive,1991-03-02,,3,,3,B,0,1158,10450000,2018-08-29,2007-12-24,5600000.0,86.61,22.294650999999998,114.02244
+776,New Territories,Islands,Discovery Bay,Discovery Bay,Block 3 (Hemex),2006-04-24,M,1,,9,D,800,628,7150000,2018-08-23,2009-06-30,3800000.0,88.16,22.307316,114.013199
+777,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,L,2,,8,B,800,580,5999999,2018-08-23,2006-11-07,2080000.0,188.46,22.307726,114.012096
+778,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,M,3,2,10,D,891,757,7900000,2018-08-16,2016-10-11,6150000.0,28.46,22.293332,114.023026
+779,New Territories,Islands,Discovery Bay,Discovery Bay,Bay View,1985-09-13,L,2,2,1,B,868,730,9000000,2018-08-16,2005-01-05,3230000.0,178.64000000000001,22.297698,114.011168
+780,New Territories,Islands,Discovery Bay,Discovery Bay,Block 1 (Pavilion),2006-04-24,L,3,,10,E,1168,904,10780000,2018-08-15,2006-04-12,6607000.0,63.160000000000004,22.308004999999998,114.012901
+781,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,H,2,2,21,C,727,624,7580000,2018-08-14,,0.0,0.0,22.294738,114.012819
+782,New Territories,Islands,Discovery Bay,Discovery Bay,Clear View,1985-09-13,H,0,,13,D,570,453,4800000,2018-08-14,2010-10-04,2000000.0,140.0,22.297888999999998,114.010983
+783,New Territories,Islands,Discovery Bay,Discovery Bay,Graceful Mansion (Block H2),2002-07-30,L,2,,8,F,860,607,6600000,2018-08-10,2011-03-30,3180000.0,107.55,22.3077505,114.0110951
+784,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,L,3,2,6,B,868,757,6600000,2018-08-09,2009-07-17,2300000.0,186.96,22.306808999999998,114.0095
+785,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,M,2,2,8,F,796,689,7500000,2018-08-09,2009-06-30,3000000.0,150.0,22.294738,114.012819
+786,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,M,0,,8,E,432,368,3600000,2018-08-07,2008-05-15,1220000.0,195.08,22.294738,114.012819
+787,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,L,1,2,5,A,533,456,4550000,2018-08-06,2005-05-13,1000000.0,355.0,22.305273,114.009554
+788,New Territories,Islands,Discovery Bay,Discovery Bay,Blossom Court,1992-04-16,H,1,2,12,G,472,410,4650000,2018-08-06,2012-05-25,2450000.0,89.8,22.295603,114.024628
+789,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,L,0,,7,B,472,398,4550000,2018-08-06,2013-08-05,3500000.0,30.0,22.294521,114.014563
+790,New Territories,Islands,Discovery Bay,Discovery Bay,Block L38,2002-01-15,,3,,G,A,1442,1153,15500000,2018-08-03,2002-03-19,5809674.0,166.8,22.306051,114.012614
+791,New Territories,Islands,Discovery Bay,Discovery Bay,Block 3 (Hemex),2006-04-24,M,1,,10,G,672,517,5600000,2018-08-03,2015-07-06,4550000.0,23.080000000000002,22.307316,114.013199
+792,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,L,1,2,4,A,533,456,5000000,2018-08-02,2012-04-18,2600000.0,92.31,22.304589,114.009774
+793,New Territories,Islands,Discovery Bay,Discovery Bay,Db Plaza ( C ),1991-11-14,M,,,5,23,0,662,7600000,2018-08-02,,0.0,0.0,22.295209,114.016682
+794,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,H,3,2,17,F,891,757,8200000,2018-08-01,2015-06-05,6750000.0,21.48,22.293332,114.023026
+795,New Territories,Islands,Discovery Bay,Discovery Bay,Greenland Court,1991-12-10,H,2,2,17,B,689,592,6300000,2018-07-31,2010-04-12,2680000.0,135.07,22.304947,114.009637
+796,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6 (Premiep),2006-04-24,L,1,,8,G,672,517,5800000,2018-07-30,2012-04-13,2980000.0,94.63,22.307340999999997,114.01395099999999
+797,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,H,2,2,19,C,727,624,7420000,2018-07-30,2013-08-30,5350000.0,38.69,22.294363,114.012951
+798,New Territories,Islands,Discovery Bay,Discovery Bay,Celestial Mansion (Block H1),2002-07-30,H,3,,26,E,1200,863,9780000,2018-07-30,2013-07-29,7550000.0,29.54,22.307664,114.010687
+799,New Territories,Islands,Discovery Bay,Discovery Bay,Woodgreen Court,1988-06-14,M,3,2,10,D,895,769,7600000,2018-07-26,2007-10-09,2850000.0,166.67000000000002,22.295666,114.01217
+800,New Territories,Islands,Discovery Bay,Discovery Bay,Skyline Mansion (Block M2),2002-04-08,H,2,,16,F,850,617,6600000,2018-07-26,2010-09-13,4300000.0,53.49,22.3047,114.011723
+801,New Territories,Islands,Discovery Bay,Discovery Bay,Skyline Mansion (Block M2),2002-04-08,L,1,,7,C,678,498,5900000,2018-07-26,2013-04-15,3950000.0,49.370000000000005,22.3047,114.011723
+802,New Territories,Islands,Discovery Bay,Discovery Bay,Greenery Court,1990-05-24,H,3,2,18,D,1068,876,8450000,2018-07-26,2007-12-13,3500000.0,141.43,22.303098,114.010329
+803,New Territories,Islands,Discovery Bay,Discovery Bay,Block H4 (Mountain View),1982-06-26,L,2,2,5,B,713,588,6000000,2018-07-24,2005-02-03,1238000.0,384.65000000000003,22.302999,114.011104
+804,New Territories,Islands,Discovery Bay,Discovery Bay,Block 3 (Hemex),2006-04-24,M,1,,9,G,672,517,5700000,2018-07-24,2015-05-14,4450000.0,28.09,22.307316,114.013199
+805,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,L,2,2,1,F,796,689,6350000,2018-07-24,2009-07-23,1930000.0,229.02,22.294738,114.012819
+806,New Territories,Islands,Discovery Bay,Discovery Bay,Block H4 (Mountain View),1982-06-26,L,2,2,1,C,713,588,5700000,2018-07-24,2014-10-23,3990000.0,42.86,22.302999,114.011104
+807,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,H,1,2,20,F,530,440,4800000,2018-07-23,2010-12-22,1660000.0,189.16,22.302934,114.01157
+808,New Territories,Islands,Discovery Bay,Discovery Bay,Onda Court,1995-05-17,M,2,2,10,C,760,628,7500000,2018-07-20,2014-09-23,5650000.0,32.74,22.295434999999998,114.020238
+809,New Territories,Islands,Discovery Bay,Discovery Bay,Block 3 (Hemex),2006-04-24,M,2,,11,C,996,756,9190000,2018-07-20,2007-10-16,5240000.0,75.38,22.307316,114.013199
+810,New Territories,Islands,Discovery Bay,Discovery Bay,Block 3 (Hemex),2006-04-24,M,1,,11,D,796,625,6500000,2018-07-20,2007-10-16,4378000.0,48.47,22.307316,114.013199
+811,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,L,2,2,6,H,665,545,5420000,2018-07-19,,0.0,0.0,22.294563,114.021821
+812,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,L,0,,6,E,432,368,4000000,2018-07-19,2014-06-23,2700000.0,48.15,22.294738,114.012819
+813,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,L,1,2,3,F,533,456,4800000,2018-07-19,2014-11-13,3150000.0,52.38,22.305273,114.009554
+814,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,M,2,,18,B,800,581,6500000,2018-07-18,2015-02-25,5050000.0,28.71,22.307726,114.012096
+815,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,L,3,2,5,G,868,757,6000000,2018-07-18,2014-01-23,4650000.0,29.03,22.306808999999998,114.0095
+816,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,L,2,2,5,H,776,649,5700000,2018-07-18,2014-01-23,3900000.0,46.15,22.306808999999998,114.0095
+817,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,L,2,2,4,C,699,591,6350000,2018-07-17,2007-04-18,1885000.0,236.87,22.294521,114.014563
+818,New Territories,Islands,Discovery Bay,Discovery Bay,1 Parkvale Drive,1987-10-23,,2,,4,A,0,586,6000000,2018-07-17,2012-12-24,4600000.0,30.43,22.294697,114.01336
+819,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,H,1,2,19,E,530,440,4950000,2018-07-17,2011-04-08,2220000.0,122.97,22.302934,114.01157
+820,New Territories,Islands,Discovery Bay,Discovery Bay,Block 42,2002-07-30,L,,,2,A,792,593,7138000,2018-07-16,2010-02-26,3230000.0,120.99000000000001,22.307109999999998,114.012047
+821,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,M,3,2,9,E,999,870,7680000,2018-07-16,,0.0,0.0,22.306207999999998,114.009702
+822,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,L,4,2,6,C,1088,947,8750000,2018-07-13,2011-10-07,5530000.0,58.230000000000004,22.306808999999998,114.0095
+823,New Territories,Islands,Discovery Bay,Discovery Bay,Block 3 (Hemex),2006-04-24,M,2,,9,C,993,752,8700000,2018-07-12,2009-06-30,4500000.0,93.33,22.307316,114.013199
+824,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,M,3,,16,E,1155,891,10254000,2018-07-12,2006-01-06,5950000.0,72.34,22.307644999999997,114.012918
+825,New Territories,Islands,Discovery Bay,Discovery Bay,Block H4 (Mountain View),1982-06-26,L,2,2,5,D,713,588,6500000,2018-07-12,1996-06-03,1965000.0,230.79,22.302999,114.011104
+826,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,H,1,2,14,A,533,456,4880000,2018-07-12,2007-11-09,1430000.0,241.26,22.305273,114.009554
+827,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,M,1,2,12,A,533,456,4580000,2018-07-11,2013-12-17,3110000.0,47.27,22.305273,114.009554
+828,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,M,2,2,12,C,727,624,7200000,2018-07-11,2013-10-31,5130000.0,40.35,22.294363,114.012951
+829,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon I,2000-01-03,M,2,,18,B,783,604,6000000,2018-07-06,2000-09-06,2488000.0,141.16,22.307256,114.00962799999999
+830,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,M,1,2,8,A,533,456,4720000,2018-07-06,2010-08-06,1520000.0,210.53,22.305273,114.009554
+831,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,M,2,2,12,D,699,591,6500000,2018-07-06,2010-08-05,2695000.0,141.19,22.294334,114.015333
+832,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,H,3,2,19,D,999,870,8550000,2018-07-05,,0.0,0.0,22.306207999999998,114.009702
+833,New Territories,Islands,Discovery Bay,Discovery Bay,Db Plaza ( C ),1991-11-14,L,,,3,323,0,662,6500000,2018-07-05,2013-07-12,5318000.0,22.23,22.295209,114.016682
+834,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,L,3,2,6,A,919,776,8600000,2018-07-05,2012-05-11,5400000.0,59.26,22.294334,114.015333
+835,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,L,3,2,5,A,919,776,9000000,2018-07-05,2007-11-09,3000000.0,200.0,22.294423,114.014961
+836,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,L,2,2,3,C,713,588,5950000,2018-07-05,2014-08-19,3800000.0,56.58,22.302934,114.01157
+837,New Territories,Islands,Discovery Bay,Discovery Bay,Graceful Mansion (Block H2),2002-07-30,H,1,,23,E,602,447,5500000,2018-07-03,2007-11-27,2200000.0,150.0,22.3077505,114.0110951
+838,New Territories,Islands,Discovery Bay,Discovery Bay,Celestial Mansion (Block H1),2002-07-30,L,3,,10,E,1200,864,9200000,2018-06-29,2014-03-25,7520000.0,22.34,22.307664,114.010687
+839,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,L,3,2,3,A,919,776,7650000,2018-06-29,2013-07-19,6280000.0,21.82,22.294334,114.015333
+840,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5 (Lustre),2006-04-24,L,,,7,E,1500,1159,11500000,2018-06-29,2007-11-06,8880000.0,29.5,22.307326,114.013562
+841,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,H,3,2,,B,868,757,6500000,2018-06-29,,0.0,0.0,22.305875999999998,114.009446
+842,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,H,2,2,,A,776,649,5550000,2018-06-29,,0.0,0.0,22.305875999999998,114.009446
+843,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,L,2,2,,A,796,689,6250000,2018-06-28,,0.0,0.0,22.294363,114.012951
+844,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,L,3,2,1,D,891,757,6880000,2018-06-28,2014-07-21,5200000.0,32.31,22.293332,114.023026
+845,New Territories,Islands,Discovery Bay,Discovery Bay,Block H4 (Mountain View),1982-06-26,H,2,2,15,D,713,588,6180000,2018-06-28,1997-04-23,3100000.0,99.35000000000001,22.302999,114.011104
+846,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,L,2,2,5,F,796,689,6800000,2018-06-28,1997-07-22,4300000.0,58.14,22.294738,114.012819
+847,New Territories,Islands,Discovery Bay,Discovery Bay,Greenburg Court,1990-05-24,H,2,2,24,F,856,693,6650000,2018-06-27,2009-12-14,3100000.0,114.52,22.303431999999997,114.010239
+848,New Territories,Islands,Discovery Bay,Discovery Bay,Block H4 (Mountain View),1982-06-26,H,2,2,20,A,713,588,6050000,2018-06-27,1997-03-27,2770000.0,118.41,22.302999,114.011104
+849,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,M,1,2,10,A,533,456,4700000,2018-06-26,2008-09-11,1400000.0,235.71,22.305273,114.009554
+850,New Territories,Islands,Discovery Bay,Discovery Bay,Woodgreen Court,1988-06-14,L,3,2,7,A,895,769,7320000,2018-06-26,,0.0,0.0,22.295666,114.01217
+851,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,M,2,2,9,D,661,545,5700000,2018-06-26,2011-01-10,2660000.0,114.29,22.294563,114.021821
+852,New Territories,Islands,Discovery Bay,Discovery Bay,Block 28,2002-07-30,L,1,,1,B,585,457,5750000,2018-06-26,2014-05-21,3950000.0,45.57,22.306748,114.01056
+853,New Territories,Islands,Discovery Bay,Discovery Bay,Woodbury Court,1988-06-14,L,3,2,3,B,1134,980,11400000,2018-06-25,2015-05-13,8200000.0,39.02,22.295894999999998,114.011837
+854,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon I,2000-01-03,H,3,,26,C,0,1307,16100000,2018-06-25,2010-05-12,9500000.0,69.47,22.307256,114.00962799999999
+855,New Territories,Islands,Discovery Bay,Discovery Bay,Woodland Court,1988-06-14,H,3,,18,B,1134,980,10000000,2018-06-22,2010-08-06,6300000.0,58.730000000000004,22.295372,114.012336
+856,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,M,2,2,9,H,665,545,5800000,2018-06-22,2016-07-04,4800000.0,20.830000000000002,22.294563,114.021821
+857,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,H,1,2,16,F,530,440,4200000,2018-06-22,,0.0,0.0,22.302934,114.01157
+858,New Territories,Islands,Discovery Bay,Discovery Bay,Skyline Mansion (Block M2),2002-04-08,H,3,,16,B,1310,957,11000000,2018-06-21,2010-10-18,6980000.0,57.59,22.3047,114.011723
+859,New Territories,Islands,Discovery Bay,Discovery Bay,Graceful Mansion (Block H2),2002-07-30,M,3,,18,D,1165,842,9380000,2018-06-21,2010-01-05,5330000.0,75.98,22.3077505,114.0110951
+860,New Territories,Islands,Discovery Bay,Discovery Bay,Block L42,2002-01-15,,3,,5,B,2055,1633,19800000,2018-06-21,2009-08-19,14800000.0,33.78,22.305882,114.013046
+861,New Territories,Islands,Discovery Bay,Discovery Bay,Block 3 (Hemex),2006-04-24,M,2,,15,B,942,724,8000000,2018-06-15,2007-10-08,4252000.0,88.15,22.307316,114.013199
+862,New Territories,Islands,Discovery Bay,Discovery Bay,Onda Court,1995-05-17,M,2,2,8,A,650,527,6800000,2018-06-14,2005-03-15,2380000.0,185.71,22.295434999999998,114.020238
+863,New Territories,Islands,Discovery Bay,Discovery Bay,Block H2 (Seaview),1982-07-27,H,1,2,20,E,530,440,4480000,2018-06-14,,0.0,0.0,22.302550999999998,114.011782
+864,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,L,3,2,1,F,919,776,6800000,2018-06-14,1997-02-20,3400000.0,100.0,22.294334,114.015333
+865,New Territories,Islands,Discovery Bay,Discovery Bay,Vista Court,1994-09-09,H,1,2,10,A,579,450,5780000,2018-06-13,2013-10-22,4320000.0,33.8,22.293454999999998,114.017951
+866,New Territories,Islands,Discovery Bay,Discovery Bay,Cherish Court,1992-04-16,H,3,2,14,F,814,708,6700000,2018-06-13,2015-02-24,5750000.0,16.52,22.295914999999997,114.0250171
+867,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,H,2,2,17,D,661,545,5980000,2018-06-13,2002-06-08,1465000.0,308.19,22.294563,114.021821
+868,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,L,2,2,,H,776,649,6230000,2018-06-11,,0.0,0.0,22.306207999999998,114.009702
+869,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,H,2,2,17,A,796,689,7500000,2018-06-11,2011-06-24,4250000.0,76.47,22.294363,114.012951
+870,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,M,3,2,16,G,868,757,6900000,2018-06-11,2011-06-14,3650000.0,89.04,22.306207999999998,114.009702
+871,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,M,2,2,12,D,699,591,6480000,2018-06-11,2014-02-26,4750000.0,36.42,22.294521,114.014563
+872,New Territories,Islands,Discovery Bay,Discovery Bay,Greenburg Court,1990-05-24,H,3,2,17,C,1068,876,7880000,2018-06-08,2012-10-05,6000000.0,31.330000000000002,22.303431999999997,114.010239
+873,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,L,2,2,7,D,699,591,6330000,2018-06-08,2008-05-26,2400000.0,163.75,22.294521,114.014563
+874,New Territories,Islands,Discovery Bay,Discovery Bay,Crestine Mansion (Block M1),2002-04-08,H,1,,11,C,708,540,5000000,2018-06-08,2012-08-15,4050000.0,23.46,22.304298,114.011966
+875,New Territories,Islands,Discovery Bay,Discovery Bay,Crestine Mansion (Block M1),2002-04-08,H,1,,11,D,708,540,5000000,2018-06-08,2012-08-15,4050000.0,23.46,22.304298,114.011966
+876,New Territories,Islands,Discovery Bay,Discovery Bay,Block 1 (Pavilion),2006-04-24,M,2,,15,G,1022,780,8350000,2018-06-08,2012-10-26,5800000.0,43.97,22.308004999999998,114.012901
+877,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,L,2,,3,F,1278,977,9600000,2018-06-07,2007-05-28,6621000.0,44.99,22.307644999999997,114.012918
+878,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,H,3,2,12,A,889,755,7300000,2018-06-07,2007-12-28,2580000.0,182.95000000000002,22.293332,114.023026
+879,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,L,1,,3,G,663,510,5000000,2018-06-07,2007-05-28,2700000.0,85.19,22.307644999999997,114.012918
+880,New Territories,Islands,Discovery Bay,Discovery Bay,Skyline Mansion (Block M2),2002-04-08,L,1,,5,E,678,501,5220000,2018-06-07,2005-04-01,2185000.0,138.9,22.3047,114.011723
+881,New Territories,Islands,Discovery Bay,Discovery Bay,Block 12,2002-07-30,,3,,1,A,1378,1071,12900000,2018-06-07,2012-09-17,9900000.0,30.3,22.305294999999997,114.010369
+882,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,M,0,,14,B,432,368,4200000,2018-06-07,2005-07-16,1070000.0,292.52,22.294738,114.012819
+883,New Territories,Islands,Discovery Bay,Discovery Bay,Greenland Court,1991-12-10,L,2,2,1,B,689,592,5300000,2018-06-06,2013-04-16,4100000.0,29.27,22.304947,114.009637
+884,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,M,0,,13,B,472,398,5000000,2018-06-06,2002-05-09,1030000.0,385.44,22.294334,114.015333
+885,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,L,2,2,6,F,835,722,7360000,2018-06-06,2013-09-11,5460000.0,34.800000000000004,22.294363,114.012951
+886,New Territories,Islands,Discovery Bay,Discovery Bay,Db Plaza ( C ),1991-11-14,L,,,2,206,0,575,6000000,2018-06-06,2012-04-12,3800000.0,57.89,22.295209,114.016682
+887,New Territories,Islands,Discovery Bay,Discovery Bay,Greenburg Court,1990-05-24,M,1,2,11,E,517,439,4780000,2018-06-05,2014-11-27,3500000.0,36.57,22.303431999999997,114.010239
+888,New Territories,Islands,Discovery Bay,Discovery Bay,Amalfi Three,2011-02-02,L,1,,3,B,661,527,5820000,2018-06-05,2012-11-19,4600000.0,26.52,22.307363,114.014762
+889,New Territories,Islands,Discovery Bay,Discovery Bay,Woodbury Court,1988-06-14,M,3,2,12,B,1134,980,11500000,2018-06-05,,0.0,0.0,22.295894999999998,114.011837
+890,New Territories,Islands,Discovery Bay,Discovery Bay,Blossom Court,1992-04-16,L,2,2,4,D,628,545,5130000,2018-06-04,2007-05-29,1630000.0,214.72,22.295603,114.024628
+891,New Territories,Islands,Discovery Bay,Discovery Bay,Onda Court,1995-05-17,L,2,2,5,D,760,628,7500000,2018-06-04,1997-04-19,5700000.0,31.580000000000002,22.295434999999998,114.020238
+892,New Territories,Islands,Discovery Bay,Discovery Bay,Block H1 (Starview),1982-08-05,H,2,2,17,C,713,588,5620000,2018-06-04,,0.0,0.0,22.302169,114.011488
+893,New Territories,Islands,Discovery Bay,Discovery Bay,47 Crestmont Villa,1994-10-24,,3,,2,A,1298,1108,11350000,2018-06-04,,0.0,0.0,22.296469,114.02387
+894,New Territories,Islands,Discovery Bay,Discovery Bay,Serene Court,2000-02-10,L,3,,2,A,0,820,9950000,2018-06-04,2013-09-06,1500000.0,563.33,22.292375999999997,114.016379
+895,New Territories,Islands,Discovery Bay,Discovery Bay,Cherish Court,1992-04-16,L,2,2,3,E,628,545,5800000,2018-06-01,2011-08-17,3180000.0,82.39,22.295914999999997,114.0250171
+896,New Territories,Islands,Discovery Bay,Discovery Bay,4 Vista Avenue,1994-09-09,,3,,3,A,948,850,10000000,2018-05-30,,0.0,0.0,22.294173999999998,114.01827
+897,New Territories,Islands,Discovery Bay,Discovery Bay,Celestial Mansion (Block H1),2002-07-30,M,3,,12,C,1135,840,9750000,2018-05-30,2012-08-03,6000000.0,62.5,22.307664,114.010687
+898,New Territories,Islands,Discovery Bay,Discovery Bay,Graceful Mansion (Block H2),2002-07-30,L,2,,10,F,860,607,7100000,2018-05-30,2014-03-06,5300000.0,33.96,22.3077505,114.0110951
+899,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,M,3,,16,D,1168,904,9000000,2018-05-29,2007-08-14,5890000.0,52.800000000000004,22.307644999999997,114.012918
+900,New Territories,Islands,Discovery Bay,Discovery Bay,Greenland Court,1991-12-10,M,1,2,7,A,533,456,4600000,2018-05-29,1996-06-13,1590000.0,189.31,22.304947,114.009637
+901,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,M,2,,16,C,965,737,7300000,2018-05-29,2010-09-01,4855000.0,50.36,22.307644999999997,114.012918
+902,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,M,2,,17,C,860,629,7270000,2018-05-28,2005-06-06,3330000.0,118.32000000000001,22.307726,114.012096
+903,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,H,2,2,18,F,835,722,6550000,2018-05-28,1999-10-05,2730000.0,139.93,22.294363,114.012951
+904,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,M,3,2,8,E,891,757,7600000,2018-05-25,2002-04-10,2300000.0,230.43,22.293332,114.023026
+905,New Territories,Islands,Discovery Bay,Discovery Bay,Clear View,1985-09-13,H,0,,13,E,570,453,4190000,2018-05-24,2012-11-13,3120000.0,34.29,22.297888999999998,114.010983
+906,New Territories,Islands,Discovery Bay,Discovery Bay,Amalfi Two,2011-02-02,L,3,,2,B,876,689,8200000,2018-05-24,2012-12-04,7200000.0,13.89,22.307230999999998,114.01449
+907,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,H,0,,17,B,432,368,4000000,2018-05-23,2008-07-07,1330000.0,200.75,22.294363,114.012951
+908,New Territories,Islands,Discovery Bay,Discovery Bay,Db Plaza ( C ),1991-11-14,M,,,5,503,0,662,8400000,2018-05-23,,0.0,0.0,22.295209,114.016682
+909,New Territories,Islands,Discovery Bay,Discovery Bay,Cherish Court,1992-04-16,H,3,2,14,C,814,708,6980000,2018-05-23,2013-02-05,5480000.0,27.37,22.295914999999997,114.0250171
+910,New Territories,Islands,Discovery Bay,Discovery Bay,Woodbury Court,1988-06-14,M,3,2,13,A,895,769,7330000,2018-05-23,2010-05-26,3950000.0,85.57000000000001,22.295894999999998,114.011837
+911,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,L,3,2,6,D,865,744,6960000,2018-05-18,2012-05-18,4400000.0,58.18,22.304589,114.009774
+912,New Territories,Islands,Discovery Bay,Discovery Bay,Woodland Court,1988-06-14,M,3,,11,B,1134,980,9830000,2018-05-17,,0.0,0.0,22.295372,114.012336
+913,New Territories,Islands,Discovery Bay,Discovery Bay,Block H4 (Mountain View),1982-06-26,H,2,2,20,D,713,588,6200000,2018-05-17,2012-06-22,3700000.0,67.57000000000001,22.302999,114.011104
+914,New Territories,Islands,Discovery Bay,Discovery Bay,Celestial Mansion (Block H1),2002-07-30,H,1,,25,D,606,450,5400000,2018-05-15,2002-10-12,1688000.0,219.91,22.307664,114.010687
+915,New Territories,Islands,Discovery Bay,Discovery Bay,Blossom Court,1992-04-16,H,3,2,17,C,814,708,6200000,2018-05-14,2012-06-11,3950000.0,56.96,22.295603,114.024628
+916,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,M,3,2,9,C,865,744,6800000,2018-05-14,1997-07-25,3800000.0,78.95,22.305273,114.009554
+917,New Territories,Islands,Discovery Bay,Discovery Bay,Greenfield Court,1990-05-24,H,2,2,20,F,856,693,6400000,2018-05-14,,0.0,0.0,22.303828,114.010061
+918,New Territories,Islands,Discovery Bay,Discovery Bay,Greenfield Court,1990-05-24,H,3,2,22,C,1068,876,7800000,2018-05-11,2001-09-21,2420000.0,222.31,22.303828,114.010061
+919,New Territories,Islands,Discovery Bay,Discovery Bay,Block 5 (Lustre),2006-04-24,H,3,,16,E,1262,977,10500000,2018-05-11,2014-07-03,8700000.0,20.69,22.307326,114.013562
+920,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,L,2,2,7,A,776,649,6000000,2018-05-11,2014-09-17,4450000.0,34.83,22.305875999999998,114.009446
+921,New Territories,Islands,Discovery Bay,Discovery Bay,Block H4 (Mountain View),1982-06-26,M,2,2,8,D,713,588,6000000,2018-05-10,2015-01-26,4390000.0,36.67,22.302999,114.011104
+922,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,H,2,2,19,D,713,588,6300000,2018-05-09,1997-10-08,3990000.0,57.89,22.302934,114.01157
+923,New Territories,Islands,Discovery Bay,Discovery Bay,Jovial Court,1990-04-03,M,2,2,8,H,724,610,5900000,2018-05-08,1999-12-23,2220000.0,165.77,22.293784,114.022455
+924,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,M,3,,12,F,813,624,6550000,2018-05-08,2008-02-28,3100000.0,111.29,22.307591,114.009801
+925,New Territories,Islands,Discovery Bay,Discovery Bay,Greenfield Court,1990-05-24,L,1,2,5,B,517,439,4620000,2018-05-08,2013-10-31,3000000.0,54.0,22.303828,114.010061
+926,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,M,2,,17,B,1000,779,9200000,2018-05-08,,0.0,0.0,22.307644999999997,114.012918
+927,New Territories,Islands,Discovery Bay,Discovery Bay,Twilight Court,1992-04-16,H,2,2,16,D,661,545,5500000,2018-05-07,2010-08-06,2400000.0,129.17000000000002,22.294563,114.021821
+928,New Territories,Islands,Discovery Bay,Discovery Bay,Vista Court,1994-09-09,H,2,2,11,C,781,619,7650000,2018-05-07,2014-11-18,5800000.0,31.900000000000002,22.293454999999998,114.017951
+929,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,L,0,,6,B,432,368,4100000,2018-05-07,2012-10-05,2750000.0,49.09,22.294738,114.012819
+930,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,H,0,,15,B,432,368,4000000,2018-05-04,2012-09-05,2550000.0,56.86,22.294363,114.012951
+931,New Territories,Islands,Discovery Bay,Discovery Bay,Greenburg Court,1990-05-24,M,1,2,14,E,517,439,4850000,2018-05-04,2014-03-24,3280000.0,47.870000000000005,22.303431999999997,114.010239
+932,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,L,0,,7,E,472,398,4500000,2018-05-04,2013-10-07,3180000.0,41.51,22.294334,114.015333
+933,New Territories,Islands,Discovery Bay,Discovery Bay,Block 36,2002-07-30,M,,,3,A,792,593,7200000,2018-05-03,2005-03-16,3180000.0,126.42,22.306988999999998,114.011345
+934,New Territories,Islands,Discovery Bay,Discovery Bay,Block H1 (Starview),1982-08-05,M,2,2,9,C,713,588,5900000,2018-05-02,2014-09-25,4750000.0,24.21,22.302169,114.011488
+935,New Territories,Islands,Discovery Bay,Discovery Bay,34 Coastline Villa,1996-04-22,,3,,3,B,1471,1282,15380000,2018-05-02,2008-05-07,9100000.0,69.01,22.294515999999998,114.026024
+936,New Territories,Islands,Discovery Bay,Discovery Bay,Vista Court,1994-09-09,L,2,2,4,D,740,588,6800000,2018-05-02,,0.0,0.0,22.293454999999998,114.017951
+937,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,H,2,2,16,F,796,689,7290000,2018-04-30,2011-06-20,3800000.0,91.84,22.294738,114.012819
+938,New Territories,Islands,Discovery Bay,Discovery Bay,Greenery Court,1990-05-24,L,1,2,5,B,517,439,4000000,2018-04-30,2014-11-12,3490000.0,14.61,22.303098,114.010329
+939,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,M,2,,12,C,812,629,6650000,2018-04-27,2014-01-27,4700000.0,41.49,22.307591,114.009801
+940,New Territories,Islands,Discovery Bay,Discovery Bay,43 Crestmont Villa,1994-10-24,,3,,2,B,0,1108,11500000,2018-04-27,2010-02-22,7100000.0,61.97,22.29646,114.02356
+941,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6 (Premiep),2006-04-24,M,1,,9,D,800,628,6650000,2018-04-27,2007-10-24,4468000.0,48.84,22.307340999999997,114.01395099999999
+942,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,M,4,2,16,F,1088,947,8500000,2018-04-27,2010-04-29,4100000.0,107.32000000000001,22.305875999999998,114.009446
+943,New Territories,Islands,Discovery Bay,Discovery Bay,Marine View,1985-09-13,L,3,2,5,B,1338,1157,9210000,2018-04-27,,0.0,0.0,22.297518999999998,114.011404
+944,New Territories,Islands,Discovery Bay,Discovery Bay,Greenfield Court,1990-05-24,M,2,2,13,F,856,693,6380000,2018-04-27,2013-03-15,5190000.0,22.93,22.303828,114.010061
+945,New Territories,Islands,Discovery Bay,Discovery Bay,Cherish Court,1992-04-16,M,2,2,11,H,629,546,5300000,2018-04-26,2011-05-04,2590000.0,104.63,22.295914999999997,114.0250171
+946,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,M,3,2,12,D,999,870,7980000,2018-04-26,1997-10-14,5920000.0,34.800000000000004,22.306207999999998,114.009702
+947,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,H,2,2,17,D,699,591,6680000,2018-04-25,2011-03-28,3500000.0,90.86,22.294521,114.014563
+948,New Territories,Islands,Discovery Bay,Discovery Bay,Greenery Court,1990-05-24,L,3,2,8,D,1068,876,7680000,2018-04-25,1997-05-29,5400000.0,42.22,22.303098,114.010329
+949,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,L,2,2,2,B,689,592,5300000,2018-04-24,2014-01-30,3800000.0,39.47,22.305273,114.009554
+950,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,L,1,2,2,A,533,456,3900000,2018-04-24,2014-01-30,2850000.0,36.84,22.305273,114.009554
+951,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon I,2000-01-03,H,1,,23,D,638,487,5450000,2018-04-20,2007-09-06,2000000.0,172.5,22.307256,114.00962799999999
+952,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,L,3,,3,E,1155,890,9200000,2018-04-19,2007-11-12,6139000.0,49.86,22.307644999999997,114.012918
+953,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,L,0,,3,E,472,398,4270000,2018-04-19,2008-08-14,1460000.0,192.47,22.294423,114.014961
+954,New Territories,Islands,Discovery Bay,Discovery Bay,Pine View,1985-09-13,M,2,2,9,C,831,703,6000000,2018-04-17,,0.0,0.0,22.296992,114.011149
+955,New Territories,Islands,Discovery Bay,Discovery Bay,Block H1 (Starview),1982-08-05,H,2,2,21,B,713,588,5984000,2018-04-16,2010-02-02,2680000.0,123.28,22.302169,114.011488
+956,New Territories,Islands,Discovery Bay,Discovery Bay,Block 26,2002-07-30,,3,,1,A,1368,1062,12550000,2018-04-16,,0.0,0.0,22.306525,114.010433
+957,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,L,3,2,5,D,891,757,6880000,2018-04-13,2014-10-13,5850000.0,17.61,22.293332,114.023026
+958,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,H,2,2,19,D,699,591,5000000,2018-04-13,2011-05-13,3460000.0,44.51,22.294423,114.014961
+959,New Territories,Islands,Discovery Bay,Discovery Bay,Block H3 (Sunrise),1982-07-02,H,1,2,15,F,530,440,4500000,2018-04-12,,0.0,0.0,22.302934,114.01157
+960,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,H,0,,17,E,432,368,4020000,2018-04-12,2014-10-17,3050000.0,31.8,22.294738,114.012819
+961,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon I,2000-01-03,M,2,,15,B,783,604,6630000,2018-04-12,2000-09-06,2423000.0,173.63,22.307256,114.00962799999999
+962,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,L,4,2,5,C,1088,947,8500000,2018-04-12,2005-04-19,3100000.0,174.19,22.306808999999998,114.0095
+963,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,L,3,2,5,D,999,870,6500000,2018-04-12,2007-08-22,3230000.0,101.24000000000001,22.306808999999998,114.0095
+964,New Territories,Islands,Discovery Bay,Discovery Bay,Jovial Court,1990-04-03,M,2,2,9,H,724,610,5900000,2018-04-11,2004-01-16,1265000.0,366.40000000000003,22.293784,114.022455
+965,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,L,2,2,4,D,699,591,6150000,2018-04-11,2012-10-11,4100000.0,50.0,22.294521,114.014563
+966,New Territories,Islands,Discovery Bay,Discovery Bay,Greenery Court,1990-05-24,H,1,2,23,B,517,439,4800000,2018-04-10,2011-06-03,2480000.0,93.55,22.303098,114.010329
+967,New Territories,Islands,Discovery Bay,Discovery Bay,Clear View,1985-09-13,H,0,,11,E,570,453,4500000,2018-04-09,2009-11-16,1480000.0,204.05,22.297888999999998,114.010983
+968,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,M,0,,12,B,432,368,3950000,2018-04-09,,0.0,0.0,22.294363,114.012951
+969,New Territories,Islands,Discovery Bay,Discovery Bay,Greenwood Court,1994-03-30,L,4,2,7,C,1088,947,8080000,2018-04-09,2008-06-26,4380000.0,84.47,22.305875999999998,114.009446
+970,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,M,2,2,11,C,699,591,6465000,2018-04-06,2013-12-06,4600000.0,40.54,22.294423,114.014961
+971,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,M,2,2,10,D,727,624,6500000,2018-04-06,1997-06-21,4200000.0,54.76,22.294363,114.012951
+972,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon II,2000-01-03,L,2,,9,B,786,608,6188000,2018-04-06,2004-12-24,2500000.0,147.52,22.307591,114.009801
+973,New Territories,Islands,Discovery Bay,Discovery Bay,Glamour Court,1988-04-30,H,0,,18,B,472,398,4000000,2018-04-04,2011-06-23,2550000.0,56.86,22.294334,114.015333
+974,New Territories,Islands,Discovery Bay,Discovery Bay,Elegance Court,1988-04-30,M,3,2,11,F,919,776,8000000,2018-04-03,2013-06-03,6200000.0,29.03,22.294521,114.014563
+975,New Territories,Islands,Discovery Bay,Discovery Bay,Block 3 (Hemex),2006-04-24,H,1,,20,G,673,517,5600000,2018-04-03,2007-10-15,3108000.0,80.18,22.307316,114.013199
+976,New Territories,Islands,Discovery Bay,Discovery Bay,Clear View,1985-09-13,H,0,,14,E,570,453,4280000,2018-03-29,2010-03-02,1630000.0,162.58,22.297888999999998,114.010983
+977,New Territories,Islands,Discovery Bay,Discovery Bay,Greenland Court,1991-12-10,H,2,2,15,E,689,592,6100000,2018-03-29,2010-04-20,2600000.0,134.62,22.304947,114.009637
+978,New Territories,Islands,Discovery Bay,Discovery Bay,Haven Court,1990-04-03,L,2,2,6,G,723,609,5738000,2018-03-27,2007-07-20,2000000.0,186.9,22.293629,114.022786
+979,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,M,0,,13,B,432,368,4000000,2018-03-26,2010-05-05,1600000.0,150.0,22.294738,114.012819
+980,New Territories,Islands,Discovery Bay,Discovery Bay,Crystal Court,1988-05-18,H,0,,17,B,432,368,4100000,2018-03-23,2012-08-21,2420000.0,69.42,22.294738,114.012819
+981,New Territories,Islands,Discovery Bay,Discovery Bay,Woodgreen Court,1988-06-14,L,3,2,1,D,895,769,6250000,2018-03-22,1996-11-29,2920000.0,114.04,22.295666,114.01217
+982,New Territories,Islands,Discovery Bay,Discovery Bay,Blossom Court,1992-04-16,H,2,2,15,A,629,546,5450000,2018-03-21,2009-11-09,2000000.0,172.5,22.295603,114.024628
+983,New Territories,Islands,Discovery Bay,Discovery Bay,Block H4 (Mountain View),1982-06-26,M,1,2,8,E,530,440,4500000,2018-03-20,2008-08-07,1438000.0,212.93,22.302999,114.011104
+984,New Territories,Islands,Discovery Bay,Discovery Bay,Serene Court,2000-02-10,M,1,,6,D,0,453,5432800,2018-03-19,2014-03-11,3600000.0,50.910000000000004,22.292375999999997,114.016379
+985,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,M,3,2,7,B,903,771,6490000,2018-03-16,,0.0,0.0,22.293332,114.023026
+986,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,L,2,2,6,G,718,609,5500000,2018-03-13,2008-01-07,2090000.0,163.16,22.293332,114.023026
+987,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon I,2000-01-03,H,3,,25,A,1025,792,9380000,2018-03-09,2000-08-24,3808000.0,146.32,22.307256,114.00962799999999
+988,New Territories,Islands,Discovery Bay,Discovery Bay,Block 42,2002-07-30,M,,,3,B,585,457,5260000,2018-03-08,2005-05-28,2088000.0,151.92000000000002,22.307109999999998,114.012047
+989,New Territories,Islands,Discovery Bay,Discovery Bay,Block 6 (Premiep),2006-04-24,L,1,,7,D,800,628,6480000,2018-03-08,2014-10-15,5200000.0,24.62,22.307340999999997,114.01395099999999
+990,New Territories,Islands,Discovery Bay,Discovery Bay,Joyful Mansion (Block H3),2002-07-30,L,1,,6,D,610,443,4830000,2018-03-06,2014-10-09,3980000.0,21.36,22.307577,114.011718
+991,New Territories,Islands,Discovery Bay,Discovery Bay,Haven Court,1990-04-03,M,2,2,8,G,723,609,5780000,2018-03-06,2014-11-14,4750000.0,21.68,22.293629,114.022786
+992,New Territories,Islands,Discovery Bay,Discovery Bay,Block 1 (Pavilion),2006-04-24,M,3,,18,D,1283,991,11160000,2018-03-06,2012-11-27,8450000.0,32.07,22.308004999999998,114.012901
+993,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon I,2000-01-03,L,2,,10,A,747,580,6338000,2018-03-01,2010-08-26,2630000.0,140.99,22.307256,114.00962799999999
+994,New Territories,Islands,Discovery Bay,Discovery Bay,41 Crestmont Villa,1994-10-24,,3,,3,B,0,1108,11300000,2018-03-01,,0.0,0.0,22.296438,114.02343
+995,New Territories,Islands,Discovery Bay,Discovery Bay,Island View,1985-09-13,L,3,2,1,A,1339,1157,12000000,2018-02-28,2011-09-22,9600000.0,25.0,22.297190999999998,114.011404
+996,New Territories,Islands,Discovery Bay,Discovery Bay,Island View,1985-09-13,L,3,2,2,A,1339,1157,9300000,2018-02-28,2011-09-22,7200000.0,29.17,22.297190999999998,114.011404
+997,New Territories,Islands,Discovery Bay,Discovery Bay,Marine View,1985-09-13,L,3,2,6,B,1338,1157,11080000,2018-02-27,2010-04-21,7400000.0,49.730000000000004,22.297518999999998,114.011404
+998,New Territories,Islands,Discovery Bay,Discovery Bay,Cherish Court,1992-04-16,L,2,2,5,H,629,546,5000000,2018-02-27,2010-03-30,1850000.0,170.27,22.295914999999997,114.0250171
+999,New Territories,Islands,Discovery Bay,Discovery Bay,Db Plaza ( C ),1991-11-14,L,,,3,11,0,715,6950000,2018-02-26,,0.0,0.0,22.295209,114.016682
+1000,New Territories,Islands,Discovery Bay,Discovery Bay,Blossom Court,1992-04-16,H,1,2,12,B,472,410,4340000,2018-02-26,2014-10-17,3120000.0,39.1,22.295603,114.024628
+1001,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,H,2,,26,C,858,629,7628000,2018-02-26,2014-09-08,6300000.0,21.080000000000002,22.307726,114.012096
+1002,New Territories,Islands,Discovery Bay,Discovery Bay,Serene Court,2000-02-10,L,3,,5,A,0,820,9950000,2018-02-26,2014-05-22,7950000.0,25.16,22.292375999999997,114.016379
+1003,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,H,0,,20,E,472,398,4350000,2018-02-23,2014-03-11,3120000.0,39.42,22.294423,114.014961
+1004,New Territories,Islands,Discovery Bay,Discovery Bay,Greenery Court,1990-05-24,L,3,2,3,D,1068,876,6831000,2018-02-23,2009-09-04,3000000.0,127.7,22.303098,114.010329
+1005,New Territories,Islands,Discovery Bay,Discovery Bay,Celestial Mansion (Block H1),2002-07-30,H,3,,23,E,1200,863,9500000,2018-02-22,2010-01-05,5500000.0,72.73,22.307664,114.010687
+1006,New Territories,Islands,Discovery Bay,Discovery Bay,Block 1 (Pavilion),2006-04-24,H,,,27,G,1023,780,7380000,2018-02-20,2008-05-02,4550000.0,62.2,22.308004999999998,114.012901
+1007,New Territories,Islands,Discovery Bay,Discovery Bay,Greenfield Court,1990-05-24,M,1,2,10,B,517,439,4500000,2018-02-20,2008-01-03,1360000.0,230.88,22.303828,114.010061
+1008,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,L,2,,5,A,845,604,5800000,2018-02-15,2003-10-30,1520937.0,281.34000000000003,22.307726,114.012096
+1009,New Territories,Islands,Discovery Bay,Discovery Bay,Verdant Court,1990-04-03,L,3,2,4,D,891,757,6000000,2018-02-15,2011-03-22,4500000.0,33.33,22.293332,114.023026
+1010,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,H,2,2,17,H,776,649,5680000,2018-02-15,2010-05-18,2530000.0,124.51,22.306808999999998,114.0095
+1011,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,L,2,,7,F,895,631,6500000,2018-02-13,2008-07-10,1300000.0,400.0,22.307726,114.012096
+1012,New Territories,Islands,Discovery Bay,Discovery Bay,Greenbelt Court,1994-03-30,H,2,2,20,H,776,649,5000000,2018-02-13,2009-12-29,2670000.0,87.27,22.306808999999998,114.0095
+1013,New Territories,Islands,Discovery Bay,Discovery Bay,Blossom Court,1992-04-16,L,3,2,5,F,814,708,6300000,2018-02-12,2007-02-12,2165000.0,190.99,22.295603,114.024628
+1014,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,H,1,,22,G,665,511,5100000,2018-02-09,2007-11-27,3068000.0,66.23,22.307644999999997,114.012918
+1015,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon I,2000-01-03,L,2,,6,D,769,587,5980000,2018-02-09,2000-10-24,2568000.0,132.87,22.307256,114.00962799999999
+1016,New Territories,Islands,Discovery Bay,Discovery Bay,Greenmont Court,1994-03-30,L,3,2,1,E,999,870,7200000,2018-02-07,2014-08-26,5480000.0,31.39,22.306207999999998,114.009702
+1017,New Territories,Islands,Discovery Bay,Discovery Bay,Block 3 (Hemex),2006-04-24,L,1,,7,G,672,517,5380000,2018-02-02,2007-10-09,2822000.0,90.64,22.307316,114.013199
+1018,New Territories,Islands,Discovery Bay,Discovery Bay,Skyline Mansion (Block M2),2002-04-08,M,1,,9,A,648,482,4600000,2018-02-01,2013-05-03,3680000.0,25.0,22.3047,114.011723
+1019,New Territories,Islands,Discovery Bay,Discovery Bay,16 Coastline Villa,1996-04-22,,3,,2,B,0,1314,14250000,2018-02-01,,0.0,0.0,22.29514,114.024605
+1020,New Territories,Islands,Discovery Bay,Discovery Bay,Greenish Court,1991-12-10,H,3,2,16,C,865,744,6000000,2018-02-01,2013-03-06,5268000.0,13.9,22.304589,114.009774
+1021,New Territories,Islands,Discovery Bay,Discovery Bay,Greenburg Court,1990-05-24,L,2,2,1,F,856,693,5800000,2018-01-31,2004-10-11,1288888.0,350.0,22.303431999999997,114.010239
+1022,New Territories,Islands,Discovery Bay,Discovery Bay,Neo Horizon I,2000-01-03,L,2,,3,B,780,604,5800000,2018-01-29,2007-10-26,1998000.0,190.29,22.307256,114.00962799999999
+1023,New Territories,Islands,Discovery Bay,Discovery Bay,Block 32,2002-07-30,M,,,3,C,565,442,5200000,2018-01-29,2010-06-15,2250000.0,131.11,22.306936999999998,114.011116
+1024,New Territories,Islands,Discovery Bay,Discovery Bay,Peaceful Mansion (Block H5),2002-07-30,H,2,,27,C,858,629,7420000,2018-01-24,2013-08-05,5850000.0,26.84,22.307726,114.012096
+1025,New Territories,Islands,Discovery Bay,Discovery Bay,Greendale Court,1991-12-10,H,2,2,18,E,689,592,6000000,2018-01-19,2010-04-20,2688000.0,123.21000000000001,22.305273,114.009554
+1026,New Territories,Islands,Discovery Bay,Discovery Bay,1 Caperidge Drive,1991-03-02,,3,,2,B,0,1158,11080000,2018-01-19,2007-04-18,5288000.0,109.53,22.294345999999997,114.02235
+1027,New Territories,Islands,Discovery Bay,Discovery Bay,Block 2 (Barion),2006-04-24,M,2,,15,B,1000,779,8300000,2018-01-19,2008-04-09,5300000.0,56.6,22.307644999999997,114.012918
+1028,New Territories,Islands,Discovery Bay,Discovery Bay,Joyful Mansion (Block H3),2002-07-30,H,2,,21,A,842,607,6000000,2018-01-19,2010-04-27,2600000.0,130.77,22.307577,114.011718
+1029,New Territories,Islands,Discovery Bay,Discovery Bay,Skyline Mansion (Block M2),2002-04-08,H,1,,15,H,648,482,4850000,2018-01-16,2013-03-20,3700000.0,31.080000000000002,22.3047,114.011723
+1030,New Territories,Islands,Discovery Bay,Discovery Bay,Brilliance Court,1988-04-30,H,3,2,20,F,919,776,8400000,2018-01-16,2004-08-18,1000000.0,740.0,22.294423,114.014961
+1031,New Territories,Islands,Discovery Bay,Discovery Bay,Coral Court,1988-05-18,L,2,2,7,F,835,722,6650000,2018-01-12,2001-07-31,1620000.0,310.49,22.294363,114.012951
+1032,New Territories,Islands,Discovery Bay,Discovery Bay,Woodgreen Court,1988-06-14,L,3,2,3,D,895,769,6900000,2018-01-10,2007-09-03,2530000.0,172.73,22.295666,114.01217
+1033,New Territories,Islands,Discovery Bay,Discovery Bay,Haven Court,1990-04-03,H,3,2,16,B,903,771,6800000,2018-01-10,2001-07-17,2750000.0,147.27,22.293629,114.022786
+1034,New Territories,Islands,Discovery Bay,Discovery Bay,Block 1 (Pavilion),2006-04-24,H,2,,26,D,1080,840,9500000,2018-01-08,2012-01-12,5900000.0,61.02,22.308004999999998,114.012901
+1035,New Territories,Islands,Discovery Bay,Discovery Bay,Island View,1985-09-13,L,3,2,6,A,1339,1157,10500000,2018-01-08,1997-04-26,6550000.0,60.31,22.297190999999998,114.011404

@@ -1,0 +1,1016 @@
+,region,subregion,district,estate,building,first_op_date,floor_level,bedroom,sitting_room,floor,flat,area,net_area,price,tx_date,last_tx_date,last_price,gain,lat,lon
+0,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,H,1,,23,C,0,254,5330000,2021-01-06,2016-11-14,5208000,2.34,22.249364999999997,114.14948
+1,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Building,Jumbo Building,1988-05-14,M,2,,,B,442,310,4800000,2021-01-06,2007-07-16,1320000,263.64,22.249475,114.154884
+2,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Court,Jumbo Court,1979-05-28,L,2,,6,J,0,413,6650000,2021-01-06,2010-01-05,2000000,232.5,22.24591,114.16466
+3,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Hing Court (Block J),1981-12-01,M,2,2,17,6,534,448,6580000,2021-01-05,1996-12-05,1965000,234.86,22.249229,114.153749
+4,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Chu Court (Block B),1979-12-15,H,2,2,23,1,529,438,6900000,2021-01-05,2008-07-25,2488000,177.33,22.248476999999998,114.154547
+5,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kam Fung Building,Kam Fung Building,1986-04-30,,2,,31,B,569,450,7080000,2021-01-05,1997-02-11,2600000,172.31,22.248493,114.15546
+6,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Mei Fai Court (Block Q),1981-05-01,H,3,2,27,2,823,662,9500000,2021-01-04,2010-08-04,5043000,88.38,22.24833,114.153216
+7,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Wu Court,1979-12-15,,2,2,,2,529,438,5780000,2020-12-31,,0,0.0,22.248768,114.15443
+8,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,May Court,May Court,1996-11-09,L,2,,5,A,485,278,4920000,2020-12-31,2012-03-15,2520000,95.24,22.247571999999998,114.156193
+9,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Carpark,,,,,,CP11,1383,4432,36000000,2020-12-30,,0,0.0,22.245919999999998,114.16424
+10,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Sze Hei Building,Sze Hei Building,1975-05-06,,,,,B,0,316,4950000,2020-12-30,,0,0.0,22.248901,114.148926
+11,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Chu Court,1979-12-15,H,2,2,,2,529,438,6620000,2020-12-30,,0,0.0,22.248476999999998,114.154547
+12,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Building,Jumbo Building,1988-05-14,L,3,,6,D,0,396,5690000,2020-12-30,,0,0.0,22.249475,114.154884
+13,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ocean House,Ocean House,1984-01-31,L,,,5,A,0,377,5300000,2020-12-29,,0,0.0,22.247906,114.15622
+14,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jing Hui Garden,Block 1 (Mid),1989-02-24,M,3,,10,D,0,478,6780000,2020-12-29,2016-11-04,5400000,25.560000000000002,22.248085,114.15924
+15,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Comfort Centre,Comfort Centre,1992-08-07,L,2,,4,F,519,386,5980000,2020-12-29,,0,0.0,22.248713,114.156154
+16,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,World Fair Court,World Fair Court,1978-03-21,M,,,17,A,0,563,6650000,2020-12-28,,0,0.0,22.252602,114.139046
+17,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Shing Court,1982-01-07,H,2,2,,6,547,448,6500000,2020-12-24,2005-04-23,1850000,251.35,22.249378,114.154034
+18,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Lim House ( Block 3 ),1990-11-01,M,,,,6,702,544,3650000,2020-12-23,,0,0.0,22.250576,114.13976
+19,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jing Hui Garden,Block 1 (Mid),1989-02-24,H,2,,20,C,0,406,5700000,2020-12-23,,0,0.0,22.248085,114.15924
+20,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,M,,,21,F,505,422,5600000,2020-12-23,2001-03-31,1088600,414.42,22.2431849,114.164671
+21,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block D,1991-11-28,M,3,2,15,9,712,554,7120000,2020-12-18,,0,0.0,22.249568,114.138004
+22,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Lung Court (Block N),1979-12-15,M,2,2,11,6,526,432,6620000,2020-12-18,2014-01-14,4550000,45.49,22.2482201,114.1539021
+23,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kwun King Court,1981-06-29,,3,2,,2,915,721,13600000,2020-12-18,,0,0.0,22.247920999999998,114.154551
+24,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Court,Jumbo Court,1979-05-28,H,2,,16,J,0,413,6880000,2020-12-17,2004-03-29,1260000,446.03000000000003,22.24591,114.16466
+25,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block E,1980-08-13,L,,,5,5,502,419,5570000,2020-12-17,2010-11-24,2230000,149.78,22.2502444,114.157092
+26,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 1,1995-10-06,M,3,2,22,B,716,589,6800000,2020-12-16,2016-09-06,5238000,29.82,22.244434,114.165901
+27,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Wu Court (Block D),1979-12-15,H,2,2,24,1,529,438,6900000,2020-12-16,2006-12-09,1810000,281.22,22.248768,114.15443
+28,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 3,2012-04-25,H,4,,,C,1656,1325,44600000,2020-12-15,,0,0.0,22.2460234,114.1635949
+29,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-23,M,2,,22,3,422,325,5400000,2020-12-15,1997-06-13,500000,980.0,22.248392,114.15257
+30,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 1,2012-04-25,M,,,18,A,2501,1949,63900000,2020-12-15,2011-11-21,54690000,16.84,22.246078,114.16319899999999
+31,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,May Court,May Court,1996-11-09,H,2,,21,A,485,278,5500000,2020-12-14,,0,0.0,22.247571999999998,114.156193
+32,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 1,1999-06-30,L,3,,15,A,870,600,9520000,2020-12-14,1998-12-11,2922200,225.78,22.24933,114.14777
+33,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pokfulam Terrace,Pokfulam Terrace,2003-12-15,M,2,,18,C,688,523,7800000,2020-12-14,2007-11-05,2880000,170.83,22.252177,114.139617
+34,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block A,1983-03-23,H,2,,29,3,584,460,7400000,2020-12-11,2012-11-21,4000000,85.0,22.248302,114.15286
+35,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Chun Court (Block A),1979-12-15,M,2,2,15,2,529,438,6300000,2020-12-10,2012-11-26,4150000,51.81,22.24826,114.154434
+36,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 2,1999-06-30,L,2,,5,D,688,479,7200000,2020-12-10,2016-11-08,5920000,21.62,22.249147,114.14795
+37,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,L,,,4,K,707,591,6450000,2020-12-10,2001-04-23,1298900,396.57,22.2431849,114.164671
+38,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,World Fair Court,World Fair Court,1978-03-21,,,,28,B,0,400,5450000,2020-12-07,,0,0.0,22.252602,114.139046
+39,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,66 Shek Pai Wan Road,66 Shek Pai Wan Road,1961-10-20,,,,2,66,0,662,3850000,2020-12-04,,0,0.0,,
+40,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Hau House ( Block 2 ),1990-11-01,H,,,24,3,0,598,4400000,2020-12-03,,0,0.0,22.250135,114.140236
+41,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-23,M,2,,15,7,589,454,6900000,2020-12-03,2007-10-29,2268000,204.23000000000002,22.248392,114.15257
+42,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Hau House ( Block 2 ),1990-11-01,M,,,12,2,0,376,2380000,2020-12-03,,0,0.0,22.250135,114.140236
+43,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Hing Court (Block J),1981-12-01,L,2,2,9,3,534,448,6500000,2020-12-02,2016-11-11,5580000,16.490000000000002,22.249229,114.153749
+44,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pelene Mansion,Pelene Mansion,1979-09-13,M,,,13,E,0,285,4600000,2020-12-02,2017-03-30,3630000,26.72,22.249132,114.14839
+45,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,M,0,,12,F,0,214,4130000,2020-12-02,2015-12-22,3734000,10.61,22.249364999999997,114.14948
+46,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Ying Court (Block L),1979-12-15,H,3,2,19,5,666,572,8500000,2020-11-30,1998-12-30,2480000,242.74,22.248569,114.1537125
+47,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Full Jade Mansion,Full Jade Mansion,1992-06-04,H,2,,17,C,342,236,4400000,2020-11-30,2010-11-05,1500000,193.33,22.24955,114.14792
+48,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,World Fair Court,World Fair Court,1978-03-21,L,2,,11,C,0,397,5350000,2020-11-27,2016-08-15,3730000,43.43,22.252602,114.139046
+49,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Fu Court (Block E),1982-01-07,M,2,2,13,3,534,448,6750000,2020-11-26,1997-06-24,2385000,183.02,22.249264,114.154165
+50,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Shan Court (Block C),1979-12-15,L,2,2,2,2,529,438,5400000,2020-11-24,2004-11-05,1348000,300.59000000000003,22.248601,114.1545666
+51,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Shan Court (Block C),1979-12-15,H,2,2,24,3,526,432,6850000,2020-11-19,2010-07-23,2580000,165.5,22.248601,114.1545666
+52,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Lung Court (Block N),1979-12-15,H,3,2,26,4,666,572,8580000,2020-11-19,2002-05-13,1960000,337.76,22.2482201,114.1539021
+53,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,M,1,,15,D,0,254,5280000,2020-11-19,,0,0.0,22.249364999999997,114.14948
+54,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,20-22 Wu Pak Street,20-22 Wu Pak Street,1966-07-25,,,,5,,0,590,2450000,2020-11-17,,0,0.0,22.248026,114.15502
+55,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bayshore Apartments,Bayshore Apartments,2000-10-20,L,3,,17,A,790,567,8500000,2020-11-16,2020-10-19,8500000,0.0,22.2484614,114.151742
+56,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 2,2001-07-27,L,,,7,A,707,591,6628000,2020-11-13,2001-04-20,1323800,400.68,22.2429705,114.165086
+57,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-23,M,2,,23,6,589,450,7980000,2020-11-12,,0,0.0,22.248392,114.15257
+58,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,M,1,,12,D,0,254,5205000,2020-11-11,2016-07-15,5034000,3.4,22.249364999999997,114.14948
+59,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 3,1995-10-06,M,3,2,18,B,717,589,6238000,2020-11-11,,0,0.0,22.244823999999998,114.16600199999999
+60,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Hing Court (Block J),1981-12-01,M,2,2,19,3,534,448,6800000,2020-11-11,,0,0.0,22.249229,114.153749
+61,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pokfulam Terrace,Pokfulam Terrace,2003-12-15,L,2,,9,B,688,523,8110000,2020-11-10,2016-11-25,6500000,24.77,22.252177,114.139617
+62,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,L,1,,,B,0,255,5300000,2020-11-10,,0,0.0,22.249364999999997,114.14948
+63,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block E,1980-08-13,M,,,17,3,460,384,5680000,2020-11-10,2005-12-16,1230000,361.79,22.2502444,114.157092
+64,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 1,2012-04-25,M,3,,17,B,1799,1368,43800000,2020-11-09,2011-12-06,37613000,16.45,22.246078,114.16319899999999
+65,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Fook Court,Ka Fook Court,1981-07-09,L,3,,8,B,780,657,8100000,2020-11-06,2004-10-13,1440000,462.5,22.249796,114.149055
+66,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block D,1991-11-28,L,3,2,6,9,712,554,4880000,2020-11-05,,0,0.0,22.249568,114.138004
+67,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 6,2012-04-25,M,,,15,A,2323,1807,71200000,2020-11-04,2011-11-03,45763000,55.58,22.245793,114.1638696
+68,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Mei Fai Court (Block Q),1981-05-01,H,3,2,25,1,823,664,10480000,2020-11-03,,0,0.0,22.24833,114.153216
+69,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 1,1995-10-06,L,3,2,1,K,524,431,3530000,2020-11-02,1999-05-13,1088000,224.45000000000002,22.244434,114.165901
+70,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 2,1985-03-21,M,2,,18,C,454,329,5980000,2020-10-28,2010-11-17,2360000,153.39000000000001,22.245206,114.166945
+71,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-07,M,2,,21,C,0,348,5680000,2020-10-28,2008-04-16,925000,514.05,22.249181999999998,114.14857
+72,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bayshore Apartments,Bayshore Apartments,2000-10-20,L,3,,15,B,673,471,7680000,2020-10-27,2005-09-13,2580000,197.67000000000002,22.2484614,114.151742
+73,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,210-210A Aberdeen Main Road,210-210A Aberdeen Main Road,1971-10-23,L,,,2,B,0,354,4238000,2020-10-27,,0,0.0,22.24976,114.15469
+74,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Shan Court (Block C),1979-12-15,M,3,2,15,5,666,572,8600000,2020-10-23,2014-10-22,5930000,45.03,22.248601,114.1545666
+75,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wai King Mansion,Wai King Mansion,1994-07-29,M,2,,10,B,658,437,6680000,2020-10-23,2017-02-06,5300000,26.04,22.247805,114.15854
+76,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block B,1991-11-28,L,2,2,1,1,515,401,4800000,2020-10-23,2009-09-04,1720000,179.07,22.249513999999998,114.138582
+77,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Wing Court (Block I),1981-12-01,M,2,2,17,6,538,448,6600000,2020-10-22,2010-03-03,2400000,175.0,22.249413,114.153846
+78,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Mei Fai Court (Block Q),1981-05-01,M,3,2,16,4,750,583,8380000,2020-10-22,,0,0.0,22.24833,114.153216
+79,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,H,,,36,K,707,591,7750000,2020-10-21,2001-04-06,1460500,430.64,22.2427474,114.1656694
+80,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block F,1981-03-26,H,,,25,3,460,384,5800000,2020-10-21,,0,0.0,22.250521,114.1566445
+81,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,L,1,,5,B,0,265,5763650,2020-10-20,2018-04-23,5592000,3.0700000000000003,22.249537999999998,114.14932999999999
+82,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Siu Kwan Mansion,Siu Kwan Mansion,1993-10-29,M,,,11,C,0,306,5600000,2020-10-19,2007-07-11,1510000,270.86,22.248939999999997,114.15614
+83,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bayshore Apartments,Bayshore Apartments,2000-10-20,L,3,,17,A,790,567,8500000,2020-10-19,2011-03-22,3980000,113.57000000000001,22.2484614,114.151742
+84,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kam Fung Building,Kam Fung Building,1986-04-30,L,,,5,D,530,421,5920000,2020-10-19,2012-05-16,3080000,92.21000000000001,22.248493,114.15546
+85,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block D,1980-08-13,M,,,17,7,460,384,5800000,2020-10-19,2013-08-02,3898000,48.79,22.2499475,114.1569275
+86,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Wo Building,Block A,1978-05-19,L,2,,7,8,464,371,4900000,2020-10-19,2013-02-06,2788000,75.75,22.250114,114.14862
+87,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block E,1980-08-13,L,,,9,8,502,419,5000000,2020-10-16,,0,0.0,22.2502444,114.157092
+88,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 6,2012-04-25,M,,,20,A,2323,1807,71800000,2020-10-14,2015-02-26,61000000,17.7,22.245793,114.1638696
+89,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Tin Wan Court,Tin Wan Court,2001-05-02,L,3,,5,D,820,560,6950000,2020-10-14,2011-03-11,3325000,109.02,22.25004,114.14931
+90,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block D,1980-08-13,M,,,11,1,502,419,5850000,2020-10-12,,0,0.0,22.2499475,114.1569275
+91,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,H,2,,36,C,747,519,8750000,2020-10-09,2009-12-22,6200000,41.13,22.2485758,114.1523672
+92,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block B,1980-04-11,M,,,15,5,502,419,6080000,2020-10-09,2014-07-25,3960000,53.54,22.248625999999998,114.156597
+93,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 3,2012-04-25,H,,,28,B,1755,1386,46000000,2020-10-09,2011-11-16,36963000,24.45,22.2460234,114.1635949
+94,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Tin Court (Block M),1979-12-15,M,2,2,11,2,529,438,6580000,2020-10-08,2017-08-25,5200000,26.54,22.248433,114.15373
+95,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Building,Jumbo Building,1988-05-14,L,3,,10,C,0,396,6000000,2020-10-08,2007-05-21,1560000,284.62,22.249475,114.154884
+96,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Hing Court (Block J),1981-12-01,H,2,2,20,6,534,448,6800000,2020-10-08,2016-06-02,5000000,36.0,22.249229,114.153749
+97,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Shan Court (Block C),1979-12-15,H,2,2,22,3,526,432,6500000,2020-10-08,2010-04-16,2660000,144.36,22.248601,114.1545666
+98,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kin Fai Building,Kin Fai Building,1979-11-20,H,2,,22,C,0,310,5460000,2020-10-08,2015-04-13,4138000,31.95,22.247944,114.15877
+99,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Yin House ( Block 5 ),1991-11-01,H,,,31,5,0,407,2800000,2020-10-07,,0,0.0,22.250587,114.13845
+100,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,House 12,2012-04-25,,,,,,3922,2738,137800000,2020-10-07,,0,0.0,22.245623,114.16419
+101,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Sin House ( Block 4 ),1991-11-01,H,,,31,11,0,397,2830000,2020-10-06,,0,0.0,22.25037,114.13913
+102,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 2,1985-03-21,H,2,,22,A,503,361,6888888,2020-09-29,1997-05-06,2450000,181.18,22.245206,114.166945
+103,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Tin Court (Block M),1979-12-15,L,2,2,8,3,526,432,6350000,2020-09-28,,0,0.0,22.248433,114.15373
+104,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Shing Court (Block F),1982-01-07,H,2,2,23,6,538,448,6900000,2020-09-28,2004-05-11,1500000,360.0,22.249378,114.154034
+105,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,L,2,,7,C,747,519,8500000,2020-09-28,2009-05-27,4655000,82.60000000000001,22.2485758,114.1523672
+106,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-23,M,2,,21,4,444,325,5743000,2020-09-28,2013-08-05,3750000,53.15,22.248392,114.15257
+107,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Chu Court (Block B),1979-12-15,L,3,2,5,5,666,572,7950000,2020-09-25,,0,0.0,22.248476999999998,114.154547
+108,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Lung Court (Block N),1979-12-15,M,3,2,14,5,666,572,8000000,2020-09-25,1997-11-14,3000000,166.67000000000002,22.2482201,114.1539021
+109,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-23,L,2,,10,2,399,304,5180000,2020-09-25,2015-09-09,4000000,29.5,22.248392,114.15257
+110,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Tin Wan Court,Tin Wan Court,2001-05-02,M,1,,16,C,608,415,6480000,2020-09-25,2016-06-08,4300000,50.7,22.25004,114.14931
+111,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block A,1991-11-28,L,3,2,1,2,712,554,6180000,2020-09-25,,0,0.0,22.249516999999997,114.138987
+112,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,M,,,21,D,689,576,7900000,2020-09-24,2001-03-12,1630000,384.66,22.2427474,114.1656694
+113,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bayshore Apartments,Bayshore Apartments,2000-10-20,L,3,,13,D,791,567,7850000,2020-09-22,2006-09-11,2830000,177.39000000000001,22.2484614,114.151742
+114,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Lai House ( Block 1 ),1990-11-01,L,,,3,1,0,443,2580000,2020-09-22,2014-12-11,1980000,30.3,22.249586,114.14065
+115,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Chun Court (Block A),1979-12-15,L,2,2,5,3,526,432,6850000,2020-09-21,2017-05-09,5500000,24.55,22.24826,114.154434
+116,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ngan Fung Building,Ngan Fung Building,1988-07-21,M,2,,11,B,572,382,5880000,2020-09-18,1997-04-18,2200000,167.27,22.24721,114.15673
+117,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Yin House ( Block 5 ),1991-11-01,H,,,32,19,0,407,2850000,2020-09-18,,0,0.0,22.250587,114.13845
+118,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Shing Court (Block F),1982-01-07,L,2,2,4,6,538,448,5700000,2020-09-17,2017-04-03,5480000,4.01,22.249378,114.154034
+119,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-23,H,2,,33,2,399,304,5200000,2020-09-17,2014-03-05,3640000,42.86,22.248392,114.15257
+120,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Tai Tak House,Tai Tak House,1971-03-23,,,,1,2,0,288,3380000,2020-09-16,,0,0.0,,
+121,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,L,3,,6,A,908,642,10680000,2020-09-15,2009-03-06,5459000,95.64,22.2485758,114.1523672
+122,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,H,1,,29,D,0,254,5380000,2020-09-15,2016-11-01,5464000,-1.54,22.249364999999997,114.14948
+123,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,H,,,37,E,505,422,5900000,2020-09-11,2001-04-12,1184000,398.31,22.2427474,114.1656694
+124,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Cheung Court (Block G),1982-01-07,H,2,2,20,3,534,448,6530000,2020-09-10,2013-09-04,4270000,52.93,22.24957,114.1541106
+125,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kam Fung Building,Kam Fung Building,1986-04-30,L,,,4,E,530,421,6050000,2020-09-09,,0,0.0,22.248493,114.15546
+126,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kam Fung Building,Kam Fung Building,1986-04-30,M,,,21,H,696,547,8000000,2020-09-08,2010-09-22,4080000,96.08,22.248493,114.15546
+127,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jing Hui Garden,Block 1 (Mid),1989-02-24,L,2,,1,B,0,406,5280000,2020-09-07,2007-08-21,1228000,329.97,22.248085,114.15924
+128,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ocean House,Ocean House,1984-01-31,M,,,7,C,0,327,2000000,2020-09-07,,0,0.0,22.247906,114.15622
+129,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Wu Court (Block D),1979-12-15,L,3,2,9,5,666,572,8300000,2020-09-04,1998-05-08,2910000,185.22,22.248768,114.15443
+130,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-07,,2,,31,D,581,414,7125000,2020-09-04,2010-02-05,2650000,168.87,22.249181999999998,114.14857
+131,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Hau House ( Block 2 ),1990-11-01,M,,,20,5,0,385,2370000,2020-09-03,,0,0.0,22.250135,114.140236
+132,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 1,1995-10-06,H,3,2,28,E,524,431,5080000,2020-09-03,2015-12-03,3460000,46.82,22.244434,114.165901
+133,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Lung Court (Block N),1979-12-15,H,3,2,22,5,666,572,9100000,2020-09-02,,0,0.0,22.2482201,114.1539021
+134,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,L,2,,5,E,0,451,7900000,2020-09-01,2016-08-04,7721000,2.32,22.249364999999997,114.14948
+135,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Ying Court (Block L),1979-12-15,H,2,2,22,6,526,432,6650000,2020-09-01,2007-11-12,1880000,253.72,22.248569,114.1537125
+136,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jing Hui Garden,Block 1 (Mid),1989-02-24,L,2,,1,C,0,406,4900000,2020-09-01,,0,0.0,22.248085,114.15924
+137,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Wo Building,Block A,1978-05-19,M,,,17,1,366,292,4550000,2020-08-31,2014-03-12,2800000,62.5,22.250114,114.14862
+138,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block A,1983-03-23,H,2,,25,7,422,325,5500000,2020-08-31,2011-03-24,2630000,109.13,22.248302,114.15286
+139,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jing Hui Garden,Block 1 (Mid),1989-02-24,L,3,,6,A,0,478,6122000,2020-08-26,2011-06-27,3280000,86.65,22.248085,114.15924
+140,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 1,1999-06-30,H,2,,36,D,688,479,8010000,2020-08-21,2013-09-10,5550000,44.32,22.24933,114.14777
+141,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jing Hui Garden,Block 2 (Mid),1989-02-24,M,3,,10,E,0,478,5600000,2020-08-21,2009-09-11,2500000,124.0,22.248205,114.159584
+142,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block A,1980-04-11,,,,26,1,502,419,5800000,2020-08-21,2015-01-19,4850000,19.59,22.248283999999998,114.1566206
+143,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,House 1,2012-04-25,,,,,,4863,3408,100000000,2020-08-21,2016-11-11,138000000,-27.54,22.245943,114.16319
+144,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block A,1991-11-28,H,3,2,35,6,712,554,8800000,2020-08-21,2011-10-17,3820000,130.37,22.249516999999997,114.138987
+145,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block E,1980-08-13,H,,,24,1,502,419,6000000,2020-08-18,2012-09-26,3080000,94.81,22.2502444,114.157092
+146,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block A,1983-03-23,M,2,,19,7,422,325,5600000,2020-08-18,2004-03-19,1250000,348.0,22.248302,114.15286
+147,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block A,1980-04-11,M,,,15,8,502,419,5900000,2020-08-13,2007-12-03,1000000,490.0,22.248283999999998,114.1566206
+148,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pokfulam Terrace,Pokfulam Terrace,2003-12-15,L,2,,5,B,688,523,7830000,2020-08-12,2005-08-24,2650000,195.47,22.252177,114.139617
+149,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Shing Court (Block F),1982-01-07,L,2,2,2,2,551,451,5850000,2020-08-12,2003-12-24,1070000,446.73,22.249378,114.154034
+150,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Mei Kwong Court (Block P),1981-05-01,H,3,2,25,5,673,576,8350000,2020-08-12,2010-07-22,3500000,138.57,22.2484557,114.1532859
+151,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block F,1981-03-26,L,,,1,6,460,384,5380000,2020-08-11,2013-11-29,3398000,58.33,22.250521,114.1566445
+152,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pelene Mansion,Pelene Mansion,1979-09-13,H,,,18,E,0,285,4430000,2020-08-07,2016-11-04,3700000,19.73,22.249132,114.14839
+153,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Tin Wan Court,Tin Wan Court,2001-05-02,L,3,,3,D,806,560,6600000,2020-08-05,2001-12-12,1819000,262.84000000000003,22.25004,114.14931
+154,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Tai Court (Block H),1981-12-01,L,3,2,10,4,655,559,7000000,2020-08-04,,0,0.0,22.249599,114.15371999999999
+155,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block E,1980-08-13,L,,,6,7,460,384,4000000,2020-08-03,2008-01-23,1580000,153.16,22.2502444,114.157092
+156,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 9,2012-04-25,L,3,,9,B,1938,1534,33000000,2020-07-31,2011-11-10,33337000,-1.01,22.2457363,114.1643346
+157,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Fu Court (Block E),1982-01-07,L,2,2,7,2,546,451,6500000,2020-07-29,2004-06-01,1400000,364.29,22.249264,114.154165
+158,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Lim House ( Block 3 ),1990-11-01,H,,,25,15,0,598,4380000,2020-07-27,,0,0.0,22.250576,114.13976
+159,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kwun Hoi Court (Block S),1981-06-29,M,3,2,14,1,915,721,13100000,2020-07-27,,0,0.0,22.247946,114.154171
+160,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-07,L,1,,5,E,376,254,4280000,2020-07-23,,0,0.0,22.249181999999998,114.14857
+161,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Hau House ( Block 2 ),1990-11-01,M,,,17,18,0,443,3200000,2020-07-23,,0,0.0,22.250135,114.140236
+162,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Harbour Mansion,Aberdeen Harbour Mansion,1972-10-05,L,0,,6,C,0,370,5050000,2020-07-22,2009-07-09,1400000,260.71,22.247442,114.15774
+163,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 2,1995-10-06,H,3,2,34,K,524,431,5280000,2020-07-22,2017-04-10,3968000,33.06,22.244878,114.1664285
+164,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yen Shing Mansion,Yen Shing Mansion,1988-02-26,M,2,,13,D,0,287,4630000,2020-07-21,2010-10-17,1650000,180.61,22.249482999999998,114.14808
+165,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ocean Court,Block 1,1999-09-23,L,,,4,E,589,484,5720000,2020-07-21,2003-05-08,1068000,435.58,22.247282,114.158875
+166,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,May Court,May Court,1996-11-09,L,2,,3,B,485,278,4780000,2020-07-21,2010-03-23,1668000,186.57,22.247571999999998,114.156193
+167,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,4-6 Wu Pak Street,4-6 Wu Pak Street,1966-05-28,,,,2,,0,675,5000000,2020-07-21,,0,0.0,,
+168,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Comfort Centre,Comfort Centre,1992-08-07,L,2,,4,D,504,375,5760000,2020-07-20,2010-04-23,2300000,150.43,22.248713,114.156154
+169,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block C,1980-08-13,M,,,10,2,460,384,5680000,2020-07-17,,0,0.0,22.2496459,114.156745
+170,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 2,1999-06-30,L,3,,5,A,895,615,9180000,2020-07-17,2015-04-24,7050000,30.21,22.249147,114.14795
+171,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-07,L,1,,13,D,376,254,4600000,2020-07-17,2011-02-16,1788000,157.27,22.249181999999998,114.14857
+172,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Hau House ( Block 2 ),1990-11-01,H,,,25,2,0,376,2550000,2020-07-17,,0,0.0,22.250135,114.140236
+173,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block E,1980-08-13,H,,,25,7,460,384,5800000,2020-07-15,1997-01-13,1770000,227.68,22.2502444,114.157092
+174,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block B,1980-04-11,M,,,14,4,502,419,5200000,2020-07-14,2010-02-08,2025000,156.79,22.248625999999998,114.156597
+175,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,May Court,May Court,1996-11-09,M,2,,15,A,485,278,5550000,2020-07-13,2012-08-23,2950000,88.14,22.247571999999998,114.156193
+176,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,L,,,7,E,505,422,5660000,2020-07-10,2001-04-18,1085100,421.61,22.2427474,114.1656694
+177,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,M,,,20,F,505,422,6100000,2020-07-09,2017-07-03,4700000,29.79,22.2431849,114.164671
+178,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,H,,,35,A,707,591,7800000,2020-07-09,2001-03-27,1588400,391.06,22.2431849,114.164671
+179,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block B,1980-04-11,M,,,14,7,460,384,5800000,2020-07-08,2010-10-18,2080000,178.85,22.248625999999998,114.156597
+180,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wai King Mansion,Wai King Mansion,1994-07-29,M,2,,13,B,658,437,6000000,2020-07-07,2010-07-29,2580000,132.56,22.247805,114.15854
+181,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-23,H,2,,25,3,422,325,5500000,2020-07-06,2014-09-17,3980000,38.19,22.248392,114.15257
+182,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Wo Building,Block A,1978-05-19,M,2,,16,6,414,339,4980000,2020-07-06,2014-10-15,3000000,66.0,22.250114,114.14862
+183,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-23,H,2,,26,6,589,450,4000000,2020-07-06,2012-05-07,4150000,-3.61,22.248392,114.15257
+184,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,L,,,10,F,505,422,5838000,2020-07-03,2009-12-03,1560000,274.23,22.2427474,114.1656694
+185,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Sin House ( Block 4 ),1991-11-01,H,,,25,4,0,397,2420000,2020-07-03,2014-07-10,1900000,27.37,22.25037,114.13913
+186,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 2,1985-03-20,M,2,,17,B,481,358,6380000,2020-07-01,2011-09-08,3200000,99.38,22.245206,114.166945
+187,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Wu Court (Block D),1979-12-15,L,3,2,10,4,666,572,8560000,2020-06-30,2000-11-17,2290000,273.8,22.248768,114.15443
+188,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,M,0,,21,F,0,214,4000000,2020-06-29,2015-12-15,3989000,0.28,22.249364999999997,114.14948
+189,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Shan Court (Block C),1979-12-15,M,2,2,14,2,529,438,6730000,2020-06-26,,0,0.0,22.248601,114.1545666
+190,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,H,3,,43,B,964,681,12000000,2020-06-26,2013-09-05,7800000,53.85,22.2485758,114.1523672
+191,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Hau House ( Block 2 ),1990-11-01,M,,,16,11,0,376,2650000,2020-06-26,,0,0.0,22.250135,114.140236
+192,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kong Kai Building,Kong Kai Building,1990-01-24,M,,,14,A,0,355,5000000,2020-06-23,,0,0.0,22.2496344,114.1554975
+193,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Yin House ( Block 5 ),1991-11-01,H,,,28,7,0,544,3950000,2020-06-23,,0,0.0,22.250587,114.13845
+194,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block F,1981-03-26,H,,,27,8,502,419,6000000,2020-06-23,,0,0.0,22.250521,114.1566445
+195,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block D,1980-08-13,M,,,15,3,460,384,5650000,2020-06-23,2005-01-25,450000,1155.56,22.2499475,114.1569275
+196,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-06,M,1,,19,D,376,254,4500000,2020-06-22,2016-10-17,3650000,23.29,22.249181999999998,114.14857
+197,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,L,1,,10,B,0,254,5350000,2020-06-22,2015-12-15,4875000,9.74,22.249364999999997,114.14948
+198,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 3,2012-04-25,H,,,32,B,1755,1386,46000000,2020-06-22,2011-11-21,38080000,20.8,22.2460234,114.1635949
+199,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Wing Court (Block I),1981-12-01,H,2,2,23,2,551,451,6180000,2020-06-22,2006-04-04,1500000,312.0,22.249413,114.153846
+200,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Lim House ( Block 3 ),1990-11-01,H,,,27,14,0,376,2350000,2020-06-22,2008-06-30,770000,205.19,22.250576,114.13976
+201,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block B,1980-04-11,H,,,22,7,460,384,5700000,2020-06-19,2014-04-30,3800000,50.0,22.248625999999998,114.156597
+202,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Hing Court (Block J),1981-12-01,M,2,2,16,6,534,448,6800000,2020-06-18,2005-05-14,1880000,261.7,22.249229,114.153749
+203,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,M,,,24,F,505,422,7000000,2020-06-17,2017-02-14,5350000,30.84,22.2431849,114.164671
+204,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,H,,,34,F,505,422,5960000,2020-06-17,2007-10-02,1390000,328.78000000000003,22.2431849,114.164671
+205,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pelene Mansion,Pelene Mansion,1979-09-13,M,,,12,F,0,287,4400000,2020-06-17,2016-11-28,3400000,29.41,22.249132,114.14839
+206,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Chun Court (Block A),1979-12-15,H,3,2,26,4,666,572,9280000,2020-06-16,,0,0.0,22.24826,114.154434
+207,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block D,1980-08-13,H,,,23,2,460,384,5550000,2020-06-15,,0,0.0,22.2499475,114.1569275
+208,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pokfulam Terrace,Pokfulam Terrace,2003-12-15,L,3,,2,D,916,676,9000000,2020-06-15,2010-06-04,4700000,91.49,22.252177,114.139617
+209,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,L,2,,5,A,0,478,8000000,2020-06-15,2017-02-13,8191000,-2.33,22.249364999999997,114.14948
+210,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-06,,2,,27,A,603,403,7000000,2020-06-14,2017-03-16,5350000,30.84,22.249181999999998,114.14857
+211,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block D,1991-11-28,H,2,2,33,3,515,401,6280000,2020-06-12,2001-12-29,1318000,376.48,22.249568,114.138004
+212,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jing Hui Garden,Block 2 (Mid),1989-02-24,L,2,,3,F,0,406,5350000,2020-06-11,,0,0.0,22.248205,114.159584
+213,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Cheung Court (Block G),1982-01-07,L,2,2,7,2,546,451,6588000,2020-06-11,1998-04-20,2300000,186.43,22.24957,114.1541106
+214,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block A,1983-03-22,M,2,,17,3,584,460,7750000,2020-06-10,2016-12-06,5880000,31.8,22.248302,114.15286
+215,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block A,1983-03-22,H,2,,30,1,391,304,5000000,2020-06-10,2014-08-20,3750000,33.33,22.248302,114.15286
+216,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,On Fai Building,On Fai Building,1977-04-21,H,3,,17,F,0,462,5800000,2020-06-10,,0,0.0,22.248299,114.15618
+217,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,On Tai Building,On Tai Building,1984-01-31,M,,,11,B,0,291,5180000,2020-06-09,2004-08-03,938000,452.24,22.247829,114.155528
+218,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kam Fung Building,Kam Fung Building,1986-04-29,M,,,19,A,696,547,8350000,2020-06-08,,0,0.0,22.248493,114.15546
+219,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Man King Building,Man King Building,1974-06-27,H,2,,21,A,488,353,4400000,2020-06-08,2006-07-25,750000,486.67,22.249859999999998,114.14791
+220,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,M,,,17,D,689,576,7930000,2020-06-08,2001-03-16,1605600,393.90000000000003,22.2427474,114.1656694
+221,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 2,1999-06-29,H,3,,27,A,895,615,8380000,2020-06-07,2006-06-29,2945000,184.55,22.249147,114.14795
+222,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pelene Mansion,Pelene Mansion,1979-09-13,M,,,15,E,0,285,4350000,2020-06-05,,0,0.0,22.249132,114.14839
+223,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Sze Hei Building,Sze Hei Building,1975-05-06,H,2,,21,A,0,332,4500000,2020-06-05,2008-07-03,1680000,167.86,22.248901,114.148926
+224,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 2,1995-10-06,L,3,2,5,E,524,431,6220000,2020-06-04,,0,0.0,22.244878,114.1664285
+225,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Mei Kwong Court (Block P),1981-05-01,M,3,2,12,4,673,576,8980000,2020-06-04,2017-06-09,5200000,72.69,22.2484557,114.1532859
+226,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,H,,,27,F,505,422,5868000,2020-06-03,2007-04-13,1238000,373.99,22.2427474,114.1656694
+227,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 2,2001-07-27,H,,,37,A,707,591,6780000,2020-06-03,2010-11-17,2800000,142.14000000000001,22.2429705,114.165086
+228,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Comfort Centre,Comfort Centre,1992-08-07,M,3,,19,E,674,511,7700000,2020-06-02,2008-06-19,3000000,156.67000000000002,22.248713,114.156154
+229,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block A,1983-03-23,H,2,,31,5,589,450,7000000,2020-06-02,2011-04-11,3970000,76.32000000000001,22.248302,114.15286
+230,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Chun Court (Block A),1979-12-15,M,2,2,14,1,529,438,6880000,2020-06-01,2014-12-03,4900000,40.410000000000004,22.24826,114.154434
+231,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Ying Court (Block L),1979-12-15,H,2,2,25,2,529,438,6300000,2020-06-01,2000-06-20,1560000,303.85,22.248569,114.1537125
+232,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Siu Kwan Mansion,Siu Kwan Mansion,1993-10-29,M,,,10,B,430,306,5000000,2020-05-29,1999-10-21,1580000,216.46,22.248939999999997,114.15614
+233,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 3,1995-10-06,H,3,2,32,B,717,589,6500000,2020-05-28,,0,0.0,22.244823999999998,114.16600199999999
+234,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 1,2012-04-24,H,3,,28,B,1799,1421,42600000,2020-05-27,2011-11-30,41360000,3.0,22.246078,114.16319899999999
+235,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block D,1980-08-13,L,,,2,3,460,384,5280000,2020-05-27,2006-08-09,1070000,393.46000000000004,22.2499475,114.1569275
+236,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Shing Court (Block F),1982-01-07,L,2,2,9,6,538,448,6000000,2020-05-27,1999-01-25,1738000,245.22,22.249378,114.154034
+237,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 1,1985-03-20,H,2,,19,D,416,309,6100000,2020-05-26,2015-06-09,4450000,37.08,22.244982999999998,114.166818
+238,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 3,1995-10-05,L,3,2,3,H,717,589,6180000,2020-05-26,2005-06-28,1280000,382.81,22.244823999999998,114.16600199999999
+239,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pokfulam Terrace,Pokfulam Terrace,2003-12-14,H,2,,26,B,688,523,8000000,2020-05-26,2010-12-23,1995000,301.0,22.252177,114.139617
+240,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 9,2012-04-25,M,3,,16,A,1593,1248,37800000,2020-05-26,2020-02-17,32000000,18.13,22.2457363,114.1643346
+241,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-22,L,2,,5,7,0,454,6500000,2020-05-25,,0,0.0,22.248392,114.15257
+242,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-22,L,2,,10,7,589,454,6900000,2020-05-25,,0,0.0,22.248392,114.15257
+243,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,H,1,,25,C,0,254,5450000,2020-05-22,2016-09-30,5355000,1.77,22.249364999999997,114.14948
+244,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Mei Kwong Court (Block P),1981-05-01,M,3,2,17,6,702,590,8800000,2020-05-21,2010-08-05,3000000,193.33,22.2484557,114.1532859
+245,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block D,1991-11-28,H,2,2,34,1,515,401,6000000,2020-05-20,2015-08-04,5000000,20.0,22.249568,114.138004
+246,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,H,,,27,F,505,422,5780000,2020-05-20,2001-04-24,1106600,422.32,22.2431849,114.164671
+247,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Sze Hei Building,Sze Hei Building,1975-05-06,H,2,,20,A,0,332,4230000,2020-05-20,2015-08-17,3740000,13.1,22.248901,114.148926
+248,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen House,Aberdeen House,1962-03-27,H,,,7,3,0,449,2000000,2020-05-19,2015-10-07,2580000,-22.48,22.249408,114.155081
+249,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Tin Court (Block M),1979-12-15,M,2,2,14,3,526,432,6500000,2020-05-19,2001-10-08,1190000,446.22,22.248433,114.15373
+250,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block A,1983-03-22,L,2,,7,7,422,325,5050000,2020-05-18,2001-12-14,980000,415.31,22.248302,114.15286
+251,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Mei Kwong Court (Block P),1981-05-01,H,3,2,24,5,673,576,8380000,2020-05-18,2016-08-17,5990000,39.9,22.2484557,114.1532859
+252,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block B,1980-04-11,M,,,19,7,460,384,5350000,2020-05-18,,0,0.0,22.248625999999998,114.156597
+253,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 1,1999-06-30,L,3,,9,B,866,596,8500000,2020-05-18,2015-03-17,6200000,37.1,22.24933,114.14777
+254,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block A,1997-11-22,M,3,2,20,6,693,559,5280000,2020-05-15,,0,0.0,22.2511495,114.1507264
+255,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jing Hui Garden,Block 1 (Mid),1989-02-23,H,2,,22,B,0,406,5820000,2020-05-11,,0,0.0,22.248085,114.15924
+256,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Wu Court (Block D),1979-12-15,H,2,2,27,3,526,432,6840000,2020-05-08,2012-04-24,3600000,90.0,22.248768,114.15443
+257,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Hau House ( Block 2 ),1990-11-01,H,,,30,11,0,376,3080000,2020-05-08,,0,0.0,22.250135,114.140236
+258,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 2,1985-03-20,H,2,,19,E,418,302,6180000,2020-05-07,2013-06-25,3730000,65.68,22.245206,114.166945
+259,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,M,1,,19,D,0,254,5190000,2020-05-07,2016-10-04,5199000,-0.17,22.249364999999997,114.14948
+260,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 2,2012-04-25,M,3,,20,B,1593,1258,38880000,2020-05-07,2012-08-14,32347000,20.2,22.2460499,114.1633996
+261,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,On Fai Building,On Fai Building,1977-04-21,M,3,,12,C,0,461,6350000,2020-05-06,2011-02-20,2600000,144.23,22.248299,114.15618
+262,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 2,2001-07-27,M,,,19,E,505,422,6800000,2020-05-06,2001-04-20,1081900,528.52,22.2429705,114.165086
+263,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Full Jade Mansion,Full Jade Mansion,1992-06-04,L,2,,7,C,342,236,4250000,2020-05-06,2005-09-16,885000,380.23,22.24955,114.14792
+264,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Harbour Mansion,Aberdeen Harbour Mansion,1972-10-05,M,0,,11,D,0,369,5100000,2020-05-05,2010-07-21,1750000,191.43,22.247442,114.15774
+265,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bayshore Apartments,Bayshore Apartments,2000-10-20,H,3,,32,B,673,471,7800000,2020-04-29,2001-05-26,2280000,242.11,22.2484614,114.151742
+266,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,M,2,,21,E,687,491,7950000,2020-04-29,2009-12-24,4730000,68.08,22.2485758,114.1523672
+267,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kam Fung Building,Kam Fung Building,1986-04-29,,,,27,G,562,443,7280000,2020-04-28,2006-09-25,1990000,265.83,22.248493,114.15546
+268,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Tai Lok House,Tai Lok House,1971-03-22,,,,3,5,0,342,2000000,2020-04-28,2016-11-21,2000000,0.0,22.249713999999997,114.14819
+269,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,L,,,12,E,505,422,5250000,2020-04-28,2001-04-03,1111700,372.25,22.2431849,114.164671
+270,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Wu Court (Block D),1979-12-15,H,2,2,25,3,526,432,6700000,2020-04-23,2011-02-10,3130000,114.06,22.248768,114.15443
+271,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block B,1980-04-11,M,,,16,1,502,419,5680000,2020-04-23,,0,0.0,22.248625999999998,114.156597
+272,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jing Hui Garden,Block 2 (Mid),1989-02-24,H,2,,22,F,0,406,5780000,2020-04-23,2005-08-29,1475000,291.86,22.248205,114.159584
+273,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block B,1991-11-28,H,2,2,30,8,515,401,5700000,2020-04-22,2001-10-10,950000,500.0,22.249513999999998,114.138582
+274,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,M,1,,16,D,0,254,4950000,2020-04-20,,0,0.0,22.249364999999997,114.14948
+275,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bayshore Apartments,Bayshore Apartments,2000-10-19,M,3,,22,B,673,471,7600000,2020-04-19,1999-08-26,2716000,179.82,22.2484614,114.151742
+276,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 4,2001-07-27,L,,,11,A,707,591,7000000,2020-04-17,2001-03-31,1489100,370.08,22.2423776,114.1659966
+277,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,H,1,,29,B,0,254,5500000,2020-04-16,2015-12-18,5367000,2.48,22.249364999999997,114.14948
+278,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block B,1980-04-11,L,,,7,3,460,384,5300000,2020-04-16,2005-02-25,1118000,374.06,22.248625999999998,114.156597
+279,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-06,,2,,27,B,603,403,6120000,2020-04-15,2009-11-12,2180000,180.73,22.249181999999998,114.14857
+280,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Tsung Man Court,Tsung Man Court,1976-01-06,,,,6,C,0,328,3500000,2020-04-08,2010-05-10,1725000,102.9,22.249945,114.15473
+281,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block B,1997-11-22,L,3,2,5,9,801,645,5550000,2020-04-08,2005-04-14,1450000,282.76,22.2509395,114.1503625
+282,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-07,M,2,,21,A,0,403,6800000,2020-04-08,2014-08-28,4570000,48.800000000000004,22.249181999999998,114.14857
+283,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yee Tiam Building,Yee Tiam Building,1979-04-06,H,2,,17,B,427,297,4480000,2020-04-07,2016-12-07,3480000,28.740000000000002,22.249592,114.14885
+284,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block A,1991-11-28,L,2,2,6,8,515,401,4050000,2020-04-06,,0,0.0,22.249516999999997,114.138987
+285,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ocean Court,Block 3,1999-09-24,M,,,21,D,720,592,7600000,2020-04-06,1999-05-03,1484200,412.06,22.247508999999997,114.15953
+286,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 3,2012-04-25,L,2,,10,C,1141,915,24800000,2020-04-06,2011-11-16,22999000,7.83,22.2460234,114.1635949
+287,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block F,1981-03-26,M,,,14,4,502,419,5450000,2020-04-06,1997-08-04,2000000,172.5,22.250521,114.1566445
+288,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block D,1991-11-28,M,3,2,22,10,712,554,6200000,2020-04-03,,0,0.0,22.249568,114.138004
+289,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Wu Court (Block D),1979-12-15,L,3,2,2,4,666,572,8180000,2020-04-02,,0,0.0,22.248768,114.15443
+290,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bayshore Apartments,Bayshore Apartments,2000-10-19,H,3,,38,D,791,567,8500000,2020-04-01,2020-03-24,8500000,0.0,22.2484614,114.151742
+291,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block B,1997-11-22,M,3,2,22,2,693,559,5100000,2020-03-31,,0,0.0,22.2509395,114.1503625
+292,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Wo Building,Block B,1978-05-19,M,2,,12,4,464,371,3000000,2020-03-31,,0,0.0,22.249979,114.14865
+293,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kwun King Court (Block U),1981-06-29,M,3,2,16,3,915,723,12200000,2020-03-31,,0,0.0,22.247920999999998,114.154551
+294,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Yin House ( Block 5 ),1991-11-01,H,,,33,15,0,443,2850000,2020-03-31,,0,0.0,22.250587,114.13845
+295,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Ying Court (Block L),1979-12-15,M,2,2,14,6,526,432,6600000,2020-03-27,2016-10-17,4450000,48.31,22.248569,114.1537125
+296,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Lim House ( Block 3 ),1990-11-01,L,,,8,8,0,385,2380000,2020-03-27,,0,0.0,22.250576,114.13976
+297,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bayshore Apartments,Bayshore Apartments,2000-10-19,H,3,,38,D,791,567,8500000,2020-03-24,1999-11-02,3827200,122.09,22.2484614,114.151742
+298,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-06,M,1,,18,D,376,254,4450000,2020-03-23,2014-07-23,2900000,53.45,22.249181999999998,114.14857
+299,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Cheung Court (Block G),1982-01-07,M,2,2,17,2,546,451,6500000,2020-03-19,2016-11-09,5280000,23.11,22.24957,114.1541106
+300,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-06,,2,,26,C,523,348,5400000,2020-03-16,2008-01-22,1660000,225.3,22.249181999999998,114.14857
+301,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Fu Court (Block E),1982-01-07,M,3,2,19,5,655,559,7880000,2020-03-16,1997-09-04,3650000,115.89,22.249264,114.154165
+302,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,M,2,,27,D,762,513,8300000,2020-03-12,2014-10-10,5900000,40.68,22.2485758,114.1523672
+303,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kam Fung Building,Kam Fung Building,1986-04-29,M,,,14,F,562,443,6650000,2020-03-11,1998-06-12,2380000,179.41,22.248493,114.15546
+304,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Lai House ( Block 1 ),1990-11-01,M,,,14,4,0,407,2650000,2020-03-11,2002-06-11,550000,381.82,22.249586,114.14065
+305,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jing Hui Garden,Block 1 (Mid),1989-02-24,H,2,,20,B,0,406,5700000,2020-03-04,2017-02-17,4800000,18.75,22.248085,114.15924
+306,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Harbour Mansion,Aberdeen Harbour Mansion,1972-10-05,L,0,,5,J,0,420,5120000,2020-02-28,2011-05-31,2330000,119.74000000000001,22.247442,114.15774
+307,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block A,1991-11-28,H,2,2,32,8,515,401,6000000,2020-02-25,2006-04-10,1450000,313.79,22.249516999999997,114.138987
+308,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Shun Fung Court,Shun Fung Court,1994-11-04,L,2,,9,A,0,288,4700000,2020-02-25,2010-04-21,1550000,203.23000000000002,22.249693,114.148627
+309,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 1,1995-10-06,M,3,2,13,C,716,589,6330000,2020-02-24,,0,0.0,22.244434,114.165901
+310,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block A,1980-04-11,L,,,1,6,460,384,4840000,2020-02-21,2018-02-08,4000000,21.0,22.248283999999998,114.1566206
+311,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 4,2001-07-27,H,,,36,D,689,576,8030000,2020-02-19,2001-03-16,1602900,400.97,22.2423776,114.1659966
+312,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block A,1983-03-22,L,2,,8,1,391,304,5100000,2020-02-18,2014-05-01,3130000,62.940000000000005,22.248302,114.15286
+313,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 9,2012-04-24,M,3,,16,A,1593,1248,32000000,2020-02-16,2011-11-15,29011000,10.3,22.2457363,114.1643346
+314,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Lung Court (Block N),1979-12-15,M,2,2,15,1,529,438,6520000,2020-02-14,2016-03-16,4438000,46.910000000000004,22.2482201,114.1539021
+315,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kin Fai Building,Kin Fai Building,1979-11-19,L,2,,8,C,0,310,4900000,2020-02-13,2017-12-06,3950000,24.05,22.247944,114.15877
+316,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block B,1997-11-22,M,3,2,19,1,693,559,5550000,2020-02-12,,0,0.0,22.2509395,114.1503625
+317,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block A,1983-03-22,L,2,,6,8,422,325,5130000,2020-02-10,2002-01-07,880000,482.95,22.248302,114.15286
+318,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Wo Building,Block B,1978-05-19,M,2,,15,1,464,371,4600000,2020-02-10,,0,0.0,22.249979,114.14865
+319,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,L,2,,12,D,762,513,8000000,2020-02-10,2015-03-03,6290000,27.19,22.2485758,114.1523672
+320,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block C,1980-08-13,L,,,9,2,460,384,4800000,2020-02-06,2010-02-25,1855000,158.76,22.2496459,114.156745
+321,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block B,1997-11-22,M,3,2,23,9,801,645,5000000,2020-02-06,,0,0.0,22.2509395,114.1503625
+322,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,L,,,5,B,563,470,5850000,2020-02-06,2014-05-29,3170000,84.54,22.2427474,114.1656694
+323,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen House,Aberdeen House,1962-03-27,M,,,6,5,0,471,3880000,2020-02-04,,0,0.0,22.249408,114.155081
+324,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Port Centre,Port Centre,1989-07-24,H,2,,21,H,502,392,6850000,2020-02-03,2014-05-25,4830000,41.82,22.249057999999998,114.15501
+325,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ocean Court,Block 3,1999-09-24,M,,,17,B,589,484,5230000,2020-02-03,1999-05-17,1141500,358.17,22.247508999999997,114.15953
+326,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Wo Building,Block A,1978-05-19,L,2,,9,4,464,371,5250000,2020-01-24,2006-10-14,910000,476.92,22.250114,114.14862
+327,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,1,,2,A,0,217,6422950,2020-01-21,,0,0.0,22.249537999999998,114.14932999999999
+328,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Shun Fung Court,Shun Fung Court,1994-11-04,L,2,,1,A,0,288,5500000,2020-01-20,2012-04-25,2380000,131.09,22.249693,114.148627
+329,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,L,2,,11,D,762,513,8000000,2020-01-14,2016-10-07,6160000,29.87,22.2485758,114.1523672
+330,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block B,1980-04-11,L,,,8,3,460,384,5850000,2020-01-13,2016-05-11,4180000,39.95,22.248625999999998,114.156597
+331,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Chu Court (Block B),1979-12-15,L,2,2,5,1,529,438,6470000,2020-01-10,2015-01-27,4950000,30.71,22.248476999999998,114.154547
+332,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Cheung Court (Block G),1982-01-07,H,2,2,25,2,546,451,6200000,2020-01-10,2008-06-17,2410000,157.26,22.24957,114.1541106
+333,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Albert House,Albert House,1973-08-29,H,,,26,C,0,291,4048000,2020-01-09,,0,0.0,22.248547,114.15495
+334,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Cheung Court (Block G),1982-01-07,L,2,2,3,3,534,448,6380000,2020-01-09,2004-10-11,1260000,406.35,22.24957,114.1541106
+335,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 2,2001-07-27,L,,,4,D,689,576,7490000,2020-01-07,2001-03-31,1467600,410.36,22.2429705,114.165086
+336,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yen Shing Mansion,Yen Shing Mansion,1988-02-27,L,1,,1,B,0,282,4600000,2020-01-07,2014-03-27,3000000,53.33,22.249482999999998,114.14808
+337,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 1,1999-06-30,M,3,,20,B,866,596,8000000,2020-01-06,1998-12-14,2757500,190.12,22.24933,114.14777
+338,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Shan Court (Block C),1979-12-15,M,3,2,14,4,666,572,8350000,2020-01-06,2014-01-16,5850000,42.74,22.248601,114.1545666
+339,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Full Jade Mansion,Full Jade Mansion,1992-06-04,M,2,,12,B,342,236,4450000,2020-01-06,2009-07-20,1150000,286.96,22.24955,114.14792
+340,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Full Jade Mansion,Full Jade Mansion,1992-06-03,M,2,,10,D,369,256,4200000,2020-01-05,2018-01-25,3850000,9.09,22.24955,114.14792
+341,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pokfulam Terrace,Pokfulam Terrace,2003-12-15,L,2,,1,B,688,523,7800000,2020-01-02,2009-09-08,2610000,198.85,22.252177,114.139617
+342,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Yin House ( Block 5 ),1991-11-01,L,,,7,20,0,385,2380000,2019-12-31,,0,0.0,22.250587,114.13845
+343,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block C,1991-11-28,L,3,2,5,1,712,554,6600000,2019-12-20,2001-08-22,1230000,436.59000000000003,22.2493441,114.1380175
+344,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block A,1980-04-11,L,,,4,7,460,384,5300000,2019-12-20,2015-02-26,3950000,34.18,22.248283999999998,114.1566206
+345,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Wo Building,Block A,1978-05-19,M,2,,11,3,414,339,4900000,2019-12-17,2011-09-06,2000000,145.0,22.250114,114.14862
+346,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block A,1997-11-22,M,3,2,16,2,693,559,5500000,2019-12-13,2012-03-02,2180000,152.29,22.2511495,114.1507264
+347,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Siu Kwan Mansion,Siu Kwan Mansion,1993-10-29,H,,,18,D,608,437,5400000,2019-12-10,2012-07-26,3900000,38.46,22.248939999999997,114.15614
+348,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ngan Fung Building,Ngan Fung Building,1988-07-21,L,2,,5,B,572,382,2600000,2019-12-06,,0,0.0,22.24721,114.15673
+349,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block A,1991-11-28,H,3,2,27,2,712,554,7120000,2019-12-05,,0,0.0,22.249516999999997,114.138987
+350,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block A,1991-11-28,H,3,2,29,2,712,554,7700000,2019-12-04,2000-01-20,1790000,330.17,22.249516999999997,114.138987
+351,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Cheung Court (Block G),1982-01-07,H,3,2,22,5,655,559,7480000,2019-12-04,2007-08-02,2300000,225.22,22.24957,114.1541106
+352,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Full Jade Mansion,Full Jade Mansion,1992-06-03,H,2,,21,D,369,256,4880000,2019-12-03,2015-08-30,3800000,28.42,22.24955,114.14792
+353,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kin Fai Building,Kin Fai Building,1979-11-19,H,2,,21,E,0,274,3800000,2019-12-03,,0,0.0,22.247944,114.15877
+354,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,May Court,May Court,1996-11-08,H,2,,27,B,485,278,5900000,2019-12-01,2012-07-04,3060000,92.81,22.247571999999998,114.156193
+355,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block A,1980-04-11,,,,G,3,460,384,4800000,2019-11-29,2009-04-09,1380000,247.83,22.248283999999998,114.1566206
+356,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Port Centre,Port Centre,1989-07-24,M,2,,18,E,502,392,6550000,2019-11-28,,0,0.0,22.249057999999998,114.15501
+357,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block D,1980-08-13,H,,,23,6,460,384,5000000,2019-11-28,,0,0.0,22.2499475,114.1569275
+358,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Comfort Centre,Comfort Centre,1992-08-06,L,2,,4,C,504,375,5970000,2019-11-26,,0,0.0,22.248713,114.156154
+359,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Court,Jumbo Court,1979-05-27,H,2,,16,E,0,401,6250000,2019-11-26,2014-09-28,4350000,43.68,22.24591,114.16466
+360,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 3,1995-10-06,H,2,2,27,E,524,431,5100000,2019-11-26,2008-06-20,1289000,295.66,22.244823999999998,114.16600199999999
+361,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Chu Court (Block B),1979-12-15,M,2,2,14,2,529,438,6820000,2019-11-26,2016-06-17,4665000,46.2,22.248476999999998,114.154547
+362,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pokfulam Terrace,Pokfulam Terrace,2003-12-15,L,2,,10,C,688,523,8500000,2019-11-25,2006-10-10,2550000,233.33,22.252177,114.139617
+363,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block B,1991-11-28,H,3,2,27,2,827,645,6720000,2019-11-22,,0,0.0,22.249513999999998,114.138582
+364,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 1,1985-03-21,M,2,,15,A,500,363,6250000,2019-11-20,,0,0.0,22.244982999999998,114.166818
+365,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Ying Court (Block L),1979-12-15,H,2,2,26,6,526,432,6500000,2019-11-20,1997-03-14,2290000,183.84,22.248569,114.1537125
+366,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block A,1983-03-22,L,2,,13,8,422,325,5380000,2019-11-19,2011-05-02,2620000,105.34,22.248302,114.15286
+367,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Wo Building,Block A,1978-05-19,L,2,,9,2,414,339,4900000,2019-11-18,2011-07-20,1940000,152.58,22.250114,114.14862
+368,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block A,1997-11-22,H,3,2,28,4,801,645,5580000,2019-11-15,,0,0.0,22.2511495,114.1507264
+369,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Tai Court (Block H),1981-12-01,M,2,2,14,2,546,451,7000000,2019-11-12,2019-09-06,9000000,-22.22,22.249599,114.15371999999999
+370,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block B,1991-11-28,H,3,2,28,7,827,645,7100000,2019-11-11,,0,0.0,22.249513999999998,114.138582
+371,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pokfulam Terrace,Pokfulam Terrace,2003-12-14,M,2,,18,B,688,523,8000000,2019-11-07,2011-06-19,5000000,60.0,22.252177,114.139617
+372,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 2,2001-07-27,L,,,9,C,691,577,6500000,2019-11-07,2001-04-19,1315100,394.26,22.2429705,114.165086
+373,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Seaview Court,Seaview Court,1992-07-01,L,1,,2,B,0,308,4680000,2019-11-05,2012-03-29,2400000,95.0,22.247818,114.15841
+374,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kam Tseuk Mansion,Kam Tseuk Mansion,1980-11-04,L,,,4,B,0,271,4480000,2019-11-05,,0,0.0,22.2494839,114.1489756
+375,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ocean Court,Block 1,1999-09-24,M,,,13,D,586,481,5180000,2019-11-05,1999-05-13,1189800,335.37,22.247282,114.158875
+376,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Tai Court (Block H),1981-12-01,L,2,2,4,6,534,448,6000000,2019-11-04,2016-07-04,4100000,46.34,22.249599,114.15371999999999
+377,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block D,1991-11-28,H,2,2,28,6,515,401,5950000,2019-10-30,2008-01-18,1880000,216.49,22.249568,114.138004
+378,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,H,,,27,K,707,591,7300000,2019-10-25,2014-01-02,3830000,90.60000000000001,22.2427474,114.1656694
+379,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Full Jade Mansion,Full Jade Mansion,1992-06-04,L,2,,8,A,369,256,4600000,2019-10-22,2016-08-15,3060000,50.33,22.24955,114.14792
+380,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block B,1997-11-22,H,3,2,32,4,801,645,6400000,2019-10-21,,0,0.0,22.2509395,114.1503625
+381,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yen Shing Mansion,Yen Shing Mansion,1988-02-26,M,1,,11,B,0,282,3800000,2019-10-20,2018-08-06,3800000,0.0,22.249482999999998,114.14808
+382,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,174-176 Aberdeen Main Road,174-176 Aberdeen Main Road,1968-01-26,,,,5,D,0,283,3200000,2019-10-17,,0,0.0,22.248865,114.15584
+383,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Shun Fung Court,Shun Fung Court,1994-11-03,M,2,,10,B,0,288,3700000,2019-10-17,2001-01-26,1130000,227.43,22.249693,114.148627
+384,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Lee Building,Wah Lee Building,1978-12-22,H,1,,19,A,491,343,4500000,2019-10-17,2010-10-06,1500000,200.0,22.249789999999997,114.15554
+385,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Court,Jumbo Court,1979-05-27,M,2,,14,J,0,413,6280000,2019-10-16,2009-09-15,2250000,179.11,22.24591,114.16466
+386,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Mei Kwong Court (Block P),1981-05-01,L,3,2,3,4,673,576,7000000,2019-10-16,,0,0.0,22.2484557,114.1532859
+387,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pelene Mansion,Pelene Mansion,1979-09-13,M,,,16,D,0,279,4280000,2019-10-16,2010-11-29,1890000,126.46000000000001,22.249132,114.14839
+388,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,L,,,11,F,505,422,5630000,2019-10-15,2001-04-07,974400,477.79,22.2431849,114.164671
+389,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-22,H,2,,33,1,399,304,5820000,2019-10-14,,0,0.0,22.248392,114.15257
+390,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pelene Mansion,Pelene Mansion,1979-09-13,L,,,3,C,0,282,4000000,2019-10-09,2010-01-27,1400000,185.71,22.249132,114.14839
+391,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Lung Court (Block N),1979-12-15,L,2,2,10,1,529,438,6800000,2019-10-08,,0,0.0,22.2482201,114.1539021
+392,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Seaview Court,Seaview Court,1992-07-01,L,1,,1,B,0,308,5380000,2019-10-07,2011-04-07,2430000,121.4,22.247818,114.15841
+393,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block A,1991-11-28,L,2,2,1,5,515,401,5700000,2019-10-04,,0,0.0,22.249516999999997,114.138987
+394,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block B,1980-04-11,L,,,1,8,502,419,5200000,2019-10-04,2010-09-06,1838000,182.92000000000002,22.248625999999998,114.156597
+395,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pokfulam Terrace,Pokfulam Terrace,2003-12-14,L,3,,8,D,916,676,10475000,2019-10-03,2004-03-22,3319000,215.61,22.252177,114.139617
+396,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,2,D,0,171,4606080,2019-10-03,,0,0.0,22.249537999999998,114.14932999999999
+397,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pokfulam Terrace,Pokfulam Terrace,2003-12-14,L,2,,11,B,688,523,8200000,2019-10-02,2015-07-19,6550000,25.19,22.252177,114.139617
+398,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block B,1980-04-11,M,,,10,3,460,384,5750000,2019-10-02,2015-06-12,4480000,28.35,22.248625999999998,114.156597
+399,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block E,1980-08-13,M,,,10,3,460,384,5885000,2019-10-02,2016-06-27,3900000,50.9,22.2502444,114.157092
+400,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hip Sing Mansion,Hip Sing Mansion,1990-03-26,L,2,,3,A,601,425,5450000,2019-09-26,2007-10-15,1380000,294.93,22.247743999999997,114.15616
+401,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Sze Hei Building,Sze Hei Building,1975-05-05,M,2,,14,C,0,316,4500000,2019-09-24,,0,0.0,22.248901,114.148926
+402,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pokfulam Terrace,Pokfulam Terrace,2003-12-14,L,2,,10,B,688,523,7000000,2019-09-24,2008-08-28,3100000,125.81,22.252177,114.139617
+403,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Full Jade Mansion,Full Jade Mansion,1992-06-04,L,2,,2,C,342,236,4180000,2019-09-20,2014-05-16,2398000,74.31,22.24955,114.14792
+404,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block A,1983-03-22,H,2,,26,4,422,325,5900000,2019-09-19,,0,0.0,22.248302,114.15286
+405,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 1,1999-06-29,M,3,,23,B,866,596,8880000,2019-09-18,2004-10-29,2460000,260.98,22.24933,114.14777
+406,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,M,,,24,J,563,470,6130000,2019-09-17,2001-04-23,1149100,433.46000000000004,22.2431849,114.164671
+407,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,1,,9,A,0,255,6145920,2019-09-15,,0,0.0,22.249537999999998,114.14932999999999
+408,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Mei Fai Court (Block Q),1981-05-01,M,3,2,12,2,823,662,8000000,2019-09-13,2010-01-08,4900000,63.27,22.24833,114.153216
+409,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Harbour Mansion,Aberdeen Harbour Mansion,1972-10-05,L,0,,7,J,0,420,5600000,2019-09-13,,0,0.0,22.247442,114.15774
+410,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Yin House ( Block 5 ),1991-11-01,H,,,32,18,0,397,2700000,2019-09-13,,0,0.0,22.250587,114.13845
+411,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block B,1991-11-28,H,2,2,34,3,515,401,3000000,2019-09-10,2010-01-18,2155000,39.21,22.249513999999998,114.138582
+412,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block B,1991-11-28,H,3,2,,10,712,554,6850000,2019-09-09,,0,0.0,22.249513999999998,114.138582
+413,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Tai Court (Block H),1981-12-01,M,2,2,14,2,546,451,9000000,2019-09-06,2014-06-18,4418000,103.71000000000001,22.249599,114.15371999999999
+414,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Yin House ( Block 5 ),1991-11-01,L,,,11,2,0,376,2310000,2019-09-06,,0,0.0,22.250587,114.13845
+415,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,World Fair Court,World Fair Court,1978-03-20,,,,28,E,0,360,5480000,2019-09-04,2007-11-08,1170000,368.38,22.252602,114.139046
+416,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pelene Mansion,Pelene Mansion,1979-09-13,H,,,24,D,0,279,4700000,2019-09-02,,0,0.0,22.249132,114.14839
+417,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 2,2001-07-27,H,,,37,H,691,577,7680000,2019-08-28,2001-04-19,1469800,422.52,22.2429705,114.165086
+418,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block C,1991-11-28,H,3,2,26,7,712,554,7000000,2019-08-26,,0,0.0,22.2493441,114.1380175
+419,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Tsing Court (Block K),1979-12-15,M,2,2,18,6,526,432,6380000,2019-08-21,,0,0.0,22.2487555,114.153842
+420,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Man King Building,Man King Building,1974-06-27,L,3,,8,A,735,572,6600000,2019-08-19,,0,0.0,22.249859999999998,114.14791
+421,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block A,1997-11-22,M,2,2,14,5,505,407,5330000,2019-08-19,2010-06-28,1600000,233.13,22.2511495,114.1507264
+422,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Tsung Man Court,Tsung Man Court,1976-01-06,,,,6,A,0,328,3900000,2019-08-18,2010-05-10,1725000,126.09,22.249945,114.15473
+423,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-06,L,1,,5,D,376,254,4000000,2019-08-18,2014-08-18,2900000,37.93,22.249181999999998,114.14857
+424,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Albert House,Albert House,1973-08-29,H,,,26,A,0,407,1800000,2019-08-15,1996-09-26,1340000,34.33,22.248547,114.15495
+425,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pelene Mansion,Pelene Mansion,1979-09-13,H,,,21,F,0,287,4300000,2019-08-15,2017-07-13,3900000,10.26,22.249132,114.14839
+426,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block F,1981-03-26,M,,,14,3,460,384,5850000,2019-08-15,2006-04-28,1185000,393.67,22.250521,114.1566445
+427,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 1,2012-04-25,L,3,,5,B,1799,1421,44380000,2019-08-13,2012-03-28,34907000,27.14,22.246078,114.16319899999999
+428,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Wu Court (Block D),1979-12-15,H,2,2,26,3,526,432,7080000,2019-08-13,2014-12-19,5060000,39.92,22.248768,114.15443
+429,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kong Kai Building,Kong Kai Building,1990-01-25,M,,,10,B,525,344,5680000,2019-08-13,2015-06-04,4350000,30.57,22.2496344,114.1554975
+430,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 2,1999-06-30,M,2,,25,C,688,479,7800000,2019-08-09,2016-08-03,5700000,36.84,22.249147,114.14795
+431,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kin Fai Building,Kin Fai Building,1979-11-19,H,2,,16,B,0,274,4720000,2019-08-08,2010-11-04,1645000,186.93,22.247944,114.15877
+432,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 1,1985-03-20,L,2,,3,F,412,295,5430000,2019-08-06,2010-04-12,1780000,205.06,22.244982999999998,114.166818
+433,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hoi Fai Mansion,Hoi Fai Mansion,1992-09-20,M,3,,15,B,639,459,7900000,2019-08-06,2005-10-28,1800000,338.89,22.247322,114.157524
+434,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kin Fai Building,Kin Fai Building,1979-11-19,L,2,,7,A,0,287,4000000,2019-08-05,2008-01-27,900000,344.44,22.247944,114.15877
+435,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,166-168 Aberdeen Main Road,166-168 Aberdeen Main Road,1976-03-02,,,,2,A,0,393,3500000,2019-08-04,,0,0.0,,
+436,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kong Kai Building,Kong Kai Building,1990-01-24,H,,,19,A,0,355,5750000,2019-08-04,,0,0.0,22.2496344,114.1554975
+437,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Shing Court (Block F),1982-01-07,H,2,2,24,4,572,485,7000000,2019-08-02,2004-05-22,1330000,426.32,22.249378,114.154034
+438,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Harbour Mansion,Aberdeen Harbour Mansion,1972-10-05,M,0,,11,H,0,423,6000000,2019-08-01,2001-05-25,740000,710.8100000000001,22.247442,114.15774
+439,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bayshore Apartments,Bayshore Apartments,2000-10-20,H,3,,33,A,790,567,9320000,2019-07-29,2002-06-22,2450000,280.41,22.2484614,114.151742
+440,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,May Court,May Court,1996-11-08,M,2,,15,B,485,278,4930000,2019-07-25,,0,0.0,22.247571999999998,114.156193
+441,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,H,,,34,H,691,577,7500000,2019-07-24,2001-03-31,1507500,397.51,22.2427474,114.1656694
+442,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Chun Court (Block A),1979-12-15,H,2,2,25,2,529,438,6450000,2019-07-24,2014-09-03,4880000,32.17,22.24826,114.154434
+443,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Harrow Mansion,Harrow Mansion,1994-01-24,M,,,10,,0,462,7030000,2019-07-22,2015-07-16,5350000,31.400000000000002,22.248741,114.155871
+444,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Court,Jumbo Court,1979-05-27,H,2,,17,F,0,413,6300000,2019-07-21,,0,0.0,22.24591,114.16466
+445,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pokfulam Terrace,Pokfulam Terrace,2003-12-14,M,2,,21,B,688,523,8400000,2019-07-16,2015-06-11,6900000,21.740000000000002,22.252177,114.139617
+446,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Cheung Court (Block G),1982-01-07,L,2,2,4,3,534,448,6380000,2019-07-16,2010-08-05,2150000,196.74,22.24957,114.1541106
+447,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,World Fair Court,World Fair Court,1978-03-20,,,,32,B,0,400,3446668,2019-07-14,,0,0.0,22.252602,114.139046
+448,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 2,2012-04-25,M,3,,19,C,1402,1120,35000000,2019-07-12,2011-11-29,30206000,15.870000000000001,22.2460499,114.1633996
+449,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 2,2001-07-27,L,,,10,C,691,577,7200000,2019-07-11,2001-04-18,1323200,444.14,22.2429705,114.165086
+450,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Wo Building,Block B,1978-05-19,L,2,,7,2,414,339,4660000,2019-07-11,,0,0.0,22.249979,114.14865
+451,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,L,,,13,K,707,591,7100000,2019-07-08,2001-04-07,1364300,420.41,22.2427474,114.1656694
+452,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pokfulam Terrace,Pokfulam Terrace,2003-12-14,H,2,,26,C,688,523,7800000,2019-07-07,2010-08-02,4300000,81.4,22.252177,114.139617
+453,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-06,,1,,25,D,376,254,4480000,2019-07-04,2009-06-21,1275000,251.37,22.249181999999998,114.14857
+454,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,H,2,,42,C,747,522,9000000,2019-07-04,2009-12-16,6751800,33.3,22.2485758,114.1523672
+455,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Full Jade Mansion,Full Jade Mansion,1992-06-04,L,2,,6,C,342,236,4250000,2019-07-02,2007-11-14,938000,353.09000000000003,22.24955,114.14792
+456,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Chu Court (Block B),1979-12-15,H,2,2,24,2,529,438,7050000,2019-06-28,2009-11-19,2470000,185.43,22.248476999999998,114.154547
+457,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 2,2012-04-25,M,2,,21,C,1165,938,31000000,2019-06-25,2011-12-13,25900000,19.69,22.2460499,114.1633996
+458,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block C,1991-11-28,M,3,2,17,6,712,554,6280000,2019-06-25,,0,0.0,22.2493441,114.1380175
+459,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Wo Building,Block A,1978-05-19,M,2,,12,7,414,339,4850000,2019-06-24,,0,0.0,22.250114,114.14862
+460,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Chu Court (Block B),1979-12-15,L,2,2,4,2,529,438,6538000,2019-06-21,2012-06-29,3280000,99.33,22.248476999999998,114.154547
+461,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Lai House ( Block 1 ),1990-11-01,H,,,32,3,0,598,4500000,2019-06-19,,0,0.0,22.249586,114.14065
+462,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,World Fair Court,World Fair Court,1978-03-20,L,3,,7,G,0,479,6080000,2019-06-18,2001-07-06,1000000,508.0,22.252602,114.139046
+463,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,13 Ka Wo Street,13 Ka Wo Street,1956-05-21,,,,3,,0,608,3900000,2019-06-17,,0,0.0,,
+464,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ngan Fung Building,Ngan Fung Building,1988-07-20,L,2,,7,A,572,382,5850000,2019-06-13,2012-03-08,2938000,99.12,22.24721,114.15673
+465,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,H,,,31,A,707,591,8080000,2019-06-13,2001-04-09,1507200,436.09000000000003,22.2427474,114.1656694
+466,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Comfort Centre,Comfort Centre,1992-08-06,M,2,,14,F,519,386,5700000,2019-06-12,2010-08-18,2450000,132.65,22.248713,114.156154
+467,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Sze Hei Building,Sze Hei Building,1975-05-05,M,2,,8,A,0,332,3900000,2019-06-11,1997-05-01,1238000,215.02,22.248901,114.148926
+468,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block B,1991-11-28,L,2,2,1,6,515,401,4700000,2019-06-11,,0,0.0,22.249513999999998,114.138582
+469,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 4,2001-07-27,L,,,10,F,505,422,5698000,2019-06-10,2001-04-12,1117700,409.8,22.2423776,114.1659966
+470,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yen Shing Mansion,Yen Shing Mansion,1988-02-26,L,2,,4,A,0,287,1150000,2019-06-09,,0,0.0,22.249482999999998,114.14808
+471,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 4,2001-07-27,M,,,21,B,563,470,5788000,2019-06-06,2001-03-16,1195500,384.15000000000003,22.2423776,114.1659966
+472,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 8,2012-04-25,M,3,,19,B,1619,1270,44380000,2019-06-05,2011-11-10,30308000,46.43,22.2457622,114.164081
+473,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,On Tai Building,On Tai Building,1984-02-01,H,,,21,C,0,273,5130000,2019-06-05,2015-10-23,3960000,29.55,22.247829,114.155528
+474,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 1,1985-03-20,H,2,,22,C,416,309,5000000,2019-06-03,,0,0.0,22.244982999999998,114.166818
+475,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block B,1997-11-22,L,2,2,3,10,505,407,3600000,2019-05-31,,0,0.0,22.2509395,114.1503625
+476,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 1,1995-10-06,L,3,2,6,A,718,590,6600000,2019-05-31,,0,0.0,22.244434,114.165901
+477,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Comfort Centre,Comfort Centre,1992-08-06,L,3,,7,B,674,511,8420000,2019-05-30,2011-11-24,3760000,123.94,22.248713,114.156154
+478,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Lung Court (Block N),1979-12-15,M,2,2,18,2,529,438,6800000,2019-05-30,2010-11-18,2860000,137.76,22.2482201,114.1539021
+479,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,L,0,,10,F,0,214,4260000,2019-05-30,2015-12-15,3682000,15.700000000000001,22.249364999999997,114.14948
+480,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Comfort Centre,Comfort Centre,1992-08-07,L,2,,2,D,504,375,5950000,2019-05-30,2013-10-07,3700000,60.81,22.248713,114.156154
+481,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Court,Jumbo Court,1979-05-27,M,2,,13,J,0,413,6330000,2019-05-28,2016-03-29,1590000,298.11,22.24591,114.16466
+482,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Sin House ( Block 4 ),1991-11-01,H,,,26,18,0,397,3180000,2019-05-28,,0,0.0,22.25037,114.13913
+483,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,M,1,,17,C,0,254,5585000,2019-05-27,2015-12-22,5025000,11.14,22.249364999999997,114.14948
+484,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Yin House ( Block 5 ),1991-11-01,M,,,20,6,0,385,2430000,2019-05-27,,0,0.0,22.250587,114.13845
+485,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Shing Court (Block F),1982-01-07,M,2,2,11,4,572,485,6500000,2019-05-27,1999-09-11,1700000,282.35,22.249378,114.154034
+486,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block A,1997-11-22,M,3,2,18,2,693,559,5600000,2019-05-27,,0,0.0,22.2511495,114.1507264
+487,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kam Fung Building,Kam Fung Building,1986-04-29,M,,,19,E,530,421,6780000,2019-05-26,2013-02-28,4350000,55.86,22.248493,114.15546
+488,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Lung Court (Block N),1979-12-15,M,3,2,11,5,666,572,8860000,2019-05-24,,0,0.0,22.2482201,114.1539021
+489,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 2,1985-03-20,H,2,,19,D,452,329,6290000,2019-05-23,2014-02-24,4200000,49.76,22.245206,114.166945
+490,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,M,,,23,H,691,577,7250000,2019-05-23,2014-09-15,4800000,51.04,22.2427474,114.1656694
+491,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block B,1991-11-28,M,2,2,16,1,515,401,6000000,2019-05-23,2000-04-18,1400000,328.57,22.249513999999998,114.138582
+492,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 2,2001-07-27,M,,,14,J,563,470,5820000,2019-05-22,2001-04-24,1102800,427.75,22.2429705,114.165086
+493,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Shan Court (Block C),1979-12-15,L,2,2,10,2,529,438,6650000,2019-05-22,2004-04-27,1450000,358.62,22.248601,114.1545666
+494,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Yin House ( Block 5 ),1991-11-01,L,,,9,10,0,407,2750000,2019-05-22,,0,0.0,22.250587,114.13845
+495,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kwun Hoi Court (Block S),1981-06-29,M,3,2,19,2,915,721,12000000,2019-05-21,2012-04-26,7200000,66.67,22.247946,114.154171
+496,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Wu Court (Block D),1979-12-15,H,2,2,25,2,529,438,7000000,2019-05-20,,0,0.0,22.248768,114.15443
+497,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pelene Mansion,Pelene Mansion,1979-09-13,L,,,3,E,0,285,4280000,2019-05-17,2008-11-06,700000,511.43,22.249132,114.14839
+498,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Lung Court (Block N),1979-12-15,H,3,2,20,5,666,572,9250000,2019-05-16,2005-07-11,800000,1056.25,22.2482201,114.1539021
+499,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block D,1980-08-13,M,,,10,5,502,419,5930000,2019-05-16,2015-07-22,4580000,29.48,22.2499475,114.1569275
+500,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block A,1983-03-22,M,2,,17,1,391,304,5450000,2019-05-15,2000-01-10,1245000,337.75,22.248302,114.15286
+501,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Wo Building,Block B,1978-05-19,M,2,,16,3,414,339,5300000,2019-05-15,,0,0.0,22.249979,114.14865
+502,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,L,,,8,C,691,577,6600000,2019-05-15,2001-04-11,1304900,405.79,22.2427474,114.1656694
+503,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Fu Court (Block E),1982-01-07,L,2,2,9,3,534,448,6438000,2019-05-15,2011-04-28,3090000,108.35000000000001,22.249264,114.154165
+504,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 1,1985-03-20,H,2,,20,E,417,305,5600000,2019-05-14,2010-02-08,1830000,206.01,22.244982999999998,114.166818
+505,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,L,,,8,A,707,591,9780000,2019-05-14,2009-09-16,2880000,239.58,22.2431849,114.164671
+506,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block A,1997-11-22,L,2,2,6,3,505,407,3400000,2019-05-10,2007-03-12,820000,314.63,22.2511495,114.1507264
+507,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Wu Court (Block D),1979-12-15,H,2,2,24,2,529,438,7000000,2019-05-10,1996-10-16,2022800,246.05,22.248768,114.15443
+508,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block A,1997-11-22,L,2,2,8,8,505,407,3800000,2019-05-10,,0,0.0,22.2511495,114.1507264
+509,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-22,L,2,,8,5,589,450,7330000,2019-05-09,2012-08-15,2000000,266.5,22.248392,114.15257
+510,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block D,1980-08-13,M,,,16,4,502,419,5800000,2019-05-08,,0,0.0,22.2499475,114.1569275
+511,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block A,1983-03-22,L,2,,12,8,422,325,5530000,2019-05-07,2011-01-03,2200000,151.36,22.248302,114.15286
+512,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 2,2001-07-27,L,,,4,E,505,422,5380000,2019-05-07,2013-07-24,3150000,70.79,22.2429705,114.165086
+513,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Court,Jumbo Court,1979-05-27,M,2,,11,J,0,413,6500000,2019-05-06,2011-12-19,3380000,92.31,22.24591,114.16466
+514,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 1,1985-03-20,L,2,,9,C,416,309,5480000,2019-05-06,2015-02-25,4030000,35.980000000000004,22.244982999999998,114.166818
+515,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ocean Court,Block 3,1999-09-24,L,,,3,D,720,592,6000000,2019-05-06,1999-05-17,1296900,362.64,22.247508999999997,114.15953
+516,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Yin House ( Block 5 ),1991-11-01,M,,,16,20,0,385,2580000,2019-05-06,,0,0.0,22.250587,114.13845
+517,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,May Court,May Court,1996-11-09,L,2,,10,B,485,278,5188000,2019-05-06,2001-04-07,1423000,264.58,22.247571999999998,114.156193
+518,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,M,,,16,D,689,576,7750000,2019-05-06,2001-03-31,1600500,384.22,22.2427474,114.1656694
+519,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block B,1997-11-22,H,3,2,24,9,801,645,6166000,2019-05-03,,0,0.0,22.2509395,114.1503625
+520,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 8,2012-04-24,H,3,,28,A,1703,1342,46800000,2019-05-01,2011-11-02,35858000,30.51,22.2457622,114.164081
+521,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block A,1983-03-22,H,2,,28,2,579,440,7380000,2019-04-29,2004-09-23,690000,969.57,22.248302,114.15286
+522,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block D,1980-08-13,H,,,21,8,502,419,5250000,2019-04-29,2010-07-12,1000000,425.0,22.2499475,114.1569275
+523,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block E,1980-08-13,L,,,9,5,502,419,5860000,2019-04-26,2010-06-03,2160000,171.3,22.2502444,114.157092
+524,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,1,,17,B,0,265,6792000,2019-04-26,,0,0.0,22.249537999999998,114.14932999999999
+525,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 2,2001-07-27,M,,,17,F,505,422,5500000,2019-04-26,2001-04-11,1145100,380.31,22.2429705,114.165086
+526,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block B,1991-11-28,H,3,2,30,10,712,554,7230000,2019-04-26,,0,0.0,22.249513999999998,114.138582
+527,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-22,H,2,,26,7,589,454,7680000,2019-04-25,1997-08-12,3200000,140.0,22.248392,114.15257
+528,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 1,1985-03-20,M,2,,18,C,416,309,5500000,2019-04-25,,0,0.0,22.244982999999998,114.166818
+529,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block D,1980-08-13,H,,,19,4,502,419,5480000,2019-04-25,1997-05-16,2180000,151.38,22.2499475,114.1569275
+530,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,M,,,17,F,505,422,5600000,2019-04-25,2001-04-28,1061900,427.36,22.2427474,114.1656694
+531,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pelene Mansion,Pelene Mansion,1979-09-13,M,,,12,A,0,279,4380000,2019-04-25,,0,0.0,22.249132,114.14839
+532,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 3,2012-04-25,H,,,31,B,1755,1388,52000000,2019-04-25,2011-12-14,37708000,37.9,22.2460234,114.1635949
+533,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block B,1980-04-11,M,,,18,2,460,384,6200000,2019-04-24,,0,0.0,22.248625999999998,114.156597
+534,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pelene Mansion,Pelene Mansion,1979-09-13,H,,,24,E,0,285,4430000,2019-04-24,,0,0.0,22.249132,114.14839
+535,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 1,1995-10-06,M,3,2,19,D,718,590,6630000,2019-04-24,,0,0.0,22.244434,114.165901
+536,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bo Man Lau,Bo Man Lau,1971-07-15,H,,,5,C,0,287,5692000,2019-04-23,2013-02-06,1860000,206.02,,
+537,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Wo Building,Block A,1978-05-19,M,2,,16,7,414,339,4600000,2019-04-23,2001-02-13,1090000,322.02,22.250114,114.14862
+538,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block D,1980-08-13,M,,,15,2,460,384,5480000,2019-04-18,,0,0.0,22.2499475,114.1569275
+539,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Tin Court (Block M),1979-12-15,L,2,2,10,2,529,438,6450000,2019-04-18,,0,0.0,22.248433,114.15373
+540,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Tin Court (Block M),1979-12-15,M,3,2,12,4,666,572,8550000,2019-04-18,2012-09-14,4350000,96.55,22.248433,114.15373
+541,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bayshore Apartments,Bayshore Apartments,2000-10-19,L,3,,9,C,673,471,6900000,2019-04-17,1998-03-12,3651480,88.96000000000001,22.2484614,114.151742
+542,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,L,1,,7,C,0,254,5350000,2019-04-17,2015-12-18,4860000,10.08,22.249364999999997,114.14948
+543,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ever Secure Mansion,Ever Secure Mansion,1986-01-22,H,,,15,B,0,330,4100000,2019-04-16,2011-05-29,2590000,58.300000000000004,22.249817,114.1485
+544,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,World Fair Court,World Fair Court,1978-03-20,M,,,13,B,0,287,3800000,2019-04-16,2010-12-16,1430000,165.73,22.252602,114.139046
+545,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,H,,,27,A,707,591,6980000,2019-04-16,2012-08-24,3800000,83.68,22.2427474,114.1656694
+546,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 1,1999-06-30,H,3,,37,B,866,596,9980000,2019-04-16,2013-06-10,6640000,50.300000000000004,22.24933,114.14777
+547,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block D,1980-08-13,H,,,27,1,502,419,5870000,2019-04-16,2010-11-15,2398800,144.71,22.2499475,114.1569275
+548,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block F,1981-03-26,H,,,21,4,502,419,5600000,2019-04-15,1999-07-22,1600000,250.0,22.250521,114.1566445
+549,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 2,2001-07-27,H,,,28,H,691,577,9800000,2019-04-15,2001-04-11,1447600,576.98,22.2429705,114.165086
+550,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Court,Jumbo Court,1979-05-27,H,2,,15,K,0,401,6980000,2019-04-14,2015-02-05,4980000,40.160000000000004,22.24591,114.16466
+551,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kam Fung Building,Kam Fung Building,1986-04-29,,,,26,D,530,421,6700000,2019-04-14,2009-04-22,2168000,209.04,22.248493,114.15546
+552,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 3,2012-04-25,L,3,,7,A,1603,1266,38000000,2019-04-12,2012-07-20,31332000,21.28,22.2460234,114.1635949
+553,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Wo Building,Block B,1978-05-19,H,,,25,3,398,322,5130000,2019-04-12,2014-07-21,3250000,57.85,22.249979,114.14865
+554,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ocean Court,Block 3,1999-09-24,L,,,3,E,524,431,4600000,2019-04-12,2010-09-20,1500000,206.67000000000002,22.247508999999997,114.15953
+555,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pokfulam Terrace,Pokfulam Terrace,2003-12-14,L,3,,11,D,916,676,9800000,2019-04-11,2014-10-28,8300000,18.07,22.252177,114.139617
+556,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bo Man Lau,Bo Man Lau,1971-07-15,L,,,2,A,0,287,6300000,2019-04-11,,0,0.0,,
+557,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bo Man Lau,Bo Man Lau,1971-07-15,M,,,3,B,0,280,6200000,2019-04-11,,0,0.0,,
+558,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bo Man Lau,Bo Man Lau,1971-07-15,L,,,1,C,0,287,7000000,2019-04-11,,0,0.0,,
+559,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bo Man Lau,Bo Man Lau,1971-07-15,L,,,2,D,0,280,4788000,2019-04-11,,0,0.0,,
+560,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,L,0,,7,F,0,214,4000000,2019-04-11,2015-12-15,3605000,10.96,22.249364999999997,114.14948
+561,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 4,2001-07-27,L,,,9,E,505,422,5150000,2019-04-11,2001-05-05,1030100,399.95,22.2423776,114.1659966
+562,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bo Man Lau,Bo Man Lau,1971-07-15,L,,,1,B,0,280,9653000,2019-04-10,,0,0.0,,
+563,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Tai Lok House,Tai Lok House,1971-03-22,,,,4,4,0,324,3000000,2019-04-10,2003-08-21,300000,900.0,22.249713999999997,114.14819
+564,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bo Man Lau,Bo Man Lau,1971-07-15,M,,,3,C,0,287,4907700,2019-04-10,,0,0.0,,
+565,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bo Man Lau,Bo Man Lau,1971-07-15,L,,,2,C,0,287,4914500,2019-04-10,,0,0.0,,
+566,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bo Man Lau,Bo Man Lau,1971-07-15,H,,,5,B,0,280,6088000,2019-04-09,,0,0.0,,
+567,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bo Man Lau,Bo Man Lau,1971-07-15,M,,,4,A,0,287,6380000,2019-04-09,,0,0.0,,
+568,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bo Man Lau,Bo Man Lau,1971-07-15,M,,,4,D,0,280,4788000,2019-04-09,,0,0.0,,
+569,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bo Man Lau,Bo Man Lau,1971-07-15,H,,,5,D,0,280,5580000,2019-04-09,,0,0.0,,
+570,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bo Man Lau,Bo Man Lau,1971-07-15,H,,,5,A,0,287,5692000,2019-04-09,,0,0.0,,
+571,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bo Man Lau,Bo Man Lau,1971-07-15,M,,,4,C,0,287,4907700,2019-04-09,,0,0.0,,
+572,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,On Tai Building,On Tai Building,1984-01-31,H,,,18,A,0,278,4750000,2019-04-08,2004-01-26,900000,427.78000000000003,22.247829,114.155528
+573,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Building,Jumbo Building,1988-05-14,H,1,,23,C,0,240,4860000,2019-04-08,2012-04-02,2680000,81.34,22.249475,114.154884
+574,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,H,,,38,C,691,577,7300000,2019-04-04,2001-04-04,1459600,400.14,22.2431849,114.164671
+575,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Port Centre,Port Centre,1989-07-25,L,2,,5,B,560,446,6000000,2019-04-04,2013-12-18,4000000,50.0,22.249057999999998,114.15501
+576,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,H,,,29,A,707,591,7380000,2019-04-03,2001-03-28,1573700,368.96,22.2431849,114.164671
+577,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block F,1981-03-26,L,,,2,7,460,384,5120000,2019-04-03,2015-07-03,3300000,55.15,22.250521,114.1566445
+578,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-06,,2,,23,B,603,403,6150000,2019-04-01,,0,0.0,22.249181999999998,114.14857
+579,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,L,3,,12,B,964,684,10370000,2019-04-01,2011-03-18,6380000,62.54,22.2485758,114.1523672
+580,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bayshore Apartments,Bayshore Apartments,2000-10-19,L,3,,17,D,791,567,7980000,2019-03-31,2007-11-12,3060000,160.78,22.2484614,114.151742
+581,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 2,2001-07-27,M,,,15,D,689,576,7180000,2019-03-29,2001-03-24,1541700,365.72,22.2429705,114.165086
+582,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Chun Court (Block A),1979-12-15,M,2,2,16,1,529,438,6350000,2019-03-29,2004-06-23,1430000,344.06,22.24826,114.154434
+583,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,On Fai Building,On Fai Building,1977-04-21,L,2,,5,E,0,293,4180000,2019-03-27,2004-06-16,785000,432.48,22.248299,114.15618
+584,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pelene Mansion,Pelene Mansion,1979-09-13,H,,,24,F,0,287,4200000,2019-03-27,2014-11-03,3303000,27.16,22.249132,114.14839
+585,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Lung Court (Block N),1979-12-15,M,2,2,18,3,526,432,6700000,2019-03-26,2009-05-08,2420000,176.86,22.2482201,114.1539021
+586,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-06,L,2,,7,F,547,354,5300000,2019-03-25,,0,0.0,22.249181999999998,114.14857
+587,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Mei Kwong Court (Block P),1981-05-01,L,3,2,9,6,702,590,8280000,2019-03-25,2007-10-11,2520000,228.57,22.2484557,114.1532859
+588,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 6,2012-04-25,L,,,5,A,2323,1807,59000000,2019-03-25,2011-11-08,42976000,37.29,22.245793,114.1638696
+589,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 6,2012-04-24,L,,,9,A,2323,1858,62500000,2019-03-21,2011-11-02,44648000,39.980000000000004,22.245793,114.1638696
+590,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Sin House ( Block 4 ),1991-11-01,H,,,26,13,0,376,2200000,2019-03-21,,0,0.0,22.25037,114.13913
+591,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen House,Aberdeen House,1962-03-27,H,,,7,6,0,404,3250000,2019-03-20,,0,0.0,22.249408,114.155081
+592,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 2,1999-06-29,L,2,,8,D,688,479,6850000,2019-03-19,2014-06-15,5500000,24.55,22.249147,114.14795
+593,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Comfort Centre,Comfort Centre,1992-08-06,H,2,,22,A,519,386,5880000,2019-03-18,1997-04-14,2690000,118.59,22.248713,114.156154
+594,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,M,,,21,A,707,591,6980000,2019-03-18,2001-03-31,1540100,353.22,22.2431849,114.164671
+595,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Port Centre,Port Centre,1989-07-24,L,2,,6,E,502,392,5980000,2019-03-13,2007-03-29,1650000,262.42,22.249057999999998,114.15501
+596,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block B,1980-04-11,H,,,27,7,460,384,5500000,2019-03-11,,0,0.0,22.248625999999998,114.156597
+597,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jing Hui Garden,Block 2 (Mid),1989-02-23,L,3,,5,E,0,478,5800000,2019-02-26,2011-02-22,2850000,103.51,22.248205,114.159584
+598,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,House 8,2012-04-24,,,,,,5173,3524,218000000,2019-02-26,,0,0.0,22.2457,114.16385
+599,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ocean Court,Block 2,1999-09-24,H,,,31,B,524,431,5300000,2019-02-26,2010-05-25,1700000,211.76,22.247381,114.15921
+600,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block B,1991-11-28,M,2,2,23,3,515,401,4680000,2019-02-22,2007-05-05,1600000,192.5,22.249513999999998,114.138582
+601,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 1,1985-03-21,M,2,,18,A,500,363,5928888,2019-02-20,2003-11-03,1028000,476.74,22.244982999999998,114.166818
+602,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,L,,,9,J,563,470,5080000,2019-02-20,2001-04-23,1067300,375.97,22.2431849,114.164671
+603,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 1,1995-10-05,H,3,2,26,F,588,483,5550000,2019-02-18,2014-12-11,3550000,56.34,22.244434,114.165901
+604,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Tsung Man Court,Tsung Man Court,1976-01-06,,,,4,B,0,328,3600000,2019-02-18,2009-02-18,953000,277.75,22.249945,114.15473
+605,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Hau House ( Block 2 ),1990-11-01,M,,,18,18,0,443,2700000,2019-02-15,,0,0.0,22.250135,114.140236
+606,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Hau House ( Block 2 ),1990-11-01,L,,,5,15,0,598,4398000,2019-02-12,,0,0.0,22.250135,114.140236
+607,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kwun Chiu Court (Block T),1981-06-29,L,3,2,9,1,915,721,10000000,2019-02-08,,0,0.0,22.247856,114.154359
+608,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,5-9 Tin Wan Street,Block B,1959-10-02,,,,5,,0,485,3935000,2019-02-03,,0,0.0,,
+609,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yee Tiam Building,Yee Tiam Building,1979-04-07,M,2,,15,B,427,297,4200000,2019-01-25,2008-07-09,1200000,250.0,22.249592,114.14885
+610,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,L,3,,11,B,964,684,9850000,2019-01-25,2015-03-02,7780000,26.61,22.2485758,114.1523672
+611,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ocean Court,Block 3,1999-09-24,M,,,22,A,720,592,6450000,2019-01-25,1999-05-17,1440800,347.67,22.247508999999997,114.15953
+612,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Court,Jumbo Court,1979-05-27,M,2,,13,D,0,413,5990000,2019-01-24,2015-09-17,5280000,13.450000000000001,22.24591,114.16466
+613,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,May Court,May Court,1996-11-09,M,2,,11,B,485,278,4700000,2019-01-24,2013-05-22,3160000,48.730000000000004,22.247571999999998,114.156193
+614,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 1,1999-06-29,M,2,,26,C,688,479,6690000,2019-01-23,2011-04-03,3980000,68.09,22.24933,114.14777
+615,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Shan Court (Block C),1979-12-15,M,2,2,16,3,526,432,5850000,2019-01-23,2011-03-29,3330000,75.68,22.248601,114.1545666
+616,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-07,L,1,,8,E,376,254,4230000,2019-01-21,2009-01-06,1050000,302.86,22.249181999999998,114.14857
+617,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Yin House ( Block 5 ),1991-11-01,M,,,22,21,0,443,2680000,2019-01-18,,0,0.0,22.250587,114.13845
+618,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ocean Court,Block 3,1999-09-24,M,,,22,F,720,592,8000000,2019-01-17,1999-06-11,1333000,500.15000000000003,22.247508999999997,114.15953
+619,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 1,1995-10-05,H,3,2,25,K,524,431,4520000,2019-01-16,,0,0.0,22.244434,114.165901
+620,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pelene Mansion,Pelene Mansion,1979-09-13,H,,,23,D,0,279,3900000,2019-01-15,,0,0.0,22.249132,114.14839
+621,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kwun King Court (Block U),1981-06-29,L,3,2,11,2,915,721,11500000,2019-01-14,2007-12-12,3200000,259.38,22.247920999999998,114.154551
+622,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block C,1991-11-28,L,3,2,12,7,712,554,6200000,2019-01-14,,0,0.0,22.2493441,114.1380175
+623,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Full Jade Mansion,Full Jade Mansion,1992-06-04,H,2,,19,B,342,236,3900000,2019-01-11,2013-03-06,2480000,57.26,22.24955,114.14792
+624,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Man King Building,Man King Building,1974-06-27,L,3,,10,C,735,572,6000000,2019-01-10,2009-05-17,1980000,203.03,22.249859999999998,114.14791
+625,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 2,1995-10-06,M,3,2,20,F,588,483,5200000,2019-01-10,2002-08-05,1080000,381.48,22.244878,114.1664285
+626,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ocean Court,Block 3,1999-09-24,L,,,9,F,720,592,6300000,2019-01-10,1999-06-10,1264100,398.38,22.247508999999997,114.15953
+627,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block B,1991-11-28,H,2,2,32,6,515,401,4650000,2019-01-09,,0,0.0,22.249513999999998,114.138582
+628,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 1,1985-03-20,H,2,,19,B,476,354,5900000,2019-01-07,2012-02-16,3000000,96.67,22.244982999999998,114.166818
+629,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Tin Court (Block M),1979-12-15,H,2,2,23,1,529,438,6000000,2019-01-07,,0,0.0,22.248433,114.15373
+630,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kin Fai Building,Kin Fai Building,1979-11-20,L,2,,7,E,0,274,3950000,2019-01-04,,0,0.0,22.247944,114.15877
+631,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block B,1991-11-28,L,2,2,2,6,515,401,4820000,2019-01-02,2006-04-13,1260000,282.54,22.249513999999998,114.138582
+632,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Shing Court (Block F),1982-01-07,M,2,2,13,4,572,485,5000000,2018-12-28,1997-06-26,2768000,80.64,22.249378,114.154034
+633,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 2,2001-07-27,M,,,17,D,689,576,6880000,2018-12-27,2007-03-30,1935000,255.56,22.2429705,114.165086
+634,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block E,1980-08-13,M,,,14,7,460,384,5160000,2018-12-24,2014-08-12,3999000,29.03,22.2502444,114.157092
+635,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kong Kai Building,Kong Kai Building,1990-01-25,H,,,21,B,525,355,5000000,2018-12-21,2007-03-30,1498000,233.78,22.2496344,114.1554975
+636,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Shan Court (Block C),1979-12-15,M,3,2,11,5,666,572,7600000,2018-12-21,,0,0.0,22.248601,114.1545666
+637,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block A,1983-03-22,L,2,,6,6,589,450,2000000,2018-12-20,2018-03-28,2000000,0.0,22.248302,114.15286
+638,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Siu Kwan Mansion,Siu Kwan Mansion,1993-10-28,H,,,19,C,0,306,5900000,2018-12-16,2010-12-16,2420000,143.8,22.248939999999997,114.15614
+639,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block C,1980-08-13,H,,,24,2,460,384,4838000,2018-12-14,2009-07-15,1835000,163.65,22.2496459,114.156745
+640,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Cheung Court (Block G),1982-01-07,M,3,2,14,5,655,559,7380000,2018-12-12,2010-09-16,3250000,127.08,22.24957,114.1541106
+641,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Lai House ( Block 1 ),1990-11-01,H,,,33,11,0,376,2820000,2018-12-11,,0,0.0,22.249586,114.14065
+642,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 6,2012-04-25,M,,,16,B,2155,1703,53990000,2018-12-06,2011-11-03,40301000,33.97,22.245793,114.1638696
+643,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block E,1980-08-13,H,,,23,3,460,384,5500000,2018-12-04,,0,0.0,22.2502444,114.157092
+644,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kian On House,Kian On House,1978-11-21,,,,5,A,0,302,1400000,2018-11-29,,0,0.0,,
+645,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Yin House ( Block 5 ),1991-11-01,H,,,31,19,0,407,2800000,2018-11-29,,0,0.0,22.250587,114.13845
+646,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Full Jade Mansion,Full Jade Mansion,1992-06-04,M,2,,16,B,342,236,4350000,2018-11-22,,0,0.0,22.24955,114.14792
+647,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,M,3,,26,B,964,684,10200000,2018-11-19,2009-06-11,6100000,67.21000000000001,22.2485758,114.1523672
+648,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,L,,,3,F,505,422,3850000,2018-11-15,2001-03-27,926400,315.59000000000003,22.2431849,114.164671
+649,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Wing Court (Block I),1981-12-01,H,2,2,26,4,572,485,6500000,2018-11-14,2010-10-14,3030000,114.52,22.249413,114.153846
+650,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Yin House ( Block 5 ),1991-11-01,H,,,32,15,0,443,3100000,2018-11-14,,0,0.0,22.250587,114.13845
+651,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Yin House ( Block 5 ),1991-11-01,H,,,33,6,0,385,2680000,2018-11-13,,0,0.0,22.250587,114.13845
+652,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pokfulam Terrace,Pokfulam Terrace,2003-12-14,H,3,,31,A,916,676,12000000,2018-11-12,2005-01-25,4534200,164.66,22.252177,114.139617
+653,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jing Hui Garden,Block 1 (Mid),1989-02-23,M,2,,15,B,0,406,5500000,2018-11-08,2009-08-23,1920000,186.46,22.248085,114.15924
+654,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Wing Court (Block I),1981-12-01,L,2,2,5,3,538,448,5929000,2018-11-08,,0,0.0,22.249413,114.153846
+655,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,World Fair Court,World Fair Court,1978-03-20,,,,33,E,0,437,5980000,2018-11-06,2011-09-04,4720000,26.69,22.252602,114.139046
+656,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block B,1980-04-11,L,,,7,2,460,384,4650000,2018-11-05,,0,0.0,22.248625999999998,114.156597
+657,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Lai House ( Block 1 ),1990-11-01,M,,,20,3,0,598,3760000,2018-11-05,,0,0.0,22.249586,114.14065
+658,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Hau House ( Block 2 ),1990-11-01,M,,,12,14,0,376,2920000,2018-11-05,,0,0.0,22.250135,114.140236
+659,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Cheung Court (Block G),1982-01-07,L,3,2,2,4,655,559,7500000,2018-11-02,1997-06-07,3068000,144.46,22.24957,114.1541106
+660,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,66 Shek Pai Wan Road,66 Shek Pai Wan Road,1961-10-19,,,,1,,0,471,4400000,2018-10-29,,0,0.0,,
+661,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jing Hui Garden,Block 2 (Mid),1989-02-23,H,2,,22,G,0,406,5990000,2018-10-29,2014-01-16,4000000,49.75,22.248205,114.159584
+662,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 3,1995-10-05,M,2,2,20,J,588,483,6000000,2018-10-28,2013-07-21,3750000,60.0,22.244823999999998,114.16600199999999
+663,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Tin Court (Block M),1979-12-15,L,2,2,4,6,526,432,5950000,2018-10-26,,0,0.0,22.248433,114.15373
+664,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Seaview Court,Seaview Court,1992-07-01,L,1,,7,A,618,308,5200000,2018-10-25,2012-06-27,3000000,73.33,22.247818,114.15841
+665,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block A,1997-11-22,M,3,2,20,9,801,645,6000000,2018-10-25,2012-11-22,3300000,81.82000000000001,22.2511495,114.1507264
+666,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Port Centre,Port Centre,1989-07-25,,2,,25,A,502,392,6280000,2018-10-24,2009-12-14,2000000,214.0,22.249057999999998,114.15501
+667,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 2,1999-06-29,L,2,,6,D,688,479,6500000,2018-10-21,2017-03-16,5000000,30.0,22.249147,114.14795
+668,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Fu Court (Block E),1982-01-07,L,2,2,2,1,546,451,5700000,2018-10-19,2009-01-12,1568000,263.52,22.249264,114.154165
+669,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 1,1999-06-29,H,2,,30,D,688,479,7560000,2018-10-15,2008-07-29,3300000,129.09,22.24933,114.14777
+670,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,194-196 Aberdeen Main Road,194-196 Aberdeen Main Road,1972-08-02,,,,2,A,0,353,3800000,2018-10-11,,0,0.0,,
+671,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,H,0,,25,F,0,214,4730000,2018-10-11,2016-02-01,3974000,19.02,22.249364999999997,114.14948
+672,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kin Fai Building,Kin Fai Building,1979-11-20,M,2,,14,E,0,274,4338000,2018-10-10,,0,0.0,22.247944,114.15877
+673,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block F,1981-03-26,L,,,3,8,502,419,5670000,2018-10-05,2006-06-23,1150000,393.04,22.250521,114.1566445
+674,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Full Jade Mansion,Full Jade Mansion,1992-06-03,L,2,,3,B,342,236,3980000,2018-10-03,2012-08-29,1570000,153.5,22.24955,114.14792
+675,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,H,,,45,A,0,664,9900000,2018-10-03,2009-12-15,8700000,13.790000000000001,22.2485758,114.1523672
+676,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 1,1995-10-06,H,3,2,32,F,588,483,5300000,2018-10-02,,0,0.0,22.244434,114.165901
+677,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Yin House ( Block 5 ),1991-11-01,M,,,22,18,0,397,2250000,2018-10-02,,0,0.0,22.250587,114.13845
+678,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kwun Hoi Court (Block S),1981-06-29,M,3,2,12,3,915,723,9800000,2018-09-28,2010-02-25,4500000,117.78,22.247946,114.154171
+679,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Lai House ( Block 1 ),1990-11-01,L,,,8,7,0,544,4500000,2018-09-28,,0,0.0,22.249586,114.14065
+680,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kong Kai Building,Kong Kai Building,1990-01-25,H,,,17,A,0,355,5400000,2018-09-27,2007-08-27,1388000,289.05,22.2496344,114.1554975
+681,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block B,1997-11-22,L,3,2,2,6,693,559,4810000,2018-09-27,2016-09-20,3200000,50.31,22.2509395,114.1503625
+682,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block C,1980-08-13,H,,,26,7,460,384,3860000,2018-09-21,2011-09-30,2660000,45.11,22.2496459,114.156745
+683,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,World Fair Court,World Fair Court,1978-03-21,M,,,20,A,0,563,6650000,2018-09-18,,0,0.0,22.252602,114.139046
+684,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Siu Kwan Mansion,Siu Kwan Mansion,1993-10-28,M,,,15,C,0,306,5500000,2018-09-17,2014-10-30,4220000,30.330000000000002,22.248939999999997,114.15614
+685,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Wo Building,Block A,1978-05-19,L,2,,5,6,414,339,2250000,2018-09-14,2008-12-18,1155000,94.81,22.250114,114.14862
+686,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block C,1991-11-28,M,3,2,16,2,712,554,8280000,2018-09-13,,0,0.0,22.2493441,114.1380175
+687,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block A,1997-11-22,M,3,2,20,2,693,559,5250000,2018-09-11,,0,0.0,22.2511495,114.1507264
+688,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Silver Mansion,Silver Mansion,1997-02-13,L,2,,5,B,607,369,5605500,2018-09-07,2004-01-20,1080000,419.03000000000003,22.249375,114.1487631
+689,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Tai Lok House,Tai Lok House,1971-03-22,,,,4,2,0,307,1980000,2018-09-03,2002-12-15,410000,382.93,22.249713999999997,114.14819
+690,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block B,1980-04-11,L,,,7,8,502,419,5700000,2018-08-30,2007-07-11,1420000,301.41,22.248625999999998,114.156597
+691,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,1,,12,B,0,265,6786500,2018-08-29,,0,0.0,22.249537999999998,114.14932999999999
+692,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-22,L,2,,12,8,422,325,5620000,2018-08-29,2014-03-19,3415000,64.57000000000001,22.248392,114.15257
+693,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Fu Court (Block E),1982-01-07,M,3,2,14,5,655,559,7800000,2018-08-29,1999-01-16,2205000,253.74,22.249264,114.154165
+694,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kam Fung Building,Kam Fung Building,1986-04-29,L,,,11,D,530,421,6430000,2018-08-28,,0,0.0,22.248493,114.15546
+695,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yen Shing Mansion,Yen Shing Mansion,1988-02-26,L,2,,1,A,0,287,3900000,2018-08-28,2014-09-25,2990000,30.43,22.249482999999998,114.14808
+696,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Court,Jumbo Court,1979-05-27,M,3,,14,L,0,498,6500000,2018-08-27,,0,0.0,22.24591,114.16466
+697,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,106 Aberdeen Main Road,106 Aberdeen Main Road,1966-11-25,,,,4,,0,377,6750000,2018-08-26,,0,0.0,22.247189,114.15658
+698,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Shun Fung Court,Shun Fung Court,1994-11-03,M,2,,15,B,0,288,3800000,2018-08-23,2014-05-28,3130000,21.41,22.249693,114.148627
+699,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-06,,1,,26,D,376,254,4800000,2018-08-23,2015-06-03,3750000,28.0,22.249181999999998,114.14857
+700,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Silver Mansion,Silver Mansion,1997-02-12,L,2,,2,B,607,369,5238000,2018-08-22,2007-10-28,1350000,288.0,22.249375,114.1487631
+701,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Harbour Mansion,Aberdeen Harbour Mansion,1972-10-05,L,,,4,J,0,420,5280000,2018-08-22,2009-05-14,1280000,312.5,22.247442,114.15774
+702,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Tsing Court (Block K),1979-12-15,L,2,2,7,3,526,432,6330000,2018-08-21,2011-07-05,3166000,99.94,22.2487555,114.153842
+703,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Lee Fat Mansion,Lee Fat Mansion,1971-05-24,M,,,4,A,0,354,3780000,2018-08-19,2004-03-26,850000,344.71,,
+704,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 1,1985-03-20,M,2,,14,B,476,354,5800000,2018-08-16,2015-01-05,4480000,29.46,22.244982999999998,114.166818
+705,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-06,M,2,,22,B,592,403,6000000,2018-08-16,2010-03-30,2370000,153.16,22.249181999999998,114.14857
+706,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Lung Court (Block N),1979-12-15,M,3,2,16,5,666,572,7600000,2018-08-16,2014-08-26,6480000,17.28,22.2482201,114.1539021
+707,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Hing Court (Block J),1981-12-01,M,2,2,15,6,534,448,6780000,2018-08-10,1997-12-04,2830000,139.58,22.249229,114.153749
+708,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ocean Court,Block 3,1999-09-24,M,,,22,C,720,592,7000000,2018-08-08,1999-05-04,1475700,374.35,22.247508999999997,114.15953
+709,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 1,1999-06-29,M,3,,17,A,870,600,8950000,2018-08-07,1998-11-18,2811000,218.39000000000001,22.24933,114.14777
+710,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kam Tseuk Mansion,Kam Tseuk Mansion,1980-11-05,M,,,6,A,0,271,4250000,2018-08-07,2014-05-13,2600000,63.46,22.2494839,114.1489756
+711,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yen Shing Mansion,Yen Shing Mansion,1988-02-26,M,1,,11,B,0,282,3800000,2018-08-06,2016-02-24,1000000,280.0,22.249482999999998,114.14808
+712,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 2,1985-03-21,H,2,,23,B,481,358,6600000,2018-08-01,2015-02-05,4480000,47.32,22.245206,114.166945
+713,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Cheung Court (Block G),1982-01-07,M,2,2,11,1,546,451,6500000,2018-07-31,2009-03-06,1920000,238.54,22.24957,114.1541106
+714,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block A,1983-03-22,M,2,,21,5,589,450,7500000,2018-07-30,,0,0.0,22.248302,114.15286
+715,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,0,,25,E,0,183,5141760,2018-07-29,,0,0.0,22.249537999999998,114.14932999999999
+716,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ever Secure Mansion,Ever Secure Mansion,1986-01-23,M,,,13,B,0,330,5030000,2018-07-27,2012-04-13,1000000,403.0,22.249817,114.1485
+717,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block B,1980-04-11,M,,,15,6,460,384,5650000,2018-07-25,,0,0.0,22.248625999999998,114.156597
+718,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-23,M,2,,23,2,399,304,5680000,2018-07-23,,0,0.0,22.248392,114.15257
+719,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,0,,22,E,0,183,5074560,2018-07-22,,0,0.0,22.249537999999998,114.14932999999999
+720,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,1,,15,B,0,265,6696000,2018-07-20,,0,0.0,22.249537999999998,114.14932999999999
+721,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 2,1985-03-20,L,2,,4,F,412,294,5200000,2018-07-18,2004-02-03,810000,541.98,22.245206,114.166945
+722,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,World Fair Court,World Fair Court,1978-03-21,L,,,5,B,0,400,4880000,2018-07-18,,0,0.0,22.252602,114.139046
+723,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-06,L,2,,7,A,592,403,6300000,2018-07-17,2005-01-10,1350000,366.67,22.249181999999998,114.14857
+724,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,World Fair Court,World Fair Court,1978-03-20,M,,,21,A,0,563,6730000,2018-07-16,,0,0.0,22.252602,114.139046
+725,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kin Fai Building,Kin Fai Building,1979-11-20,M,2,,14,C,0,310,5180000,2018-07-16,,0,0.0,22.247944,114.15877
+726,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block E,1980-08-13,L,,,7,5,502,419,5720000,2018-07-13,2013-09-18,1900000,201.05,22.2502444,114.157092
+727,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ngan Fung Building,Ngan Fung Building,1988-07-21,L,2,,2,B,572,382,5415000,2018-07-11,2008-05-28,1900000,185.0,22.24721,114.15673
+728,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block D,1980-08-13,M,,,16,1,502,419,1700000,2018-07-11,2017-10-26,1630000,4.29,22.2499475,114.1569275
+729,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kam Fung Building,Kam Fung Building,1986-04-29,L,,,1,G,553,443,6600000,2018-07-09,,0,0.0,22.248493,114.15546
+730,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,214 Aberdeen Main Road,214 Aberdeen Main Road,1966-02-14,,,,1,,0,263,3600000,2018-07-09,,0,0.0,,
+731,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kam Fung Building,Kam Fung Building,1986-04-30,,,,29,B,569,450,7500000,2018-07-09,,0,0.0,22.248493,114.15546
+732,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 2,1995-10-06,L,3,2,7,E,524,431,4150000,2018-07-09,,0,0.0,22.244878,114.1664285
+733,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,0,,23,E,0,183,5214580,2018-07-08,,0,0.0,22.249537999999998,114.14932999999999
+734,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,H,0,,28,E,0,183,5276160,2018-07-06,,0,0.0,22.249537999999998,114.14932999999999
+735,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block C,1980-08-13,L,,,4,8,502,419,5630000,2018-07-06,1997-05-29,1895000,197.1,22.2496459,114.156745
+736,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,L,3,,9,B,964,684,9500000,2018-07-05,2009-06-12,6180000,53.72,22.2485758,114.1523672
+737,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-22,M,2,,16,4,444,325,5600000,2018-07-04,1996-11-08,1625000,244.62,22.248392,114.15257
+738,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bayshore Apartments,Bayshore Apartments,2000-10-20,M,3,,19,A,790,567,7000000,2018-06-29,2009-06-18,3110000,125.08,22.2484614,114.151742
+739,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,H,0,,21,E,0,183,5145980,2018-06-28,,0,0.0,22.249537999999998,114.14932999999999
+740,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-22,H,2,,31,8,422,325,5820000,2018-06-27,2014-07-23,4000000,45.5,22.248392,114.15257
+741,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Seaview Court,Seaview Court,1992-07-02,M,1,,12,B,618,308,5040000,2018-06-27,2007-03-16,1170000,330.77,22.247818,114.15841
+742,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Hau House ( Block 2 ),1990-11-01,L,,,3,18,0,443,2800000,2018-06-27,,0,0.0,22.250135,114.140236
+743,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kong Kai Building,Kong Kai Building,1990-01-24,L,,,3,B,525,355,4900000,2018-06-26,,0,0.0,22.2496344,114.1554975
+744,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Seaview Court,Seaview Court,1992-07-01,M,1,,15,B,618,308,5030000,2018-06-26,,0,0.0,22.247818,114.15841
+745,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,0,,20,E,0,184,5111680,2018-06-25,,0,0.0,22.249537999999998,114.14932999999999
+746,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Port Centre,Port Centre,1989-07-24,M,2,,16,B,560,446,6365000,2018-06-21,2012-04-01,3520000,80.82000000000001,22.249057999999998,114.15501
+747,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pokfulam Terrace,Pokfulam Terrace,2003-12-14,M,2,,12,C,688,523,8300000,2018-06-20,2013-02-07,5200000,59.620000000000005,22.252177,114.139617
+748,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kam Fung Building,Kam Fung Building,1986-04-29,M,,,20,C,569,450,6750000,2018-06-20,,0,0.0,22.248493,114.15546
+749,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 1,1985-03-21,M,2,,15,C,416,309,5430000,2018-06-20,2012-03-30,3150000,72.38,22.244982999999998,114.166818
+750,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block D,1980-08-13,M,,,18,6,460,384,5670000,2018-06-19,2009-06-18,1720000,229.65,22.2499475,114.1569275
+751,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Wu Court (Block D),1979-12-15,H,2,2,20,2,529,438,6780000,2018-06-19,,0,0.0,22.248768,114.15443
+752,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jing Hui Garden,Block 2 (Mid),1989-02-23,H,3,,19,E,0,478,6500000,2018-06-18,,0,0.0,22.248205,114.159584
+753,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,H,,,45,B,0,680,13680000,2018-06-15,2009-06-30,11104000,23.2,22.2485758,114.1523672
+754,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,H,,,45,C,0,524,9000000,2018-06-15,2009-07-09,7546000,19.27,22.2485758,114.1523672
+755,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,L,,,1,J,563,470,5080000,2018-06-15,2010-09-28,1486400,241.77,22.2427474,114.1656694
+756,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,On Tai Building,On Tai Building,1984-01-31,M,,,14,A,0,278,3960000,2018-06-14,,0,0.0,22.247829,114.155528
+757,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hoi Fai Mansion,Hoi Fai Mansion,1992-09-20,L,3,,2,B,639,459,6000000,2018-06-14,1997-03-03,2280000,163.16,22.247322,114.157524
+758,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,On Fai Building,On Fai Building,1977-04-21,M,2,,12,E,0,293,4096000,2018-06-12,2007-12-26,1249000,227.94,22.248299,114.15618
+759,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Seaview Court,Seaview Court,1992-07-01,M,1,,11,B,618,308,4860000,2018-06-12,2014-09-10,3380000,43.79,22.247818,114.15841
+760,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block D,1991-11-28,M,2,2,18,1,515,401,5000000,2018-06-12,2010-05-27,2090000,139.23,22.249568,114.138004
+761,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Siu Kwan Mansion,Siu Kwan Mansion,1993-10-28,M,,,16,C,0,306,2000000,2018-06-11,2011-02-22,2560000,-21.88,22.248939999999997,114.15614
+762,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,World Fair Court,World Fair Court,1978-03-20,L,3,,9,D,0,400,4670000,2018-06-11,1998-03-22,1600000,191.88,22.252602,114.139046
+763,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,19,E,0,183,4922900,2018-06-11,,0,0.0,22.249537999999998,114.14932999999999
+764,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Port Centre,Port Centre,1989-07-24,L,2,,11,F,560,446,7000000,2018-06-10,2010-07-06,3000000,133.33,22.249057999999998,114.15501
+765,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 2,1985-03-21,H,2,,22,F,412,298,5650000,2018-06-08,2008-11-27,1750000,222.86,22.245206,114.166945
+766,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,L,,,5,E,505,422,5500000,2018-06-08,2015-03-31,3980000,38.19,22.2427474,114.1656694
+767,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bayshore Apartments,Bayshore Apartments,2000-10-20,H,3,,37,B,673,471,7700000,2018-06-08,2013-10-04,5750000,33.910000000000004,22.2484614,114.151742
+768,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Harbour Mansion,Aberdeen Harbour Mansion,1972-10-05,H,,,20,F,0,405,5550000,2018-06-08,,0,0.0,22.247442,114.15774
+769,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Shan Court (Block C),1979-12-15,L,3,2,9,4,666,572,7324800,2018-06-07,2010-03-10,3400000,115.44,22.248601,114.1545666
+770,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Lung Court (Block N),1979-12-15,M,2,2,17,2,529,438,6000000,2018-06-05,2007-05-22,1780000,237.08,22.2482201,114.1539021
+771,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ocean House,Ocean House,1984-01-30,M,,,11,D,0,327,5150000,2018-06-04,2009-08-24,1675000,207.46,22.247906,114.15622
+772,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 4,2001-07-27,M,,,16,D,689,574,7200000,2018-05-30,2001-03-17,1524500,372.29,22.2423776,114.1659966
+773,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Tsing Court (Block K),1979-12-15,M,2,2,17,6,526,432,6700000,2018-05-30,2007-08-09,2000000,235.0,22.2487555,114.153842
+774,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block A,1980-04-11,L,,,6,2,460,384,4000000,2018-05-30,,0,0.0,22.248283999999998,114.1566206
+775,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,1,,16,B,0,265,6884500,2018-05-29,,0,0.0,22.249537999999998,114.14932999999999
+776,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Bayshore Apartments,Bayshore Apartments,2000-10-20,M,3,,19,D,791,567,7900000,2018-05-29,2013-01-11,5000000,58.0,22.2484614,114.151742
+777,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Seaview Court,Seaview Court,1992-07-02,M,1,,14,A,0,308,4728000,2018-05-29,2003-05-06,880000,437.27,22.247818,114.15841
+778,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kam Tseuk Mansion,Kam Tseuk Mansion,1980-11-04,M,,,9,B,0,271,4500000,2018-05-28,2010-12-01,1350000,233.33,22.2494839,114.1489756
+779,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,L,,,9,E,505,422,5280000,2018-05-28,2001-04-20,1098400,380.7,22.2431849,114.164671
+780,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,H,,,35,E,505,422,5515000,2018-05-28,2009-05-19,1480000,272.64,22.2431849,114.164671
+781,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 2,1999-06-29,L,2,,15,C,688,479,6900000,2018-05-27,1998-12-02,2491000,177.0,22.249147,114.14795
+782,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 2,1999-06-30,H,2,,36,D,688,479,7600000,2018-05-25,2008-08-18,3050000,149.18,22.249147,114.14795
+783,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block F,1981-03-26,L,,,5,5,502,419,5250000,2018-05-25,1998-09-10,1340000,291.79,22.250521,114.1566445
+784,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jing Hui Garden,Block 1 (Mid),1989-02-23,L,2,,6,C,0,406,5760000,2018-05-24,2006-12-13,1320000,336.36,22.248085,114.15924
+785,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ocean House,Ocean House,1984-01-31,M,,,12,B,0,377,5530000,2018-05-24,2008-05-28,1830000,202.19,22.247906,114.15622
+786,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-22,H,2,,29,7,589,454,7950000,2018-05-23,2000-03-20,2200000,261.36,22.248392,114.15257
+787,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-06,M,2,,16,A,592,403,4930000,2018-05-22,2009-10-27,2450000,101.22,22.249181999999998,114.14857
+788,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Ying Court (Block L),1979-12-15,H,2,2,27,6,526,432,6300000,2018-05-21,2009-04-23,2135000,195.08,22.248569,114.1537125
+789,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block B,1991-11-28,M,2,2,14,8,515,401,4900000,2018-05-21,2009-07-22,1810000,170.72,22.249513999999998,114.138582
+790,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kin Fai Building,Kin Fai Building,1979-11-19,M,2,,12,B,0,274,4320000,2018-05-20,,0,0.0,22.247944,114.15877
+791,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,106 Aberdeen Main Road,106 Aberdeen Main Road,1966-11-25,,,,5,,0,377,5680000,2018-05-17,,0,0.0,22.247189,114.15658
+792,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ocean Court,Block 3,1999-09-24,L,,,11,D,720,592,6980000,2018-05-17,1999-05-15,1432100,387.40000000000003,22.247508999999997,114.15953
+793,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Harbour Mansion,Aberdeen Harbour Mansion,1972-10-05,H,,,19,C,0,370,5100000,2018-05-17,,0,0.0,22.247442,114.15774
+794,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,House 16,2012-04-24,,,,,,3869,2667,168000000,2018-05-16,,0,0.0,22.245638,114.16431
+795,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,M,3,,25,B,964,684,10850000,2018-05-15,2009-06-08,6610000,64.15,22.2485758,114.1523672
+796,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Wo Building,Block B,1978-05-19,H,,,19,8,464,371,4800000,2018-05-15,2010-12-02,2178000,120.39,22.249979,114.14865
+797,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 1,1985-03-21,M,2,,11,E,417,305,5290000,2018-05-11,2014-09-23,3880000,36.34,22.244982999999998,114.166818
+798,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,M,,,25,F,505,422,5300000,2018-05-11,2012-05-02,2280000,132.46,22.2431849,114.164671
+799,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-07,M,1,,20,D,0,254,4350000,2018-05-11,2008-08-25,1360000,219.85,22.249181999999998,114.14857
+800,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 1,1995-10-06,L,3,2,9,E,524,431,4200000,2018-05-11,,0,0.0,22.244434,114.165901
+801,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,0,,15,E,0,183,4772800,2018-05-11,,0,0.0,22.249537999999998,114.14932999999999
+802,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,16,E,0,183,4957820,2018-05-10,,0,0.0,22.249537999999998,114.14932999999999
+803,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,12,E,0,183,4889220,2018-05-10,,0,0.0,22.249537999999998,114.14932999999999
+804,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,17,E,0,183,5094000,2018-05-10,,0,0.0,22.249537999999998,114.14932999999999
+805,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 1,1985-03-20,M,2,,13,C,416,309,5250000,2018-05-10,2015-01-01,4000000,31.25,22.244982999999998,114.166818
+806,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block B,1997-11-22,H,3,2,25,2,693,559,2348000,2018-05-10,,0,0.0,22.2509395,114.1503625
+807,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,9,E,0,183,4640750,2018-05-09,,0,0.0,22.249537999999998,114.14932999999999
+808,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,18,E,0,183,4889650,2018-05-08,,0,0.0,22.249537999999998,114.14932999999999
+809,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Tai Court (Block H),1981-12-01,M,2,2,15,1,546,451,6300000,2018-05-08,,0,0.0,22.249599,114.15371999999999
+810,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,L,0,,7,E,0,183,4687040,2018-05-08,,0,0.0,22.249537999999998,114.14932999999999
+811,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block F,1981-03-26,M,,,16,1,502,419,5530000,2018-05-08,,0,0.0,22.250521,114.1566445
+812,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,10,E,0,183,4723200,2018-05-07,,0,0.0,22.249537999999998,114.14932999999999
+813,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,11,E,0,184,4756800,2018-05-07,,0,0.0,22.249537999999998,114.14932999999999
+814,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,8,E,0,183,4672320,2018-05-07,,0,0.0,22.249537999999998,114.14932999999999
+815,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,0,,17,D,0,195,5023600,2018-05-07,,0,0.0,22.249537999999998,114.14932999999999
+816,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 2,2001-07-27,L,,,7,B,563,470,5380000,2018-05-07,2010-10-07,1850000,190.81,22.2429705,114.165086
+817,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,0,,16,D,0,195,5040000,2018-05-07,,0,0.0,22.249537999999998,114.14932999999999
+818,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,3,D,0,183,4675000,2018-05-06,,0,0.0,22.249537999999998,114.14932999999999
+819,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,1,,12,A,0,255,6004800,2018-05-06,,0,0.0,22.249537999999998,114.14932999999999
+820,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,1,,17,A,0,255,6199270,2018-05-06,,0,0.0,22.249537999999998,114.14932999999999
+821,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,5,E,0,183,4538880,2018-05-06,,0,0.0,22.249537999999998,114.14932999999999
+822,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,1,,15,A,0,255,6048000,2018-05-06,,0,0.0,22.249537999999998,114.14932999999999
+823,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,12,D,0,195,4917200,2018-05-06,,0,0.0,22.249537999999998,114.14932999999999
+824,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kwun Chiu Court (Block T),1981-06-29,L,3,2,9,2,915,721,11500000,2018-05-04,,0,0.0,22.247856,114.154359
+825,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,L,0,,6,E,0,183,4780000,2018-05-04,,0,0.0,22.249537999999998,114.14932999999999
+826,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,9,D,0,195,5064000,2018-05-03,,0,0.0,22.249537999999998,114.14932999999999
+827,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,L,0,,3,C,0,195,4647360,2018-05-03,,0,0.0,22.249537999999998,114.14932999999999
+828,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,L,0,,5,D,0,195,4701120,2018-05-03,,0,0.0,22.249537999999998,114.14932999999999
+829,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,1,,11,A,0,255,5898550,2018-05-03,,0,0.0,22.249537999999998,114.14932999999999
+830,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,6,D,0,195,4853940,2018-05-02,,0,0.0,22.249537999999998,114.14932999999999
+831,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,10,D,0,195,4846900,2018-05-02,,0,0.0,22.249537999999998,114.14932999999999
+832,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,7,D,0,195,4908820,2018-05-02,,0,0.0,22.249537999999998,114.14932999999999
+833,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,1,,10,A,0,255,5917440,2018-05-02,,0,0.0,22.249537999999998,114.14932999999999
+834,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,11,D,0,195,4933440,2018-05-02,,0,0.0,22.249537999999998,114.14932999999999
+835,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block A,1980-04-11,M,,,19,1,502,419,5050000,2018-05-02,,0,0.0,22.248283999999998,114.1566206
+836,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,H,1,,21,A,0,255,6332160,2018-05-02,,0,0.0,22.249537999999998,114.14932999999999
+837,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,1,,22,A,0,255,6308950,2018-05-01,,0,0.0,22.249537999999998,114.14932999999999
+838,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 4,2001-07-27,L,,,9,F,505,422,5380000,2018-04-30,2001-04-07,1111800,383.90000000000003,22.2423776,114.1659966
+839,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,1,,19,A,0,255,6244800,2018-04-30,,0,0.0,22.249537999999998,114.14932999999999
+840,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,1,,18,A,0,255,6201600,2018-04-30,,0,0.0,22.249537999999998,114.14932999999999
+841,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,1,,20,A,0,255,6222500,2018-04-29,,0,0.0,22.249537999999998,114.14932999999999
+842,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Silver Mansion,Silver Mansion,1997-02-13,M,2,,14,B,607,369,5680000,2018-04-27,1997-04-11,3129270,81.51,22.249375,114.1487631
+843,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Fu Court (Block E),1982-01-07,H,3,2,21,4,655,559,5800000,2018-04-26,1997-04-29,2727450,112.65,22.249264,114.154165
+844,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,H,0,,22,D,0,195,5038000,2018-04-26,,0,0.0,22.249537999999998,114.14932999999999
+845,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block C,1980-08-13,H,,,19,6,460,384,5100000,2018-04-26,,0,0.0,22.2496459,114.156745
+846,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Cheung Court (Block G),1982-01-07,H,2,2,27,1,546,451,5200000,2018-04-26,,0,0.0,22.24957,114.1541106
+847,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 2,1985-03-20,L,2,,6,D,447,323,5800000,2018-04-25,2014-12-23,4100000,41.46,22.245206,114.166945
+848,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Tsing Court (Block K),1979-12-15,L,2,2,2,3,526,432,5600000,2018-04-25,1996-12-10,1750000,220.0,22.2487555,114.153842
+849,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Harbour Mansion,Aberdeen Harbour Mansion,1972-10-05,L,0,,5,A,0,400,5000000,2018-04-25,2014-08-01,3618000,38.2,22.247442,114.15774
+850,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,H,0,,25,F,0,194,4163940,2018-04-25,,0,0.0,22.249537999999998,114.14932999999999
+851,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,H,0,,26,F,0,194,4106980,2018-04-25,,0,0.0,22.249537999999998,114.14932999999999
+852,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,H,1,,26,B,0,265,6568840,2018-04-25,,0,0.0,22.249537999999998,114.14932999999999
+853,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,H,0,,26,C,0,194,4790240,2018-04-25,,0,0.0,22.249537999999998,114.14932999999999
+854,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,H,0,,26,D,0,195,4986770,2018-04-25,,0,0.0,22.249537999999998,114.14932999999999
+855,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,0,,22,C,0,194,4647270,2018-04-24,,0,0.0,22.249537999999998,114.14932999999999
+856,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,1,,22,B,0,265,6395210,2018-04-24,,0,0.0,22.249537999999998,114.14932999999999
+857,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,0,,22,F,0,194,4066020,2018-04-24,,0,0.0,22.249537999999998,114.14932999999999
+858,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,1,,23,B,0,265,6505240,2018-04-24,,0,0.0,22.249537999999998,114.14932999999999
+859,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,0,,25,C,0,194,4710320,2018-04-24,,0,0.0,22.249537999999998,114.14932999999999
+860,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,1,,25,B,0,265,6570900,2018-04-24,,0,0.0,22.249537999999998,114.14932999999999
+861,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,0,,23,C,0,194,4823000,2018-04-24,,0,0.0,22.249537999999998,114.14932999999999
+862,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,15,D,0,195,5004480,2018-04-24,,0,0.0,22.249537999999998,114.14932999999999
+863,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,0,,23,D,0,195,4971540,2018-04-24,,0,0.0,22.249537999999998,114.14932999999999
+864,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yee Tiam Building,Yee Tiam Building,1979-04-07,H,2,,21,C,507,332,4800000,2018-04-24,2012-08-14,2100000,128.57,22.249592,114.14885
+865,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,0,,15,C,0,194,4547000,2018-04-24,,0,0.0,22.249537999999998,114.14932999999999
+866,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,0,,16,C,0,194,4580000,2018-04-24,,0,0.0,22.249537999999998,114.14932999999999
+867,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,0,,12,C,0,194,4469850,2018-04-24,,0,0.0,22.249537999999998,114.14932999999999
+868,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,17,C,0,194,4473640,2018-04-23,,0,0.0,22.249537999999998,114.14932999999999
+869,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,16,F,0,194,3924360,2018-04-23,,0,0.0,22.249537999999998,114.14932999999999
+870,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,8,D,0,195,4793700,2018-04-23,,0,0.0,22.249537999999998,114.14932999999999
+871,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,0,,25,D,0,195,4953790,2018-04-23,,0,0.0,22.249537999999998,114.14932999999999
+872,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,0,,23,F,0,194,4052660,2018-04-23,,0,0.0,22.249537999999998,114.14932999999999
+873,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,15,F,0,194,3896640,2018-04-23,,0,0.0,22.249537999999998,114.14932999999999
+874,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,L,0,,6,C,0,194,4320000,2018-04-23,,0,0.0,22.249537999999998,114.14932999999999
+875,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,L,0,,6,F,0,189,3693000,2018-04-23,,0,0.0,22.249537999999998,114.14932999999999
+876,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,H,0,,27,D,0,195,5088160,2018-04-23,,0,0.0,22.249537999999998,114.14932999999999
+877,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,L,0,,5,F,0,189,3628350,2018-04-23,,0,0.0,22.249537999999998,114.14932999999999
+878,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,L,0,,3,E,0,189,3599640,2018-04-23,,0,0.0,22.249537999999998,114.14932999999999
+879,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,H,0,,28,C,0,194,4836420,2018-04-23,,0,0.0,22.249537999999998,114.14932999999999
+880,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,H,0,,28,D,0,195,5243000,2018-04-23,,0,0.0,22.249537999999998,114.14932999999999
+881,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,L,1,,5,B,0,265,5592000,2018-04-23,,0,0.0,22.249537999999998,114.14932999999999
+882,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,0,,20,F,0,195,4092000,2018-04-23,,0,0.0,22.249537999999998,114.14932999999999
+883,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,1,,16,A,0,255,6028700,2018-04-23,,0,0.0,22.249537999999998,114.14932999999999
+884,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,L,1,,6,B,0,265,5486320,2018-04-23,,0,0.0,22.249537999999998,114.14932999999999
+885,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,0,,28,F,0,194,4190400,2018-04-22,,0,0.0,22.249537999999998,114.14932999999999
+886,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,20,C,0,194,4631480,2018-04-22,,0,0.0,22.249537999999998,114.14932999999999
+887,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,0,,21,F,0,194,4121000,2018-04-22,,0,0.0,22.249537999999998,114.14932999999999
+888,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,20,D,0,195,4920300,2018-04-22,,0,0.0,22.249537999999998,114.14932999999999
+889,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,12,F,0,194,3790760,2018-04-22,,0,0.0,22.249537999999998,114.14932999999999
+890,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,0,,27,C,0,194,4937000,2018-04-22,,0,0.0,22.249537999999998,114.14932999999999
+891,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,0,,27,F,0,194,4191460,2018-04-22,,0,0.0,22.249537999999998,114.14932999999999
+892,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,1,,21,B,0,265,6351560,2018-04-22,,0,0.0,22.249537999999998,114.14932999999999
+893,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,1,,20,B,0,265,6372940,2018-04-22,,0,0.0,22.249537999999998,114.14932999999999
+894,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,L,1,,7,B,0,265,5605600,2018-04-20,,0,0.0,22.249537999999998,114.14932999999999
+895,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,L,0,,8,F,0,189,3729000,2018-04-20,,0,0.0,22.249537999999998,114.14932999999999
+896,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,0,,19,F,0,194,4064000,2018-04-20,,0,0.0,22.249537999999998,114.14932999999999
+897,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,L,1,,9,B,0,265,5668320,2018-04-20,,0,0.0,22.249537999999998,114.14932999999999
+898,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,1,,18,B,0,265,6349860,2018-04-20,,0,0.0,22.249537999999998,114.14932999999999
+899,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,L,0,,10,F,0,195,3851000,2018-04-20,,0,0.0,22.249537999999998,114.14932999999999
+900,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,1,,19,B,0,265,6329820,2018-04-20,,0,0.0,22.249537999999998,114.14932999999999
+901,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,L,1,,10,B,0,265,5652190,2018-04-20,,0,0.0,22.249537999999998,114.14932999999999
+902,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,0,,18,D,0,195,4754940,2018-04-20,,0,0.0,22.249537999999998,114.14932999999999
+903,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,7,C,0,194,4281620,2018-04-19,,0,0.0,22.249537999999998,114.14932999999999
+904,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,9,F,0,189,3743000,2018-04-19,,0,0.0,22.249537999999998,114.14932999999999
+905,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,19,D,0,195,4837280,2018-04-19,,0,0.0,22.249537999999998,114.14932999999999
+906,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,9,C,0,194,4284490,2018-04-19,,0,0.0,22.249537999999998,114.14932999999999
+907,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,1,,8,B,0,265,5647740,2018-04-19,,0,0.0,22.249537999999998,114.14932999999999
+908,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,19,C,0,194,4599140,2018-04-19,,0,0.0,22.249537999999998,114.14932999999999
+909,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,7,F,0,189,3715000,2018-04-19,,0,0.0,22.249537999999998,114.14932999999999
+910,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,11,C,0,194,4437180,2018-04-19,,0,0.0,22.249537999999998,114.14932999999999
+911,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,11,F,0,194,3879000,2018-04-19,,0,0.0,22.249537999999998,114.14932999999999
+912,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,5,C,0,194,4185580,2018-04-19,,0,0.0,22.249537999999998,114.14932999999999
+913,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,18,C,0,194,4567780,2018-04-19,,0,0.0,22.249537999999998,114.14932999999999
+914,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,8,C,0,194,4268970,2018-04-19,,0,0.0,22.249537999999998,114.14932999999999
+915,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,3,B,0,193,4116980,2018-04-19,,0,0.0,22.249537999999998,114.14932999999999
+916,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Full Jade Mansion,Full Jade Mansion,1992-06-03,M,2,,15,A,369,256,4700000,2018-04-18,2014-08-14,2780000,69.06,22.24955,114.14792
+917,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block A,1980-04-11,,,,23,1,502,419,5480000,2018-04-18,,0,0.0,22.248283999999998,114.1566206
+918,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 4,2001-07-27,L,,,7,A,707,591,6180000,2018-04-18,2001-04-04,1407000,339.23,22.2423776,114.1659966
+919,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Wu Court (Block D),1979-12-15,H,2,2,27,2,529,438,6500000,2018-04-18,2011-05-30,3420000,90.06,22.248768,114.15443
+920,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Tin Court (Block M),1979-12-15,M,3,2,14,4,666,572,7900000,2018-04-18,2010-05-11,3485000,126.69,22.248433,114.15373
+921,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Court,Jumbo Court,1979-05-27,M,2,,13,K,0,401,6480000,2018-04-17,2015-03-31,5250000,23.43,22.24591,114.16466
+922,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block D,1991-11-28,M,2,2,18,6,515,401,4780000,2018-04-17,,0,0.0,22.249568,114.138004
+923,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,L,0,,10,C,0,194,4405500,2018-04-16,,0,0.0,22.249537999999998,114.14932999999999
+924,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Court,Jumbo Court,1979-05-28,H,2,,16,H,0,401,5950000,2018-04-16,2002-11-12,883000,573.84,22.24591,114.16466
+925,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,H,0,,21,C,0,194,4615260,2018-04-16,,0,0.0,22.249537999999998,114.14932999999999
+926,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,H,0,,21,D,0,195,4853880,2018-04-15,,0,0.0,22.249537999999998,114.14932999999999
+927,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-19,M,0,,18,F,0,195,3994650,2018-04-13,,0,0.0,22.249537999999998,114.14932999999999
+928,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Chun Court (Block A),1979-12-15,H,2,2,19,2,529,438,6530000,2018-04-13,2007-08-28,1795000,263.79,22.24826,114.154434
+929,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Court,Jumbo Court,1979-05-27,L,2,,9,D,0,413,5880000,2018-04-12,2004-10-31,1070000,449.53000000000003,22.24591,114.16466
+930,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Walk．Aura,South Walk．Aura,2019-06-18,M,0,,17,F,0,194,3953070,2018-04-11,,0,0.0,22.249537999999998,114.14932999999999
+931,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Court,Jumbo Court,1979-05-27,L,2,,8,H,0,401,5660000,2018-04-10,2005-03-29,1000000,466.0,22.24591,114.16466
+932,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 1,1985-03-20,L,2,,6,E,417,300,4850000,2018-04-10,2011-03-13,2398000,102.25,22.244982999999998,114.166818
+933,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pelene Mansion,Pelene Mansion,1979-09-13,H,,,20,C,0,282,1980000,2018-04-10,,0,0.0,22.249132,114.14839
+934,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 1,1995-10-06,M,3,2,16,F,588,483,5000000,2018-04-10,1999-06-17,1500000,233.33,22.244434,114.165901
+935,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block A,1983-03-22,H,2,,33,7,422,325,4760000,2018-04-09,,0,0.0,22.248302,114.15286
+936,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Wo Building,Block A,1978-05-19,L,2,,5,5,464,371,4390000,2018-04-09,,0,0.0,22.250114,114.14862
+937,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 2,1999-06-30,L,3,,,A,895,615,8980000,2018-04-09,,0,0.0,22.249147,114.14795
+938,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Tat Wo Building,Tat Wo Building,1975-12-30,L,,,4,A,0,321,5050000,2018-04-08,2008-10-21,1300000,288.46,22.247204,114.156494
+939,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,May Court,May Court,1996-11-08,H,2,,22,B,485,278,5000000,2018-04-08,2010-03-16,1990000,151.26,22.247571999999998,114.156193
+940,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 4,2001-07-27,M,,,23,E,505,422,5270000,2018-04-04,2014-08-22,3750000,40.53,22.2423776,114.1659966
+941,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,M,2,,27,C,747,519,8180000,2018-04-04,2011-03-23,4980000,64.26,22.2485758,114.1523672
+942,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Ying Court (Block L),1979-12-15,M,2,2,11,6,526,432,6250000,2018-04-04,2008-06-11,2180000,186.70000000000002,22.248569,114.1537125
+943,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block D,1991-11-28,L,3,2,11,10,712,554,6830000,2018-04-03,1999-08-05,1750000,290.29,22.249568,114.138004
+944,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block E,1980-08-13,H,,,21,7,460,384,5000000,2018-03-29,,0,0.0,22.2502444,114.157092
+945,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,M,3,,23,B,964,684,10275000,2018-03-27,2012-05-25,6500000,58.08,22.2485758,114.1523672
+946,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 1,1999-06-29,L,3,,10,A,870,600,8500000,2018-03-22,2008-06-09,3780000,124.87,22.24933,114.14777
+947,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Mei Kwong Court (Block P),1981-05-01,M,3,2,17,1,690,594,8480000,2018-03-20,,0,0.0,22.2484557,114.1532859
+948,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Ning Mansion,Ka Ning Mansion,1979-12-26,H,,,23,B,0,833,10400000,2018-03-19,,0,0.0,22.247266999999997,114.157145
+949,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kong Kai Building,Kong Kai Building,1990-01-25,M,,,16,A,0,355,5150000,2018-03-16,2014-09-24,4000000,28.75,22.2496344,114.1554975
+950,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Kin Fai Building,Kin Fai Building,1979-11-19,M,2,,12,D,0,310,4250000,2018-03-15,,0,0.0,22.247944,114.15877
+951,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Court,Jumbo Court,1979-05-27,H,2,,15,H,0,401,5450000,2018-03-15,,0,0.0,22.24591,114.16466
+952,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Sze Hei Building,Sze Hei Building,1975-05-05,H,2,,16,B,0,316,4090000,2018-03-15,2010-07-19,1600000,155.63,22.248901,114.148926
+953,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Cheung Court (Block G),1982-01-07,M,3,2,13,4,655,559,7930000,2018-03-14,1996-08-12,2428000,226.61,22.24957,114.1541106
+954,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Shan Court (Block C),1979-12-15,H,2,2,22,6,526,432,4800000,2018-03-13,,0,0.0,22.248601,114.1545666
+955,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Building,Jumbo Building,1988-05-14,M,2,,,A,442,310,5130000,2018-03-12,,0,0.0,22.249475,114.154884
+956,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 1,1985-03-20,L,2,,8,C,416,309,4600000,2018-03-08,2012-11-01,3450000,33.33,22.244982999999998,114.166818
+957,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kong Wing Court (Block I),1981-12-01,L,2,2,2,6,538,448,5990000,2018-03-08,2010-08-18,2380000,151.68,22.249413,114.153846
+958,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 1,1995-10-06,H,3,2,26,B,716,589,8600000,2018-03-08,2004-12-30,1500000,473.33,22.244434,114.165901
+959,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Shan Court (Block C),1979-12-15,L,2,2,9,3,526,432,5850000,2018-03-08,2003-03-22,1100000,431.82,22.248601,114.1545666
+960,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 3,1995-10-06,L,3,2,6,B,717,589,5900000,2018-03-07,,0,0.0,22.244823999999998,114.16600199999999
+961,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Wave Court,Block 3,1995-10-06,L,3,2,2,G,717,589,5800000,2018-03-06,,0,0.0,22.244823999999998,114.16600199999999
+962,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 4,2001-07-27,H,,,29,A,707,591,6800000,2018-03-06,2001-04-04,1578900,330.68,22.2423776,114.1659966
+963,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South View Garden,South View Garden,1995-06-07,,2,,25,F,547,354,5700000,2018-03-05,2011-10-13,2900000,96.55,22.249181999999998,114.14857
+964,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 1,1985-03-21,M,2,,12,E,417,305,4900000,2018-03-05,2015-01-27,4030000,21.59,22.244982999999998,114.166818
+965,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jadewater,Jadewater,2008-04-07,L,2,,17,D,762,513,7910000,2018-03-05,2014-07-14,5550000,42.52,22.2485758,114.1523672
+966,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Mei Fai Court (Block Q),1981-05-01,L,3,2,7,1,823,664,8980000,2018-03-02,2007-10-25,3750000,139.47,22.24833,114.153216
+967,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 8,2012-04-24,H,,,33,B,3009,2407,140000000,2018-03-01,,0,0.0,22.2457622,114.164081
+968,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Pokfulam Terrace,Pokfulam Terrace,2003-12-15,H,2,,29,B,688,523,8300000,2018-03-01,2011-06-14,2500000,232.0,22.252177,114.139617
+969,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Court,Jumbo Court,1979-05-27,L,2,,7,B,0,401,6280000,2018-02-25,2014-09-18,4350000,44.37,22.24591,114.16466
+970,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Harbour Mansion,Aberdeen Harbour Mansion,1972-10-05,H,,,21,E,0,369,4000000,2018-02-23,2010-06-02,1650000,142.42000000000002,22.247442,114.15774
+971,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block C,1991-11-28,L,2,2,10,10,515,401,5550000,2018-02-23,,0,0.0,22.2493441,114.1380175
+972,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 1,1999-06-30,H,3,,30,A,870,600,8830000,2018-02-23,1998-12-04,3177600,177.88,22.24933,114.14777
+973,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Full Jade Mansion,Full Jade Mansion,1992-06-04,M,2,,9,C,342,236,3800000,2018-02-22,1998-04-07,1528000,148.69,22.24955,114.14792
+974,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block A,1980-04-11,M,,,19,5,502,419,4600000,2018-02-21,,0,0.0,22.248283999999998,114.1566206
+975,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 2,2001-07-27,M,,,25,A,707,591,6720000,2018-02-21,2001-04-10,1426900,370.95,22.2429705,114.165086
+976,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,M,2,,19,A,0,478,8918000,2018-02-15,,0,0.0,22.249364999999997,114.14948
+977,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block C,1980-08-13,M,,,10,6,460,384,5000000,2018-02-14,2013-09-13,3630000,37.74,22.2496459,114.156745
+978,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Waterfront South,Block 2,1999-06-29,L,3,,15,B,895,615,8470000,2018-02-13,1998-12-02,3022200,180.26,22.249147,114.14795
+979,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block A,1980-04-11,,,,27,2,460,384,5430000,2018-02-12,1997-04-21,2400000,126.25,22.248283999999998,114.1566206
+980,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block E,1980-08-13,L,,,2,6,460,384,4750000,2018-02-12,2014-08-25,3775000,25.830000000000002,22.2502444,114.157092
+981,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Albert House,Albert House,1973-08-29,H,,,22,C,0,407,5580000,2018-02-11,,0,0.0,22.248547,114.15495
+982,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Full Jade Mansion,Full Jade Mansion,1992-06-03,L,2,,3,D,369,256,4000000,2018-02-11,2007-03-01,880000,354.55,22.24955,114.14792
+983,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,M,2,,21,A,0,478,9372000,2018-02-09,,0,0.0,22.249364999999997,114.14948
+984,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block B,1980-04-11,M,,,15,4,502,419,5610000,2018-02-09,2009-09-25,2030000,176.35,22.248625999999998,114.156597
+985,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block A,1980-04-11,L,,,1,6,460,384,4000000,2018-02-08,2000-03-23,500000,700.0,22.248283999999998,114.1566206
+986,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,M,2,,22,A,0,478,9402000,2018-02-07,,0,0.0,22.249364999999997,114.14948
+987,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Wo Building,Block B,1978-05-19,H,,,21,6,414,339,4600000,2018-02-07,2012-05-25,2260000,103.54,22.249979,114.14865
+988,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Chun Court (Block A),1979-12-15,L,3,2,7,5,666,572,7000000,2018-02-07,,0,0.0,22.24826,114.154434
+989,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 1,2001-07-27,H,,,38,F,505,422,5380000,2018-02-06,2012-08-08,2400000,124.17,22.2431849,114.164671
+990,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,M,,,19,A,707,591,5900000,2018-02-05,2001-04-09,1447500,307.6,22.2427474,114.1656694
+991,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yee Tiam Building,Yee Tiam Building,1979-04-06,H,1,,20,B,306,182,2880000,2018-02-04,2014-05-21,1900000,51.58,22.249592,114.14885
+992,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Wo Building,Block A,1978-05-19,L,,,2,7,379,339,4000000,2018-01-30,2013-07-09,2830000,41.34,22.250114,114.14862
+993,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block A,1991-11-28,H,3,2,33,4,827,645,6380000,2018-01-26,,0,0.0,22.249516999999997,114.138987
+994,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,102 Aberdeen Main Road,102 Aberdeen Main Road,1958-12-30,,,,1,,0,596,7500000,2018-01-26,,0,0.0,22.247197999999997,114.156628
+995,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Full Jade Mansion,Full Jade Mansion,1992-06-03,M,2,,10,D,369,256,3850000,2018-01-25,,0,0.0,22.24955,114.14792
+996,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block E,1980-08-13,L,,,2,7,460,384,4200000,2018-01-25,1999-11-27,1328000,216.27,22.2502444,114.157092
+997,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Grandview Garden,Block 2,1985-03-21,M,2,,16,A,503,361,5100000,2018-01-24,,0,0.0,22.245206,114.166945
+998,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yen Shing Mansion,Yen Shing Mansion,1988-02-26,H,2,,15,A,0,287,4180000,2018-01-23,2006-06-02,948000,340.93,22.249482999999998,114.14808
+999,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Marinella,Block 9,2012-04-24,M,,,22,C,745,595,14500000,2018-01-23,2011-11-07,14933000,-2.9,22.2457363,114.1643346
+1000,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,H,,,32,A,707,591,6780000,2018-01-23,2001-04-11,1509300,349.21,22.2427474,114.1656694
+1001,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Hoi Tsing Court (Block K),1979-12-15,M,2,2,11,6,526,432,5700000,2018-01-23,2000-02-25,1520000,275.0,22.2487555,114.153842
+1002,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Hung Fuk Court,Block A,1997-11-22,M,2,2,15,8,505,407,3520000,2018-01-19,,0,0.0,22.2511495,114.1507264
+1003,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,South Coast,South Coast,2016-11-04,H,2,,31,A,0,478,10095000,2018-01-19,,0,0.0,22.249364999999997,114.14948
+1004,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-22,L,2,,8,4,444,325,4750000,2018-01-16,1997-02-24,1825000,160.27,22.248392,114.15257
+1005,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Abba House,Block B,1983-03-22,L,2,,14,3,422,325,4545000,2018-01-15,,0,0.0,22.248392,114.15257
+1006,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Tin Wan Court,Tin Wan Court,2001-05-02,H,1,,27,C,608,415,5950000,2018-01-12,2012-02-29,3100000,91.94,22.25004,114.14931
+1007,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen Centre,Kwun King Court (Block U),1981-06-29,L,3,2,5,3,915,723,9500000,2018-01-12,2010-11-22,4900000,93.88,22.247920999999998,114.154551
+1008,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Jumbo Building,Jumbo Building,1988-05-14,H,2,,26,A,0,335,5430000,2018-01-12,2014-12-02,4260000,27.46,22.249475,114.154884
+1009,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Ka Lung Court,Block D,1991-11-28,L,3,2,7,2,827,645,5325000,2018-01-12,,0,0.0,22.249568,114.138004
+1010,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Broadview Court,Block 3,2001-07-27,H,,,38,E,505,422,4800000,2018-01-11,2001-03-21,1185500,304.89,22.2427474,114.1656694
+1011,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Hau House ( Block 2 ),1990-11-01,M,,,18,17,0,385,2700000,2018-01-11,,0,0.0,22.250135,114.140236
+1012,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Wah Kwai Estate,Wah Yin House ( Block 5 ),1991-11-01,L,,,9,19,0,407,3100000,2018-01-10,,0,0.0,22.250587,114.13845
+1013,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Yue Fai Court,Block F,1981-03-26,L,,,9,5,502,419,4960000,2018-01-08,2005-02-01,1070000,363.55,22.250521,114.1566445
+1014,Hong Kong Island,Southern,Aberdeen / Wong Chuk Hang,Aberdeen House,Aberdeen House,1962-03-27,L,,,3,1,0,429,3750000,2018-01-07,,0,0.0,22.249408,114.155081

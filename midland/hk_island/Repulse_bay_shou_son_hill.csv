@@ -1,0 +1,130 @@
+,region,subregion,district,estate,building,first_op_date,floor_level,bedroom,sitting_room,floor,flat,area,net_area,price,tx_date,last_tx_date,last_price,gain,lat,lon
+0,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Repulse Bay Garden,Block 9,1973-11-06,L,3,2,6,,2288,2049,60300000,2020-12-10,2003-10-29,13000000,363.85,22.238184,114.19273
+1,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Manderly Garden,House 5,1986-11-05,,4,2,,,3504,3160,168000000,2020-12-04,,0,0.0,22.249872,114.184204
+2,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Ridge Court,Block C,1962-08-11,L,3,2,4,,2300,1780,50800000,2020-12-02,2004-12-13,20700000,145.41,22.250866,114.19282
+3,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,South Bay Towers,South Bay Towers,1984-11-05,L,2,,7,A,1433,1112,28200000,2020-11-30,,0,0.0,22.228181,114.200407
+4,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,8 Deep Water Bay Drive,Tower 2,2018-01-26,L,,,7,D,0,2764,180495000,2020-11-27,,0,0.0,22.252679999999998,114.18279
+5,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Pinecrest,Pinecrest,1982-11-12,H,4,,16,B,2250,1917,75500000,2020-11-25,,0,0.0,22.239114999999998,114.18959
+6,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,South Bay Palace,Block II,2000-07-14,M,3,,5,A,2636,1947,45580000,2020-11-19,2010-02-03,34000000,34.06,22.2382174,114.2009685
+7,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,8 Deep Water Bay Drive,Tower 2,2018-01-26,L,,,5,D,0,2764,174765000,2020-11-16,,0,0.0,22.252679999999998,114.18279
+8,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,South Bay Garden,Block B,1985-09-27,L,2,1,1,2,1542,1296,32000000,2020-11-13,2015-06-16,24500000,30.61,22.237617,114.20058
+9,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Grand Garden,Block 2,1986-12-10,M,3,2,18,B,1463,1089,31500000,2020-11-11,,0,0.0,22.227726,114.20097200000001
+10,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Ruby Court,Block 2,1987-05-21,L,3,2,6,B,1780,1390,36900000,2020-11-10,,0,0.0,22.229184999999998,114.1992
+11,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Ruby Court,Block 2,1987-05-21,H,3,2,16,A,1780,1390,43000000,2020-10-15,,0,0.0,22.229184999999998,114.1992
+12,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,8 Deep Water Bay Drive,Tower 2,2018-01-26,L,,,8,D,0,2764,179600000,2020-09-08,,0,0.0,22.252679999999998,114.18279
+13,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Island Grove,House B,2004-02-26,,,,,,0,3148,285000000,2020-09-08,2005-11-02,148000000,92.57000000000001,,
+14,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Pinecrest,Pinecrest,1982-11-12,M,3,,8,A,2250,1917,75000000,2020-08-28,1997-06-26,36500000,105.48,22.239114999999998,114.18959
+15,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,The Beachside,Block A,1993-12-24,,,,1,F,0,692,21500000,2020-08-07,2009-09-29,10300000,108.74000000000001,22.238014,114.198482
+16,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Repulse Bay Garden,Block 3,1973-11-06,L,4,2,6,,2810,2576,81300000,2020-08-07,2013-11-04,400000,20225.0,22.239904,114.19273
+17,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,South Bay Palace,Block I,2000-01-14,M,3,,5,C,0,1367,27000000,2020-07-31,2015-07-10,24380000,10.75,22.238574,114.201602
+18,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,8 Deep Water Bay Drive,Tower 2,2018-01-26,L,,,6,D,0,2764,175000000,2020-07-20,,0,0.0,22.252679999999998,114.18279
+19,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,South Bay Palace,Block II,2000-07-14,L,3,,2,B,1698,1273,26500000,2020-07-15,2011-03-25,20000000,32.5,22.2382174,114.2009685
+20,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,South Bay Towers,South Bay Towers,1984-11-05,M,2,,19,D,1433,1112,28380000,2020-07-13,2011-03-08,19380000,46.44,22.228181,114.200407
+21,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Repulse Bay Road No.3,No.3 Repulse Bay Road,1997-07-30,L,4,,8,B,2078,1664,80000000,2020-07-09,1997-07-07,50000000,60.0,22.25605,114.19394
+22,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,No.45 Island Road,Block A,1992-10-10,,3,,3,A3,1634,1314,49800000,2020-06-26,2012-11-30,44800000,11.16,22.240408,114.18860000000001
+23,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,South Bay Palace,Block II,2000-07-13,M,3,,7,B,1698,1273,27300000,2020-06-23,2005-04-29,16623000,64.23,22.2382174,114.2009685
+24,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Ridge Court,Block D,1962-08-10,M,3,2,5,,2300,1878,50000000,2020-06-21,2004-06-04,16800000,197.62,22.25087,114.19282
+25,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Repulse Bay Garden,Block 6,1973-11-06,L,3,2,3,,2288,2049,58000000,2020-06-19,2004-04-16,14600000,297.26,22.239069,114.19257999999999
+26,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,South Bay Villas,Block B,1967-02-20,M,,,5,10,0,2160,45300000,2020-06-11,2007-03-26,19380000,133.75,22.23799,114.200165
+27,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Repulse Bay Garden,Block 7,1973-11-06,M,3,2,10,,2288,2049,67000000,2020-06-11,2010-11-02,36800000,82.07000000000001,22.238508,114.19283
+28,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Grand Garden,Block 2,1986-12-10,M,3,2,15,A,1820,1358,40000000,2020-06-10,2010-08-26,27380000,46.09,22.227726,114.20097200000001
+29,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Ruby Court,Block 1,1987-05-20,L,3,2,3,B,2200,1775,51000000,2020-06-09,2009-04-19,29500000,72.88,22.229568,114.199153
+30,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Splendour Villa,Splendour Villa,1993-08-12,,,,1,E,0,988,33500000,2020-06-01,2004-02-21,9000000,272.22,22.2343739,114.1986509
+31,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Villa Helvetia,Villa Helvetia,1964-07-07,,,,1,,0,1870,63000000,2020-05-27,,0,0.0,22.237856999999998,114.190065
+32,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,South Bay Villas,Block B,1967-02-19,H,,,7,15,0,2160,46000000,2020-05-27,,0,0.0,22.23799,114.200165
+33,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,The Beachside,Block A,1993-12-24,,,,2,A,0,857,20000000,2020-05-21,2009-03-26,10800000,85.19,22.238014,114.198482
+34,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Repulse Bay Garden,Block 5,1973-11-06,L,3,2,1,,2288,2049,48000000,2020-04-24,2011-10-11,16000000,200.0,22.239248,114.192566
+35,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,90 Repulse Bay Road,House 1,2017-09-14,,5,,,,0,6034,468960000,2020-04-09,,0,0.0,,
+36,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Grand Garden,Block 1,1986-12-09,H,4,2,24,A,3054,2482,86800000,2020-04-07,,0,0.0,22.227346999999998,114.201217
+37,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Ming Wai Garden,Ming Wai Garden,1973-11-07,L,,,6,A,0,1583,60000000,2020-03-13,2000-01-12,15500000,287.1,22.24365,114.191234
+38,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,The Brentwood,The Brentwood,1988-12-29,H,3,,13,B,1556,1113,38000000,2020-03-03,2017-11-15,36000000,5.5600000000000005,22.2530286,114.193364
+39,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,The Brentwood,The Brentwood,1988-12-29,M,3,,12,B,1556,1113,38000000,2020-02-26,2015-03-17,33900000,12.09,22.2530286,114.193364
+40,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Evergreen Gardens,House 2,1983-03-25,,4,,,B,2849,2547,97000000,2020-02-26,,0,0.0,22.249122999999997,114.17942
+41,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Island View,House 5,1990-06-01,,,,,,0,3836,500000000,2020-02-04,,0,0.0,,
+42,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Repulse Bay Towers,Repulse Bay Towers,1964-02-25,M,3,2,9,D,3300,2893,100000000,2020-02-03,,0,0.0,22.23846,114.19729
+43,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,No.1 Shouson Hill Road East,House 21,1999-12-23,,,,,,0,2840,160000000,2019-12-10,,0,0.0,22.248676,114.183266
+44,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,No.1 Shouson Hill Road East,House 23,1999-12-23,,,,,,0,2657,145000000,2019-12-10,,0,0.0,22.248604,114.18343
+45,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Ruby Court,Block 2,1987-05-21,H,3,2,17,A,1780,1390,44000000,2019-12-10,,0,0.0,22.229184999999998,114.1992
+46,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,The Somerset,The Somerset,1982-12-14,,2,,10,A,2464,1939,90000000,2019-11-18,1997-07-05,37000000,143.24,22.238749,114.18984
+47,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Pinecrest,Pinecrest,1982-11-12,L,3,,7,A,2250,1917,70800000,2019-08-20,,0,0.0,22.239114999999998,114.18959
+48,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,90 Repulse Bay Road,House 6,2017-09-14,,5,,,,0,5852,489153280,2019-08-14,,0,0.0,,
+49,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Repulse Bay Road No.3,No.3 Repulse Bay Road,1997-07-30,M,4,,11,A,2161,1796,76000000,2019-08-14,2011-07-13,64400000,18.01,22.25605,114.19394
+50,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,The Brentwood,The Brentwood,1988-12-29,H,3,,15,B,1556,1113,46000000,2019-08-13,2010-09-05,27300000,68.5,22.2530286,114.193364
+51,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Repulse Bay Garden,Block 4,1973-11-06,M,4,2,10,,2810,2576,92800000,2019-07-30,,0,0.0,22.239594999999998,114.19254
+52,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Belleview Place,House 9,1988-04-28,,3,2,,,3206,2533,115000000,2019-07-30,2006-10-19,45900000,150.54,22.239390999999998,114.191536
+53,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Beaconsfield Court,Beaconsfield Court,1974-09-24,,,,G,F,0,1350,39600000,2019-07-23,,0,0.0,22.249285,114.177966
+54,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Repulse Bay Towers,Repulse Bay Towers,1964-02-25,H,3,2,11,B,3100,2578,113000000,2019-07-10,,0,0.0,22.23846,114.19729
+55,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Ruby Court,Block 2,1987-05-20,L,3,2,2,A,1780,1390,33500000,2019-06-27,,0,0.0,22.229184999999998,114.1992
+56,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,8 Deep Water Bay Drive,Tower 1,2018-01-25,L,,,8,B,0,3641,244675200,2019-06-24,,0,0.0,,
+57,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Repulse Bay Towers,Repulse Bay Towers,1964-02-25,H,3,2,11,E,3300,2893,113000000,2019-06-20,,0,0.0,22.23846,114.19729
+58,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,South Bay Palace,Block I,2000-01-13,L,3,,2,A,0,1903,25000000,2019-06-20,2016-06-27,28000000,-10.71,22.238574,114.201602
+59,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,No.45 Island Road,Block B,1992-10-09,,3,,3,B,1634,1314,57800000,2019-06-02,,0,0.0,22.240389,114.188515
+60,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Shouson Hill Road 41A-41F,41A-41F Shouson Hill Road,1956-03-22,,,,2,,0,1956,83000000,2019-05-29,,0,0.0,22.246782,114.18006
+61,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,South Bay Garden,Block B,1985-09-27,M,2,1,5,2,1542,1296,30000000,2019-05-28,2011-01-05,19800000,51.52,22.237617,114.20058
+62,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,South Bay Garden,Block B,1985-09-27,M,2,1,6,1,1542,1296,24680000,2019-05-22,,0,0.0,22.237617,114.20058
+63,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,8 Deep Water Bay Drive,Tower 1,2018-01-25,L,,,6,B,0,3641,228654800,2019-05-15,,0,0.0,,
+64,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,8 Deep Water Bay Drive,Tower 1,2018-01-25,,,,1,B,0,7568,605440000,2019-05-15,,0,0.0,,
+65,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Grand Garden,Block 1,1986-12-09,H,4,2,27,B,3061,2491,96600000,2019-05-14,2007-11-18,45300000,113.25,22.227346999999998,114.201217
+66,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Ridge Court,Block D,1962-08-10,L,3,2,4,,2300,1878,53980000,2019-05-14,2007-01-22,22600000,138.85,22.25087,114.19282
+67,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,South Bay Garden,Block C,1985-09-27,L,2,1,3,1,1027,850,19000000,2019-05-09,,0,0.0,22.237387,114.20039
+68,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Repulse Bay Garden,Block 1,1970-08-08,M,3,2,9,,2288,2049,60000000,2019-05-08,2010-12-15,38700000,55.04,22.239926999999998,114.19345
+69,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Grand Garden,Block 2,1986-12-09,M,3,2,11,A,1820,1358,43800000,2019-05-05,1996-09-23,13000000,236.92000000000002,22.227726,114.20097200000001
+70,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,90 Repulse Bay Road,House 3,2017-09-14,,5,,,,0,5851,503880000,2019-04-24,,0,0.0,,
+71,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,No.45 Island Road,Block A,1992-10-10,,3,,1,A,1634,1314,50500000,2019-04-24,,0,0.0,22.240408,114.18860000000001
+72,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Repulse Bay Garden,Block 7,1973-11-06,L,3,2,2,,2288,2049,50000000,2019-04-16,2002-08-28,9900000,405.05,22.238508,114.19283
+73,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Splendour Villa,Splendour Villa,1993-08-12,,,,2,G,0,1272,47500000,2019-04-15,2003-11-24,12500000,280.0,22.2343739,114.1986509
+74,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Grand Garden,Block 1,1986-12-09,H,4,2,26,B,3061,2491,91500000,2019-04-11,,0,0.0,22.227346999999998,114.201217
+75,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Sea Cliff Mansions,Sea Cliff Mansions,1965-02-20,H,3,,10,D,0,1961,63800000,2019-04-04,,0,0.0,22.25088,114.19354
+76,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,8 Deep Water Bay Drive,Tower 1,2018-01-25,L,,,5,B,0,3641,221372800,2019-04-01,,0,0.0,,
+77,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,South Bay Palace,Block II,2000-07-13,M,3,,5,B,1698,1273,24500000,2019-03-31,2009-06-04,16800000,45.83,22.2382174,114.2009685
+78,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,South Bay Towers,South Bay Towers,1984-11-04,M,2,,16,D,1433,1112,24600000,2019-03-11,2009-11-09,16000000,53.75,22.228181,114.200407
+79,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Shouson Peak,19B Shouson Hill Road,2012-01-16,,,,,,0,3231,240000000,2019-03-05,,0,0.0,22.249890999999998,114.179695
+80,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Manderly Garden,House 30,1986-11-04,,4,2,,,3504,3160,170000000,2019-02-28,,0,0.0,22.25096,114.18235
+81,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Beaconsfield Court,Beaconsfield Court,1974-09-24,,,,1,F,0,1350,39000000,2019-02-27,2013-02-21,36000000,8.33,22.249285,114.177966
+82,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,8 Deep Water Bay Drive,Tower 2,2018-01-26,L,,,7,C,0,4125,292030200,2019-02-27,,0,0.0,,
+83,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,8 Deep Water Bay Drive,Tower 1,2018-01-26,L,,,7,B,0,3641,228654800,2019-02-27,,0,0.0,,
+84,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,No.37 Repulse Bay Road,Block 3,1994-02-07,M,2,2,16,A,1220,848,28500000,2019-01-29,2006-08-22,9380000,203.84,22.2462026,114.1919629
+85,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,No.37 Repulse Bay Road,Block 3,1994-02-07,M,4,2,16,B,1740,1254,45300000,2019-01-25,2012-08-22,35100000,29.060000000000002,22.2462026,114.1919629
+86,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Ruby Court,Block 1,1987-05-20,H,3,2,20,A,2200,1775,66000000,2019-01-23,2005-04-19,28400000,132.39000000000001,22.229568,114.199153
+87,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,90 Repulse Bay Road,House 11,2017-09-14,,5,,,,0,5766,490000000,2019-01-23,,0,0.0,,
+88,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,90 Repulse Bay Road,House 12,2017-09-14,,4,,,,0,6068,520000000,2019-01-23,,0,0.0,,
+89,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Repulse Bay Garden,Block 2,1970-08-08,L,3,2,7,,2288,2049,56000000,2018-11-28,,0,0.0,22.239918,114.19312
+90,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,South Bay Towers,South Bay Towers,1984-11-04,L,3,,10,C,2738,2143,55300000,2018-11-22,2004-04-06,18250000,203.01,22.228181,114.200407
+91,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,8 Deep Water Bay Drive,Tower 2,2018-01-26,M,,,10,C,0,4214,311836000,2018-11-16,,0,0.0,,
+92,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,8 Deep Water Bay Drive,Tower 1,2018-01-25,M,,,10,B,0,3641,249408500,2018-11-13,,0,0.0,,
+93,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,No.37 Repulse Bay Road,Block 1,1994-02-07,M,2,2,8,A,1225,848,27000000,2018-11-13,,0,0.0,22.246467,114.191449
+94,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,8 Deep Water Bay Drive,Tower 2,2018-01-26,L,,,6,C,0,4214,287700000,2018-11-08,,0,0.0,,
+95,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,90 Repulse Bay Road,House 9,,,5,,,,0,5588,467157000,2018-10-31,,0,0.0,,
+96,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Celestial Garden,Celestial Garden,1978-09-13,L,,,6,B,0,1962,87800000,2018-10-11,,0,0.0,22.255153999999997,114.193473
+97,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Las Pinadas,House 12,1995-03-09,,4,2,,,3384,2917,128300000,2018-10-09,,0,0.0,22.248347,114.18218999999999
+98,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Fortuna Court,Fortuna Court,1982-04-18,L,,,4,B,2857,2499,122000000,2018-09-10,,0,0.0,22.250550999999998,114.191987
+99,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,No.1 Shouson Hill Road East,House 22,1999-12-23,,,,,,0,2657,45147821,2018-08-29,,0,0.0,22.248638,114.18334
+100,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,No.1 Shouson Hill Road East,House 11,1999-12-23,,,,,,0,2657,45214509,2018-08-29,,0,0.0,22.248789,114.18267
+101,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,No.1 Shouson Hill Road East,House 8,1999-12-23,,,,,,0,2840,48137670,2018-08-29,,0,0.0,22.248900000000003,114.18249
+102,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Repulse Bay Towers,Repulse Bay Towers,1964-02-25,M,3,2,7,B,3100,2578,80000000,2018-08-28,,0,0.0,22.23846,114.19729
+103,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Pinecrest,Pinecrest,1982-11-12,M,4,,11,B,2250,1917,75000000,2018-08-21,,0,0.0,22.239114999999998,114.18959
+104,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,The Brentwood,The Brentwood,1988-12-29,M,3,,8,B,1556,1113,42980000,2018-08-14,2015-03-02,33900000,26.78,22.2530286,114.193364
+105,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,South Bay Towers,South Bay Towers,1984-11-05,,3,,25,B,2738,2143,65000000,2018-08-02,2011-04-20,48200000,34.85,22.228181,114.200407
+106,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,90 Repulse Bay Road,House 8,2017-09-14,,5,,,,0,5814,508673000,2018-07-26,,0,0.0,,
+107,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Repulse Bay Garden,Block 4,1973-11-06,M,4,2,12,,2810,2576,85000000,2018-07-25,,0,0.0,22.239594999999998,114.19254
+108,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Grand Garden,Block 1,1986-12-10,M,4,2,15,A,3054,2482,80000000,2018-07-24,2011-06-21,70800000,12.99,22.227346999999998,114.201217
+109,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,90 Repulse Bay Road,House 7,2017-09-14,,5,,,,0,5848,495950000,2018-07-23,,0,0.0,,
+110,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Shouson Peak,Shouson Hill Road 11A,2012-01-17,,,,,,0,3547,287800000,2018-07-17,,0,0.0,22.24994,114.17896
+111,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Repulse Bay Garden,Block 8,1973-11-06,H,3,2,14,,2288,2049,62500000,2018-07-11,2008-06-16,33800000,84.91,22.238300000000002,114.192795
+112,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,South Bay Palace,Block I,2000-01-13,L,3,,3,A,0,1903,42180000,2018-07-09,2012-09-18,37680000,11.94,22.238574,114.201602
+113,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,No.45 Island Road,Block B,1992-10-09,,3,,1,B,1634,1314,54000000,2018-06-13,,0,0.0,22.240389,114.188515
+114,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Belgravia,Belgravia,1989-04-17,H,,,22,B,2790,2197,66300000,2018-06-13,2009-07-28,72900000,-9.05,22.228652999999998,114.199455
+115,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,No.37 Repulse Bay Road,Block 1,1994-02-07,H,4,2,16,B,1745,1254,51000000,2018-05-30,,0,0.0,22.246467,114.191449
+116,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,No.37 Repulse Bay Road,Block 2,1994-02-07,L,3,2,7,A,1635,1199,45800000,2018-05-25,2005-04-16,17450000,162.46,22.246321,114.191681
+117,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Monte Verde,Monte Verde,1974-05-22,H,,,17,A,0,1961,99000000,2018-05-24,2004-11-11,30500000,224.59,22.245272,114.19214
+118,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,No.37 Repulse Bay Road,Block 1,1994-02-07,H,2,2,19,A,1225,848,29300000,2018-05-21,2010-04-30,17450000,67.91,22.246467,114.191449
+119,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Shouson Peak,Shouson Hill Road 19E,2012-01-17,,,,,,0,3212,262260000,2018-05-10,,0,0.0,22.249762999999998,114.179924
+120,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,The Somerset,The Somerset,1982-12-14,M,2,,5,A,2464,1939,85000000,2018-04-23,2017-05-29,85000000,0.0,22.238749,114.18984
+121,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,The Brentwood,The Brentwood,1988-12-29,L,3,,2,A,1556,1113,36000000,2018-03-28,2011-02-20,26000000,38.46,22.2530286,114.193364
+122,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Manderly Garden,House 22,1986-11-04,,3,2,,,3594,3200,165000000,2018-03-28,,0,0.0,22.250391,114.18299
+123,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Manderly Garden,House 27,1986-11-04,,4,2,,,3504,3160,158800000,2018-03-05,,0,0.0,22.250750999999998,114.18253
+124,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,No.37 Repulse Bay Road,Block 3,1994-02-07,H,2,2,19,A,1220,848,23380000,2018-02-15,2006-01-12,10000000,133.8,22.2462026,114.1919629
+125,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Twin Brook,Twin Brook,1974-04-21,L,,,4,B,0,2429,92800000,2018-02-11,,0,0.0,22.244175,114.191625
+126,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,Repulse Bay Garden,Block 2,1970-08-08,M,3,2,11,,2288,2049,66500000,2018-02-01,2012-02-22,11475778,479.48,22.239918,114.19312
+127,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,The Beachside,Block A,1993-12-24,,,,3,D,0,678,15000000,2018-01-30,2008-01-16,9600000,56.25,22.238014,114.198482
+128,Hong Kong Island,Southern,Repulse Bay / Shouson Hill,The Somerset,The Somerset,1982-12-14,M,2,,9,A,2464,1939,86500000,2018-01-15,2003-05-02,17000000,408.82,22.238749,114.18984

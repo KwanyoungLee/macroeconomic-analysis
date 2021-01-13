@@ -1,0 +1,330 @@
+,region,subregion,district,estate,building,first_op_date,floor_level,bedroom,sitting_room,floor,flat,area,net_area,price,tx_date,last_tx_date,last_price,gain,lat,lon
+0,New Territories,Islands,Lantau / Island,Peng Lai Court,Peng Lai Court,1996-08-14,L,1,,2,16,769,534,4100000,2021-01-05,2017-04-10,3015000,35.99,22.286372999999998,114.03678
+1,New Territories,Islands,Lantau / Island,Tin Lee Court,Tin Lee Court,1995-03-31,H,,,10,2,0,485,2713000,2020-12-21,,0,0.0,22.252914,113.86721
+2,New Territories,Islands,Lantau / Island,Botanica Bay,House 3,2013-09-30,,,,,,0,4465,100000000,2020-12-16,2016-03-23,107400000,-6.890000000000001,22.235615,113.948395
+3,New Territories,Islands,Lantau / Island,Butterfly Crest,House 7,1983-08-23,,,,,,0,1930,20800000,2020-12-04,2012-03-23,11350000,83.26,22.236212,113.94783
+4,New Territories,Islands,Lantau / Island,Harbour View Villa,Harbour View Villa,1992-10-20,,,,2,B,0,412,3400000,2020-12-02,,0,0.0,,
+5,New Territories,Islands,Lantau / Island,Leyburn Villas,House B11,1981-06-17,,,,,,0,1382,15100000,2020-12-02,2012-02-17,10500000,43.81,,
+6,New Territories,Islands,Lantau / Island,Golden Coast,House 11,2006-05-19,,,,,,0,1572,18000000,2020-12-01,,0,0.0,22.2357,113.9616
+7,New Territories,Islands,Lantau / Island,Greenery Crest,Block 3,1991-11-22,,3,,2,B,0,633,5480000,2020-11-30,2007-12-17,1430000,283.22,22.203978,114.024376
+8,New Territories,Islands,Lantau / Island,Silver Pearl Mansion,Silver Pearl Mansion,1987-10-27,,,,4,A4,0,543,4080000,2020-11-24,2014-04-28,3000000,36.0,22.263683999999998,114.000847
+9,New Territories,Islands,Lantau / Island,Greenery Crest,Block 6,1991-11-22,,3,,1,B,0,633,5200000,2020-11-18,,0,0.0,22.203595999999997,114.02399
+10,New Territories,Islands,Lantau / Island,Greenery Crest,Block 4,1991-11-22,,2,,G,D,0,451,3960000,2020-11-10,2013-03-28,2300000,72.17,22.203740999999997,114.0244
+11,New Territories,Islands,Lantau / Island,Greenery Crest,Block 5,1991-11-22,,2,,2,C,497,451,3000000,2020-11-09,,0,0.0,22.203523999999998,114.02423999999999
+12,New Territories,Islands,Lantau / Island,Scenic Crest,Block 1,1996-02-01,,,,2,D,496,354,3800000,2020-10-30,2016-12-29,1600000,137.5,22.263592,114.00176
+13,New Territories,Islands,Lantau / Island,Treasure Villa,House C,2002-12-31,,,,1,,0,902,7200000,2020-10-27,,0,0.0,,
+14,New Territories,Islands,Lantau / Island,Greenery Crest,Block 4,1991-11-22,,2,,1,C,0,451,3600000,2020-10-21,2014-10-14,2450000,46.94,22.203740999999997,114.0244
+15,New Territories,Islands,Lantau / Island,Gallop Court,Gallop Court,1987-08-07,,,,2,B3,0,411,3000000,2020-10-15,1997-08-06,1200000,150.0,22.263939,114.00165
+16,New Territories,Islands,Lantau / Island,Greenery Crest,Block 5,1991-11-22,,2,,1,D,497,451,3950000,2020-10-14,2013-07-09,1960000,101.53,22.203523999999998,114.02423999999999
+17,New Territories,Islands,Lantau / Island,Peng Lai Court,Peng Lai Court,1996-08-14,M,,,3,3,615,427,3280000,2020-10-06,2013-01-23,1220000,168.85,22.286372999999998,114.03678
+18,New Territories,Islands,Lantau / Island,Lung Hin Court,Block C (Cheong Hin House),1999-09-24,L,,,1,4,568,418,2500000,2020-10-05,2013-07-17,970000,157.73,22.253121999999998,113.8631
+19,New Territories,Islands,Lantau / Island,Butterfly Crest,House 3,1983-08-23,,,,,,0,1930,19800000,2020-09-30,,0,0.0,22.236338,113.94794999999999
+20,New Territories,Islands,Lantau / Island,Grandview Building,Grandview Building,1978-08-02,M,,,4,F,0,316,2180000,2020-09-25,2016-05-17,1980000,10.1,22.264457999999998,114.000694
+21,New Territories,Islands,Lantau / Island,Lung Hin Court,Block C (Cheong Hin House),1999-09-24,L,,,2,3,573,421,2000000,2020-09-18,,0,0.0,22.253121999999998,113.8631
+22,New Territories,Islands,Lantau / Island,Monterey Villas,Block D,1997-04-07,,,,3,D01,0,302,1500000,2020-09-17,2012-09-06,1020000,47.06,22.285539999999997,114.03746
+23,New Territories,Islands,Lantau / Island,Treasure Bay,Block IV (Kam Ho Court),1982-12-09,,,,3,401,0,362,2000000,2020-09-11,,0,0.0,,
+24,New Territories,Islands,Lantau / Island,Mui Wo Centre,Mui Wo Centre,1995-12-21,,,,4,C4,516,447,4818800,2020-09-08,2011-06-08,1888000,155.23,22.264274999999998,114.00166
+25,New Territories,Islands,Lantau / Island,1-9 Wing Lee Street,8 Wing Lee Street,1975-05-20,,,,1,,0,404,2150000,2020-08-20,,0,0.0,,
+26,New Territories,Islands,Lantau / Island,Tin Lee Court,Tin Lee Court,1995-03-31,M,,,8,4,0,478,2770000,2020-08-18,,0,0.0,22.252914,113.86721
+27,New Territories,Islands,Lantau / Island,Scenic Garden,House A13 (House 15),1997-12-23,,3,,G,B,0,691,4980000,2020-08-13,2013-09-25,2600000,91.54,,
+28,New Territories,Islands,Lantau / Island,Seaview Building,Sea View Building,1986-07-18,,,,1,H,0,392,3980000,2020-08-11,2014-03-25,3180000,25.16,,
+29,New Territories,Islands,Lantau / Island,Gallop Court,Gallop Court,1987-08-07,,,,1,C1,0,429,2800000,2020-08-05,1999-03-31,738000,279.40000000000003,22.263939,114.00165
+30,New Territories,Islands,Lantau / Island,Scenic Crest,Block 2,1996-02-01,,,,3,C,529,381,4120000,2020-08-05,2008-02-29,850000,384.71000000000004,22.263424,114.0018
+31,New Territories,Islands,Lantau / Island,Mui Wo Centre,Mui Wo Centre,1995-12-21,,,,3,A1,683,573,7250000,2020-07-30,2019-03-22,7000000,3.5700000000000003,22.264274999999998,114.00166
+32,New Territories,Islands,Lantau / Island,Mui Wo Building,Mui Wo Building,1984-08-09,H,,,5,10,0,257,1900000,2020-07-30,2008-03-10,350000,442.86,22.264159,114.000751
+33,New Territories,Islands,Lantau / Island,Butterfly Crest,House 1,1983-08-23,,,,,,1960,1930,23980000,2020-07-28,2012-03-08,11350000,111.28,22.236352999999998,113.94805
+34,New Territories,Islands,Lantau / Island,Scenic Garden,House B4 (House 23),1997-12-23,,2,,G,B,0,448,3000000,2020-07-23,2016-04-18,2000000,50.0,,
+35,New Territories,Islands,Lantau / Island,Mui Wo Centre,Mui Wo Centre,1995-12-20,,,,1,B1,566,493,6500000,2020-07-21,2016-07-10,5000000,30.0,22.264274999999998,114.00166
+36,New Territories,Islands,Lantau / Island,Mui Wo Building,Mui Wo Building,1984-08-09,H,,,5,1,0,203,1100000,2020-07-13,2008-05-29,48000,2191.67,22.264159,114.000751
+37,New Territories,Islands,Lantau / Island,Scenic Crest,Block 1,1996-01-31,,,,5,C,529,381,4550000,2020-06-28,2015-08-24,3638000,25.07,22.263592,114.00176
+38,New Territories,Islands,Lantau / Island,Harbour View Villa,Harbour View Villa,1992-10-20,,,,4,C,0,377,2500000,2020-06-26,2012-07-12,1600000,56.25,,
+39,New Territories,Islands,Lantau / Island,Silver Pearl Mansion,Silver Pearl Mansion,1987-10-26,,,,5,A4,0,543,3800000,2020-06-21,2014-03-24,2800000,35.71,22.263683999999998,114.000847
+40,New Territories,Islands,Lantau / Island,Mui Wo Building,Mui Wo Building,1984-08-08,M,,,4,8,0,245,2650000,2020-06-11,2016-11-13,2060000,28.64,22.264159,114.000751
+41,New Territories,Islands,Lantau / Island,Harbour View Villa,Harbour View Villa,1992-10-19,,,,2,C,0,377,2750000,2020-06-10,2007-11-12,750000,266.67,,
+42,New Territories,Islands,Lantau / Island,Sea Crest Terrace,Block 2,1995-10-02,M,,,3,A,0,638,6280000,2020-06-02,2010-01-17,3000000,109.33,,
+43,New Territories,Islands,Lantau / Island,Lung Hin Court,Block D (Wing Hin Hosue),1999-09-24,L,,,2,8,577,424,2470000,2020-06-02,,0,0.0,22.252985,113.86269
+44,New Territories,Islands,Lantau / Island,Ngan Wai Court,Ngan Wai Court,2018-08-22,L,,,5,3,0,445,1904500,2020-05-24,,0,0.0,22.265532,113.997894
+45,New Territories,Islands,Lantau / Island,Leyburn Villas,House E72,1981-06-17,,,,-,-,0,766,10250000,2020-04-21,,0,0.0,,
+46,New Territories,Islands,Lantau / Island,Mui Wo Building,Mui Wo Building,1984-08-09,M,,,3,6,0,209,2480000,2020-04-07,1997-05-10,663000,274.06,22.264159,114.000751
+47,New Territories,Islands,Lantau / Island,Lucky Court,Lucky Court,1987-07-15,,,,2,C4,0,340,2800000,2020-03-01,,0,0.0,22.26384,114.00118
+48,New Territories,Islands,Lantau / Island,Mui Wo Building,Mui Wo Building,1984-08-08,H,,,5,2,0,141,1680000,2020-02-06,2018-01-03,1000000,68.0,22.264159,114.000751
+49,New Territories,Islands,Lantau / Island,Ngan Wai Court,Ngan Wai Court,2018-08-22,L,,,1,12,0,552,3923000,2020-02-04,,0,0.0,22.265532,113.997894
+50,New Territories,Islands,Lantau / Island,Treasure Bay,Block IV (Kam Ho Court),1982-12-08,,,,3,403,0,301,2300000,2020-01-23,2016-11-01,2280000,0.88,,
+51,New Territories,Islands,Lantau / Island,Scenic Garden,House B3 (House 22),1997-12-22,,2,,2,D,0,436,2500000,2020-01-08,,0,0.0,,
+52,New Territories,Islands,Lantau / Island,Greenery Crest,Block 12,1991-11-21,,2,,G,D,0,451,4000000,2020-01-06,2006-05-15,1238000,223.1,22.204742,114.023735
+53,New Territories,Islands,Lantau / Island,Greenery Crest,Block 12,1991-11-21,,2,,G,C,0,451,4000000,2020-01-05,,0,0.0,22.204742,114.023735
+54,New Territories,Islands,Lantau / Island,Mui Wo Centre,Mui Wo Centre,1995-12-20,,,,1,C4,516,447,6150000,2019-12-23,,0,0.0,22.264274999999998,114.00166
+55,New Territories,Islands,Lantau / Island,Grandview Building,Grandview Building,1978-08-01,M,,,3,C,0,438,3750000,2019-12-23,,0,0.0,22.264457999999998,114.000694
+56,New Territories,Islands,Lantau / Island,Greenery Crest,Block 8,1991-11-21,,3,,1,B,0,633,4180000,2019-12-04,,0,0.0,22.203892,114.023605
+57,New Territories,Islands,Lantau / Island,Mui Wo Building,Mui Wo Building,1984-08-08,H,,,5,6,0,209,2100000,2019-11-14,2016-05-29,2000000,5.0,22.264159,114.000751
+58,New Territories,Islands,Lantau / Island,Monterey Villas,Block A,1997-04-06,,,,2,12,0,357,3400000,2019-10-22,2014-06-04,1850000,83.78,22.285315,114.03751
+59,New Territories,Islands,Lantau / Island,Lung Hin Court,Block A (Kam Hin House),1999-09-23,M,,,3,7,573,421,2480000,2019-10-16,,0,0.0,22.252731,113.86397
+60,New Territories,Islands,Lantau / Island,Sea Crest Villa,Block C,1996-12-17,,2,,G,A,0,425,4280000,2019-10-15,2010-01-28,1350000,217.04,22.288978999999998,114.035614
+61,New Territories,Islands,Lantau / Island,Tin Lee Court,Tin Lee Court,1995-03-30,L,,,2,3,0,481,2250000,2019-10-03,,0,0.0,22.252914,113.86721
+62,New Territories,Islands,Lantau / Island,Cheung Sha Villas,House A6,1982-12-23,,3,,,,0,1287,17800000,2019-09-27,,0,0.0,22.235713999999998,113.94948
+63,New Territories,Islands,Lantau / Island,Treasure Bay,Block V (Kam Wah Court),1982-07-29,,,,2,302,0,385,2000000,2019-08-22,,0,0.0,,
+64,New Territories,Islands,Lantau / Island,Butterfly Crest,House 12,1983-08-22,,,,,,0,1961,16700000,2019-08-20,2008-05-08,13000000,28.46,22.236487999999998,113.94767
+65,New Territories,Islands,Lantau / Island,1-7 Ho Lee Street,1-7 Ho Lee Street (Pcl 386 Rp),1980-09-12,,,,2,,0,412,3300000,2019-08-04,,0,0.0,,
+66,New Territories,Islands,Lantau / Island,Acacia Villa,House 2,1997-12-21,,,,,,0,1051,14500000,2019-07-28,,0,0.0,,
+67,New Territories,Islands,Lantau / Island,Scenic Garden,House B3 (House 22),1997-12-22,,2,,2,C,0,448,2550000,2019-07-17,2016-07-14,2000000,27.5,,
+68,New Territories,Islands,Lantau / Island,Silver Shore Villa,House 9,1996-03-29,,,,,,0,787,8800000,2019-07-10,,0,0.0,,
+69,New Territories,Islands,Lantau / Island,Acacia Villa,House 1,1997-12-21,,,,,,0,1051,15000000,2019-07-09,,0,0.0,,
+70,New Territories,Islands,Lantau / Island,Peng Lai Court,Peng Lai Court,1996-08-13,H,,,5,22,620,431,2800000,2019-07-02,,0,0.0,22.286372999999998,114.03678
+71,New Territories,Islands,Lantau / Island,Treasure Bay,Block IV (Kam Ho Court),1982-12-08,,,,2,301,0,362,2350000,2019-06-27,2018-06-10,2350000,0.0,,
+72,New Territories,Islands,Lantau / Island,Sea Crest Terrace,Block 2,1995-10-02,L,,,2,B,0,665,6900000,2019-06-26,,0,0.0,,
+73,New Territories,Islands,Lantau / Island,Silver Centre Building,Silver Centre Building,1976-11-28,,,,5,H,0,382,2740000,2019-06-24,,0,0.0,22.26477,114.000694
+74,New Territories,Islands,Lantau / Island,Lung Hin Court,Block C (Cheong Hin House),1999-09-23,H,,,5,5,568,418,2380000,2019-06-17,,0,0.0,22.253121999999998,113.8631
+75,New Territories,Islands,Lantau / Island,Scenic Garden,House B6 (House 26),1997-12-22,,2,,2,A,0,448,3000000,2019-06-13,,0,0.0,,
+76,New Territories,Islands,Lantau / Island,Gallop Court,Gallop Court,1987-08-06,,,,4,B,0,375,3200000,2019-05-21,,0,0.0,22.263939,114.00165
+77,New Territories,Islands,Lantau / Island,Mui Wo Building,Mui Wo Building,1984-08-08,H,,,5,7,0,245,1000000,2019-05-20,2012-11-21,1050000,-4.76,22.264159,114.000751
+78,New Territories,Islands,Lantau / Island,Greenery Crest,Block 3,1991-11-21,,3,,1,A,0,633,4280000,2019-05-19,,0,0.0,22.203978,114.024376
+79,New Territories,Islands,Lantau / Island,Butterfly Crest,House 2,1983-08-22,,,,,,0,1961,23600000,2019-05-15,2011-09-22,14000000,68.57000000000001,22.236708,113.94800000000001
+80,New Territories,Islands,Lantau / Island,Silver Shore Villa,House 10,1996-03-29,,,,,,0,786,8500000,2019-04-24,2009-12-15,4750000,78.95,,
+81,New Territories,Islands,Lantau / Island,Fat Lee Street,1-6 Fat Lee Street (Pcl 386 Rp),1980-09-12,,,,2,,0,411,3450000,2019-04-17,,0,0.0,,
+82,New Territories,Islands,Lantau / Island,33 Kwun Yam Wan Road,33 Kwun Yam Wan Road (CCL 1699),1989-07-23,,,,1,A,0,441,3900000,2019-04-10,,0,0.0,22.206709999999998,114.032394
+83,New Territories,Islands,Lantau / Island,Monterey Villas,Block D,1997-04-06,,,,4,3,0,335,3000000,2019-04-01,1997-06-22,1063400,182.11,22.285539999999997,114.03746
+84,New Territories,Islands,Lantau / Island,Mui Wo Centre,Mui Wo Centre,1995-12-20,,,,3,A1,683,573,7000000,2019-03-21,1997-07-27,2885000,142.63,22.264274999999998,114.00166
+85,New Territories,Islands,Lantau / Island,Tin Lee Court,Tin Lee Court,1995-03-30,M,,,8,7,0,485,2500000,2019-03-19,,0,0.0,22.252914,113.86721
+86,New Territories,Islands,Lantau / Island,Lucky Court,Lucky Court,1987-07-15,,,,2,A,0,334,3000000,2019-03-06,2014-02-20,1400000,114.29,22.26384,114.00118
+87,New Territories,Islands,Lantau / Island,Mui Wo Building,Mui Wo Building,1984-08-08,H,,,5,14,0,203,2220000,2019-02-11,2014-05-08,1000000,122.0,22.264159,114.000751
+88,New Territories,Islands,Lantau / Island,Sea Crest Villa,Block B,1996-12-17,,2,,2,D,0,484,4600000,2019-01-03,,0,0.0,22.288849,114.03575000000001
+89,New Territories,Islands,Lantau / Island,Treasure Bay,Block V (Kam Wah Court),1982-07-29,,,,3,401,0,385,2800000,2018-12-23,,0,0.0,,
+90,New Territories,Islands,Lantau / Island,Silver Shore Villa,House 2,1996-03-29,,,,,,0,961,9980000,2018-12-04,2018-08-14,11100000,-10.09,,
+91,New Territories,Islands,Lantau / Island,Monterey Villas,Block C,1997-04-06,,,,1,6,0,460,4270000,2018-11-28,2013-04-04,1800000,137.22,22.285411999999997,114.03759
+92,New Territories,Islands,Lantau / Island,Cheung Sha Villas,House A3,1982-12-23,,3,,,,0,1287,16000000,2018-10-24,,0,0.0,22.235594,113.94924
+93,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,4,3,0,391,1723000,2018-10-23,,0,0.0,22.26513,113.99508
+94,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,6,7,0,380,1692900,2018-10-07,,0,0.0,22.26513,113.99508
+95,New Territories,Islands,Lantau / Island,Ngan Wai Court,Ngan Wai Court,2018-08-22,H,,,13,6,0,450,2012700,2018-10-04,,0,0.0,22.265532,113.997894
+96,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,M,,,8,15,0,543,2478300,2018-10-04,,0,0.0,22.26513,113.99508
+97,New Territories,Islands,Lantau / Island,Ngan Wai Court,Ngan Wai Court,2018-08-22,H,,,13,2,0,381,1672400,2018-09-09,,0,0.0,22.265532,113.997894
+98,New Territories,Islands,Lantau / Island,Monterey Villas,Block D,1997-04-06,,,,4,7,0,279,2500000,2018-09-09,2014-08-24,1310000,90.84,22.285539999999997,114.03746
+99,New Territories,Islands,Lantau / Island,Ngan Wai Court,Ngan Wai Court,2018-08-22,H,,,12,8,0,445,1973900,2018-09-09,,0,0.0,22.265532,113.997894
+100,New Territories,Islands,Lantau / Island,Harbour View Villa,Harbour View Villa,1992-10-19,,,,5,B,0,412,3680000,2018-09-09,,0,0.0,,
+101,New Territories,Islands,Lantau / Island,Ngan Wai Court,Ngan Wai Court,2018-08-22,L,,,5,12,0,552,2393200,2018-08-27,,0,0.0,22.265532,113.997894
+102,New Territories,Islands,Lantau / Island,Mui Wo Building,Mui Wo Building,1984-08-08,M,,,4,3,0,208,2370000,2018-08-27,,0,0.0,22.264159,114.000751
+103,New Territories,Islands,Lantau / Island,Leyburn Villas,House D24,1981-06-16,,,,,,0,1981,10500000,2018-08-26,,0,0.0,,
+104,New Territories,Islands,Lantau / Island,Leyburn Villas,House D25,1981-06-16,,,,,,0,1981,10500000,2018-08-26,2009-04-08,6500000,61.54,,
+105,New Territories,Islands,Lantau / Island,Silver Shore Villa,House 2,1996-03-29,,,,,,0,961,11100000,2018-08-14,,0,0.0,,
+106,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,13,8,0,391,1745300,2018-08-12,,0,0.0,22.26513,113.99508
+107,New Territories,Islands,Lantau / Island,Ngan Wai Court,Ngan Wai Court,2018-08-22,L,,,3,12,0,552,2322300,2018-08-08,,0,0.0,22.265532,113.997894
+108,New Territories,Islands,Lantau / Island,Regent Villa,House 6,1995-04-06,,,,,,0,1473,12000000,2018-08-07,,0,0.0,,
+109,New Territories,Islands,Lantau / Island,Monterey Villas,Block A,1997-04-06,,,,3,A15,0,357,3180000,2018-08-07,1997-03-14,1521200,109.05,22.285315,114.03751
+110,New Territories,Islands,Lantau / Island,Monterey Villas,Block D,1997-04-06,,,,2,7,0,279,2600000,2018-07-22,1997-01-20,904400,187.48,22.285539999999997,114.03746
+111,New Territories,Islands,Lantau / Island,Silver Shore Villa,House 15,1996-03-29,,,,,,0,787,8450000,2018-07-16,2009-12-13,5200000,62.5,,
+112,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,15,17,0,388,1775900,2018-07-15,,0,0.0,22.26513,113.99508
+113,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,14,7,0,389,1731400,2018-07-15,,0,0.0,22.26513,113.99508
+114,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,8,18,0,450,2013000,2018-07-11,,0,0.0,22.26513,113.99508
+115,New Territories,Islands,Lantau / Island,Ngan Wai Court,Ngan Wai Court,2018-08-22,L,,,3,11,0,543,2299300,2018-07-10,,0,0.0,22.265532,113.997894
+116,New Territories,Islands,Lantau / Island,Kam Sau Garden,Block 3,1979-09-23,,,,G,A,0,435,3000000,2018-07-09,,0,0.0,,
+117,New Territories,Islands,Lantau / Island,1-7 Ho Lee Street,1-7 Ho Lee Street (Pcl 386 Rp),1980-09-12,,,,G,,0,450,2700000,2018-07-09,,0,0.0,,
+118,New Territories,Islands,Lantau / Island,Monterey Villas,Block B,1997-04-06,,,,4,8,0,527,4190000,2018-07-08,1997-09-29,2643296,58.51,22.285297,114.037735
+119,New Territories,Islands,Lantau / Island,Ngan Wai Court,Ngan Wai Court,2018-08-22,M,,,6,9,0,378,1613900,2018-07-08,,0,0.0,22.265532,113.997894
+120,New Territories,Islands,Lantau / Island,Whitesands,House 29,2015-02-09,,,,,,0,2467,54780000,2018-07-05,,0,0.0,22.23745,113.96198
+121,New Territories,Islands,Lantau / Island,Whitesands,House 15,2015-02-09,,,,,,0,2341,48342000,2018-07-05,,0,0.0,22.237489999999998,113.962685
+122,New Territories,Islands,Lantau / Island,Ngan Wai Court,Ngan Wai Court,2018-08-22,M,,,7,7,0,450,1971400,2018-07-04,,0,0.0,22.265532,113.997894
+123,New Territories,Islands,Lantau / Island,Scenic Crest,Block 2,1996-01-31,,,,4,D,496,354,3900000,2018-07-04,,0,0.0,22.263424,114.0018
+124,New Territories,Islands,Lantau / Island,Silver Shore Villa,House 16,1996-03-29,,,,,,0,802,8880000,2018-07-02,2011-02-22,5800000,53.1,,
+125,New Territories,Islands,Lantau / Island,Ngan Wai Court,Ngan Wai Court,2018-08-22,M,,,6,7,0,450,1963100,2018-06-28,,0,0.0,22.265532,113.997894
+126,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,8,17,0,388,1755700,2018-06-28,,0,0.0,22.26513,113.99508
+127,New Territories,Islands,Lantau / Island,Whitesands,House 28,2015-02-09,,,,,,0,2467,54505000,2018-06-28,,0,0.0,22.237583,113.96188
+128,New Territories,Islands,Lantau / Island,Ngan Wai Court,Ngan Wai Court,2018-08-22,M,,,9,12,0,552,2431600,2018-06-28,,0,0.0,22.265532,113.997894
+129,New Territories,Islands,Lantau / Island,Scenic Crest,Block 1,1996-01-31,,,,2,E,518,375,4180000,2018-06-26,2010-09-02,1218000,243.19,22.263592,114.00176
+130,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,2,15,0,543,2351600,2018-06-20,,0,0.0,22.26513,113.99508
+131,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,12,2,0,543,2490600,2018-06-20,,0,0.0,22.26513,113.99508
+132,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,14,13,0,383,1677000,2018-06-20,,0,0.0,22.26513,113.99508
+133,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,M,,,6,13,0,380,1685700,2018-06-20,,0,0.0,22.26513,113.99508
+134,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,10,15,0,543,2494700,2018-06-20,,0,0.0,22.26513,113.99508
+135,New Territories,Islands,Lantau / Island,Mui Wo Building,Mui Wo Building,1984-08-08,L,,,1,15,0,175,1980000,2018-06-20,2015-05-25,1838000,7.73,22.264159,114.000751
+136,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,8,14,0,380,1650000,2018-06-20,,0,0.0,22.26513,113.99508
+137,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,10,2,0,543,2474200,2018-06-20,,0,0.0,22.26513,113.99508
+138,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,7,5,0,451,2026300,2018-06-20,,0,0.0,22.26513,113.99508
+139,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,16,2,0,543,2494800,2018-06-20,,0,0.0,22.26513,113.99508
+140,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,10,14,0,380,1661400,2018-06-20,,0,0.0,22.26513,113.99508
+141,New Territories,Islands,Lantau / Island,Greenery Crest,Block 5,1991-11-21,,3,,1,B,695,633,4850000,2018-06-14,2014-04-29,2830000,71.38,22.203523999999998,114.02423999999999
+142,New Territories,Islands,Lantau / Island,Golden Coast,House 1,2006-05-18,,,,,,0,1119,17100000,2018-06-14,,0,0.0,22.235500000000002,113.96098
+143,New Territories,Islands,Lantau / Island,Treasure Bay,Block IV (Kam Ho Court),1982-12-08,,,,2,301,0,362,2350000,2018-06-10,,0,0.0,,
+144,New Territories,Islands,Lantau / Island,Whitesands,House 30,2015-02-09,,,,,,0,2467,58053000,2018-06-10,,0,0.0,22.237326,113.962105
+145,New Territories,Islands,Lantau / Island,Tin Lee Court,Tin Lee Court,1995-03-30,H,,,9,3,0,481,2500000,2018-06-07,,0,0.0,22.252914,113.86721
+146,New Territories,Islands,Lantau / Island,Scenic Garden,House A2 (House 2),1997-12-22,,3,,G,A,0,691,4280000,2018-06-05,2005-04-05,1450000,195.17000000000002,,
+147,New Territories,Islands,Lantau / Island,Seaview Building,Sea View Building,1986-07-17,,,,4,G,0,403,4100000,2018-06-05,2014-07-03,1990000,106.03,,
+148,New Territories,Islands,Lantau / Island,Mui Wo Building,Mui Wo Building,1984-08-08,M,,,3,14,0,203,2180000,2018-05-29,,0,0.0,22.264159,114.000751
+149,New Territories,Islands,Lantau / Island,Monterey Villas,Block A,1997-04-06,,,,2,A05,0,357,2950000,2018-05-24,2014-08-04,1900000,55.26,22.285315,114.03751
+150,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,7,4,0,448,2020200,2018-05-24,,0,0.0,22.26513,113.99508
+151,New Territories,Islands,Lantau / Island,Whitesands,House 2,2015-02-09,,,,,,0,2341,45407000,2018-05-22,,0,0.0,22.237154,113.96249
+152,New Territories,Islands,Lantau / Island,Greenery Crest,Block 15,1991-11-21,,,,,,0,1033,8800000,2018-05-03,,0,0.0,22.204103,114.02382
+153,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,8,20,0,383,1685600,2018-05-03,,0,0.0,22.26513,113.99508
+154,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,11,9,0,385,1748800,2018-05-03,,0,0.0,22.26513,113.99508
+155,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,16,3,0,543,2525500,2018-05-03,,0,0.0,22.26513,113.99508
+156,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,L,,,2,16,0,446,1856000,2018-05-03,,0,0.0,22.26513,113.99508
+157,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,7,20,0,383,1674000,2018-05-03,,0,0.0,22.26513,113.99508
+158,New Territories,Islands,Lantau / Island,Greenery Crest,Block 10,1991-11-21,,2,,1,C,0,451,3720000,2018-05-02,2011-06-14,1560000,138.46,22.20434,114.02352
+159,New Territories,Islands,Lantau / Island,Gallop Court,Gallop Court,1987-08-06,,,,3,C1,0,429,3180000,2018-05-01,,0,0.0,22.263939,114.00165
+160,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,8,16,0,446,2027400,2018-04-29,,0,0.0,22.26513,113.99508
+161,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,12,17,0,388,1778900,2018-04-29,,0,0.0,22.26513,113.99508
+162,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,6,14,0,380,1635600,2018-04-29,,0,0.0,22.26513,113.99508
+163,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,13,4,0,388,1777400,2018-04-29,,0,0.0,22.26513,113.99508
+164,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,14,1,0,383,1743400,2018-04-29,,0,0.0,22.26513,113.99508
+165,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,13,7,0,389,1746000,2018-04-29,,0,0.0,22.26513,113.99508
+166,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,L,,,3,1,0,450,1907800,2018-04-29,,0,0.0,22.26513,113.99508
+167,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,L,,,2,9,0,385,1641200,2018-04-29,,0,0.0,22.26513,113.99508
+168,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,5,3,0,391,1730400,2018-04-29,,0,0.0,22.26513,113.99508
+169,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,10,11,0,384,1752500,2018-04-29,,0,0.0,22.26513,113.99508
+170,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,6,6,0,383,1700000,2018-04-29,,0,0.0,22.26513,113.99508
+171,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,9,7,0,380,1713000,2018-04-29,,0,0.0,22.26513,113.99508
+172,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,13,2,0,383,1750600,2018-04-29,,0,0.0,22.26513,113.99508
+173,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,L,,,2,3,0,543,2361800,2018-04-29,,0,0.0,22.26513,113.99508
+174,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,12,8,0,388,1771600,2018-04-29,,0,0.0,22.26513,113.99508
+175,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,11,7,0,380,1724400,2018-04-25,,0,0.0,22.26513,113.99508
+176,New Territories,Islands,Lantau / Island,Scenic Garden,House B1 (House 20),1997-12-22,,2,,2,B,0,448,2400000,2018-04-24,,0,0.0,,
+177,New Territories,Islands,Lantau / Island,Whitesands,House 31,2015-02-09,,,,,,0,2575,58708000,2018-04-23,,0,0.0,22.23726,113.962234
+178,New Territories,Islands,Lantau / Island,Whitesands,House 25,2015-02-10,,,,,,0,2341,46609000,2018-04-23,,0,0.0,22.237955,113.961655
+179,New Territories,Islands,Lantau / Island,Scenic Crest,Block 2,1996-01-31,,,,5,E,0,389,4500000,2018-04-19,2009-11-22,1525000,195.08,22.263424,114.0018
+180,New Territories,Islands,Lantau / Island,Greenery Crest,Block 11,1991-11-21,,3,,2,B,0,633,5450000,2018-04-19,2014-04-21,4050000,34.57,22.204577999999998,114.02363
+181,New Territories,Islands,Lantau / Island,Peng Lai Court,Peng Lai Court,1996-08-13,L,,,2,12,924,642,4600000,2018-04-19,2009-10-12,1065000,331.92,22.286372999999998,114.03678
+182,New Territories,Islands,Lantau / Island,Leyburn Villas,House B17,1981-06-16,,,,,,0,1382,17500000,2018-04-19,,0,0.0,,
+183,New Territories,Islands,Lantau / Island,1-9 Wing Lee Street,3 Wing Lee Street,1975-05-19,,,,1,,0,408,1870000,2018-04-10,,0,0.0,,
+184,New Territories,Islands,Lantau / Island,Lung Hin Court,Block C (Cheong Hin House),1999-09-23,,,,G,8,577,424,2450000,2018-04-10,2013-10-23,1320000,85.61,22.253121999999998,113.8631
+185,New Territories,Islands,Lantau / Island,Whitesands,House 26,2015-02-09,,,,,,0,2341,47574000,2018-04-03,,0,0.0,22.237811999999998,113.96178
+186,New Territories,Islands,Lantau / Island,Acacia Villa,House 3,1997-12-21,,,,,,0,1051,13990000,2018-04-02,,0,0.0,,
+187,New Territories,Islands,Lantau / Island,Lucky Court,Lucky Court,1987-07-15,,,,5,A2,0,334,3250000,2018-03-27,2015-02-03,2258000,43.93,22.26384,114.00118
+188,New Territories,Islands,Lantau / Island,Regent Villa,House 3,1995-04-06,,,,,,0,1119,9000000,2018-03-27,,0,0.0,,
+189,New Territories,Islands,Lantau / Island,Whitesands,House 5,2015-02-09,,,,,,0,2341,45498000,2018-03-19,,0,0.0,22.237156,113.96248
+190,New Territories,Islands,Lantau / Island,Silver Centre Building,Silver Centre Building,1976-11-28,,,,5,B,0,382,3200000,2018-03-18,1997-11-14,1050000,204.76,22.26477,114.000694
+191,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,L,,,4,15,0,386,1648800,2018-03-05,,0,0.0,22.26513,113.99508
+192,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,7,17,0,388,1748400,2018-03-04,,0,0.0,22.26513,113.99508
+193,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,M,,,7,11,0,391,1705400,2018-03-04,,0,0.0,22.26513,113.99508
+194,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,3,3,0,391,1698000,2018-03-04,,0,0.0,22.26513,113.99508
+195,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,L,,,5,11,0,384,1719300,2018-03-04,,0,0.0,22.26513,113.99508
+196,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,14,18,0,450,2053800,2018-03-04,,0,0.0,22.26513,113.99508
+197,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,6,16,0,446,2010600,2018-03-04,,0,0.0,22.26513,113.99508
+198,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,8,1,0,450,1996100,2018-03-04,,0,0.0,22.26513,113.99508
+199,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,13,6,0,384,1726500,2018-03-04,,0,0.0,22.26513,113.99508
+200,New Territories,Islands,Lantau / Island,Grandview Building,Grandview Building,1978-08-01,H,,,5,A,0,485,2500000,2018-02-28,1997-12-30,1500000,66.67,22.264457999999998,114.000694
+201,New Territories,Islands,Lantau / Island,Monterey Villas,Block C,1997-04-06,,,,2,5,0,344,2560000,2018-02-27,2014-01-02,1338000,91.33,22.285411999999997,114.03759
+202,New Territories,Islands,Lantau / Island,Mui Wo Building,Mui Wo Building,1984-08-08,M,,,3,11,0,212,1850000,2018-02-27,2017-11-14,800000,131.25,22.264159,114.000751
+203,New Territories,Islands,Lantau / Island,Whitesands,House 27,2015-02-09,,,,,,0,2467,63768000,2018-02-22,,0,0.0,22.237703,113.96177
+204,New Territories,Islands,Lantau / Island,Leyburn Villas,House B10,1981-06-17,,,,,,0,1382,16700000,2018-02-15,2009-06-24,6500000,156.92000000000002,,
+205,New Territories,Islands,Lantau / Island,Ngan Wai Court,Ngan Wai Court,2018-08-22,H,,,14,5,0,442,1954700,2018-02-13,,0,0.0,22.265532,113.997894
+206,New Territories,Islands,Lantau / Island,Silver Centre Building,Silver Centre Building,1976-11-28,,,,5,F,0,382,3200000,2018-02-12,2012-09-19,2380000,34.45,22.26477,114.000694
+207,New Territories,Islands,Lantau / Island,Scenic Garden,House B6 (House 26),1997-12-22,,2,,1,D,0,436,1980000,2018-02-11,,0,0.0,,
+208,New Territories,Islands,Lantau / Island,Greenery Crest,Block 9,1991-11-21,,2,,2,D,497,451,4200000,2018-02-11,,0,0.0,22.204123,114.02353
+209,New Territories,Islands,Lantau / Island,1-7 Ho Lee Street,1-7 Ho Lee Street (Pcl 386 Rp),1980-09-12,,,,G,,0,450,2480000,2018-02-11,,0,0.0,,
+210,New Territories,Islands,Lantau / Island,Whitesands,House 22,2015-02-09,,,,,,0,2417,49193000,2018-02-07,,0,0.0,22.23809,113.962135
+211,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,9,16,0,446,2034100,2018-02-05,,0,0.0,22.26513,113.99508
+212,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,7,10,0,462,2100700,2018-02-05,,0,0.0,22.26513,113.99508
+213,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,11,10,0,462,2130400,2018-02-05,,0,0.0,22.26513,113.99508
+214,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,9,20,0,383,1691400,2018-02-05,,0,0.0,22.26513,113.99508
+215,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,10,3,0,543,2504900,2018-02-05,,0,0.0,22.26513,113.99508
+216,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,12,7,0,389,1740100,2018-02-05,,0,0.0,22.26513,113.99508
+217,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,12,5,0,451,2062000,2018-02-05,,0,0.0,22.26513,113.99508
+218,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,12,12,0,388,1662100,2018-02-05,,0,0.0,22.26513,113.99508
+219,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,13,9,0,383,1714500,2018-02-05,,0,0.0,22.26513,113.99508
+220,New Territories,Islands,Lantau / Island,Treasure Bay,Block V (Kam Wah Court),1982-07-29,,,,2,308,0,362,2600000,2018-02-01,2015-02-02,2000000,30.0,,
+221,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,10,2,0,383,1733200,2018-01-30,,0,0.0,22.26513,113.99508
+222,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,8,8,0,388,1748400,2018-01-24,,0,0.0,22.26513,113.99508
+223,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,L,,,4,20,0,383,1639200,2018-01-24,,0,0.0,22.26513,113.99508
+224,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,5,14,0,380,1685600,2018-01-24,,0,0.0,22.26513,113.99508
+225,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,11,3,0,391,1770300,2018-01-24,,0,0.0,22.26513,113.99508
+226,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,14,2,0,383,1736200,2018-01-24,,0,0.0,22.26513,113.99508
+227,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,L,,,2,14,0,380,1575400,2018-01-24,,0,0.0,22.26513,113.99508
+228,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,14,11,0,391,1727600,2018-01-24,,0,0.0,22.26513,113.99508
+229,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,13,11,0,391,1742300,2018-01-24,,0,0.0,22.26513,113.99508
+230,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,13,19,0,380,1721400,2018-01-24,,0,0.0,22.26513,113.99508
+231,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,9,12,0,388,1644700,2018-01-24,,0,0.0,22.26513,113.99508
+232,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,2,16,0,454,1926200,2018-01-24,,0,0.0,22.26513,113.99508
+233,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,L,,,5,3,0,543,2457900,2018-01-24,,0,0.0,22.26513,113.99508
+234,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,5,11,0,391,1690600,2018-01-24,,0,0.0,22.26513,113.99508
+235,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,4,7,0,389,1687300,2018-01-24,,0,0.0,22.26513,113.99508
+236,New Territories,Islands,Lantau / Island,Whitesands,House 23,2015-02-09,,,,,,0,2417,50610000,2018-01-23,,0,0.0,22.238073,113.96195
+237,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,11,6,0,383,1731800,2018-01-18,,0,0.0,22.26513,113.99508
+238,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,12,18,0,450,2040200,2018-01-18,,0,0.0,22.26513,113.99508
+239,New Territories,Islands,Lantau / Island,Ngan Wai Court,Ngan Wai Court,2018-08-22,H,,,14,2,0,381,1658400,2018-01-18,,0,0.0,22.265532,113.997894
+240,New Territories,Islands,Lantau / Island,Ngan Wai Court,Ngan Wai Court,2018-08-22,H,,,10,3,0,445,1949500,2018-01-18,,0,0.0,22.265532,113.997894
+241,New Territories,Islands,Lantau / Island,Mui Wo Centre,Mui Wo Centre,1995-12-20,,,,1,B4,566,485,5780000,2018-01-17,1996-01-15,1355840,326.3,22.264274999999998,114.00166
+242,New Territories,Islands,Lantau / Island,Tin Lee Court,Tin Lee Court,1995-03-30,L,,,2,5,0,478,1950000,2018-01-17,,0,0.0,22.252914,113.86721
+243,New Territories,Islands,Lantau / Island,Botanica Bay,House 11,2013-09-29,,,,,,0,3575,66500000,2018-01-16,,0,0.0,22.235464,113.94853
+244,New Territories,Islands,Lantau / Island,1-9 Wing Lee Street,7 Wing Lee Street,1975-05-19,,,,2,,0,404,1650000,2018-01-15,,0,0.0,,
+245,New Territories,Islands,Lantau / Island,1-9 Wing Lee Street,8 Wing Lee Street,1975-05-19,,,,2,,0,404,1650000,2018-01-14,,0,0.0,,
+246,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,3,1,0,383,1682700,2018-01-10,,0,0.0,22.26513,113.99508
+247,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,16,7,0,380,1732900,2018-01-10,,0,0.0,22.26513,113.99508
+248,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,M,,,7,13,0,380,1692900,2018-01-10,,0,0.0,22.26513,113.99508
+249,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,5,4,0,388,1726500,2018-01-10,,0,0.0,22.26513,113.99508
+250,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,12,6,0,384,1720700,2018-01-10,,0,0.0,22.26513,113.99508
+251,New Territories,Islands,Lantau / Island,Far East Consortium Peng Chau Bldg,Far East Consortium Peng Chau Bldg,1978-02-05,,,,3,B,0,477,2350000,2018-01-10,,0,0.0,,
+252,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,13,3,0,391,1782100,2018-01-10,,0,0.0,22.26513,113.99508
+253,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,3,6,0,384,1644100,2018-01-10,,0,0.0,22.26513,113.99508
+254,New Territories,Islands,Lantau / Island,Seaview Building,Sea View Building,1986-07-17,,,,5,G,0,403,3000000,2018-01-09,,0,0.0,,
+255,New Territories,Islands,Lantau / Island,Whitesands,House 21,2015-02-09,,,,,,0,2584,58708000,2018-01-09,,0,0.0,22.237679,113.96254
+256,New Territories,Islands,Lantau / Island,Monterey Villas,Block C,1997-04-06,,,,3,1,0,483,3200000,2018-01-08,,0,0.0,22.285411999999997,114.03759
+257,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,12,9,0,385,1754600,2018-01-07,,0,0.0,22.26513,113.99508
+258,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,9,2,0,543,2466000,2018-01-07,,0,0.0,22.26513,113.99508
+259,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,8,4,0,448,2028600,2018-01-07,,0,0.0,22.26513,113.99508
+260,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,15,7,0,380,1747200,2018-01-07,,0,0.0,22.26513,113.99508
+261,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,15,3,0,543,2545900,2018-01-07,,0,0.0,22.26513,113.99508
+262,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,14,14,0,380,1684200,2018-01-07,,0,0.0,22.26513,113.99508
+263,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,L,,,2,5,0,451,1920900,2018-01-07,,0,0.0,22.26513,113.99508
+264,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,L,,,3,13,0,383,1588800,2018-01-07,,0,0.0,22.26513,113.99508
+265,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,M,,,9,6,0,384,1703300,2018-01-07,,0,0.0,22.26513,113.99508
+266,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,2,7,0,389,1625800,2018-01-07,,0,0.0,22.26513,113.99508
+267,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,11,14,0,380,1667100,2018-01-07,,0,0.0,22.26513,113.99508
+268,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,11,11,0,384,1758300,2018-01-07,,0,0.0,22.26513,113.99508
+269,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,9,14,0,380,1655700,2018-01-07,,0,0.0,22.26513,113.99508
+270,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,9,19,0,380,1698600,2018-01-07,,0,0.0,22.26513,113.99508
+271,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,7,7,0,380,1700100,2018-01-07,,0,0.0,22.26513,113.99508
+272,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,14,6,0,383,1749200,2018-01-07,,0,0.0,22.26513,113.99508
+273,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,13,11,0,384,1769900,2018-01-07,,0,0.0,22.26513,113.99508
+274,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,L,,,1,17,0,391,1568600,2018-01-07,,0,0.0,22.26513,113.99508
+275,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,9,6,0,383,1720200,2018-01-07,,0,0.0,22.26513,113.99508
+276,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,5,2,0,383,1700000,2018-01-07,,0,0.0,22.26513,113.99508
+277,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,2,2,0,383,1632100,2018-01-07,,0,0.0,22.26513,113.99508
+278,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,12,19,0,380,1715700,2018-01-07,,0,0.0,22.26513,113.99508
+279,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,12,13,0,383,1665400,2018-01-07,,0,0.0,22.26513,113.99508
+280,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,11,19,0,380,1710000,2018-01-07,,0,0.0,22.26513,113.99508
+281,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,11,8,0,388,1765800,2018-01-07,,0,0.0,22.26513,113.99508
+282,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,10,6,0,383,1726000,2018-01-07,,0,0.0,22.26513,113.99508
+283,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,9,11,0,384,1746700,2018-01-07,,0,0.0,22.26513,113.99508
+284,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,14,3,0,543,2537700,2018-01-07,,0,0.0,22.26513,113.99508
+285,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,14,12,0,388,1673700,2018-01-07,,0,0.0,22.26513,113.99508
+286,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,13,14,0,380,1678500,2018-01-07,,0,0.0,22.26513,113.99508
+287,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,13,13,0,383,1671200,2018-01-07,,0,0.0,22.26513,113.99508
+288,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,16,5,0,451,2065400,2018-01-07,,0,0.0,22.26513,113.99508
+289,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,16,8,0,388,1774400,2018-01-07,,0,0.0,22.26513,113.99508
+290,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,13,9,0,385,1760400,2018-01-07,,0,0.0,22.26513,113.99508
+291,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,15,13,0,383,1662600,2018-01-07,,0,0.0,22.26513,113.99508
+292,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,L,,,2,1,0,450,1831500,2018-01-07,,0,0.0,22.26513,113.99508
+293,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,L,,,3,7,0,380,1654200,2018-01-07,,0,0.0,22.26513,113.99508
+294,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,14,5,0,384,1748200,2018-01-07,,0,0.0,22.26513,113.99508
+295,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,L,,,2,17,0,388,1665200,2018-01-07,,0,0.0,22.26513,113.99508
+296,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,4,6,0,384,1668700,2018-01-07,,0,0.0,22.26513,113.99508
+297,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,1,2,0,383,1574300,2018-01-07,,0,0.0,22.26513,113.99508
+298,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,3,12,0,450,1967200,2018-01-07,,0,0.0,22.26513,113.99508
+299,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,1,4,0,388,1577600,2018-01-07,,0,0.0,22.26513,113.99508
+300,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,12,4,0,448,2055800,2018-01-07,,0,0.0,22.26513,113.99508
+301,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,12,6,0,383,1737600,2018-01-07,,0,0.0,22.26513,113.99508
+302,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,11,13,0,383,1659600,2018-01-07,,0,0.0,22.26513,113.99508
+303,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,14,7,0,380,1741500,2018-01-07,,0,0.0,22.26513,113.99508
+304,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,14,11,0,384,1775700,2018-01-07,,0,0.0,22.26513,113.99508
+305,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,13,2,0,543,2498800,2018-01-07,,0,0.0,22.26513,113.99508
+306,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,13,10,0,462,2144400,2018-01-07,,0,0.0,22.26513,113.99508
+307,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,13,12,0,388,1667900,2018-01-07,,0,0.0,22.26513,113.99508
+308,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,L,,,2,6,0,383,1617700,2018-01-07,,0,0.0,22.26513,113.99508
+309,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,4,1,0,383,1700000,2018-01-07,,0,0.0,22.26513,113.99508
+310,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,3,4,0,388,1694400,2018-01-07,,0,0.0,22.26513,113.99508
+311,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,9,13,0,383,1648000,2018-01-07,,0,0.0,22.26513,113.99508
+312,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,12,1,0,450,2023300,2018-01-07,,0,0.0,22.26513,113.99508
+313,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,9,15,0,386,1683800,2018-01-07,,0,0.0,22.26513,113.99508
+314,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,8,15,0,386,1678000,2018-01-07,,0,0.0,22.26513,113.99508
+315,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,7,11,0,384,1733700,2018-01-07,,0,0.0,22.26513,113.99508
+316,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,12,11,0,384,1764100,2018-01-07,,0,0.0,22.26513,113.99508
+317,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,16,6,0,383,1740600,2018-01-07,,0,0.0,22.26513,113.99508
+318,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,16,9,0,385,1757500,2018-01-07,,0,0.0,22.26513,113.99508
+319,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,H,,,15,19,0,380,1712800,2018-01-07,,0,0.0,22.26513,113.99508
+320,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,L,,,5,6,0,383,1692800,2018-01-07,,0,0.0,22.26513,113.99508
+321,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,11,1,0,450,2016500,2018-01-07,,0,0.0,22.26513,113.99508
+322,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,11,20,0,383,1703000,2018-01-07,,0,0.0,22.26513,113.99508
+323,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,13,10,0,383,1714500,2018-01-07,,0,0.0,22.26513,113.99508
+324,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,5,6,0,384,1675900,2018-01-07,,0,0.0,22.26513,113.99508
+325,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,2,13,0,380,1582600,2018-01-07,,0,0.0,22.26513,113.99508
+326,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,H,,,12,2,0,383,1744800,2018-01-07,,0,0.0,22.26513,113.99508
+327,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block B,,L,,,5,13,0,380,1678500,2018-01-07,,0,0.0,22.26513,113.99508
+328,New Territories,Islands,Lantau / Island,Ngan Ho Court,Block A (Ngan Yuk House),,M,,,6,11,0,384,1726500,2018-01-07,,0,0.0,22.26513,113.99508

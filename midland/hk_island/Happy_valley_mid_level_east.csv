@@ -1,0 +1,1093 @@
+,region,subregion,district,estate,building,first_op_date,floor_level,bedroom,sitting_room,floor,flat,area,net_area,price,tx_date,last_tx_date,last_price,gain,lat,lon
+0,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yee Fung Building,Yee Fung Building,1972-09-22,L,0,,4,A,0,475,8750000,2021-01-06,2013-09-30,6400000,36.72,22.26956,114.18358
+1,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Central Peak,Alpex II,,M,,,5,OR A,0,0,188000000,2021-01-05,,0,0.0,22.267329999999998,114.17961
+2,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Central Peak,Alpex II,,M,,,5,OR B,0,0,176000000,2021-01-05,,0,0.0,22.267329999999998,114.17961
+3,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Celeste Court,Celeste Court,1992-10-02,M,2,,,E,0,617,13950000,2021-01-05,1996-11-09,6230000,123.92,22.2675829,114.18312
+4,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Central Peak,Everex II,,M,,,3,OR B,0,0,129200000,2021-01-05,,0,0.0,22.26857,114.17887999999999
+5,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Gardens,Winfield Gardens,1966-11-12,L,3,,5,D,0,1169,20000000,2020-12-30,2008-06-30,10550000,89.57000000000001,22.266614999999998,114.18502
+6,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Panny Court,Panny Court,1992-08-14,L,2,,5,B,582,412,7800000,2020-12-29,2007-11-09,3270000,138.53,22.268884999999997,114.1838
+7,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Stubbs Villa,Stubbs Villa,1981-12-30,M,,,7,B,0,2137,42000000,2020-12-29,2012-10-10,31800000,32.08,22.2731369,114.1770315
+8,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Wing On Lodge,Wing On Lodge,1984-05-02,M,3,2,3,74,1308,1170,28700000,2020-12-29,,0,0.0,22.267405999999998,114.18799
+9,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1976-03-08,M,3,,14,F,0,615,12180000,2020-12-24,2017-09-19,10000000,21.8,22.26693,114.18486
+10,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Woodland Heights,Woodland Heights,1965-06-29,L,,,4,D4,0,2547,85000000,2020-12-23,,0,0.0,22.26298,114.1848972
+11,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-19,L,2,2,10,C,683,524,9800000,2020-12-21,2016-10-26,8450000,15.98,22.2675194,114.1857254
+12,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,1 Happy View Terrace,1 Happy View Terrace,1956-06-25,,,,G,-,0,1340,12000000,2020-12-21,2012-11-01,26000000,-53.85,22.27471,114.18555
+13,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Court,Block A,1985-07-31,,2,2,4,2,739,685,11950000,2020-12-18,2017-11-28,10500000,13.81,22.267014,114.18345
+14,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,3 Happy View Terrace,3 Happy View Terrace,1956-07-11,,,,G,,0,1150,20732000,2020-12-17,,0,0.0,,
+15,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Lotto,Block D,1987-12-24,L,3,2,5,12,1211,1103,28038000,2020-12-16,2011-02-01,17000000,64.93,22.2717975,114.1866406
+16,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Arts Mansion,Arts Mansion,1979-01-11,L,,,10,A,1222,1051,25000000,2020-12-15,,0,0.0,22.270563,114.185204
+17,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 5,2002-03-22,M,,,22,A,2238,1724,91800000,2020-12-15,2013-04-12,63880000,43.71,22.2758419,114.1843665
+18,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Valley View,The Valley View,1992-08-13,M,2,2,14,A,673,426,7800000,2020-12-15,1999-06-21,2680000,191.04,22.2676985,114.1862055
+19,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenway Terrace,Block 1,1993-01-14,L,2,2,6,B,769,532,10280000,2020-12-11,2015-02-26,8900000,15.51,22.275093,114.18528
+20,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Hoc Tam Garden,Hoc Tam Garden,1984-03-23,M,3,2,10,A,1250,1069,19580000,2020-12-11,,0,0.0,22.268465,114.18458
+21,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Celeste Court,Celeste Court,1992-10-02,H,3,,25,B,1103,935,24780000,2020-12-11,2005-04-01,9100000,172.31,22.2675829,114.18312
+22,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenway Terrace,Block 2,1993-01-14,H,3,,,B,887,643,14100000,2020-12-10,,0,0.0,22.275306999999998,114.18535
+23,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Le Village,Le Village,2002-01-25,M,2,,19,A,555,379,8000000,2020-12-09,2011-08-15,5750000,39.13,22.268466999999998,114.1862066
+24,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Central Peak,Alpex I,2018-09-24,M,,,5,OR A,0,2005,172600000,2020-12-08,,0,0.0,22.26735,114.17986
+25,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Horace Court,Horace Court,1979-06-06,M,2,1,9,A,504,417,7950000,2020-12-08,2017-07-27,7500000,6.0,22.268687999999997,114.18445
+26,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grandview Tower,Block B,1978-02-01,H,3,,29,1,910,800,18000000,2020-12-07,1997-09-25,7760000,131.96,22.272322,114.174288
+27,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Central Peak,Alpex I,2018-09-24,M,,,5,OR B,0,1985,163800000,2020-12-07,,0,0.0,22.26735,114.17986
+28,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Jade Terrace,Jade Terrace,1989-06-29,M,2,2,15,B,590,468,9600000,2020-12-04,2012-04-27,6000000,60.0,22.275565999999998,114.18551
+29,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King-Inn Mansion,King-Inn Mansion,1982-07-20,H,3,2,16,,822,609,3000000,2020-12-04,2006-08-18,3850000,-22.080000000000002,22.269254,114.1848956
+30,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silver Star Court,Silver Star Court,1981-09-28,M,,,16,B,1088,940,19400000,2020-12-03,1997-12-10,7700000,151.95000000000002,22.2675334,114.184346
+31,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cheerful Court,Cheerful Court,1984-10-15,M,2,,13,A,450,319,5900000,2020-12-03,2016-11-04,4960000,18.95,22.268223,114.18687800000001
+32,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cathay Garden,Cathay Garden,1967-01-21,L,,,,A,650,471,7220000,2020-12-01,2001-05-14,1780000,305.62,22.267758,114.1852559
+33,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Tower,Village Tower,1972-07-21,L,3,2,4,D,1050,805,13000000,2020-12-01,2017-09-18,12800000,1.56,22.268679,114.18382
+34,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,La Vogue Court,La Vogue Court,1976-12-24,H,3,2,,A,1132,1003,19800000,2020-12-01,,0,0.0,22.268276,114.1852489
+35,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Marlborough House,Marlborough House,1960-09-08,H,,,11,B,0,1385,33380000,2020-11-30,,0,0.0,22.2679704,114.189298
+36,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greencliff,Greencliff,1989-10-24,,1,2,1,B,942,790,16380000,2020-11-27,2010-07-21,9250000,77.08,22.268387,114.181465
+37,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Hoc Tam Garden,Hoc Tam Garden,1984-03-23,H,3,2,18,B,1250,1069,21320000,2020-11-26,2005-11-22,7650000,178.69,22.268465,114.18458
+38,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Wing On Lodge,Wing On Lodge,1984-05-02,H,3,2,5,,1308,1170,37250000,2020-11-26,,0,0.0,22.267405999999998,114.18799
+39,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Le Village,Le Village,2002-01-25,M,1,,17,B,438,294,7050000,2020-11-24,2005-04-22,2520000,179.76,22.268466999999998,114.1862066
+40,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Venice Garden,Venice Garden,1991-05-01,M,3,2,3,C,792,636,12600000,2020-11-24,2007-06-06,5950000,111.76,22.264609999999998,114.189156
+41,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Broadville,The Broadville,1993-03-22,L,3,2,9,B,1490,1180,22880000,2020-11-23,2007-03-01,9500000,140.84,22.27395,114.18515
+42,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yuk Sau Mansion,Yuk Sau Mansion,1975-09-11,L,,,8,C,700,572,11000000,2020-11-23,2007-11-26,4860000,126.34,22.268641,114.184839
+43,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Stubbs Villa,Stubbs Villa,1981-12-30,H,,,11,A,0,2189,38500000,2020-11-20,2007-11-23,20000000,92.5,22.2731369,114.1770315
+44,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-19,M,2,2,,C,0,524,10100000,2020-11-20,2010-04-16,6388000,58.11,22.2675194,114.1857254
+45,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Pioneer Court,Pioneer Court,1990-08-13,H,2,,9,C,747,577,14380000,2020-11-19,2000-08-26,4750000,202.74,22.2722604,114.185265
+46,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Broadville,The Broadville,1993-03-22,L,3,2,11,C,1527,1211,25600000,2020-11-17,2004-07-02,8500000,201.18,22.27395,114.18515
+47,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Court,Happy Court,1993-06-11,,2,2,,A,530,328,6500000,2020-11-16,2010-09-06,4080000,59.31,22.269074,114.1861115
+48,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Sun View Court,Sun View Court,1985-03-05,L,,,5,A,0,478,9200000,2020-11-16,2010-01-08,4600000,100.0,22.268309,114.185356
+49,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Valley View,The Valley View,1992-08-13,L,2,2,10,A,673,426,8000000,2020-11-16,2015-01-07,6680000,19.76,22.2676985,114.1862055
+50,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Majestic Court,Majestic Court,1989-09-12,M,3,2,12,B,722,526,9730000,2020-11-13,2017-05-09,9000000,8.11,22.267729,114.185956
+51,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block J,1988-12-09,H,4,2,30,2,1750,1468,38000000,2020-11-12,,0,0.0,22.273563,114.186652
+52,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1976-03-08,H,3,,18,F,0,615,12800000,2020-11-11,,0,0.0,22.26693,114.18486
+53,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Rosedale Glen,Rosedale Glen,1993-09-29,L,,,5,,669,358,6200000,2020-11-10,2011-07-06,4388000,41.29,22.269558,114.1854
+54,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Nam Wing Building,Nam Wing Building,1970-07-16,L,2,2,2,B,550,353,5710000,2020-11-10,2003-11-21,900000,534.44,22.268580999999998,114.18655
+55,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenville Gardens,Block C,1980-12-03,M,,,10,2,1462,1329,27500000,2020-11-06,2000-01-28,6300000,336.51,22.27057,114.17786100000001
+56,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Lucerne Villa,Lucerne Villa,1971-11-29,L,,,2,,0,736,11500000,2020-11-06,2011-11-16,3800000,202.63,22.268295,114.18573
+57,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Cheung Mansions,King Cheung Mansions,1966-03-17,L,2,,4,14,0,741,9800000,2020-11-05,,0,0.0,22.269064,114.185356
+58,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Lunar Building,Lunar Building,1963-01-09,M,,,7,A,0,948,12880000,2020-11-05,,0,0.0,22.277313,114.18322
+59,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Goodview Garden,Block A,1982-11-26,,,,,A1,0,1818,93000000,2020-11-04,2007-11-07,23000000,304.35,22.267924,114.180132
+60,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenway Terrace,Block 1,1993-01-14,H,3,2,24,A,784,532,11550000,2020-11-04,2015-03-17,9980000,15.73,22.275093,114.18528
+61,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegance Tower,Elegance Tower,1992-06-01,L,1,2,10,B,651,374,7130000,2020-11-03,2011-06-22,5680000,25.53,22.267993999999998,114.18592
+62,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Blue Pool Lodge,Blue Pool Lodge,1957-07-02,H,,,10,,0,1103,18800000,2020-11-03,2011-06-20,14900000,26.17,22.270042,114.18501499999999
+63,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fortune Building,Fortune Building,1974-06-28,M,,,6,B,0,755,12800000,2020-11-03,2015-04-23,7000000,82.86,22.267395,114.18374
+64,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fung Fai Court,Fung Fai Court,1978-06-05,,,,4,H,0,580,4000000,2020-11-03,2005-04-08,2800000,42.86,22.2686075,114.183396
+65,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Rocha,Block B,1988-06-30,M,3,2,20,4,1340,1147,28500000,2020-11-03,2007-01-06,9400000,203.19,22.272558999999998,114.18628
+66,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1973-01-25,L,3,,7,B,0,880,17000000,2020-11-02,1997-05-29,6280000,170.70000000000002,22.26712,114.18511
+67,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Goodview Garden,Block F,1982-11-26,,,,,F1,0,1688,75000000,2020-11-02,,0,0.0,22.267924,114.180132
+68,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Goodview Garden,Block A,1982-11-26,,,,,A2,0,1818,121000000,2020-11-02,,0,0.0,22.267924,114.180132
+69,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Claymore Lodge,Claymore Lodge,1990-01-22,M,0,,14,A,426,284,5380000,2020-10-29,2016-10-26,4580000,17.47,22.268288,114.18554
+70,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King's Court,King's Court,1972-03-20,M,,,6,B,0,445,7500000,2020-10-28,2008-08-01,3900000,92.31,22.2674376,114.183989
+71,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Hawthorn Garden,Hawthorn Garden,1981-09-15,L,3,2,1,A,1078,808,11775000,2020-10-28,,0,0.0,22.266464,114.18763
+72,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,1-1B Fung Fai Terrace,1-1B Fung Fai Terrace,1955-10-18,,,,2,,0,791,10500000,2020-10-28,2010-01-08,6688000,57.0,22.2689861,114.1833881
+73,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,24-26 King Kwong Street,24-26 King Kwong Street,1966-03-04,H,,,6,,0,481,5800000,2020-10-23,2017-04-27,5150000,12.620000000000001,22.268902,114.184685
+74,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block E,1988-12-09,L,3,2,3,2,1354,1057,25980000,2020-10-23,2011-03-01,17880000,45.300000000000004,22.2733661,114.1858384
+75,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,2 Wang Tak Street,2 Wang Tak Street,1982-11-24,H,,,15,,0,1017,18800000,2020-10-22,2016-09-30,15500000,21.29,22.267982,114.183739
+76,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grandview Tower,Block B,1978-02-01,H,3,,29,2,935,817,20000000,2020-10-22,2020-04-22,7000000,185.71,22.272322,114.174288
+77,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,H & S Building,H & S Building,1968-05-11,L,,,12,D,0,572,9550000,2020-10-21,,0,0.0,22.27754,114.18357
+78,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Unique Tower,Unique Tower,1982-08-10,L,1,1,8,A,426,308,7300000,2020-10-20,2012-09-11,5150000,41.75,22.2694969,114.1839555
+79,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,La Vogue Court,La Vogue Court,1976-12-24,L,3,2,1,B,1132,1003,15000000,2020-10-19,,0,0.0,22.268276,114.1852489
+80,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 1,2002-03-22,M,3,,21,A,1438,1087,47300000,2020-10-19,2009-08-24,24552000,92.65,22.275192,114.184801
+81,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yuk Sau Mansion,Yuk Sau Mansion,1975-09-11,M,,,17,B,780,638,14500000,2020-10-19,2015-03-26,10250000,41.46,22.268641,114.184839
+82,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Se-Wan Mansion,43D Happy View Terrace,1961-09-29,,,,1,,0,1214,21000000,2020-10-19,,0,0.0,22.2740155,114.185992
+83,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenville Gardens,Block C,1980-12-03,H,,,21,2,1462,1329,28200000,2020-10-16,2001-06-19,6000000,370.0,22.27057,114.17786100000001
+84,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-19,M,2,2,15,B,656,499,9988000,2020-10-16,,0,0.0,22.2675194,114.1857254
+85,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grandview Tower,Block B,1978-02-01,L,3,,7,2,935,817,17100000,2020-10-15,2015-01-22,13000000,31.54,22.272322,114.174288
+86,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Unique Tower,Unique Tower,1982-08-10,M,1,1,12,B,426,308,7450000,2020-10-15,2008-02-28,3450000,115.94,22.2694969,114.1839555
+87,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cathay Garden,Cathay Garden,1967-01-21,L,,,3,D,0,471,6950000,2020-10-15,2009-12-31,3716000,87.03,22.267758,114.1852559
+88,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Rockwin Court,Rockwin Court,1988-08-01,,2,,3,F,630,414,7200000,2020-10-14,2006-10-17,2400000,200.0,22.267854,114.183072
+89,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Kam Kwong Mansion,Kam Kwong Mansion,1977-09-16,M,1,2,14,A,425,346,6800000,2020-10-14,2012-08-01,4200000,61.9,22.268933999999998,114.18426
+90,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-19,,3,2,30,A,791,597,14000000,2020-10-12,2004-04-03,4850000,188.66,22.2675194,114.1857254
+91,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Rockwin Court,Rockwin Court,1988-08-01,,2,,4,C,557,389,7000000,2020-10-12,,0,0.0,22.267854,114.183072
+92,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,United Mansion,United Mansion,1966-03-11,M,4,,8,C,2350,1975,37180000,2020-10-12,1997-05-17,5500000,576.0,22.272378999999997,114.175186
+93,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cheerful Court,Cheerful Court,1984-10-15,H,2,,17,A,450,319,5830000,2020-10-12,2013-09-25,5000000,16.6,22.268223,114.18687800000001
+94,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Court,Happy Court,1993-06-11,H,2,2,22,A,530,328,6400000,2020-10-09,2018-08-23,6900000,-7.25,22.269074,114.1861115
+95,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Amigo Mansion,Amigo Mansion,1975-10-23,H,2,,21,B,631,512,12100000,2020-10-08,2017-08-07,8880000,36.26,22.271895999999998,114.18484
+96,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block C,1988-12-09,L,4,2,7,1,1751,1426,37200000,2020-10-07,2007-03-02,12000000,210.0,22.273678999999998,114.1858595
+97,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenville Gardens,Block C,1980-12-03,H,,,22,2,1462,1329,29000000,2020-10-07,,0,0.0,22.27057,114.17786100000001
+98,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegance Tower,Elegance Tower,1992-06-01,M,1,2,16,B,651,374,6860000,2020-10-07,2012-11-07,5210000,31.67,22.267993999999998,114.18592
+99,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 9,2002-03-22,H,3,,35,A,1438,1087,54000000,2020-09-30,2004-11-15,17500000,208.57,22.276626999999998,114.183395
+100,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silver Star Court,Silver Star Court,1981-09-28,L,,,2,B,1088,940,18180000,2020-09-30,2004-10-23,4630000,292.66,22.2675334,114.184346
+101,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Moon Fair Mansion,Block Fgh,1974-01-17,M,3,2,6,6,1393,1129,21800000,2020-09-25,2010-06-15,11000000,98.18,22.271673,114.17704
+102,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Celeste Court,Celeste Court,1992-10-02,H,2,,23,D,737,617,15000000,2020-09-23,2001-09-20,4480000,234.82,22.2675829,114.18312
+103,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yee Fung Building,Yee Fung Building,1972-09-22,L,0,,4,F,0,340,4950000,2020-09-23,2006-03-31,1687000,193.42000000000002,22.26956,114.18358
+104,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Tsui Man Court,Tsui Man Court,1975-08-27,L,3,2,4,A,1200,929,14900000,2020-09-22,2008-01-24,3250000,358.46,22.26831,114.18632
+105,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silverwood,Silverwood,1998-02-09,L,2,,9,D,535,354,7000000,2020-09-21,1996-10-24,3678900,90.27,22.276031,114.185524
+106,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Nam Wing Building,Nam Wing Building,1970-07-16,H,2,2,7,F,505,358,5860000,2020-09-21,2007-07-09,1950000,200.51,22.268580999999998,114.18655
+107,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block J,1988-12-09,M,4,2,21,1,1996,1682,45500000,2020-09-18,2001-09-12,10400000,337.5,22.273563,114.186652
+108,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silver Star Court,Silver Star Court,1981-09-28,H,,,20,A,1088,940,18600000,2020-09-17,,0,0.0,22.2675334,114.184346
+109,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Unique Tower,Unique Tower,1982-08-10,,1,1,17,D,426,308,5850000,2020-09-17,2010-07-14,3260000,79.45,22.2694969,114.1839555
+110,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Tsun Yuen Street 5,Tsun Yuen Street 5,1959-12-28,L,,,2,,0,370,4980000,2020-09-17,2017-05-02,4399990,13.18,22.26749,114.18725
+111,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Altitude,The Altitude,2011-07-05,M,2,,27,A,1923,1519,43180000,2020-09-17,2012-01-31,40150000,7.55,22.267198,114.184611
+112,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegant Court,Elegant Court,1981-10-20,H,2,2,22,B,627,522,10000000,2020-09-14,1998-03-18,3900000,156.41,22.268123,114.184225
+113,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mandarin Villa,Block West,1973-05-31,M,2,,7,6,750,629,9900000,2020-09-09,2006-05-04,4200000,135.71,22.2718258,114.1768092
+114,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Broadville,The Broadville,1993-03-22,M,3,2,15,B,1490,1180,23000000,2020-09-08,2008-02-05,15650000,46.96,22.27395,114.18515
+115,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegant Court,Elegant Court,1981-10-20,L,2,2,4,B,627,522,9180000,2020-09-07,2004-06-03,2450000,274.69,22.268123,114.184225
+116,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Mansion,Village Mansion,1965-02-06,M,,,7,B,0,717,12500000,2020-09-04,2010-01-18,6300000,98.41,22.267924,114.18357
+117,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,1-3 Sing Woo Road,1-3 Sing Woo Road,1964-10-13,L,,,2,,0,570,8500000,2020-09-04,2012-10-05,5930000,43.34,22.269866,114.184947
+118,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,27-29 Village Terrace,27-29 Village Terrace,1956-07-30,,,,G,,0,2525,28500000,2020-09-03,,0,0.0,22.267142,114.182982
+119,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,San Francisco Towers,Block A,1983-04-26,M,3,2,10,4,1050,910,22000000,2020-08-31,2000-02-26,6250000,252.0,22.269878,114.18627599999999
+120,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block E,1988-12-09,M,3,2,13,2,1354,1057,28800000,2020-08-31,2015-05-08,21000000,37.14,22.2733661,114.1858384
+121,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Notting Hill,The Notting Hill,2002-06-21,,2,,3,D,0,570,10650000,2020-08-28,2011-03-01,6980000,52.58,22.2675495,114.181844
+122,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Le Cachet,Le Cachet,2001-04-23,L,2,,13,A,751,534,5400000,2020-08-27,2010-02-23,6680000,-19.16,22.2677,114.18721
+123,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-19,,2,2,23,F,680,524,10000000,2020-08-26,1996-07-19,3980000,151.26,22.2675194,114.1857254
+124,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Horace Court,Horace Court,1979-06-06,M,2,1,17,C,574,473,8000000,2020-08-24,2011-04-07,5800000,37.93,22.268687999999997,114.18445
+125,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ventris Place,Block C,1985-06-29,M,4,2,11,6,2121,1863,47000000,2020-08-19,,0,0.0,22.270972999999998,114.185774
+126,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Richview Villa,Richview Villa,1992-06-19,,2,,2,C,0,354,5300000,2020-08-18,1997-01-17,2450000,116.33,22.268387,114.18308
+127,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Moon Fair Mansion,Block Abc,1974-01-17,L,3,2,4,B4,1393,1153,20200000,2020-08-18,,0,0.0,22.271517,114.177376
+128,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegant Court,Elegant Court,1981-10-20,H,2,2,19,A,627,522,10200000,2020-08-18,2013-02-18,8880000,14.86,22.268123,114.184225
+129,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mayfair Court,Mayfair Court,1980-07-10,,2,2,3,C,450,371,6230000,2020-08-18,2004-02-25,1050000,493.33,22.2684716,114.183398
+130,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-19,M,2,2,20,F,680,524,9930000,2020-08-18,2011-02-18,6618000,50.050000000000004,22.2675194,114.1857254
+131,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenway Terrace,Block 2,1993-01-14,L,3,,9,A,887,643,12200000,2020-08-17,2015-08-19,11600000,5.17,22.275306999999998,114.18535
+132,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,37-41 Happy View Terrace,37-41 Happy View Terrace,1960-05-11,,,,1,,0,1110,18500000,2020-08-14,,0,0.0,22.274399,114.18607
+133,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,27-29 Village Terrace,27-29 Village Terrace,1956-07-30,,,,2,,0,1138,14500000,2020-08-13,2012-09-20,13600000,6.62,22.267142,114.182982
+134,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Bellevue Court,Block C,1964-12-07,M,,,7,62,0,2257,52000000,2020-08-13,2018-03-08,57100000,-8.93,22.264129999999998,114.18399
+135,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Evergreen Villa,Block A,1970-11-12,M,4,,13,2,0,2363,63000000,2020-08-12,2005-10-14,22800000,176.32,22.265715999999998,114.182353
+136,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,15 Tsun Yuen Street,15 Tsun Yuen Street,1958-06-05,M,,,3,,0,463,4600000,2020-08-12,,0,0.0,22.26759,114.18738
+137,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Horace Court,Horace Court,1979-06-06,L,2,1,5,A,504,417,7600000,2020-08-12,2013-06-28,5800000,31.03,22.268687999999997,114.18445
+138,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broom Garden,Block 1,1994-03-24,,3,,2,D,1093,848,19680000,2020-08-11,1997-08-27,9280000,112.07000000000001,22.264146999999998,114.18886
+139,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Regent Hill,Regent Hill,2016-09-21,H,3,,23,B,0,884,27800000,2020-08-10,2016-08-22,24109000,15.31,22.26782,114.187035
+140,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Celeste Court,Celeste Court,1992-10-02,M,3,,15,H,1116,946,21880000,2020-08-10,2006-09-19,8230000,165.86,22.2675829,114.18312
+141,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yue Lee Building,Yue Lee Building,1966-01-12,,,,3,,0,521,7100000,2020-08-07,,0,0.0,22.26897,114.18442
+142,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,San Francisco Towers,Block A,1983-04-26,L,3,2,3,3,1050,910,21080000,2020-08-05,2013-02-21,16500000,27.76,22.269878,114.18627599999999
+143,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cheerful Court,Cheerful Court,1984-10-15,H,1,,22,A,375,256,5850000,2020-08-05,2013-08-08,4380000,33.56,22.268223,114.18687800000001
+144,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Richview Villa,Richview Villa,1992-06-19,,3,,1,D,0,492,8900000,2020-08-05,2007-03-21,2550000,249.02,22.268387,114.18308
+145,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Amigo Mansion,Amigo Mansion,1975-10-23,L,2,,4,B,631,512,9980000,2020-08-05,1997-09-20,4680000,113.25,22.271895999999998,114.18484
+146,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Richview Villa,Richview Villa,1992-06-19,,2,,3,B,0,325,5250000,2020-08-04,2010-06-17,2538000,106.86,22.268387,114.18308
+147,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mandarin Villa,Block West,1973-05-31,M,3,,9,2,1450,1168,20500000,2020-08-04,1999-06-01,5050000,305.94,22.2718258,114.1768092
+148,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block A,1988-12-09,L,4,2,3,1,1968,1654,40000000,2020-08-03,2013-03-04,32400000,23.46,22.2739146,114.186311
+149,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,No. 47A Stubbs Road,No.47A Stubbs Road,1975-03-07,H,,,12,B,0,2600,110000000,2020-07-31,,0,0.0,22.268501999999998,114.176037
+150,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 5,2002-03-22,L,,,11,A,2238,1724,85000000,2020-07-31,2001-06-21,17960000,373.27,22.2758419,114.1843665
+151,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Race Course Mansion,Race Course Mansion,1959-01-23,H,,,7,D,0,952,21480000,2020-07-30,2010-04-27,11350000,89.25,22.273716,114.183914
+152,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 2,2002-03-22,M,3,,21,B,1618,1240,54800000,2020-07-29,2000-12-22,13342200,310.73,22.2753611,114.1846274
+153,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenville Gardens,Block C,1980-12-03,L,,,4,4,1340,1210,22000000,2020-07-28,2010-08-10,13500000,62.96,22.27057,114.17786100000001
+154,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Richery Garden,Richery Garden,1997-02-10,,2,2,1,F,953,761,11880000,2020-07-27,2008-02-29,5200000,128.46,22.2678171,114.1817405
+155,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1976-03-08,L,3,,8,G,0,622,11500000,2020-07-27,,0,0.0,22.26693,114.18486
+156,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Le Village,Le Village,2002-01-25,H,,,31,A,1441,1048,27000000,2020-07-27,,0,0.0,22.268466999999998,114.1862066
+157,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Gracedale,The Gracedale,1999-06-15,H,2,,28,B,0,392,9060000,2020-07-27,2015-04-10,7700000,17.66,22.268345,114.185029
+158,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Richview Villa,Richview Villa,1992-06-19,,2,,2,A,0,550,9380000,2020-07-27,2016-11-23,7200000,30.28,22.268387,114.18308
+159,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Notting Hill,The Notting Hill,2002-06-21,,0,,1,B,387,274,5030000,2020-07-27,2016-06-24,4100000,22.68,22.2675495,114.181844
+160,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenville Gardens,Block B,1975-05-01,L,,,3,B1,1660,1411,27500000,2020-07-24,,0,0.0,22.27095,114.177643
+161,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Lotto,Block D,1987-12-24,M,3,2,16,12,1211,1103,29000000,2020-07-24,2007-11-08,10180000,184.87,22.2717975,114.1866406
+162,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Unique Tower,Unique Tower,1982-08-10,,1,1,23,B,426,308,7800000,2020-07-23,2011-07-20,6050000,28.93,22.2694969,114.1839555
+163,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King-Inn Mansion,King-Inn Mansion,1982-07-20,L,3,2,6,,822,616,10000000,2020-07-23,2017-05-09,8650000,15.610000000000001,22.269254,114.1848956
+164,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silverwood,Silverwood,1998-02-09,L,2,,5,C,503,341,7380000,2020-07-22,2012-10-04,5080000,45.28,22.276031,114.185524
+165,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Altitude,The Altitude,2011-07-04,L,3,,9,D,1955,1531,40000000,2020-07-21,2012-08-29,33094600,20.87,22.267198,114.184611
+166,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mayfair Court,Mayfair Court,1980-07-10,,2,2,3,A,480,346,5500000,2020-07-21,2011-07-27,3930000,39.95,22.2684716,114.183398
+167,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Wan Choi Yuen,Wan Choi Yuen,1963-12-14,,,,2,A,0,1468,31000000,2020-07-21,2007-12-03,17000000,82.35000000000001,22.262337,114.19078999999999
+168,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grand Court,Grand Court,1981-08-28,M,3,2,13,B,970,799,15000000,2020-07-21,2002-10-11,3200000,368.75,22.267951999999998,114.18439
+169,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,21 Sing Woo Road,21 Sing Woo Road,1964-05-09,L,,,2,,0,635,7780000,2020-07-20,2011-03-03,4380000,77.63,22.269575,114.18530000000001
+170,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,May Mansion,May Mansion,1982-03-16,M,2,,12,B,698,464,8850000,2020-07-20,,0,0.0,22.268486,114.184166
+171,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winner Building,Winner Building,1965-01-15,M,,,9,C,0,554,8360000,2020-07-20,2007-10-22,3500000,138.86,22.2695386,114.1840724
+172,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Celeste Court,Celeste Court,1992-10-02,H,3,,19,B,1103,935,21000000,2020-07-17,2009-08-18,12180000,72.41,22.2675829,114.18312
+173,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grandview Tower,Block A,1978-02-01,L,3,,5,2,910,800,16430000,2020-07-17,1997-07-15,6775000,142.51,22.272322,114.174288
+174,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mount Nicholson,Tower D,2016-02-18,,4,,,,0,4517,533136000,2020-07-17,,0,0.0,22.262712,114.17978
+175,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winner House,Winner House,1979-06-04,M,,,6,B,0,313,5750000,2020-07-17,2011-02-25,3500000,64.29,22.2695696,114.184169
+176,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cheong Ming Building,Cheong Ming Building,1964-01-25,M,,,6,,0,380,5000000,2020-07-17,2010-09-17,2000000,150.0,22.268335,114.18662
+177,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Notting Hill,The Notting Hill,2002-06-21,,2,,1,A,761,547,9780000,2020-07-16,2011-02-09,5430000,80.11,22.2675495,114.181844
+178,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Horace Court,Horace Court,1979-06-06,L,2,1,6,C,574,473,8180000,2020-07-15,2014-04-16,2000000,309.0,22.268687999999997,114.18445
+179,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block E,1988-12-09,L,3,2,4,2,1354,1057,26800000,2020-07-13,,0,0.0,22.2733661,114.1858384
+180,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grandview Tower,Block A,1978-02-01,L,3,,5,3,853,755,16380000,2020-07-10,,0,0.0,22.272322,114.174288
+181,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,13 King Kwong Street,13 King Kwong Street,1972-03-14,,,,1,,0,661,8100000,2020-07-10,,0,0.0,22.268976,114.18513
+182,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Evergreen Villa,Block B,1970-11-30,L,4,,4,2,0,2363,60000000,2020-07-10,1996-12-30,17300000,246.82,22.265791999999998,114.182087
+183,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenway Terrace,Block 2,1993-01-14,M,3,,16,A,887,643,13650000,2020-07-10,,0,0.0,22.275306999999998,114.18535
+184,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1973-01-25,L,3,,2,C,0,860,16480000,2020-07-09,2013-03-07,13820000,19.25,22.26712,114.18511
+185,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,No.23 King Kwong Street,No.23 King Kwong Street,1975-04-22,H,,,9,,0,715,5000000,2020-07-08,,0,0.0,22.26876,114.18478
+186,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Notting Hill,The Notting Hill,2002-06-21,,2,,2,J,0,502,8800000,2020-07-08,2010-03-19,4900000,79.59,22.2675495,114.181844
+187,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grandview Tower,Block A,1978-02-01,M,3,,14,1,935,817,17380000,2020-07-07,1997-05-30,7120000,144.1,22.272322,114.174288
+188,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Blue Pool Mansion,Blue Pool Mansion,1959-03-18,M,3,2,8,,1500,1204,17700000,2020-07-07,,0,0.0,22.26631,114.188726
+189,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Nam Wing Building,Nam Wing Building,1970-07-16,M,2,2,4,D,550,375,5950000,2020-07-03,2011-03-30,3960000,50.25,22.268580999999998,114.18655
+190,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winner House,Winner House,1979-06-04,H,,,11,B,0,313,5500000,2020-07-03,2008-01-14,2400000,129.17000000000002,22.2695696,114.184169
+191,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Kam Yuk Mansion,Kam Yuk Mansion,1976-06-08,M,3,2,9,B,590,467,8800000,2020-07-01,2012-10-10,6250000,40.800000000000004,22.268470999999998,114.1856289
+192,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Jade Terrace,Jade Terrace,1989-06-29,L,2,2,4,B,590,468,8120000,2020-06-30,2016-07-07,6750000,20.3,22.275565999999998,114.18551
+193,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Tung Shan Villa,Tung Shan Villa,1971-03-12,,3,2,3,D,1450,1180,20380000,2020-06-30,,0,0.0,22.267492,114.181423
+194,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ascot Tower,Ascot Tower,1984-02-01,M,,,10,,0,897,6000000,2020-06-30,2015-07-29,4000000,50.0,22.268425,114.1859569
+195,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Cheung Mansions,King Cheung Mansions,1966-03-17,L,1,,3,9,0,692,8000000,2020-06-30,,0,0.0,22.269064,114.185356
+196,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Richview Villa,Richview Villa,1992-06-18,,2,,G,C,0,354,5800000,2020-06-28,2004-12-12,1388000,317.87,22.268387,114.18308
+197,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block F,1988-12-09,M,4,2,14,2,1624,1346,36280000,2020-06-26,2006-09-14,10430000,247.84,22.2731795,114.185875
+198,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Amigo Mansion,Amigo Mansion,1975-10-23,L,2,,7,B,631,512,10000000,2020-06-26,2012-11-19,8300000,20.48,22.271895999999998,114.18484
+199,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Panny Court,Panny Court,1992-08-14,H,3,,21,C,704,502,9800000,2020-06-24,2008-06-30,5850000,67.52,22.268884999999997,114.1838
+200,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenway Terrace,Block 1,1993-01-13,H,3,2,26,A,784,532,12000000,2020-06-23,2015-05-25,9680000,23.97,22.275093,114.18528
+201,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mayfair Court,Mayfair Court,1980-07-10,,2,2,G,E,450,337,6500000,2020-06-23,,0,0.0,22.2684716,114.183398
+202,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fortuna Court,Fortuna Court,1997-08-12,L,3,2,12,B,1051,679,17880000,2020-06-22,2012-04-26,12800000,39.69,22.2694504,114.1837436
+203,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,14 Tsun Yuen Street,14 Tsun Yuen Street,1953-09-20,,,,1,,0,377,5300000,2020-06-21,,0,0.0,,
+204,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Blue Pool Mansion,Blue Pool Mansion,1959-03-17,L,3,2,3,,1500,1288,18500000,2020-06-18,2007-10-21,8200000,125.61,22.26631,114.188726
+205,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cathay Garden,Cathay Garden,1967-01-21,M,,,7,A,0,471,7830000,2020-06-18,,0,0.0,22.267758,114.1852559
+206,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Wah Chi Mansion,Wah Chi Mansion,1964-06-01,L,3,2,1,C,1500,1232,12000000,2020-06-16,2020-06-08,12000000,0.0,22.2672939,114.184929
+207,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,87 Wong Nai Chung Road,87 Wong Nai Chung Road,1957-02-27,L,,,1,,0,543,8200000,2020-06-16,,0,0.0,22.273521,114.18403
+208,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Comfort Mansion,Comfort Mansion,1964-07-07,,3,2,G,36,1050,760,12000000,2020-06-15,,0,0.0,22.271055999999998,114.18507
+209,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegant Court,Elegant Court,1981-10-20,H,2,2,21,A,627,522,10000000,2020-06-12,2011-08-18,6880000,45.35,22.268123,114.184225
+210,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Evergreen Villa,Block C,1972-03-06,L,3,,2,1,0,2323,63000000,2020-06-12,2007-12-10,30100000,109.3,22.265855,114.181821
+211,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Green Valley Mansion,Green Valley Mansion,1964-11-30,H,3,2,12,C,1200,1018,16500000,2020-06-12,,0,0.0,22.27072,114.18509
+212,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Building,Block A,1984-10-18,M,,,12,2,2468,1953,55000000,2020-06-11,2013-04-22,66946500,-17.84,22.273422,114.184746
+213,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greencliff,Greencliff,1989-10-23,,2,2,3,F,900,738,15380000,2020-06-10,2014-10-09,11906000,29.18,22.268387,114.181465
+214,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Lai Sing Building,Lai Sing Building,1987-09-13,L,2,2,2,B,702,463,10000000,2020-06-10,2005-06-24,3680000,171.74,22.269669999999998,114.185236
+215,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Court,Happy Court,1993-06-10,M,2,2,16,B,530,328,6700000,2020-06-10,2016-10-04,5800000,15.52,22.269074,114.1861115
+216,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,San Francisco Towers,Block A,1983-04-25,M,3,2,11,1,1116,959,23228000,2020-06-10,1997-07-11,9970000,132.98,22.269878,114.18627599999999
+217,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,May Mansion,May Mansion,1982-03-15,M,2,,17,A,719,479,9950000,2020-06-10,2009-06-21,4680000,112.61,22.268486,114.184166
+218,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block A,1988-12-09,M,4,2,15,1,1968,1654,49000000,2020-06-10,2016-10-05,32800000,49.39,22.2739146,114.186311
+219,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Unique Tower,Unique Tower,1982-08-10,M,1,1,15,C,426,308,6100000,2020-06-10,2014-02-07,4500000,35.56,22.2694969,114.1839555
+220,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broadwood Twelve,Broadwood Twelve,2010-06-08,H,3,,46,B,1650,1280,54100000,2020-06-10,2012-11-07,46800000,15.6,22.272126999999998,114.1863455
+221,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenway Terrace,Block 2,1993-01-13,L,3,,6,B,891,643,12280000,2020-06-09,,0,0.0,22.275306999999998,114.18535
+222,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grandview Tower,Block A,1978-02-01,H,3,,29,3,730,629,16320000,2020-06-09,,0,0.0,22.272322,114.174288
+223,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Wah Chi Mansion,Wah Chi Mansion,1964-06-01,L,3,2,1,C,1500,1232,12000000,2020-06-08,2009-10-07,12000000,0.0,22.2672939,114.184929
+224,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Shing Building,Shan Shing Building,1977-01-05,L,,,5,A,0,563,8880000,2020-06-08,1996-07-12,3060000,190.20000000000002,22.267497,114.18419
+225,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,47-49 Blue Pool Road,47-49 Blue Pool Road,1973-02-16,M,,,3,,0,1276,28500000,2020-06-08,,0,0.0,22.267364,114.188457
+226,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King-Inn Mansion,King-Inn Mansion,1982-07-20,M,3,2,9,,822,616,10850000,2020-06-08,2012-01-17,6750000,60.74,22.269254,114.1848956
+227,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mandarin Villa,Block East,1973-05-30,L,2,,4,7,750,629,9650000,2020-06-07,2004-10-28,2630000,266.92,22.271967,114.176563
+228,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ventris Place,Block C,1985-06-28,M,4,2,16,6,2121,1863,51500000,2020-06-04,2014-03-19,43000000,19.77,22.270972999999998,114.185774
+229,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-18,L,2,2,5,C,683,524,9350000,2020-06-04,2014-08-21,7340000,27.38,22.2675194,114.1857254
+230,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Cheung Mansions,King Cheung Mansions,1966-03-16,H,,,8,10,0,532,7500000,2020-06-04,2004-05-04,1190000,530.25,22.269064,114.185356
+231,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broadwood Park,Broadwood Park,1984-08-08,L,3,2,4,B,2740,2414,71880000,2020-06-04,1998-09-30,14565000,393.51,22.2693,114.188233
+232,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Champion Building,Champion Building,1972-08-22,M,,,9,B,0,970,22800000,2020-06-04,2011-10-21,15000000,52.0,22.271406,114.184969
+233,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yee Fung Building,Yee Fung Building,1972-09-22,H,,,9,A,0,475,10000000,2020-06-04,2012-04-11,6160000,62.34,22.26956,114.18358
+234,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Kwong Mansion,King Kwong Mansion,1989-06-12,L,,,7,A,405,259,5280000,2020-06-03,2011-01-14,2350000,124.68,22.269244999999998,114.185243
+235,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Friendship Court,Friendship Court,1975-01-02,M,3,,14,D,0,783,14000000,2020-06-02,,0,0.0,22.269793999999997,114.185455
+236,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 9,2002-03-22,H,3,,33,C,1482,1127,45000000,2020-06-02,2007-09-27,18000000,150.0,22.276626999999998,114.183395
+237,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Gracedale,The Gracedale,1999-06-15,H,2,,25,A,617,375,8600000,2020-06-01,2007-08-17,3380000,154.44,22.268345,114.185029
+238,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Rocha,Block A,1988-06-30,M,3,2,14,4,1340,1147,28300000,2020-06-01,2009-06-17,12680000,123.19,22.2728385,114.186184
+239,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winner Building,Winner Building,1965-01-15,L,,,3,B,0,644,10280000,2020-06-01,,0,0.0,22.2695386,114.1840724
+240,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Unique Tower,Unique Tower,1982-08-09,L,1,1,5,C,426,308,4500000,2020-05-31,2012-03-19,3725000,20.81,22.2694969,114.1839555
+241,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Shing Building,Shan Shing Building,1977-01-05,L,,,9,B,0,563,9680000,2020-05-29,2013-08-30,7460000,29.76,22.267497,114.18419
+242,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Jade Terrace,Jade Terrace,1989-06-28,L,3,2,5,D,827,632,12438000,2020-05-27,2001-02-08,3180000,291.13,22.275565999999998,114.18551
+243,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Good View Court,Good View Court,1960-01-29,,,,1,,0,1614,38380000,2020-05-26,2006-02-01,12080000,217.72,22.274606,114.186113
+244,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Gardens,Winfield Gardens,1966-11-12,L,3,,3,A,0,1169,19600000,2020-05-26,2002-02-05,3920000,400.0,22.266614999999998,114.18502
+245,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silverwood,Silverwood,1998-02-09,,3,,25,B,1045,692,15000000,2020-05-26,2010-08-31,8480000,76.89,22.276031,114.185524
+246,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,139 Wong Nai Chung Road,139 Wong Nai Chung Road,1975-09-16,,,,2,B,0,285,7080000,2020-05-25,2008-05-15,2700000,162.22,22.275689999999997,114.182816
+247,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Horace Court,Horace Court,1979-06-05,H,2,1,20,A,504,417,8400000,2020-05-25,2008-07-09,4000000,110.0,22.268687999999997,114.18445
+248,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Moon Fair Mansion,Block Abc,1974-01-16,H,3,2,12,12,1393,1153,21500000,2020-05-24,2008-01-29,12000000,79.17,22.271517,114.177376
+249,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Crescent Heights,Crescent Heights,1996-11-08,,2,2,1,A,1174,946,12800000,2020-05-22,1999-01-21,5200000,146.15,22.26787,114.181408
+250,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,339 Tai Hang Road,Block B,2013-10-10,,,,3,,0,1506,53180000,2020-05-21,2015-03-29,50652880,4.99,22.262249999999998,114.190094
+251,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Kwong Mansion,King Kwong Mansion,1989-06-11,H,,,17,B,405,259,5250000,2020-05-20,2013-06-13,4050000,29.63,22.269244999999998,114.185243
+252,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cheerful Court,Cheerful Court,1984-10-14,L,2,,3,A,450,319,5600000,2020-05-17,2013-08-28,4600000,21.740000000000002,22.268223,114.18687800000001
+253,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Nga Yuen,Nga Yuen,1965-10-28,M,3,2,6,D,750,592,10000000,2020-05-15,2011-11-28,6000000,66.67,22.268082,114.186079
+254,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yee Fung Building,Yee Fung Building,1972-09-22,L,0,,3,E,0,340,5300000,2020-05-14,,0,0.0,22.26956,114.18358
+255,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,San Francisco Towers,Block A,1983-04-26,M,3,2,12,1,1116,959,22000000,2020-05-14,1999-11-04,5750000,282.61,22.269878,114.18627599999999
+256,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Vivian's Court,Block D,1981-12-07,M,3,2,4,,1050,843,16000000,2020-05-14,,0,0.0,22.265344,114.189104
+257,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Unique Tower,Unique Tower,1982-08-09,M,1,1,11,B,426,308,7300000,2020-05-10,1998-05-12,2800000,160.71,22.2694969,114.1839555
+258,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block K,1988-12-09,H,3,2,37,2,1382,1083,29500000,2020-05-07,2011-02-11,20000000,47.5,22.273754,114.186515
+259,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Moon Fair Mansion,Block Fgh,1974-01-16,L,3,2,1,G1,1393,1129,18500000,2020-05-06,2009-04-29,8500000,117.65,22.271673,114.17704
+260,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 2,2002-03-22,H,3,,32,A,1618,1240,57000000,2020-05-05,2000-12-21,15242900,273.94,22.2753611,114.1846274
+261,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,San Francisco Towers,Block B,1983-04-25,L,3,2,1,3,1050,910,19000000,2020-05-04,2013-02-20,15680000,21.17,22.270221,114.186159
+262,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mount Nicholson,Tower B,2016-02-18,,4,,,,0,4189,380000000,2020-04-29,,0,0.0,22.263047999999998,114.18044
+263,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1976-03-08,L,3,,7,H,0,615,10000000,2020-04-28,2008-01-15,5368000,86.29,22.26693,114.18486
+264,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block B,1988-12-09,L,4,2,9,2,1733,1409,37500000,2020-04-28,2005-05-13,11800000,217.8,22.2737495,114.186124
+265,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yun On Terrace,Yun On Terrace,1980-09-03,,3,2,1,A,0,1144,23000000,2020-04-27,2007-09-07,10100000,127.72,22.263174,114.18973
+266,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Court,Happy Court,1993-06-10,L,2,2,9,A,530,328,6150000,2020-04-26,2017-03-02,6000000,2.5,22.269074,114.1861115
+267,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Palm Court,Palm Court,1997-08-21,M,,,16,,1050,654,12800000,2020-04-23,2010-12-31,9280000,37.93,22.267744,114.186371
+268,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Le Cachet,Le Cachet,2001-04-22,M,2,,19,A,751,534,10850000,2020-04-22,2004-02-23,3650000,197.26,22.2677,114.18721
+269,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 1,2002-03-22,L,3,,12,A,1438,1087,45568000,2020-04-22,2007-04-12,17100000,166.48,22.275192,114.184801
+270,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ascot Villas,Ascot Villas,1985-12-05,L,,,3,,0,473,8300000,2020-04-15,2006-01-15,2270000,265.64,22.268919999999998,114.18523
+271,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Race Tower,Race Tower,1990-11-09,H,,,19,,833,589,12900000,2020-04-15,2012-04-16,10000000,29.0,22.273336,114.18407
+272,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Celeste Court,Celeste Court,1992-10-01,M,2,,10,D,737,617,13500000,2020-04-14,2007-12-09,6000000,125.0,22.2675829,114.18312
+273,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greencliff,Greencliff,1989-10-24,,3,2,3,A,1163,954,18800000,2020-04-14,2006-10-24,8680000,116.59,22.268387,114.181465
+274,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Rocha,Block A,1988-06-30,M,3,2,15,1,1340,1147,27200000,2020-04-14,2006-01-27,9080000,199.56,22.2728385,114.186184
+275,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King's Court,King's Court,1972-03-20,H,,,10,C,0,339,5900000,2020-04-07,2004-06-05,1300000,353.85,22.2674376,114.183989
+276,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,7-9A Yuen Yuen Street,"7-7A , 9-9A Yuen Yuen Street",1966-01-25,H,,,6,,0,304,4000000,2020-04-06,,0,0.0,22.269323,114.18594
+277,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broadview Villa,Broadview Villa,1995-03-13,M,4,,20,A,3134,2583,94800000,2020-04-06,2009-04-24,3650000,2497.26,22.270104999999997,114.187268
+278,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yik Yam Mansion,Yik Yam Mansion,1964-05-26,L,,,3,,0,560,7500000,2020-04-05,2012-08-29,1480000,406.76,22.269423,114.184494
+279,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-19,,3,2,29,D,788,596,9125000,2020-04-03,1997-03-27,6450000,41.47,22.2675194,114.1857254
+280,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Claymore Lodge,Claymore Lodge,1990-01-22,H,0,,29,A,426,284,6200000,2020-03-31,2012-05-28,4100000,51.22,22.268288,114.18554
+281,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Miramar Villa,Block West,1969-10-07,M,3,2,8,1,1100,871,14700000,2020-03-31,2002-05-14,2950000,398.31,22.27294,114.17654999999999
+282,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Unique Tower,Unique Tower,1982-08-09,M,1,1,10,A,426,308,7200000,2020-03-29,2015-08-19,6000000,20.0,22.2694969,114.1839555
+283,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Rockwin Court,Rockwin Court,1988-07-31,,1,,1,G,604,423,7480000,2020-03-26,2005-02-21,1800000,315.56,22.267854,114.183072
+284,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Celeste Court,Celeste Court,1992-10-01,M,2,,16,E,737,617,13800000,2020-03-26,2007-12-12,6990000,97.42,22.2675829,114.18312
+285,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenville Gardens,Block C,1980-12-03,L,,,8,1,1506,1372,27500000,2020-03-26,2013-02-22,21800000,26.150000000000002,22.27057,114.17786100000001
+286,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Jade Terrace,Jade Terrace,1989-06-28,M,3,2,14,D,827,632,12800000,2020-03-24,,0,0.0,22.275565999999998,114.18551
+287,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Billion Terrace,Block B,1992-11-12,,2,2,4,1,895,573,13800000,2020-03-23,2000-12-12,4600000,200.0,22.262933999999998,114.18962
+288,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Jade Terrace,Jade Terrace,1989-06-29,M,2,2,12,B,590,468,8840000,2020-03-20,,0,0.0,22.275565999999998,114.18551
+289,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yee Fat Mansion,Yee Fat Mansion,1992-03-19,H,2,2,19,,715,426,7880000,2020-03-18,2011-05-30,5770000,36.57,22.268697,114.186415
+290,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Green View Mansion,Green View Mansion,1967-07-28,L,3,2,1,C,1200,925,20000000,2020-03-17,2016-04-18,15000000,33.33,22.270930999999997,114.1850305
+291,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Blue Pool Mansion,Blue Pool Mansion,1959-03-18,L,3,2,1,,1500,1373,18300000,2020-03-17,,0,0.0,22.26631,114.188726
+292,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Champion Building,Champion Building,1972-08-22,H,,,22,B,0,934,22000000,2020-03-17,2012-05-21,17500000,25.71,22.271406,114.184969
+293,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Unique Tower,Unique Tower,1982-08-09,,1,1,20,C,426,308,5967200,2020-03-16,2005-01-12,1400000,326.23,22.2694969,114.1839555
+294,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Kam Shan Court,Kam Shan Court,1976-02-08,L,2,2,6,B,0,457,7800000,2020-03-15,2006-11-23,2970000,162.63,22.2678394,114.1842685
+295,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ventris Place,Block B,1985-06-29,M,3,2,18,3,1560,1330,38000000,2020-03-13,2004-07-21,9780000,288.55,22.271372,114.185646
+296,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,33 Village Terrace,33 Village Terrace,1956-07-29,,,,4,,0,1103,15300000,2020-03-10,,0,0.0,22.267215999999998,114.18278
+297,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yee Fung Building,Yee Fung Building,1972-09-21,H,,,10,G,0,245,4380000,2020-03-10,2007-08-22,1999900,119.01,22.26956,114.18358
+298,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,9-10 Briar Avenue,9-10 Briar Avenue,1956-07-18,,,,2,,0,1600,38000000,2020-03-10,,0,0.0,22.26379,114.18893
+299,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Gracedale,The Gracedale,1999-06-14,M,2,,17,B,629,369,8000000,2020-03-09,2010-05-23,4580000,74.67,22.268345,114.185029
+300,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Marlborough House,Marlborough House,1960-09-08,H,,,10,C,0,973,16550000,2020-03-06,2011-03-16,17510000,-5.48,22.2679704,114.189298
+301,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Formwell Garden,Formwell Garden,1982-08-10,M,,,11,A,1600,1267,25700000,2020-02-28,1997-07-03,10200000,151.96,22.269266,114.186378
+302,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Evergreen Villa,Block C,1972-03-06,,,,G,1,0,2353,50000000,2020-02-28,,0,0.0,22.265855,114.181821
+303,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Bellevue Court,Block C,1964-12-06,L,,,4,55,0,2257,58000000,2020-02-27,,0,0.0,22.264129999999998,114.18399
+304,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Rocha,Block B,1988-06-30,,3,2,28,2,1313,1129,28000000,2020-02-26,2009-08-20,15900000,76.10000000000001,22.272558999999998,114.18628
+305,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silver Fair Mansion,Silver Fair Mansion,1965-07-22,L,3,,1,,1450,1119,18500000,2020-02-24,2014-08-27,15500000,19.35,22.272313999999998,114.17676
+306,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Claymore Lodge,Claymore Lodge,1990-01-21,H,1,,30,C,648,465,9550000,2020-02-23,2010-06-03,5288000,80.60000000000001,22.268288,114.18554
+307,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Rocha,Block B,1988-06-30,M,3,2,19,1,1340,1147,29300000,2020-02-21,2016-05-05,24100000,21.580000000000002,22.272558999999998,114.18628
+308,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 6,2002-03-22,L,,,12,B,2238,1724,72000000,2020-02-20,2014-10-13,40000000,80.0,22.276111999999998,114.184117
+309,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Paramount Mansion,Paramount Mansion,1979-01-05,M,,,16,2,0,502,9800000,2020-02-19,2011-02-18,6600000,48.480000000000004,22.269001,114.18376
+310,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fung Fai Court,Fung Fai Court,1978-06-05,,,,G,B,0,257,5150000,2020-02-19,2015-01-27,4000000,28.75,22.2686075,114.183396
+311,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Claymore Lodge,Claymore Lodge,1990-01-21,H,1,,29,C,648,465,9550000,2020-02-18,2006-03-17,3000000,218.33,22.268288,114.18554
+312,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King-Inn Mansion,King-Inn Mansion,1982-07-20,M,3,2,11,,822,616,11000000,2020-02-13,2016-10-27,8820000,24.72,22.269254,114.1848956
+313,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Celeste Court,Celeste Court,1992-10-01,L,3,,4,B,1103,935,22200000,2020-02-09,2007-02-22,8000000,177.5,22.2675829,114.18312
+314,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Claymore Lodge,Claymore Lodge,1990-01-21,M,0,,21,B,419,290,5800000,2020-02-09,2015-02-05,4950000,17.17,22.268288,114.18554
+315,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Gardens,Winfield Gardens,1966-11-12,H,3,,15,C,0,1169,19000000,2020-02-07,2014-04-29,19000000,0.0,22.266614999999998,114.18502
+316,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Tsui Man Court,Tsui Man Court,1975-08-26,H,3,2,23,B,911,771,15500000,2020-02-06,,0,0.0,22.26831,114.18632
+317,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Notting Hill,The Notting Hill,2002-06-20,,0,,G,F,0,349,5500000,2020-02-06,2008-06-10,3920000,40.31,22.2675495,114.181844
+318,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Tsui Man Court,Tsui Man Court,1975-08-26,M,2,2,12,D,750,598,10500000,2020-02-05,2013-08-29,7830000,34.1,22.26831,114.18632
+319,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Notting Hill,The Notting Hill,2002-06-20,,0,,1,F,0,349,4500000,2020-02-04,2008-04-22,3300000,36.36,22.2675495,114.181844
+320,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Notting Hill,The Notting Hill,2002-06-20,,0,,G,E,0,348,5500000,2020-02-04,2011-03-21,4980000,10.44,22.2675495,114.181844
+321,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Way Man Court,Way Man Court,1983-10-14,M,3,2,14,B,1094,947,17000000,2020-02-04,2007-01-29,6930000,145.31,22.2678415,114.185426
+322,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Celeste Court,Celeste Court,1992-10-01,M,3,,16,G,1103,935,23000000,2020-02-02,2008-01-13,11500000,100.0,22.2675829,114.18312
+323,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 3,2002-03-22,M,,,26,B,1911,1461,70500000,2020-01-23,2000-12-22,16224700,334.52,22.2755604,114.1845134
+324,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mount Nicholson,Tower D,2016-02-18,,4,,,,0,4517,528540000,2020-01-22,,0,0.0,22.262712,114.17978
+325,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ascot Tower,Ascot Tower,1984-02-01,M,,,11,,0,897,18500000,2020-01-22,,0,0.0,22.268425,114.1859569
+326,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Way Man Court,Way Man Court,1983-10-15,L,3,2,8,A,1094,947,12000000,2020-01-21,2006-08-16,6338000,89.33,22.2678415,114.185426
+327,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shing Ping House,Shing Ping House,1962-01-31,L,,,2,,0,907,11500000,2020-01-20,,0,0.0,22.267899,114.18689
+328,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenville Gardens,Block B,1975-04-30,M,,,12,3,1350,1158,24400000,2020-01-19,2007-05-04,8480000,187.74,22.27095,114.177643
+329,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fortuna Court,Fortuna Court,1997-08-12,L,2,2,7,A,705,468,11800000,2020-01-16,1999-10-27,3620000,225.97,22.2694504,114.1837436
+330,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Claymore Lodge,Claymore Lodge,1990-01-21,M,0,,20,A,426,284,5580000,2020-01-15,2016-12-01,4800000,16.25,22.268288,114.18554
+331,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,May Mansion,May Mansion,1982-03-15,H,2,,20,B,698,464,8450000,2020-01-15,2017-09-07,8450000,0.0,22.268486,114.184166
+332,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Wah Chi Mansion,Wah Chi Mansion,1964-06-02,,3,2,10,C,1500,1232,11000000,2020-01-14,2009-07-22,11500000,-4.3500000000000005,22.2672939,114.184929
+333,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mandarin Villa,Block West,1973-05-30,M,3,,7,1,1450,1168,19500000,2020-01-13,2001-09-19,5000000,290.0,22.2718258,114.1768092
+334,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Court,Happy Court,1993-06-10,M,2,2,17,A,530,328,6450000,2020-01-08,2009-09-08,3130000,106.07000000000001,22.269074,114.1861115
+335,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Tower,Village Tower,1972-07-20,M,3,2,12,B,1050,805,14800000,2020-01-08,2015-09-09,13700000,8.03,22.268679,114.18382
+336,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,77-79 Wong Nai Chung Road,77 Wong Nai Chung Road,1965-08-10,M,,,6,,0,1125,17500000,2020-01-07,,0,0.0,22.2716951,114.1846982
+337,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fung Fai Court,Fung Fai Court,1978-06-05,,,,3,D,0,536,8280000,2020-01-06,2011-04-21,4950000,67.27,22.2686075,114.183396
+338,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silver Star Court,Silver Star Court,1981-09-27,L,,,1,B,1088,940,19750000,2020-01-05,2007-12-17,7300000,170.55,22.2675334,114.184346
+339,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block E,1988-12-09,H,3,2,23,2,1354,1057,29180000,2019-12-31,2006-08-12,9760000,198.98000000000002,22.2733661,114.1858384
+340,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yee Fung Building,Yee Fung Building,1972-09-22,L,,,,B,520,425,6780000,2019-12-30,,0,0.0,22.26956,114.18358
+341,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenville Gardens,Block B,1975-04-30,M,,,16,1,1660,1411,32000000,2019-12-29,,0,0.0,22.27095,114.177643
+342,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Nam Wing Building,Nam Wing Building,1970-07-16,M,2,2,4,C,550,372,6000000,2019-12-27,2007-06-11,2200000,172.73,22.268580999999998,114.18655
+343,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mandarin Villa,Block West,1973-05-30,H,2,,11,6,750,629,15000000,2019-12-23,2014-08-25,9700000,54.64,22.2718258,114.1768092
+344,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Claymore Lodge,Claymore Lodge,1990-01-21,L,1,,9,C,648,449,8600000,2019-12-23,2009-10-18,4600000,86.96000000000001,22.268288,114.18554
+345,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Blue Pool Lodge,Blue Pool Lodge,1957-07-02,M,,,6,,0,926,13300000,2019-12-23,,0,0.0,22.270042,114.18501499999999
+346,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Amigo Mansion,Amigo Mansion,1975-10-23,M,2,,9,A,635,517,12600000,2019-12-20,2001-04-24,2500000,404.0,22.271895999999998,114.18484
+347,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Portfield Building,Portfield Building,1977-11-18,M,2,2,15,A,700,573,10800000,2019-12-20,2007-11-15,4750000,127.37,22.268663999999998,114.185182
+348,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,San Francisco Towers,Block B,1983-04-25,,3,2,18,1,1116,959,24900000,2019-12-19,,0,0.0,22.270221,114.186159
+349,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broadview Mansion,Broadview Mansion,1963-09-19,M,,,6,D,0,738,10200000,2019-12-19,,0,0.0,22.271603,114.18492
+350,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,141 Wong Nai Chung Road,141 Wong Nai Chung Road,1956-08-11,H,,,5,,0,471,11000000,2019-12-19,,0,0.0,,
+351,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Rocha,Block A,1988-06-30,L,3,2,9,1,1340,1147,28300000,2019-12-18,,0,0.0,22.2728385,114.186184
+352,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fortuna Court,Fortuna Court,1997-08-12,L,2,2,13,A,705,468,10700000,2019-12-17,2011-11-17,7800000,37.18,22.2694504,114.1837436
+353,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,2 Wang Tak Street,2 Wang Tak Street,1982-11-24,H,,,19,,0,1017,17800000,2019-12-12,2017-04-03,17800000,0.0,22.267982,114.183739
+354,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegance Tower,Elegance Tower,1992-05-31,H,1,2,24,A,643,370,7200000,2019-12-10,2015-05-21,6280000,14.65,22.267993999999998,114.18592
+355,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silverwood,Silverwood,1998-02-09,L,2,,6,D,535,354,7800000,2019-12-10,2010-11-29,4090000,90.71000000000001,22.276031,114.185524
+356,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Cheung Mansions,King Cheung Mansions,1966-03-17,H,,,9,9,0,415,3200000,2019-12-05,2010-10-13,3920000,-18.37,22.269064,114.185356
+357,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Kensington Court,Kensington Court,1965-01-04,H,,,11,,0,1200,21000000,2019-12-05,2009-08-11,10800000,94.44,22.27207,114.1772835
+358,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegance Court,Elegance Court,1986-01-27,L,2,2,4,A,593,406,3094000,2019-12-04,2018-07-15,7280000,-57.5,22.269458999999998,114.18579
+359,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Bayview,Town House No.6 (25 Black's Link),1987-11-19,,,,,,0,3018,166000000,2019-12-03,,0,0.0,,
+360,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Sherwood Court,Block 1,1989-04-24,M,3,,17,E,877,773,15500000,2019-12-02,1997-03-12,6320000,145.25,22.267279,114.18653
+361,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Merry Garden,Block B,1972-07-11,H,,,11,3,0,975,21800000,2019-12-01,,0,0.0,22.272313,114.1729626
+362,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block H,1988-12-09,M,4,2,17,1,1712,1386,40000000,2019-11-28,1998-09-25,8300000,381.93,22.2733896,114.186436
+363,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenville Gardens,Block D,1980-12-02,H,,,23,3,1340,1210,33280000,2019-11-27,2015-01-05,23830000,39.660000000000004,22.27037,114.178102
+364,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1976-03-07,L,3,,8,D,0,615,10000000,2019-11-25,2010-11-22,6650000,50.38,22.26693,114.18486
+365,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ming's Court,Ming's Court,1991-11-05,L,,,8,A,510,315,5900000,2019-11-22,2004-11-25,1590000,271.07,22.268237,114.184696
+366,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Lotto,Block D,1987-12-24,M,3,2,17,11,1225,1116,30000000,2019-11-22,2011-02-21,17500000,71.43,22.2717975,114.1866406
+367,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Panny Court,Panny Court,1992-08-13,H,2,,22,B,582,412,8000000,2019-11-21,2010-02-11,4380000,82.65,22.268884999999997,114.1838
+368,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1976-03-08,H,3,,17,J,0,634,13380000,2019-11-21,2010-11-22,7400000,80.81,22.26693,114.18486
+369,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Moon Fair Mansion,Block Fgh,1974-01-16,H,3,2,9,9,1290,1035,18800000,2019-11-20,2008-02-25,10800000,74.07000000000001,22.271673,114.17704
+370,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Way Man Court,Way Man Court,1983-10-14,L,3,2,4,B,1094,947,16200000,2019-11-20,,0,0.0,22.2678415,114.185426
+371,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 1,2002-03-22,H,3,,29,C,1485,1128,47800000,2019-11-20,2008-11-24,18380000,160.07,22.275192,114.184801
+372,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Green Valley Mansion,Green Valley Mansion,1964-11-30,H,3,2,10,A,1500,1067,18380000,2019-11-19,,0,0.0,22.27072,114.18509
+373,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Rocha,Block A,1988-06-30,,3,2,26,4,1340,1147,31000000,2019-11-19,2006-09-28,10050000,208.46,22.2728385,114.186184
+374,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Caroline Height,Caroline Height,1985-06-27,M,3,,16,A,1052,750,14600000,2019-11-18,2007-11-05,6350000,129.92000000000002,22.275769999999998,114.185524
+375,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Le Cachet,Le Cachet,2001-04-22,M,2,,22,A,751,534,11440000,2019-11-18,2009-12-29,7200000,58.89,22.2677,114.18721
+376,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block F,1988-12-09,H,4,2,30,1,1988,1665,54800000,2019-11-18,2006-08-29,18000000,204.44,22.2731795,114.185875
+377,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Broadville,The Broadville,1993-03-22,H,3,2,29,D,1531,1213,30000000,2019-11-18,2006-07-29,11500000,160.87,22.27395,114.18515
+378,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,22-22A Ventris Road,22-22A Ventris Road,1970-11-26,L,,,1,,0,436,7280000,2019-11-17,2011-07-05,5600000,30.0,22.271618,114.18508
+379,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Evergreen Villa,Block A,1970-11-12,L,4,,5,1,0,2363,69000000,2019-11-15,2003-08-23,13500000,411.11,22.265715999999998,114.182353
+380,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Evergreen Villa,Block E,1972-08-11,M,3,,15,2,0,1525,31500000,2019-11-15,,0,0.0,22.265428999999997,114.182197
+381,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1976-03-07,M,3,,15,F,0,615,12800000,2019-11-13,2010-11-16,7180000,78.27,22.26693,114.18486
+382,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-18,,3,2,28,A,791,597,13080000,2019-11-07,2009-12-27,7200000,81.67,22.2675194,114.1857254
+383,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,8 Shan Kwong Road,8 Shan Kwong Road,1980-08-18,M,,,4,B,0,509,6800000,2019-11-07,,0,0.0,22.268334,114.184243
+384,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Building,Block A,1984-10-18,M,,,14,2,2468,1953,68000000,2019-11-07,,0,0.0,22.273422,114.184746
+385,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Miramar Villa,Block East,1969-10-07,L,3,2,4,5,1100,871,13280000,2019-11-05,2012-04-02,10380000,27.94,22.272817999999997,114.17684
+386,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Regent Hill,Regent Hill,2016-09-20,H,3,,30,A,0,1453,45000000,2019-11-03,,0,0.0,22.26782,114.187035
+387,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Building,Block B,1984-10-18,M,,,12,1,1940,1513,48300000,2019-11-03,,0,0.0,22.273739,114.184586
+388,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Caroline Garden,Caroline Garden,1995-01-09,M,3,2,13,B,1067,752,14680000,2019-11-01,,0,0.0,22.2756949,114.1858346
+389,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Karen Court,Karen Court,1989-08-15,L,,,7,,737,465,7700000,2019-10-31,,0,0.0,22.269516,114.184784
+390,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mayfair Court,Mayfair Court,1980-07-10,,,,3,G,0,356,5800000,2019-10-31,2007-09-06,1980000,192.93,22.2684716,114.183398
+391,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Chun Hing Mansion,Chun Hing Mansion,1975-06-10,L,,,1,A,0,705,11800000,2019-10-29,2004-02-06,1680000,602.38,22.268805999999998,114.18489
+392,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block G,1988-12-09,H,3,2,29,1,1357,1057,28800000,2019-10-24,1998-04-15,950000,2931.58,22.2732414,114.186097
+393,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Lai Sing Building,Lai Sing Building,1987-09-13,M,2,2,10,B,702,481,8750000,2019-10-22,2010-11-04,5100000,71.57000000000001,22.269669999999998,114.185236
+394,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Kwong Mansion,King Kwong Mansion,1989-06-12,H,,,20,A,405,259,5500000,2019-10-22,2010-05-10,2600000,111.54,22.269244999999998,114.185243
+395,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 1,2002-03-22,M,3,,17,A,1438,1087,48000000,2019-10-21,2007-01-03,16650000,188.29,22.275192,114.184801
+396,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mayfair Court,Mayfair Court,1980-07-10,,2,2,2,D,450,333,5900000,2019-10-21,2012-10-03,4060000,45.32,22.2684716,114.183398
+397,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Kam Kwong Mansion,Kam Kwong Mansion,1977-09-15,M,3,2,14,D,556,456,8600000,2019-10-20,2008-05-25,3980000,116.08,22.268933999999998,114.18426
+398,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Mansion,Block A,1967-07-11,H,,,12,,0,1147,10000000,2019-10-17,,0,0.0,22.270398999999998,114.185245
+399,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-18,L,2,2,10,F,680,524,9180000,2019-10-16,2004-06-03,2950000,211.19,22.2675194,114.1857254
+400,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Regent Hill,Regent Hill,2016-09-20,H,3,,30,B,0,1453,46000000,2019-10-15,,0,0.0,22.26782,114.187035
+401,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Green Valley Mansion,Green Valley Mansion,1964-11-30,M,3,2,8,D,1200,1002,18900000,2019-10-15,2002-08-08,3330000,467.57,22.27072,114.18509
+402,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,9-9A Tung Shan Terrace,9-9A Tung Shan Terrace,1964-02-19,,,,2,B,0,2603,40000000,2019-10-14,,0,0.0,22.268017,114.180756
+403,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Sherwood Court,Block 1,1989-04-25,L,3,,12,A,790,693,11980000,2019-10-14,2007-06-26,4280000,179.91,22.267279,114.18653
+404,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shiu Fai Terrace Garden,Shiu Fai Terrace Garden,1981-11-01,M,,,7,A,1563,1216,16000000,2019-10-10,,0,0.0,22.272268,114.17694
+405,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1976-03-07,M,3,,14,H,0,615,11380000,2019-10-09,,0,0.0,22.26693,114.18486
+406,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yuk Sing Building,Yuk Sing Building,1976-09-28,M,,,11,C,654,577,8930000,2019-10-08,2001-06-18,1980000,351.01,22.268604,114.185917
+407,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Caroline Garden,Caroline Garden,1995-01-09,M,3,2,16,A,1140,798,17300000,2019-10-03,,0,0.0,22.2756949,114.1858346
+408,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cheerful Court,Cheerful Court,1984-10-14,M,2,,10,B,450,319,5800000,2019-10-01,2015-08-27,5275000,9.950000000000001,22.268223,114.18687800000001
+409,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Lotto,Block C,1987-12-24,H,3,2,20,10,1225,1116,29600000,2019-09-30,2016-09-26,23000000,28.7,22.2713815,114.186661
+410,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Evone Court,Evone Court,1964-11-25,H,,,7,D,0,382,8800000,2019-09-26,2011-10-24,5250000,67.62,22.269365999999998,114.184329
+411,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Moon Fair Mansion,Block Abc,1974-01-16,L,3,2,4,4,1298,1035,17000000,2019-09-26,2007-04-25,6000000,183.33,22.271517,114.177376
+412,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenside Villa,Block C,1973-05-02,H,3,2,5,2,1230,1136,21500000,2019-09-26,2009-06-08,9800000,119.39,22.264982999999997,114.189475
+413,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Lotto,Block D,1987-12-24,H,3,2,24,13,1211,1103,29000000,2019-09-26,1998-08-29,7150000,305.59000000000003,22.2717975,114.1866406
+414,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Royal Villa,Royal Villa,1965-08-30,,4,2,1,A,2400,2471,49980000,2019-09-24,2016-08-03,43500000,14.9,22.2748254,114.1861354
+415,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenway Terrace,Block 2,1993-01-13,M,3,,20,A,887,643,13000000,2019-09-22,2001-06-25,3880000,235.05,22.275306999999998,114.18535
+416,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Lai Chi Building,Lai Chi Building,1956-09-20,H,,,6,D,0,197,4000000,2019-09-19,,0,0.0,22.277442,114.184121
+417,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenville Gardens,Block B,1975-04-30,H,,,18,3,1350,1158,26000000,2019-09-18,,0,0.0,22.27095,114.177643
+418,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mount Nicholson,House 22,2016-02-18,,4,,,,0,4678,580888000,2019-09-13,,0,0.0,22.262705,114.18093
+419,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,22-22A Ventris Road,22-22A Ventris Road,1970-11-26,M,,,3,,0,436,6800000,2019-09-11,,0,0.0,22.271618,114.18508
+420,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Po Tak Mansion,Po Tak Mansion,1963-03-04,H,,,10,A,0,662,11200000,2019-09-10,2011-02-20,7400000,51.35,22.2796142,114.129309
+421,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fine Mansion,The Fine Mansion,1973-01-22,M,,,14,B,0,1400,29500000,2019-09-10,2016-03-31,20500000,43.9,22.267606,114.184589
+422,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Sherwood Court,Block 1,1989-04-25,L,3,,9,D,852,748,17800000,2019-08-30,,0,0.0,22.267279,114.18653
+423,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grand Court,Grand Court,1981-08-27,H,3,2,19,A,970,799,18180000,2019-08-29,,0,0.0,22.267951999999998,114.18439
+424,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block E,1988-12-09,L,3,2,3,1,1378,1070,27500000,2019-08-29,,0,0.0,22.2733661,114.1858384
+425,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,5-7 Sing Woo Road,5-7 Sing Woo Road,1974-07-04,,,,4,,0,524,6800000,2019-08-28,,0,0.0,22.269896,114.184955
+426,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Rose Court,Block A,1963-09-22,M,,,6,11,0,2003,51500000,2019-08-27,,0,0.0,22.274563,114.18364
+427,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broadwood Twelve,Broadwood Twelve,2010-06-08,H,3,,43,B,1650,1280,53500000,2019-08-27,2012-05-11,46300000,15.55,22.272126999999998,114.1863455
+428,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Building,Block A,1984-10-18,L,,,2,2,2468,1953,53500000,2019-08-25,,0,0.0,22.273422,114.184746
+429,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Claymore Lodge,Claymore Lodge,1990-01-21,L,0,,6,B,419,290,5680000,2019-08-22,2013-04-14,4300000,32.09,22.268288,114.18554
+430,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,No.7 Fung Fai Terrace,No.7 Fung Fai Terrace,1974-07-24,,,,1,D,0,512,8180000,2019-08-22,2019-04-03,8180000,0.0,22.268186999999998,114.183361
+431,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Green Lane Court,Green Lane Court,1959-03-24,,,,3,,0,1131,22000000,2019-08-21,2010-08-05,14300000,53.85,22.263510999999998,114.18965299999999
+432,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broadwood Twelve,Broadwood Twelve,2010-06-08,H,3,,42,A,1653,1281,56000000,2019-08-21,2011-01-12,45600000,22.81,22.272126999999998,114.1863455
+433,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Empire Court,Empire Court,1958-02-11,H,,,15,C,0,880,12500000,2019-08-20,,0,0.0,22.277884999999998,114.184304
+434,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mount Nicholson,Tower D,2016-02-18,,4,,,,0,4517,455004000,2019-08-20,2019-07-09,455004000,0.0,22.262712,114.17978
+435,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mannie Garden,Mannie Garden,1989-07-20,M,,,13,B,338,203,4800000,2019-08-20,2015-03-10,3930000,22.14,22.267329,114.187393
+436,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ming's Court,Ming's Court,1991-11-05,H,,,21,B,510,315,6460000,2019-08-19,2010-03-09,3000000,115.33,22.268237,114.184696
+437,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,May Mansion,May Mansion,1982-03-15,M,2,,15,A,719,479,9200000,2019-08-18,2010-06-03,5880000,56.46,22.268486,114.184166
+438,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,2-2A Leighton Road,2A Leighton Road,1965-02-11,H,,,6,,0,529,8000000,2019-08-15,2005-05-12,1500000,433.33,22.276799,114.182411
+439,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,25-27 Yik Yam Street,27 Yik Yam Street,1978-11-12,,,,1,,0,543,11688000,2019-08-14,,0,0.0,22.269136,114.18455
+440,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Altitude,The Altitude,2011-07-05,M,3,,30,B,1885,1451,45800000,2019-08-14,2011-12-20,39500000,15.950000000000001,22.267198,114.184611
+441,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Monte Rosa,Block E,1966-12-06,L,3,,2,2,0,2000,50000000,2019-08-13,2010-10-20,34700000,44.09,22.26495,114.18274
+442,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cheerful Court,Cheerful Court,1984-10-14,H,1,,23,B,375,256,5950000,2019-08-11,2011-01-24,3180000,87.11,22.268223,114.18687800000001
+443,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Tsui Man Court,Tsui Man Court,1975-08-26,M,2,2,13,E,650,492,10300000,2019-08-08,1997-07-09,4150000,148.19,22.26831,114.18632
+444,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenville Gardens,Block D,1980-12-02,L,,,8,4,1344,1210,26000000,2019-08-07,2006-06-01,8600000,202.33,22.27037,114.178102
+445,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Monte Rosa,Block B,1965-04-12,H,3,,19,2,0,2090,57980000,2019-08-07,,0,0.0,22.264208,114.182884
+446,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegance Tower,Elegance Tower,1992-05-31,H,1,2,27,A,643,370,6800000,2019-08-05,2010-02-04,4280000,58.88,22.267993999999998,114.18592
+447,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Starlight House,Starlight House,1958-12-21,L,,,2,,0,607,8000000,2019-08-04,2013-02-28,7380000,8.4,22.277414,114.18342200000001
+448,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mount Nicholson,House 21,2016-02-18,,3,,,,0,4061,538899288,2019-08-02,,0,0.0,22.262877,114.18081
+449,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 1,2002-03-22,L,2,,9,B,1206,924,37400000,2019-08-02,2006-03-18,13100000,185.5,22.275192,114.184801
+450,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Lotto,Block C,1987-12-24,H,3,2,22,7,1225,1116,31300000,2019-08-02,2007-06-05,10700000,192.52,22.2713815,114.186661
+451,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenville Gardens,Block B,1975-04-30,H,,,20,3,1350,1158,28230000,2019-07-31,2007-07-18,10330000,173.28,22.27095,114.177643
+452,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Garden,Village Garden,1995-09-01,L,3,2,6,A,835,592,11200000,2019-07-24,2012-06-05,8630000,29.78,22.2677615,114.183908
+453,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 9,2002-03-22,H,2,,38,B,1207,924,38500000,2019-07-24,2008-02-12,19550000,96.93,22.276626999999998,114.183395
+454,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1976-03-07,L,3,,5,D,0,615,12280000,2019-07-18,2009-08-17,5400000,127.41,22.26693,114.18486
+455,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Villa,Happy Villa,1972-09-11,H,3,2,6,A,1600,1274,31888880,2019-07-18,,0,0.0,22.265542,114.1885055
+456,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,No.8 Shiu Fai Terrace,No.8 Shiu Fai Terrace,2003-10-12,L,,,5,C,2142,1667,39000000,2019-07-17,2011-05-23,26350000,48.01,22.272161,114.17628500000001
+457,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenville Gardens,Block B,1975-04-30,L,,,8,3,1350,1158,25000000,2019-07-17,2010-11-22,16000000,56.25,22.27095,114.177643
+458,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yee Fung Building,Yee Fung Building,1972-09-21,L,0,,1,B,0,425,6700000,2019-07-16,2011-02-27,4480000,49.550000000000004,22.26956,114.18358
+459,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1973-01-24,M,3,,11,C,0,860,17500000,2019-07-16,,0,0.0,22.26712,114.18511
+460,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Garden,Village Garden,1995-08-31,H,3,2,26,A,835,592,12500000,2019-07-15,2013-07-21,9800000,27.55,22.2677615,114.183908
+461,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1976-03-07,L,3,,6,D,0,615,12000000,2019-07-14,2012-02-14,7430000,61.51,22.26693,114.18486
+462,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ventris Place,Block A,1985-06-29,H,3,2,30,1,1385,1185,41000000,2019-07-10,2000-12-01,7130000,475.04,22.271549999999998,114.185592
+463,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Gardens,Winfield Gardens,1966-11-12,M,3,,8,B,0,1169,22500000,2019-07-10,,0,0.0,22.266614999999998,114.18502
+464,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greencliff,Greencliff,1989-10-23,,2,1,G,G,591,510,9280000,2019-07-09,2008-02-28,3570000,159.94,22.268387,114.181465
+465,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mount Nicholson,Tower D,2016-02-18,,4,,,,0,4517,455004000,2019-07-09,,0,0.0,22.262712,114.17978
+466,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mount Nicholson,Tower C,2016-02-18,,4,,,,0,4193,422334000,2019-07-09,,0,0.0,22.262583,114.17967
+467,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Celeste Court,Celeste Court,1992-10-01,M,3,,12,C,943,794,16000000,2019-07-07,2018-06-25,16000000,0.0,22.2675829,114.18312
+468,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Court,Happy Court,1993-06-10,H,2,2,22,B,530,328,7298000,2019-07-04,2015-08-09,5800000,25.830000000000002,22.269074,114.1861115
+469,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Lai Chi Building,Lai Chi Building,1956-09-20,H,,,6,A,0,211,4560000,2019-07-02,,0,0.0,22.277442,114.184121
+470,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Wan Choi Yuen,Wan Choi Yuen,1963-12-14,,,,3,C,0,1560,34400000,2019-07-02,2008-02-29,18500000,85.95,22.262337,114.19078999999999
+471,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Sports Mansion,161 Wong Nai Chung Road,1958-07-10,M,,,6,,0,781,14450000,2019-07-01,2007-11-18,6468000,123.41,22.276494,114.182605
+472,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,167 Wong Nai Chung Road,167 Wong Nai Chung Road,1964-10-22,M,,,5,,0,749,13850000,2019-07-01,,0,0.0,22.276678,114.18233
+473,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Rocha,Block B,1988-06-30,M,3,2,22,4,1340,1147,32000000,2019-06-28,2007-06-08,10780000,196.85,22.272558999999998,114.18628
+474,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Court,Block B,1985-07-30,,2,2,2,7,699,656,11500000,2019-06-27,2008-04-27,4350000,164.37,22.2670564,114.1832236
+475,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fairview Court,Fairview Court,1983-08-15,L,3,,1,B,0,437,9900000,2019-06-26,2009-12-14,5700000,73.68,22.268859,114.185061
+476,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 9,2002-03-22,L,2,,13,B,1206,924,35300000,2019-06-26,2015-11-18,27800000,26.98,22.276626999999998,114.183395
+477,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Hampton,The Hampton,1990-09-09,H,,,6,B,34822,2531,14650000,2019-06-25,2019-06-03,14650000,0.0,22.267602999999998,114.18825
+478,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mount Nicholson,House 15,2015-10-12,,4,,,,0,5778,916000000,2019-06-25,,0,0.0,22.264273,114.18073
+479,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Sherwood Court,Block 1,1989-04-24,H,3,,19,D,852,748,17180000,2019-06-24,,0,0.0,22.267279,114.18653
+480,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broadview Mansion,Broadview Mansion,1963-09-19,L,,,1,A,0,1110,18650000,2019-06-24,,0,0.0,22.271603,114.18492
+481,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Sun View Court,Sun View Court,1985-03-05,M,,,12,A,0,478,9350000,2019-06-21,,0,0.0,22.268309,114.185356
+482,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-18,,2,2,30,F,680,524,9500000,2019-06-20,2004-07-07,4980000,90.76,22.2675194,114.1857254
+483,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mayfair Court,Mayfair Court,1980-07-10,,2,2,4,A,480,346,7000000,2019-06-20,,0,0.0,22.2684716,114.183398
+484,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Hooley Mansion,Hooley Mansion,1967-06-07,H,2,2,8,B,850,727,14800000,2019-06-20,2007-04-27,4000000,270.0,22.2696354,114.184365
+485,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mayfair Court,Mayfair Court,1980-07-10,,2,2,4,B,480,369,7000000,2019-06-20,,0,0.0,22.2684716,114.183398
+486,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fortuna Court,Fortuna Court,1997-08-12,M,2,2,15,A,705,468,10800000,2019-06-19,2013-06-18,9600000,12.5,22.2694504,114.1837436
+487,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Kam Kwong Mansion,Kam Kwong Mansion,1977-09-15,H,1,2,22,B,425,346,8080000,2019-06-19,2012-05-13,5480000,47.45,22.268933999999998,114.18426
+488,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mannie Garden,Mannie Garden,1989-07-20,M,,,16,A,338,203,4700000,2019-06-19,2014-02-07,3230000,45.51,22.267329,114.187393
+489,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,1-3 Sing Woo Road,1-3 Sing Woo Road,1964-10-12,M,,,4,,0,570,8550000,2019-06-18,2011-09-22,5220000,63.79,22.269866,114.184947
+490,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,22 Tung Shan Terrace,22 Tung Shan Terrace,1997-08-15,,3,,G,A,0,996,20800000,2019-06-16,2008-04-23,10000000,108.0,22.26849,114.18121
+491,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yee Fung Building,Yee Fung Building,1972-09-22,L,0,,2,E,0,340,6280000,2019-06-14,2015-06-29,4900000,28.16,22.26956,114.18358
+492,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Hang Fung Mansion,Hang Fung Mansion,1971-07-27,L,2,2,4,B,650,478,11000000,2019-06-14,,0,0.0,22.269631,114.184244
+493,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grand Court,Grand Court,1981-08-27,H,3,2,21,B,970,799,18700000,2019-06-13,,0,0.0,22.267951999999998,114.18439
+494,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cheerful Court,Cheerful Court,1984-10-14,H,1,,23,A,375,256,5550000,2019-06-13,2016-07-25,3700000,50.0,22.268223,114.18687800000001
+495,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ming Lai Court,Ming Lai Court,1984-05-31,M,3,2,8,,1206,960,21680000,2019-06-13,,0,0.0,22.267414,114.183495
+496,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1976-03-08,L,3,,7,J,0,634,12500000,2019-06-12,,0,0.0,22.26693,114.18486
+497,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Woodland Heights,Woodland Heights,1965-06-29,M,,,11,F8,0,3189,125460000,2019-06-11,1999-07-30,7000000,1692.29,22.26298,114.1848972
+498,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Celeste Court,Celeste Court,1992-10-01,L,2,,9,E,737,617,13680000,2019-06-10,2009-11-15,7600000,80.0,22.2675829,114.18312
+499,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broadview Mansion,Broadview Mansion,1963-09-18,H,,,9,C,0,738,14600000,2019-06-09,,0,0.0,22.271603,114.18492
+500,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Gardens,Winfield Gardens,1966-11-12,L,3,,6,D,0,1169,21600000,2019-06-06,2007-07-03,7500000,188.0,22.266614999999998,114.18502
+501,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Holly Garden,7 Holly Road,1954-04-06,,,,G,,0,1143,19800000,2019-06-06,,0,0.0,22.26556,114.18793
+502,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,May Lam Mansion,May Lam Mansion,1975-12-16,H,2,2,5,A,850,725,20300000,2019-06-05,2013-11-11,15500000,30.970000000000002,22.267138,114.18779
+503,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Regent Hill,Regent Hill,2016-09-21,H,3,,29,A,0,884,33625000,2019-06-05,,0,0.0,22.26782,114.187035
+504,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,8 Shan Kwong Road,8 Shan Kwong Road,1980-08-18,H,,,5,B,0,509,8400000,2019-06-04,,0,0.0,22.268334,114.184243
+505,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Lotto,Block B,1987-12-24,M,3,2,10,5,1211,1103,25000000,2019-06-04,2007-06-15,10500000,138.1,22.2711,114.18688
+506,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block J,1988-12-09,M,4,2,20,2,1750,1468,45000000,2019-06-04,2006-04-21,12000000,275.0,22.273563,114.186652
+507,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ascot Tower,Ascot Tower,1984-02-01,L,,,3,,0,897,19500000,2019-06-04,1996-09-10,5350000,264.49,22.268425,114.1859569
+508,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Green View Mansion,Green View Mansion,1967-07-28,M,3,2,5,A,1350,996,18780000,2019-06-04,2004-09-10,4800000,291.25,22.270930999999997,114.1850305
+509,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cathay Garden,Cathay Garden,1967-01-20,H,,,12,A,0,812,8800000,2019-06-03,,0,0.0,22.267758,114.1852559
+510,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mount Nicholson,House 16,2015-10-12,,4,,,,0,7978,720000000,2019-06-03,,0,0.0,22.264056999999998,114.18063
+511,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yee Fung Building,Yee Fung Building,1972-09-21,H,,,12,C,0,501,10500000,2019-06-02,,0,0.0,22.26956,114.18358
+512,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Horace Court,Horace Court,1979-06-05,M,2,1,12,E,478,410,7950000,2019-06-02,2006-12-22,2560000,210.55,22.268687999999997,114.18445
+513,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Tak House,King Tak House,1965-01-21,,,,4,A,0,651,9500000,2019-05-31,2015-07-16,6800000,39.71,22.269192999999998,114.185143
+514,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,2 Wang Tak Street,2 Wang Tak Street,1982-11-24,M,,,11,,0,1017,16800000,2019-05-31,2016-10-28,17000000,-1.18,22.267982,114.183739
+515,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Blue Pool Garden,Blue Pool Garden,1983-04-07,H,3,2,5,B,1580,1095,28250000,2019-05-29,2011-04-18,19820000,42.53,22.266312,114.18877
+516,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cheong Ming Building,Cheong Ming Building,1964-01-24,M,,,6,,0,372,4000000,2019-05-28,,0,0.0,22.268335,114.18662
+517,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegant Terrace,Elegant Terrace,1992-10-22,,3,,2,C,827,680,10680000,2019-05-28,2008-06-10,5250000,103.43,22.266963999999998,114.18387
+518,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,9A-9F Broom Road,9A-9F Broom Road,1966-07-19,,,,4,,0,1737,42800000,2019-05-28,,0,0.0,22.264169,114.187888
+519,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silverwood,Silverwood,1998-02-09,M,2,,16,B,503,341,8250000,2019-05-28,2007-07-11,3120000,164.42000000000002,22.276031,114.185524
+520,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Nam Wing Building,Nam Wing Building,1970-07-16,H,2,2,7,B,550,353,6210000,2019-05-28,2011-07-08,4500000,38.0,22.268580999999998,114.18655
+521,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yuk Sau Mansion,Yuk Sau Mansion,1975-09-11,H,,,24,B,728,595,16800000,2019-05-27,,0,0.0,22.268641,114.184839
+522,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block D,1988-12-09,L,4,2,5,2,1734,1432,36800000,2019-05-27,2014-08-05,24095000,52.730000000000004,22.2736875,114.1855886
+523,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broadwood Twelve,Broadwood Twelve,2010-06-08,M,3,,35,A,1653,1281,52000000,2019-05-24,2011-05-11,43500000,19.54,22.272126999999998,114.1863455
+524,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,58 Village Road,58 Village Road,1966-11-02,,,,G,B,0,503,3750000,2019-05-23,2007-11-28,1500000,150.0,22.267989999999998,114.18569
+525,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yuk Sing Building,Yuk Sing Building,1976-09-27,L,2,2,3,D,654,561,9500000,2019-05-23,2012-09-18,7000000,35.71,22.268604,114.185917
+526,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Portfield Building,Portfield Building,1977-11-18,H,2,2,21,D,713,596,11300000,2019-05-23,2008-08-19,6150000,83.74,22.268663999999998,114.185182
+527,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Kwong Mansion,King Kwong Mansion,1989-06-11,H,,,16,A,405,259,5460000,2019-05-22,2015-04-14,4240000,28.77,22.269244999999998,114.185243
+528,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Unique Tower,Unique Tower,1982-08-09,M,1,1,14,D,426,308,6100000,2019-05-22,,0,0.0,22.2694969,114.1839555
+529,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegance Tower,Elegance Tower,1992-05-31,M,1,2,17,B,651,374,6980000,2019-05-22,1997-07-15,3730000,87.13,22.267993999999998,114.18592
+530,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-18,,2,2,23,C,683,524,11380000,2019-05-22,2011-02-15,7230000,57.4,22.2675194,114.1857254
+531,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,No.23 King Kwong Street,No.23 King Kwong Street,1975-04-21,L,,,3,,0,755,10000000,2019-05-21,,0,0.0,22.26876,114.18478
+532,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Monte Rosa,Block C,1965-04-12,H,3,,15,1,0,2090,52800000,2019-05-21,,0,0.0,22.264408,114.18268
+533,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Altitude,The Altitude,2011-07-05,M,3,,30,A,1923,1509,51000000,2019-05-21,2011-12-21,42800000,19.16,22.267198,114.184611
+534,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,4-6 Cheong Ming Street,4-6 Cheong Ming Street,1967-11-04,,,,5,B,0,292,4300000,2019-05-21,2011-04-20,2960000,45.27,22.268387,114.186806
+535,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,4-6 Cheong Ming Street,4-6 Cheong Ming Street,1967-11-04,,,,5,D,0,298,4300000,2019-05-21,2011-04-20,2960000,45.27,22.268387,114.186806
+536,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silver Star Court,Silver Star Court,1981-09-27,L,,,5,B,1088,940,20000000,2019-05-19,2014-08-03,15000000,33.33,22.2675334,114.184346
+537,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Rose Court,Block A,1963-09-22,M,,,5,10,0,2003,50000000,2019-05-19,1996-11-12,10500000,376.19,22.274563,114.18364
+538,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Nam Wing Building,Nam Wing Building,1970-07-16,L,2,2,2,G,450,372,6000000,2019-05-17,2011-03-30,3600000,66.67,22.268580999999998,114.18655
+539,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 1,2002-03-22,L,3,,6,A,1432,1087,51500000,2019-05-17,2012-01-17,35300000,45.89,22.275192,114.184801
+540,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Race Course Mansion,Race Course Mansion,1959-01-22,H,,,9,A,0,692,11800000,2019-05-16,,0,0.0,22.273716,114.183914
+541,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-19,L,3,2,10,D,788,596,11700000,2019-05-16,,0,0.0,22.2675194,114.1857254
+542,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,29-31 Yik Yam Street,29-31 Yik Yam Street,1971-10-21,H,,,5,A,0,429,8180000,2019-05-15,,0,0.0,22.269175999999998,114.184425
+543,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 3,2002-03-22,M,,,20,A,1911,1461,62280000,2019-05-15,2011-09-20,48800000,27.62,22.2755604,114.1845134
+544,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,22 Tung Shan Terrace,22 Tung Shan Terrace,1997-08-15,,3,,1,A,0,996,18500000,2019-05-14,2009-09-21,9800000,88.78,22.26849,114.18121
+545,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,23-39 Blue Pool Road,House B (35 Blue Pool Road),2014-09-12,,,,,B,0,4602,333800000,2019-05-14,,0,0.0,22.26813,114.18780000000001
+546,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,23-39 Blue Pool Road,House B (25 Blue Pool Road),2014-09-12,,,,,B,0,4602,333800000,2019-05-14,,0,0.0,22.268597,114.18746
+547,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Broadville,The Broadville,1993-03-22,M,3,2,18,C,1527,1211,29000000,2019-05-14,1997-02-25,13060000,122.05,22.27395,114.18515
+548,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grand View Mansion,Grand View Mansion,1966-04-28,H,,,9,D,0,543,7250000,2019-05-13,,0,0.0,22.274625999999998,114.17865
+549,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,May Mansion,May Mansion,1982-03-15,M,2,,18,B,698,464,9000000,2019-05-13,,0,0.0,22.268486,114.184166
+550,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Valley View,The Valley View,1992-08-12,,2,2,24,B,673,426,8380000,2019-05-13,2015-01-29,6580000,27.36,22.2676985,114.1862055
+551,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Mansion,Block C,1967-07-11,M,,,4,,0,1117,20000000,2019-05-13,,0,0.0,22.270457999999998,114.185356
+552,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-18,L,2,2,11,F,680,524,10680000,2019-05-09,2013-07-04,8000000,33.5,22.2675194,114.1857254
+553,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Hawthorn Garden,Hawthorn Garden,1981-09-14,H,3,2,11,B,1125,836,18680000,2019-05-09,,0,0.0,22.266464,114.18763
+554,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Blue Pool Mansion,Blue Pool Mansion,1959-03-17,M,3,2,8,,1600,1112,19680000,2019-05-09,2007-08-16,7380000,166.67000000000002,22.26631,114.188726
+555,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Court,Block A,1985-07-30,,2,2,3,4,673,645,9400000,2019-05-08,,0,0.0,22.267014,114.18345
+556,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yuk Sing Building,Yuk Sing Building,1976-09-27,L,3,2,3,A,1200,976,16670000,2019-05-08,2011-06-01,10600000,57.26,22.268604,114.185917
+557,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block H,1988-12-09,H,4,2,27,2,1649,1334,41000000,2019-05-08,,0,0.0,22.2733896,114.186436
+558,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Horace Court,Horace Court,1979-06-05,M,2,1,15,B,574,473,8380000,2019-05-07,1998-10-25,2045000,309.78000000000003,22.268687999999997,114.18445
+559,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Tsui Man Court,Tsui Man Court,1975-08-26,L,3,2,8,B,1200,929,17400000,2019-05-06,2010-07-28,9280000,87.5,22.26831,114.18632
+560,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,San Francisco Towers,Block B,1983-04-25,,3,2,16,2,1116,959,24800000,2019-05-05,2014-09-07,18200000,36.26,22.270221,114.186159
+561,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Garden,Village Garden,1995-08-31,L,3,2,11,A,835,592,12000000,2019-05-05,1997-09-02,6380000,88.09,22.2677615,114.183908
+562,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,47-49 Blue Pool Road,47-49 Blue Pool Road,1973-02-16,H,,,5,,0,1255,33800000,2019-05-03,,0,0.0,22.267364,114.188457
+563,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Kingsford Garden,Kingsford Garden,1993-03-02,L,3,2,1,B,1020,708,15000000,2019-05-02,2004-12-09,4550000,229.67000000000002,22.264834999999998,114.188545
+564,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Notting Hill,The Notting Hill,2002-06-20,,0,,2,B,0,277,5180000,2019-04-29,2012-03-20,3000000,72.67,22.2675495,114.181844
+565,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Panny Court,Panny Court,1992-08-13,H,3,,24,A,704,502,11000000,2019-04-29,2015-02-15,9150000,20.22,22.268884999999997,114.1838
+566,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Portfield Building,Portfield Building,1977-11-18,H,2,2,18,C,713,596,11680000,2019-04-29,2012-04-10,8050000,45.09,22.268663999999998,114.185182
+567,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,16-22 King Kwong Street,16-22 King Kwong Street,1972-01-06,M,,,5,,0,443,7850000,2019-04-28,,0,0.0,22.269111,114.184874
+568,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King's Court,King's Court,1972-03-20,M,,,8,C,0,339,7000000,2019-04-26,2009-12-30,3030000,131.02,22.2674376,114.183989
+569,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Tsui Man Court,Tsui Man Court,1975-08-26,H,2,2,19,D,750,598,11680000,2019-04-25,2007-10-29,4350000,168.51,22.26831,114.18632
+570,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Altitude,The Altitude,2011-07-05,H,3,,39,B,1885,1451,47500000,2019-04-25,2012-03-23,45080000,5.37,22.267198,114.184611
+571,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Blue Pool Garden,Blue Pool Garden,1983-04-07,H,3,2,5,A,1480,1076,27280000,2019-04-24,2012-08-08,25800000,5.74,22.266312,114.18877
+572,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Nam Wing Building,Nam Wing Building,1970-07-16,M,2,2,5,G,450,372,5720000,2019-04-24,,0,0.0,22.268580999999998,114.18655
+573,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Monte Rosa,Block F,1966-12-06,M,4,,9,2,0,2832,80000000,2019-04-24,,0,0.0,22.265141999999997,114.182915
+574,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Sherwood Court,Block 1,1989-04-24,L,3,,6,E,926,798,14900000,2019-04-23,2006-01-20,5000000,198.0,22.267279,114.18653
+575,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Celeste Court,Celeste Court,1992-10-01,M,3,,11,C,943,794,16100000,2019-04-23,2009-04-29,8580000,87.65,22.2675829,114.18312
+576,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Empire Court,Empire Court,1958-02-11,M,,,7,E,0,801,11800000,2019-04-22,2007-10-11,4000000,195.0,22.277884999999998,114.184304
+577,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Gracedale,The Gracedale,1999-06-15,M,2,,19,B,0,392,8780000,2019-04-18,2004-08-25,2650000,231.32,22.268345,114.185029
+578,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,1 Shiu Fai Terrace,1 Shiu Fai Terrace,1960-03-24,,,,G,D,0,1139,22800000,2019-04-18,,0,0.0,22.27318,114.17672999999999
+579,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1976-03-07,H,3,,16,D,0,615,12820000,2019-04-17,,0,0.0,22.26693,114.18486
+580,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Hawthorn Garden,Hawthorn Garden,1981-09-15,M,3,2,6,C,1109,832,18000000,2019-04-17,,0,0.0,22.266464,114.18763
+581,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,23-39 Blue Pool Road,House A (37 Blue Pool Road),2014-09-12,,,,,A,0,4575,338200000,2019-04-17,,0,0.0,22.26815,114.18776
+582,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ventris Terrace,Block B,1965-02-19,L,,,3,,0,1180,23550000,2019-04-16,,0,0.0,22.27059,114.18586
+583,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Valley View,The Valley View,1992-08-12,L,2,2,6,B,673,461,7880000,2019-04-16,2015-08-31,6380000,23.51,22.2676985,114.1862055
+584,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Valley View,The Valley View,1992-08-12,L,2,2,10,B,673,426,7700000,2019-04-16,2006-01-10,2720000,183.09,22.2676985,114.1862055
+585,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Gracedale,The Gracedale,1999-06-14,M,2,,21,A,0,375,8280000,2019-04-15,2014-11-11,6380000,29.78,22.268345,114.185029
+586,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,69C-69D Sing Woo Road,69C-69D Sing Woo Road,1955-01-03,,,,4,,0,601,9100000,2019-04-14,2015-09-14,6880000,32.27,,
+587,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grandview Tower,Block A,1978-02-01,M,3,,16,1,935,817,19380000,2019-04-12,,0,0.0,22.272322,114.174288
+588,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Garden,Village Garden,1995-08-31,H,3,2,23,B,837,592,14000000,2019-04-11,2012-03-19,9900000,41.410000000000004,22.2677615,114.183908
+589,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Le Cachet,Le Cachet,2001-04-22,L,2,,5,B,854,602,10880000,2019-04-11,2006-06-19,5800000,87.59,22.2677,114.18721
+590,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Green View Mansion,Green View Mansion,1967-07-28,M,3,2,9,C,1200,925,16300000,2019-04-11,2005-07-16,2150000,658.14,22.270930999999997,114.1850305
+591,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Kwong Mansion,King Kwong Mansion,1989-06-11,M,,,11,B,405,259,5280000,2019-04-10,2007-06-01,1690000,212.43,22.269244999999998,114.185243
+592,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Panny Court,Panny Court,1992-08-14,M,3,,13,A,704,502,10500000,2019-04-10,2013-03-04,7700000,36.36,22.268884999999997,114.1838
+593,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,San Francisco Towers,Block A,1983-04-26,L,3,2,5,2,1116,959,23500000,2019-04-10,2010-12-03,13500000,74.07000000000001,22.269878,114.18627599999999
+594,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,1-3 Sing Woo Road,1-3 Sing Woo Road,1964-10-12,H,,,6,,0,570,8650000,2019-04-09,,0,0.0,22.269866,114.184947
+595,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Moon Fair Mansion,Block Fgh,1974-01-16,H,3,2,9,9,1393,1129,23500000,2019-04-08,,0,0.0,22.271673,114.17704
+596,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Blue Pool Lodge,Blue Pool Lodge,1957-07-02,H,,,9,,0,926,16380000,2019-04-08,2014-09-01,12700000,28.98,22.270042,114.18501499999999
+597,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1976-03-07,H,3,,16,G,0,622,13290000,2019-04-07,2011-03-03,7600000,74.87,22.26693,114.18486
+598,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King'S Court,King'S Court,1972-03-19,H,,,12,A,0,446,9650000,2019-04-07,2013-10-14,6800000,41.910000000000004,22.2674376,114.183989
+599,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 8,2002-03-22,L,3,,12,B,1618,1240,55000000,2019-04-04,2010-05-19,33000000,66.67,22.27641,114.183613
+600,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Wah Chi Mansion,Wah Chi Mansion,1964-06-01,,3,2,11,C,1500,1232,18000000,2019-04-03,,0,0.0,22.2672939,114.184929
+601,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,No.7 Fung Fai Terrace,No.7 Fung Fai Terrace,1974-07-24,,,,1,D,0,512,8180000,2019-04-03,2007-07-27,2850000,187.02,22.268186999999998,114.183361
+602,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mannie Garden,Mannie Garden,1989-07-20,L,,,7,A,338,203,4330000,2019-04-03,2010-04-19,2000000,116.5,22.267329,114.187393
+603,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Kam Shan Court,Kam Shan Court,1976-02-08,H,2,2,19,A,0,468,8850000,2019-04-02,2008-03-18,5180000,70.85000000000001,22.2678394,114.1842685
+604,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yuk Sing Building,Yuk Sing Building,1976-09-28,M,3,2,14,A,1200,976,19380000,2019-04-02,2002-05-30,3550000,445.92,22.268604,114.185917
+605,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Rose Court,Block B,1963-09-16,H,,,10,A,0,2049,55000000,2019-04-01,,0,0.0,22.274231,114.183754
+606,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Tai Yuen,Tai Yuen,1986-12-16,,1,1,G,C,350,301,5050000,2019-04-01,,0,0.0,22.267004,114.183939
+607,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silver Fair Mansion,Silver Fair Mansion,1965-07-22,M,3,,6,,1450,1119,23000000,2019-04-01,2015-07-01,15500000,48.39,22.272313999999998,114.17676
+608,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broadwood Twelve,Broadwood Twelve,2010-06-08,M,3,,31,B,1650,1280,50000000,2019-04-01,2011-05-19,41510000,20.45,22.272126999999998,114.1863455
+609,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fairview Court,Fairview Court,1983-08-15,H,2,2,20,B,603,437,7890000,2019-04-01,1996-11-14,2548300,209.62,22.268859,114.185061
+610,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Cheung Mansions,King Cheung Mansions,1966-03-16,L,,,1,14,0,587,7700000,2019-03-31,,0,0.0,22.269064,114.185356
+611,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cathay Garden,Cathay Garden,1967-01-21,H,,,,B,650,471,8800000,2019-03-29,,0,0.0,22.267758,114.1852559
+612,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cathay Garden,Cathay Garden,1967-01-21,H,,,,A,650,471,8800000,2019-03-29,,0,0.0,22.267758,114.1852559
+613,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 5,2002-03-22,L,,,11,B,2238,1724,86200000,2019-03-29,2005-09-05,28600000,201.4,22.2758419,114.1843665
+614,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block J,1988-12-09,H,4,2,37,1,2001,1682,61500000,2019-03-29,1997-11-28,25900000,137.45000000000002,22.273563,114.186652
+615,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Regent Hill,Regent Hill,2016-09-20,L,2,,10,A,0,534,15300000,2019-03-28,2015-06-09,12331000,24.080000000000002,22.26782,114.187035
+616,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,San Francisco Towers,Block B,1983-04-25,L,3,2,3,3,1050,910,21800000,2019-03-28,,0,0.0,22.270221,114.186159
+617,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Gracedale,The Gracedale,1999-06-15,M,2,,14,B,629,369,7500000,2019-03-28,2011-01-28,4850000,54.64,22.268345,114.185029
+618,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Majestic Court,Majestic Court,1989-09-12,H,3,2,26,A,722,526,11800000,2019-03-28,2005-05-27,4450000,165.17000000000002,22.267729,114.185956
+619,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,San Francisco Towers,Block B,1983-04-26,M,3,2,14,2,1116,959,24000000,2019-03-28,,0,0.0,22.270221,114.186159
+620,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Rocha,Block A,1988-06-30,L,3,2,4,3,1313,1129,26580000,2019-03-28,2003-01-17,5718000,364.85,22.2728385,114.186184
+621,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-18,,2,2,26,F,680,524,10650000,2019-03-27,2013-09-25,8800000,21.02,22.2675194,114.1857254
+622,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Richery Garden,Richery Garden,1997-02-09,,2,2,3,F,953,761,14650000,2019-03-27,2011-01-25,9600000,52.6,22.2678171,114.1817405
+623,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shuk Yuen Building,Block F,1958-12-14,,3,2,4,,1800,1528,35000000,2019-03-27,2007-10-16,19500000,79.49,22.265231999999997,114.188
+624,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Rocha,Block B,1988-06-30,M,3,2,16,1,1340,1147,29000000,2019-03-27,1999-05-05,6800000,326.47,22.272558999999998,114.18628
+625,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Sun View Court,Sun View Court,1985-03-05,H,,,23,A,0,478,9400000,2019-03-27,2007-11-09,4050000,132.1,22.268309,114.185356
+626,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Splendour Court,Splendour Court,1975-08-31,L,,,3,,1734,1362,25380000,2019-03-26,2011-09-22,18500000,37.19,22.270816999999997,114.18502
+627,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Claymore Lodge,Claymore Lodge,1990-01-21,L,0,,6,A,426,284,5400000,2019-03-26,2010-10-26,2880000,87.5,22.268288,114.18554
+628,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegant Court,Elegant Court,1981-10-20,L,2,2,1,A,627,522,9500000,2019-03-26,2010-04-15,5000000,90.0,22.268123,114.184225
+629,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Sherwood Court,Block 1,1989-04-24,L,3,,9,F,733,643,10550000,2019-03-25,2008-07-20,5500000,91.82000000000001,22.267279,114.18653
+630,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Panny Court,Panny Court,1992-08-13,M,2,,13,B,582,412,7750000,2019-03-25,2004-03-21,2330000,232.62,22.268884999999997,114.1838
+631,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Nicholson Tower,Block A,1990-11-23,M,4,2,18,1,1993,1638,70000000,2019-03-25,,0,0.0,22.262529999999998,114.186588
+632,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,La Vogue Court,La Vogue Court,1976-12-23,L,3,2,4,A,1132,1003,19000000,2019-03-21,2012-03-22,13500000,40.74,22.268276,114.1852489
+633,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Court,Happy Court,1993-06-10,L,2,2,5,B,530,328,6300000,2019-03-21,1999-05-03,1950000,223.08,22.269074,114.1861115
+634,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Craigmount,Block B,1972-10-11,M,,,8,8,0,1800,53980000,2019-03-21,,0,0.0,,
+635,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Blue Pool Mansion,Blue Pool Mansion,1959-03-17,M,3,2,8,,1500,1028,18800000,2019-03-20,2007-08-20,7500000,150.67000000000002,22.26631,114.188726
+636,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Blue Pool Mansion,Blue Pool Mansion,1959-03-17,M,3,2,8,,1500,1315,22600000,2019-03-20,,0,0.0,22.26631,114.188726
+637,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Unique Tower,Unique Tower,1982-08-09,L,1,1,2,D,426,308,5600000,2019-03-20,2011-02-01,3280000,70.73,22.2694969,114.1839555
+638,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegant Terrace,Elegant Terrace,1992-10-23,,3,,G,C,827,680,10180000,2019-03-20,2004-04-22,2800000,263.57,22.266963999999998,114.18387
+639,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,38-42 Yik Yam Street,38-42 Yik Yam Street,1966-05-02,M,,,5,A,0,596,8838000,2019-03-19,,0,0.0,22.269243,114.18398
+640,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1976-03-07,M,3,,10,F,0,615,12600000,2019-03-19,2012-05-30,8550000,47.37,22.26693,114.18486
+641,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 6,2002-03-22,L,,,11,A,2238,1724,80000000,2019-03-19,2006-06-08,27500000,190.91,22.276111999999998,114.184117
+642,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Kwong Mansion,King Kwong Mansion,1989-06-11,M,,,8,A,405,259,4980000,2019-03-18,2015-03-25,3930000,26.72,22.269244999999998,114.185243
+643,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1973-01-25,,2,,15,A,0,682,13000000,2019-03-18,2010-02-03,7200000,80.56,22.26712,114.18511
+644,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Building,Block C,1984-10-18,H,3,2,31,1,1597,1304,24000000,2019-03-17,,0,0.0,22.2728535,114.1849955
+645,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,87 Wong Nai Chung Road,87 Wong Nai Chung Road,1957-02-27,L,,,1,,0,595,9200000,2019-03-14,,0,0.0,22.273521,114.18403
+646,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Rockwin Court,Rockwin Court,1988-07-31,,2,,2,D,673,469,7850000,2019-03-14,1999-01-22,2160000,263.43,22.267854,114.183072
+647,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Pioneer Court,Pioneer Court,1990-08-13,M,2,,8,B,747,577,12680000,2019-03-14,2008-04-28,8500000,49.18,22.2722604,114.185265
+648,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Po Tak Mansion,Po Tak Mansion,1963-03-04,H,,,11,A,0,662,10200000,2019-03-12,,0,0.0,22.2796142,114.129309
+649,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silverwood,Silverwood,1998-02-09,M,2,,15,C,503,341,7700000,2019-03-12,2012-10-09,5980000,28.76,22.276031,114.185524
+650,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Garden,Village Garden,1995-08-31,H,3,2,26,B,837,592,14150000,2019-03-07,2009-07-05,6600000,114.39,22.2677615,114.183908
+651,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Hiap Teck Building,Hiap Teck Building,1965-08-30,M,,,4,,550,455,7000000,2019-03-05,2009-11-17,3230000,116.72,22.26966,114.184715
+652,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Race Course Mansion,Race Course Mansion,1959-01-22,L,,,2,A,0,692,10580000,2019-03-05,,0,0.0,22.273716,114.183914
+653,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,7-9A Yuen Yuen Street,"7-7A , 9-9A Yuen Yuen Street",1966-01-25,M,,,4,,0,433,6750000,2019-03-05,,0,0.0,22.269323,114.18594
+654,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Regent Hill,Regent Hill,2016-09-21,H,3,,27,A,0,884,30790560,2019-03-05,,0,0.0,22.26782,114.187035
+655,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mandarin Villa,Block East,1973-05-30,L,2,,2,7,750,629,9600000,2019-03-04,1996-08-20,3200000,200.0,22.271967,114.176563
+656,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Race Course Mansion,Race Course Mansion,1959-01-22,L,,,2,B,0,724,11300000,2019-03-03,2004-01-27,1480000,663.51,22.273716,114.183914
+657,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Court,Block A,1985-07-30,,3,2,4,1,884,834,13425000,2019-02-27,2008-01-22,6800000,97.43,22.267014,114.18345
+658,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Hooley Mansion,Hooley Mansion,1967-06-07,M,2,2,6,D,750,625,10700000,2019-02-21,,0,0.0,22.2696354,114.184365
+659,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Kam Kwong Mansion,Kam Kwong Mansion,1977-09-15,L,1,2,5,B,425,346,5900000,2019-02-20,2006-02-15,2065000,185.71,22.268933999999998,114.18426
+660,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grandview Tower,Block B,1978-02-01,L,3,,9,4,862,759,15900000,2019-02-14,2000-08-29,1800000,783.33,22.272322,114.174288
+661,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Se-Wan Mansion,43C Happy View Terrace,1961-09-29,,,,1,,0,1209,22250000,2019-02-14,2016-11-18,16700000,33.230000000000004,22.274776,114.18572
+662,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broadwood Park,Broadwood Park,1984-08-08,M,3,2,21,B,2740,2414,81500000,2019-02-12,2009-10-06,51400000,58.56,22.2693,114.188233
+663,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Mansion,Block A,1967-07-11,M,,,9,,0,1147,24000000,2019-02-07,,0,0.0,22.270398999999998,114.185245
+664,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mannie Garden,Mannie Garden,1989-07-20,M,,,11,B,338,203,4300000,2019-02-01,2013-08-08,3192000,34.71,22.267329,114.187393
+665,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,9A-9F Broom Road,9A-9F Broom Road,1966-07-19,,,,2,,0,1565,23000000,2019-01-23,,0,0.0,22.264169,114.187888
+666,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegant Court,Elegant Court,1981-10-20,M,2,2,15,A,627,522,9600000,2019-01-22,2015-07-06,8700000,10.34,22.268123,114.184225
+667,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Lunar Building,Lunar Building,1963-01-08,L,,,1,D,0,773,10500000,2019-01-20,,0,0.0,22.277313,114.18322
+668,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Court,Block A,1985-07-30,,2,2,2,4,673,645,9150000,2019-01-16,2004-03-24,2300000,297.83,22.267014,114.18345
+669,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Unique Tower,Unique Tower,1982-08-09,,1,1,18,D,426,308,5950000,2019-01-15,2006-12-26,1980000,200.51,22.2694969,114.1839555
+670,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,22-22A Ventris Road,22-22A Ventris Road,1970-11-26,H,,,5,,0,436,7500000,2019-01-10,2018-07-08,7500000,0.0,22.271618,114.18508
+671,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Palm Court,Palm Court,1997-08-21,L,,,8,,1050,654,13600000,2019-01-09,2009-06-17,7650000,77.78,22.267744,114.186371
+672,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,1 Happy View Terrace,1 Happy View Terrace,1956-06-25,,,,1,,0,1340,26800000,2019-01-04,,0,0.0,22.27471,114.18555
+673,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,13 King Kwong Street,13 King Kwong Street,1972-03-14,,,,5,,0,688,7570000,2019-01-03,,0,0.0,22.268976,114.18513
+674,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Garden,Village Garden,1995-08-31,M,3,2,22,B,837,592,11500000,2019-01-02,2009-12-30,6950000,65.47,22.2677615,114.183908
+675,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,77-79 Wong Nai Chung Road,77 Wong Nai Chung Road,1965-08-09,H,,,9,,0,1125,25900000,2018-12-30,,0,0.0,22.2716951,114.1846982
+676,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Wan Choi Yuen,Wan Choi Yuen,1963-12-14,,,,1,D,0,1564,37000000,2018-12-28,,0,0.0,22.262337,114.19078999999999
+677,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Wan Choi Yuen,Wan Choi Yuen,1963-12-14,,,,2,D,0,1564,32000000,2018-12-28,,0,0.0,22.262337,114.19078999999999
+678,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Panny Court,Panny Court,1992-08-14,H,3,,25,C,704,502,10000000,2018-12-24,2002-09-14,2650000,277.36,22.268884999999997,114.1838
+679,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fortuna Court,Fortuna Court,1997-08-13,L,2,2,,A,705,468,10200000,2018-12-21,,0,0.0,22.2694504,114.1837436
+680,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Horace Court,Horace Court,1979-06-06,L,2,1,8,D,504,417,7000000,2018-12-21,,0,0.0,22.268687999999997,114.18445
+681,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Rockwin Court,Rockwin Court,1988-07-31,,2,,1,F,630,414,6500000,2018-12-20,2012-12-06,5700000,14.040000000000001,22.267854,114.183072
+682,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Unique Tower,Unique Tower,1982-08-09,L,1,1,4,A,426,308,5900000,2018-12-19,2006-04-25,2030000,190.64000000000001,22.2694969,114.1839555
+683,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Friendship Court,Friendship Court,1975-01-01,M,3,,10,C,0,728,3000000,2018-12-18,,0,0.0,22.269793999999997,114.185455
+684,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Friendship Court,Friendship Court,1975-01-01,M,3,,10,C,0,728,3000000,2018-12-18,2018-12-18,3000000,0.0,22.269793999999997,114.185455
+685,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ventris Court,Block H,1963-05-29,H,3,2,7,,1250,1038,35000000,2018-12-17,2007-07-27,8300000,321.69,22.272509,114.185248
+686,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Carrie Garden,Carrie Garden,1993-06-29,H,1,2,6,C,834,611,12300000,2018-12-14,2008-05-22,8680000,41.71,22.262394,114.189384
+687,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Building,Block C,1984-10-19,M,3,2,20,1,1597,1304,46300000,2018-12-13,,0,0.0,22.2728535,114.1849955
+688,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Man Wah Building,Man Wah Building,1975-05-20,H,,,11,A,0,344,5900000,2018-12-11,2013-03-21,4880000,20.900000000000002,22.2692,114.18411
+689,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,9-9A Tung Shan Terrace,9-9A Tung Shan Terrace,1964-02-19,,,,G,B,0,2603,40500000,2018-12-10,,0,0.0,22.268017,114.180756
+690,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,9-9A Tung Shan Terrace,9-9A Tung Shan Terrace,1964-02-19,,,,2,A,0,2603,44500000,2018-12-10,,0,0.0,22.268017,114.180756
+691,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Arts Mansion,Arts Mansion,1979-01-10,L,,,4,C,907,766,18000000,2018-12-05,,0,0.0,22.270563,114.185204
+692,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mayfair Court,Mayfair Court,1980-07-10,,2,2,4,D,450,333,6180000,2018-12-05,2002-08-23,1150000,437.39,22.2684716,114.183398
+693,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Hang Fung Mansion,Hang Fung Mansion,1971-07-27,L,2,2,5,B,650,478,9600000,2018-12-05,,0,0.0,22.269631,114.184244
+694,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 1,2002-03-22,H,2,,32,B,1206,924,38000000,2018-11-30,2015-01-09,32680000,16.28,22.275192,114.184801
+695,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,18-20 Happy View Terrace,18-20 Happy View Terrace,1957-04-05,,,,3,A,0,2081,30000000,2018-11-27,2005-05-28,15600000,92.31,22.274117,114.18559
+696,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,18-20 Happy View Terrace,18-20 Happy View Terrace,1957-04-05,,,,3,B,0,1455,26200000,2018-11-27,2007-01-16,13800000,89.86,22.274117,114.18559
+697,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Regent Hill,Regent Hill,2016-09-20,H,1,,22,B,0,355,12470040,2018-11-25,,0,0.0,22.26782,114.187035
+698,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Cheung Mansions,King Cheung Mansions,1966-03-16,L,1,,3,12,0,370,4500000,2018-11-20,2008-06-12,1050000,328.57,22.269064,114.185356
+699,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenville Gardens,Block D,1980-12-02,H,,,19,3,1340,1210,23230000,2018-11-18,2010-11-29,16820000,38.11,22.27037,114.178102
+700,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Regent Hill,Regent Hill,2016-09-21,H,2,,22,A,0,534,19151640,2018-11-16,,0,0.0,22.26782,114.187035
+701,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fairview Court,Fairview Court,1983-08-15,H,2,2,22,B,603,437,9250000,2018-11-16,2010-09-20,5880000,57.31,22.268859,114.185061
+702,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1973-01-24,M,3,,13,B,0,880,17600000,2018-11-11,,0,0.0,22.26712,114.18511
+703,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mandarin Villa,Block West,1973-05-31,L,2,,4,6,750,629,11100000,2018-11-09,2003-08-07,1800000,516.67,22.2718258,114.1768092
+704,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Bellevue Court,Block A,1964-12-06,L,,,3,6,0,2257,50000000,2018-11-06,1996-12-22,12500000,300.0,22.264720999999998,114.184111
+705,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Bellevue Court,Block B,1964-12-06,H,,,12,47,0,2257,65000000,2018-11-06,,0,0.0,22.264439,114.184028
+706,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Bellevue Court,Block A,1964-12-06,L,,,1,1,0,2257,50000000,2018-11-06,,0,0.0,22.264720999999998,114.184111
+707,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winner House,Winner House,1979-06-04,L,,,4,A,0,353,6670000,2018-11-06,2011-02-16,5080000,31.3,22.2695696,114.184169
+708,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block K,1988-12-09,M,3,2,19,2,1382,1083,29880000,2018-11-01,2009-01-21,10500000,184.57,22.273754,114.186515
+709,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broom Garden,Block 1,1994-03-24,,3,,3,D,1093,848,16700000,2018-10-30,2018-10-08,16700000,0.0,22.264146999999998,114.18886
+710,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,33-35 Yik Yam Street,33-35 Yik Yam Street,1975-10-07,,,,3,,0,457,7380000,2018-10-29,,0,0.0,22.269088,114.184423
+711,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 3,2002-03-22,M,,,21,B,1911,1461,67000000,2018-10-26,2005-04-15,25650000,161.21,22.2755604,114.1845134
+712,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block E,1988-12-09,M,3,2,17,1,1378,1070,27880000,2018-10-26,2015-05-15,22000000,26.73,22.2733661,114.1858384
+713,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Evone Court,Evone Court,1964-11-25,L,,,1,E,0,382,9500000,2018-10-25,2018-01-24,7500000,26.67,22.269365999999998,114.184329
+714,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,69C-69D Sing Woo Road,69C-69D Sing Woo Road,1955-01-04,,,,2,,0,616,9100000,2018-10-23,,0,0.0,,
+715,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Hang Fung Mansion,Hang Fung Mansion,1971-07-27,M,2,2,9,B,650,478,12000000,2018-10-23,,0,0.0,22.269631,114.184244
+716,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mount Nicholson,Tower D,2016-02-18,,4,,,,0,4596,519990000,2018-10-18,,0,0.0,22.262712,114.17978
+717,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Richery Palace,Richery Palace,1974-09-26,,,,2,A,0,1891,34500000,2018-10-17,2015-10-13,28600000,20.63,22.268176999999998,114.18142
+718,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block F,1988-12-09,L,4,2,1,1,1983,1665,37800000,2018-10-12,2018-06-15,37800000,0.0,22.2731795,114.185875
+719,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Claymore Lodge,Claymore Lodge,1990-01-21,H,1,,27,C,648,449,8200000,2018-10-11,2011-05-18,6428000,27.57,22.268288,114.18554
+720,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block K,1988-12-09,H,3,2,26,2,1382,1083,30180000,2018-10-10,2008-12-12,10000000,201.8,22.273754,114.186515
+721,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,27-29 Village Terrace,27-29 Village Terrace,1956-07-29,,,,2,,0,1065,17000000,2018-10-08,2010-06-22,13000000,30.77,22.267142,114.182982
+722,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1976-03-07,H,3,,18,H,0,615,11750000,2018-10-08,2007-11-19,4450000,164.04,22.26693,114.18486
+723,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broom Garden,Block 1,1994-03-24,,3,,3,D,1093,848,16700000,2018-10-08,2015-10-16,15950000,4.7,22.264146999999998,114.18886
+724,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Court,Happy Court,1993-06-10,L,2,2,6,B,530,328,6200000,2018-10-07,2014-08-24,5200000,19.23,22.269074,114.1861115
+725,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cathay Garden,Cathay Garden,1967-01-20,L,,,1,D,0,471,7100000,2018-10-07,,0,0.0,22.267758,114.1852559
+726,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silverwood,Silverwood,1998-02-09,M,2,,21,C,503,341,7900000,2018-10-02,2000-05-08,3100000,154.84,22.276031,114.185524
+727,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yee Fung Building,Yee Fung Building,1972-09-21,H,,,12,B,0,315,5980000,2018-09-27,,0,0.0,22.26956,114.18358
+728,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Southern Pearl Court,Southern Pearl Court,1996-02-28,M,,,14,,0,517,11000000,2018-09-24,2018-05-15,11000000,0.0,22.276154,114.182755
+729,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silver Star Court,Silver Star Court,1981-09-27,H,,,23,B,1088,940,20000000,2018-09-23,,0,0.0,22.2675334,114.184346
+730,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Wing On Lodge,Wing On Lodge,1984-05-01,L,3,2,2,,1308,1170,29500000,2018-09-23,2010-06-23,14500000,103.45,22.267405999999998,114.18799
+731,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegant Terrace,Elegant Terrace,1992-10-23,,2,,1,B,592,504,8550000,2018-09-21,,0,0.0,22.266963999999998,114.18387
+732,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Regent Hill,Regent Hill,2016-09-20,M,1,,21,B,0,355,12106260,2018-09-20,,0,0.0,22.26782,114.187035
+733,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Unique Tower,Unique Tower,1982-08-09,L,1,1,1,D,426,308,7600000,2018-09-20,2010-02-01,4100000,85.37,22.2694969,114.1839555
+734,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Tower,Village Tower,1972-07-20,H,3,2,24,A,900,653,8000000,2018-09-20,,0,0.0,22.268679,114.18382
+735,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block F,1988-12-09,H,4,2,26,2,1624,1346,28000000,2018-09-19,2012-12-17,25950000,7.9,22.2731795,114.185875
+736,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Lotto,Block B,1987-12-24,M,3,2,14,5,1211,1103,31000000,2018-09-17,1998-03-25,10900000,184.4,22.2711,114.18688
+737,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Formwell Garden,Formwell Garden,1982-08-10,L,,,7,A,1600,1267,27380000,2018-09-14,,0,0.0,22.269266,114.186378
+738,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Blue Pool Lodge,Blue Pool Lodge,1957-07-02,L,,,2,,0,926,16500000,2018-09-13,2007-04-27,5380000,206.69,22.270042,114.18501499999999
+739,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block F,1988-12-09,H,4,2,22,2,1624,1346,37800000,2018-09-11,,0,0.0,22.2731795,114.185875
+740,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1973-01-24,M,2,,12,A,0,682,13380000,2018-09-09,,0,0.0,22.26712,114.18511
+741,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silverwood,Silverwood,1998-02-09,L,2,,7,A,535,354,7800000,2018-09-07,2013-01-28,5980000,30.43,22.276031,114.185524
+742,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Miramar Villa,Block West,1969-10-07,M,3,2,7,2,1200,944,18400000,2018-09-05,2013-01-29,12080000,52.32,22.27294,114.17654999999999
+743,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Lotto,Block D,1987-12-24,M,3,2,18,13,1211,1103,30980000,2018-09-05,,0,0.0,22.2717975,114.1866406
+744,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Friendship Court,Friendship Court,1975-01-01,H,3,,20,D,0,783,16000000,2018-09-04,2007-01-17,6150000,160.16,22.269793999999997,114.185455
+745,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ascot Tower,Ascot Tower,1984-02-01,L,,,6,,0,897,17500000,2018-09-04,2004-04-08,4380000,299.54,22.268425,114.1859569
+746,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Claymore Lodge,Claymore Lodge,1990-01-22,M,0,,19,A,426,284,5800000,2018-09-03,2015-04-27,4930000,17.650000000000002,22.268288,114.18554
+747,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegance Tower,Elegance Tower,1992-05-31,L,1,2,11,A,643,370,6950000,2018-09-02,2008-07-13,3280000,111.89,22.267993999999998,114.18592
+748,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Unique Tower,Unique Tower,1982-08-09,L,1,1,7,D,426,308,6000000,2018-08-30,2010-09-16,3280000,82.93,22.2694969,114.1839555
+749,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,2-2A Leighton Road,2 Leighton Road,1965-02-11,L,,,2,,0,476,5600000,2018-08-30,2009-12-30,4280000,30.84,22.276764999999997,114.182422
+750,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Venice Garden,Venice Garden,1991-05-01,M,3,2,5,D,1429,1114,23880000,2018-08-30,,0,0.0,22.264609999999998,114.189156
+751,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Unique Tower,Unique Tower,1982-08-09,L,1,1,4,C,426,308,5900000,2018-08-28,2011-03-30,3565000,65.5,22.2694969,114.1839555
+752,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Shing Building,Shan Shing Building,1977-01-05,M,,,10,B,0,563,10680000,2018-08-28,2012-06-07,7500000,42.4,22.267497,114.18419
+753,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block G,1988-12-09,L,3,2,7,1,1357,1057,25640000,2018-08-27,2009-11-05,11950000,114.56,22.2732414,114.186097
+754,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block J,1988-12-09,M,4,2,18,1,2007,1697,49000000,2018-08-24,,0,0.0,22.273563,114.186652
+755,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,18-19A Fung Fai Terrace,18-19A Fung Fai Terrace,1975-02-21,,,,2,,0,989,16308000,2018-08-24,,0,0.0,22.268307,114.18307899999999
+756,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Court,Happy Court,1993-06-10,H,2,2,22,A,530,328,6900000,2018-08-22,2009-07-28,3230000,113.62,22.269074,114.1861115
+757,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Sanitarian Apartments,Sanitarian Apartments,1957-11-28,,,,3,,0,1107,8500000,2018-08-22,2013-03-20,15000000,-43.33,22.263775,114.187938
+758,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Hooley Mansion,Hooley Mansion,1967-06-07,L,2,2,4,A,850,727,14150000,2018-08-22,2002-08-26,2700000,424.07,22.2696354,114.184365
+759,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Green Lane Court,Green Lane Court,1959-03-25,,,,2,,0,1131,21600000,2018-08-22,,0,0.0,22.263510999999998,114.18965299999999
+760,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Hooley Mansion,Hooley Mansion,1967-06-07,H,2,2,8,D,750,625,10900000,2018-08-22,,0,0.0,22.2696354,114.184365
+761,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yu Fung Building,Yu Fung Building (I.L. 8703),1972-06-06,L,,,1,A,0,722,12600000,2018-08-21,2008-07-30,8000000,57.5,22.269686999999998,114.1845191
+762,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Comfort Mansion,Comfort Mansion,1964-07-08,H,3,2,9,,1050,730,16300000,2018-08-21,2009-07-20,11500000,41.74,22.271055999999998,114.18507
+763,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-19,L,3,2,5,D,788,596,12500000,2018-08-20,2015-08-05,8900000,40.45,22.2675194,114.1857254
+764,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Notting Hill,The Notting Hill,2002-06-20,,2,,2,K,602,429,7350000,2018-08-19,2007-10-31,3000000,145.0,22.2675495,114.181844
+765,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silverstone Mansion,Silverstone Mansion,1984-06-14,M,1,,6,A,516,369,6000000,2018-08-17,,0,0.0,22.267557999999998,114.187309
+766,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Hooley Mansion,Hooley Mansion,1967-06-07,M,2,2,5,C,750,625,10200000,2018-08-17,,0,0.0,22.2696354,114.184365
+767,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broadview Mansion,Broadview Mansion,1963-09-18,H,,,9,D,0,738,13380000,2018-08-16,2008-05-13,8250000,62.18,22.271603,114.18492
+768,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,15 Yuen Yuen Street,15 Yuen Yuen Street,1975-01-29,,,,4,B,0,465,7800000,2018-08-15,,0,0.0,22.269396999999998,114.185981
+769,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Mansion,Happy Mansion,1964-10-20,L,3,2,3,,1200,836,18700000,2018-08-15,,0,0.0,22.267962999999998,114.185814
+770,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1976-03-07,L,3,,6,F,0,615,12700000,2018-08-14,2011-02-16,7180000,76.88,22.26693,114.18486
+771,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 2,2002-03-22,L,3,,11,B,1618,1240,55000000,2018-08-13,2015-09-01,44500000,23.6,22.2753611,114.1846274
+772,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,5 Min Fat Street,5 Min Fat Street,1969-07-10,,,,4,B,0,357,4280000,2018-08-09,2007-09-27,1800000,137.78,22.269026,114.186424
+773,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Marlborough House,Marlborough House,1960-09-08,H,,,11,C,0,973,23800000,2018-08-09,2001-08-27,4600000,417.39,22.2679704,114.189298
+774,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Jade Terrace,Jade Terrace,1989-06-28,M,2,2,17,C,588,465,9900000,2018-08-07,2006-09-05,3360000,194.64000000000001,22.275565999999998,114.18551
+775,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Sherwood Court,Block 1,1989-04-24,M,3,,16,E,877,773,14300000,2018-08-07,2010-03-03,8000000,78.75,22.267279,114.18653
+776,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Kam Shan Court,Kam Shan Court,1976-02-08,H,2,2,21,B,0,457,8250000,2018-08-07,2012-06-11,6680000,23.5,22.2678394,114.1842685
+777,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Pioneer Court,Pioneer Court,1990-08-12,H,2,,11,A,591,459,9000000,2018-08-05,2008-01-08,5200000,73.08,22.2722604,114.185265
+778,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Nam Wing Building,Nam Wing Building,1970-07-16,M,2,2,5,C,550,372,5780000,2018-08-03,2014-09-10,4550000,27.03,22.268580999999998,114.18655
+779,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Rocha,Block B,1988-06-30,M,3,2,19,3,1313,1129,31700000,2018-08-01,2000-08-08,7450000,325.5,22.272558999999998,114.18628
+780,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Sherwood Court,Block 1,1989-04-24,L,3,,8,D,852,748,14500000,2018-07-31,2009-11-25,6900000,110.14,22.267279,114.18653
+781,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Monte Rosa,Block E,1966-12-06,H,3,,18,2,0,2000,56700000,2018-07-31,,0,0.0,22.26495,114.18274
+782,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Cheung Mansions,King Cheung Mansions,1966-03-16,L,,,1,N,0,339,5100000,2018-07-30,2010-08-10,2560000,99.22,22.269064,114.185356
+783,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Blue Pool Lodge,Blue Pool Lodge,1957-07-02,L,,,4,,0,1103,17360000,2018-07-30,,0,0.0,22.270042,114.18501499999999
+784,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Horace Court,Horace Court,1979-06-05,M,2,1,14,A,504,417,7900000,2018-07-29,,0,0.0,22.268687999999997,114.18445
+785,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Le Village,Le Village,2002-01-24,M,2,,21,A,555,379,8380000,2018-07-29,2001-08-07,3194475,162.33,22.268466999999998,114.1862066
+786,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Broadville,The Broadville,1993-03-22,M,3,2,20,B,1490,1180,27300000,2018-07-27,2006-07-22,10000000,173.0,22.27395,114.18515
+787,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly House,Beverly House,1978-09-29,,,,2,D,605,487,7700000,2018-07-27,2011-05-09,4800000,60.42,22.268345,114.183411
+788,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ascot Villas,Ascot Villas,1985-12-05,M,,,7,,0,473,7750000,2018-07-26,1998-02-13,3200000,142.19,22.268919999999998,114.18523
+789,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Kam Kwong Mansion,Kam Kwong Mansion,1977-09-15,M,1,2,11,B,425,346,6480000,2018-07-26,2013-02-13,5300000,22.26,22.268933999999998,114.18426
+790,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Moon Fair Mansion,Block Fgh,1974-01-16,L,3,2,1,1,1290,1035,20600000,2018-07-26,2006-08-04,5900000,249.15,22.271673,114.17704
+791,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-18,M,2,2,17,E,672,519,9000000,2018-07-26,2018-05-30,8990000,0.11,22.2675194,114.1857254
+792,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,16-20 Broom Road,16-20 Broom Road,1958-09-25,,,,1,,0,1760,25000000,2018-07-26,,0,0.0,22.26457,114.18753
+793,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Nam Wing Building,Nam Wing Building,1970-07-16,H,2,2,7,A,550,403,7000000,2018-07-26,2012-04-23,1000000,600.0,22.268580999999998,114.18655
+794,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegance Court,Elegance Court,1986-01-27,L,2,2,8,B,593,406,7500000,2018-07-25,2009-08-19,3650000,105.48,22.269458999999998,114.18579
+795,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Notting Hill,The Notting Hill,2002-06-20,,2,,G,A,0,544,9900000,2018-07-25,2011-05-11,6950000,42.45,22.2675495,114.181844
+796,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,18-19A Fung Fai Terrace,18-19A Fung Fai Terrace,1975-02-21,,,,1,,0,1016,15000000,2018-07-25,,0,0.0,22.268307,114.18307899999999
+797,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Mansion,Happy Mansion,1964-10-19,H,3,2,10,,1200,836,15000000,2018-07-24,,0,0.0,22.267962999999998,114.185814
+798,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Le Cachet,Le Cachet,2001-04-22,L,2,,8,B,729,521,10000000,2018-07-24,2007-10-07,4620000,116.45,22.2677,114.18721
+799,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 1,2002-03-22,M,2,,27,B,1206,924,39000000,2018-07-24,2013-08-28,28000000,39.29,22.275192,114.184801
+800,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Crescent Heights,Crescent Heights,1996-11-08,,3,2,1,H,1273,1010,16800000,2018-07-24,2010-07-06,10350000,62.32,22.26787,114.181408
+801,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Majestic Court,Majestic Court,1989-09-11,L,3,2,5,A,719,526,9380000,2018-07-23,2015-07-15,8300000,13.01,22.267729,114.185956
+802,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Holly Court,Holly Court,1992-01-07,H,3,2,11,A,1338,1098,30500000,2018-07-23,,0,0.0,22.26561,114.18818999999999
+803,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mandarin Villa,Block East,1973-05-30,H,2,,11,8,750,629,14380000,2018-07-19,2014-10-20,9900000,45.25,22.271967,114.176563
+804,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Jade Terrace,Jade Terrace,1989-06-29,H,2,2,20,B,590,468,9650000,2018-07-19,2014-04-30,6800000,41.910000000000004,22.275565999999998,114.18551
+805,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Regent Hill,Regent Hill,2016-09-21,M,1,,20,B,0,355,11923000,2018-07-19,,0,0.0,22.26782,114.187035
+806,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Arts Mansion,Arts Mansion,1979-01-10,L,,,6,B,1222,1051,27500000,2018-07-18,2013-02-06,18100000,51.93,22.270563,114.185204
+807,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Claymore Lodge,Claymore Lodge,1990-01-21,L,0,,10,A,426,284,5480000,2018-07-18,2011-01-17,3340000,64.07000000000001,22.268288,114.18554
+808,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block H,1988-12-09,M,4,2,25,2,1649,1334,38000000,2018-07-18,,0,0.0,22.2733896,114.186436
+809,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yuk Sing Building,Yuk Sing Building,1976-09-28,M,3,2,19,B,1200,976,18000000,2018-07-17,2009-09-23,9180000,96.08,22.268604,114.185917
+810,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greencliff,Greencliff,1989-10-24,,1,2,2,B,942,790,16200000,2018-07-17,2006-02-01,6600000,145.45000000000002,22.268387,114.181465
+811,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silverstone Mansion,Silverstone Mansion,1984-06-14,H,1,,13,B,516,369,6700000,2018-07-16,2011-01-11,3680000,82.07000000000001,22.267557999999998,114.187309
+812,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Unique Tower,Unique Tower,1982-08-09,L,1,1,5,A,426,308,6950000,2018-07-15,2013-02-26,5460000,27.29,22.2694969,114.1839555
+813,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Kwong Mansion,King Kwong Mansion,1989-06-11,L,,,7,B,405,259,5000000,2018-07-15,2013-12-22,3580000,39.660000000000004,22.269244999999998,114.185243
+814,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegance Court,Elegance Court,1986-01-27,L,2,2,4,A,593,406,7280000,2018-07-15,2006-04-26,2670000,172.66,22.269458999999998,114.18579
+815,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yee Fung Building,Yee Fung Building,1972-09-22,L,0,,2,I,0,280,5400000,2018-07-13,2006-02-03,1350000,300.0,22.26956,114.18358
+816,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,16-22 King Kwong Street,16-22 King Kwong Street,1972-01-06,M,,,7,,0,443,7250000,2018-07-12,,0,0.0,22.269111,114.184874
+817,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Notting Hill,The Notting Hill,2002-06-20,,2,,G,J,0,501,10650000,2018-07-12,2008-04-10,5200000,104.81,22.2675495,114.181844
+818,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silverstone Mansion,Silverstone Mansion,1984-06-13,H,1,,13,A,516,369,6680000,2018-07-11,2010-02-08,3280000,103.66,22.267557999999998,114.187309
+819,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yuk Sing Building,Yuk Sing Building,1976-09-28,M,,,19,C,654,577,10150000,2018-07-11,1997-04-24,4180000,142.82,22.268604,114.185917
+820,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Venice Garden,Venice Garden,1991-05-01,H,3,2,6,D,1429,1114,22800000,2018-07-11,2009-07-16,10250000,122.44,22.264609999999998,114.189156
+821,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Claymore Lodge,Claymore Lodge,1990-01-21,H,0,,25,B,419,290,5800000,2018-07-10,2010-12-02,3700000,56.76,22.268288,114.18554
+822,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fullview Villa,Fullview Villa,1989-08-22,,3,,G,C,703,555,9000000,2018-07-10,2011-04-04,6280000,43.31,22.268463999999998,114.183072
+823,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Tsui Man Court,Tsui Man Court,1975-08-26,H,2,2,23,C,750,456,9000000,2018-07-09,,0,0.0,22.26831,114.18632
+824,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,22-22A Ventris Road,22-22A Ventris Road,1970-11-26,H,,,5,,0,436,7500000,2018-07-08,,0,0.0,22.271618,114.18508
+825,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yee Fat Mansion,Yee Fat Mansion,1992-03-19,M,2,2,10,,715,426,7290000,2018-07-08,2004-06-02,1900000,283.68,22.268697,114.186415
+826,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Crescent Heights,Crescent Heights,1996-11-08,,3,2,1,K,1534,1230,18500000,2018-07-06,2007-11-27,10250000,80.49,22.26787,114.181408
+827,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yee Fung Building,Yee Fung Building,1972-09-21,H,,,10,E,0,270,5200000,2018-07-04,2007-04-22,1700000,205.88,22.26956,114.18358
+828,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Green Lane Court,Green Lane Court,1959-03-24,,,,G,,0,1149,21880000,2018-07-03,,0,0.0,22.263510999999998,114.18965299999999
+829,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Cheung Mansions,King Cheung Mansions,1966-03-16,H,,,8,5,0,420,5850000,2018-07-03,2004-03-30,1150000,408.7,22.269064,114.185356
+830,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Rockwin Court,Rockwin Court,1988-07-31,,1,,4,G,604,423,6800000,2018-07-02,2010-09-13,3950000,72.15,22.267854,114.183072
+831,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Richview Villa,Richview Villa,1992-06-18,,2,,2,B,0,325,5100000,2018-07-02,2004-03-10,900000,466.67,22.268387,114.18308
+832,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Lotto,Block B,1987-12-24,M,3,2,15,5,1211,1103,30000000,2018-06-29,,0,0.0,22.2711,114.18688
+833,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Court,Shan Kwong Court,1964-12-14,H,,,9,B,0,964,17600000,2018-06-29,2014-06-18,14700000,19.73,22.266762999999997,114.18533
+834,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Pine Gardens,Pine Gardens,1963-12-24,,,,2,,0,1169,22750000,2018-06-29,2011-02-21,14000000,62.5,22.264025999999998,114.187617
+835,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broadwood Park,Broadwood Park,1984-08-08,M,3,2,12,A,2740,2437,91000000,2018-06-29,1998-09-30,14700000,519.05,22.2693,114.188233
+836,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ventris Place,Block C,1985-06-28,L,4,2,7,6,2121,1863,51800000,2018-06-28,2009-06-11,20180000,156.69,22.270972999999998,114.185774
+837,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fortuna Court,Fortuna Court,1997-08-12,M,2,2,16,A,705,468,11550000,2018-06-28,2009-06-09,5500000,110.0,22.2694504,114.1837436
+838,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Po Tak Mansion,Po Tak Mansion,1963-03-04,L,,,3,A,0,662,10000000,2018-06-28,2011-05-24,7080000,41.24,22.2796142,114.129309
+839,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Lotto,Block C,1987-12-24,L,3,2,5,8,1211,1103,23800000,2018-06-28,2009-11-26,13600000,75.0,22.2713815,114.186661
+840,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Cheung Mansions,King Cheung Mansions,1966-03-16,L,,,1,10,0,532,6700000,2018-06-27,2009-07-08,2650000,152.83,22.269064,114.185356
+841,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Garden,Village Garden,1995-08-31,M,3,2,16,B,837,592,14100000,2018-06-27,2015-02-04,11380000,23.900000000000002,22.2677615,114.183908
+842,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block K,1988-12-09,L,3,2,6,1,1395,1083,29880000,2018-06-27,2012-11-06,20380000,46.61,22.273754,114.186515
+843,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Green View Mansion,Green View Mansion,1967-07-28,H,3,2,,B,1350,987,17800000,2018-06-27,,0,0.0,22.270930999999997,114.1850305
+844,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Southern Pearl Court,Southern Pearl Court,1996-02-28,M,,,11,,0,517,10180000,2018-06-26,2013-09-06,10180000,0.0,22.276154,114.182755
+845,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silverstone Mansion,Silverstone Mansion,1984-06-14,H,1,,11,B,516,369,6500000,2018-06-26,2013-04-08,5200000,25.0,22.267557999999998,114.187309
+846,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Regent Hill,Regent Hill,2016-09-20,M,1,,18,B,0,355,11920000,2018-06-25,,0,0.0,22.26782,114.187035
+847,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Celeste Court,Celeste Court,1992-10-01,M,3,,12,C,943,794,16000000,2018-06-25,2009-05-25,1600000,900.0,22.2675829,114.18312
+848,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,79-81 Blue Pool Road,79-81 Blue Pool Road,1963-09-02,L,,,2,,0,1547,37800000,2018-06-25,,0,0.0,22.265145999999998,114.18898
+849,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Leon Court,Leon Court,1965-06-05,L,,,3,B,0,2480,70000000,2018-06-25,2010-12-15,48000000,45.83,22.262186,114.18693999999999
+850,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-18,M,2,2,17,B,656,499,9680000,2018-06-24,2010-07-19,5850000,65.47,22.2675194,114.1857254
+851,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mannie Garden,Mannie Garden,1989-07-20,M,,,14,B,338,203,4450000,2018-06-22,2014-09-17,3500000,27.14,22.267329,114.187393
+852,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Blue Pool Lodge,Blue Pool Lodge,1957-07-02,M,,,7,,0,1103,17300000,2018-06-22,,0,0.0,22.270042,114.18501499999999
+853,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Jade Terrace,Jade Terrace,1989-06-28,H,2,2,26,B,590,468,8680000,2018-06-21,,0,0.0,22.275565999999998,114.18551
+854,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Jade Terrace,Jade Terrace,1989-06-28,H,2,2,26,C,588,465,9390000,2018-06-21,,0,0.0,22.275565999999998,114.18551
+855,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silverstone Mansion,Silverstone Mansion,1984-06-14,M,1,,10,A,516,369,6500000,2018-06-20,2014-09-30,5238000,24.09,22.267557999999998,114.187309
+856,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenway Terrace,Block 2,1993-01-13,L,3,,8,A,887,643,12900000,2018-06-19,2009-04-27,5650000,128.32,22.275306999999998,114.18535
+857,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Antonia House,4-12 Broom Road,1963-08-01,,,,4,,0,2062,52000000,2018-06-19,2015-05-11,41000000,26.830000000000002,22.2646005,114.1879595
+858,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Building,Block C,1984-10-18,M,3,2,17,2,1597,1304,43800000,2018-06-18,,0,0.0,22.2728535,114.1849955
+859,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Friendship Court,Friendship Court,1975-01-01,M,3,,13,C,0,728,13618000,2018-06-18,,0,0.0,22.269793999999997,114.185455
+860,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,29-31 Yik Yam Street,29-31 Yik Yam Street,1971-10-21,L,,,1,A,0,429,8700000,2018-06-18,,0,0.0,22.269175999999998,114.184425
+861,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Cheung Mansions,King Cheung Mansions,1966-03-16,M,,,7,2,0,367,4950000,2018-06-18,,0,0.0,22.269064,114.185356
+862,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block F,1988-12-09,L,4,2,1,1,1983,1665,37800000,2018-06-15,2015-02-02,30680000,23.21,22.2731795,114.185875
+863,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Wah Chi Mansion,Wah Chi Mansion,1964-06-01,M,3,2,8,A,1500,1341,26380000,2018-06-14,,0,0.0,22.2672939,114.184929
+864,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Marlborough House,Marlborough House,1960-09-07,L,,,1,B,0,1385,26100000,2018-06-14,2009-08-12,14300000,82.52,22.2679704,114.189298
+865,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Lunar Building,Lunar Building,1963-01-09,M,,,8,A,0,948,14580000,2018-06-14,2010-03-11,7050000,106.81,22.277313,114.18322
+866,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Richery Palace,Richery Palace,1974-09-26,,,,3,B,0,1891,34500000,2018-06-13,,0,0.0,22.268176999999998,114.18142
+867,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,San Francisco Towers,Block B,1983-04-25,L,3,2,7,3,1050,910,25500000,2018-06-13,2007-05-30,8250000,209.09,22.270221,114.186159
+868,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,25-27 Yik Yam Street,27 Yik Yam Street,1978-11-12,,,,4,,0,543,8500000,2018-06-13,,0,0.0,22.269136,114.18455
+869,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Tower,Village Tower,1972-07-20,M,3,2,17,B,1050,805,16100000,2018-06-12,2013-08-27,12500000,28.8,22.268679,114.18382
+870,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Moon Fair Mansion,Block De,1974-01-16,H,2,1,11,11,1047,882,17950000,2018-06-12,2013-02-06,12600000,42.46,22.271611999999998,114.17722
+871,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Sheffield Garden,Sheffield Garden,1971-11-03,H,3,,9,B,1450,1170,22380000,2018-06-12,,0,0.0,22.271819999999998,114.17761
+872,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,23-39 Blue Pool Road,House A (27 Blue Pool Road),2014-09-12,,,,27,A,0,4575,305800000,2018-06-12,,0,0.0,22.268494,114.18752
+873,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mayfair Court,Mayfair Court,1980-07-10,,2,2,G,C,450,304,5880000,2018-06-12,2010-08-12,3250000,80.92,22.2684716,114.183398
+874,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shiu Fai Terrace Garden,Shiu Fai Terrace Garden,1981-11-02,H,,,12,B,1596,1232,36000000,2018-06-12,2010-04-27,19350000,86.05,22.272268,114.17694
+875,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,No.8 Shiu Fai Terrace,No.8 Shiu Fai Terrace,2003-10-13,L,4,,5,A,2428,1892,48000000,2018-06-12,2009-08-04,23000000,108.7,22.272161,114.17628500000001
+876,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cheong Ming Building,Cheong Ming Building,1964-01-24,L,,,1,,0,308,4750000,2018-06-11,,0,0.0,22.268335,114.18662
+877,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Merry Garden,Block B,1972-07-11,M,,,5,2,0,752,14880000,2018-06-10,2006-09-21,4800000,210.0,22.272313,114.1729626
+878,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,5A Wong Nai Chung Road,5A Wong Nai Chung Road,1956-11-14,L,,,2,,0,605,8250000,2018-06-08,,0,0.0,22.269394,114.183914
+879,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy View Court,Happy View Court,1959-04-06,,,,G,B2,0,539,11465000,2018-06-08,2007-01-06,2280000,402.85,22.274193,114.18534
+880,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Race View Apartments,Race View Apartments,1957-07-02,M,,,8,,0,1079,17500000,2018-06-08,,0,0.0,22.270046999999998,114.18503799999999
+881,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Lai Sing Building,Lai Sing Building,1987-09-14,H,2,2,19,B,702,483,8380000,2018-06-08,1999-05-05,2350000,256.6,22.269669999999998,114.185236
+882,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegance Tower,Elegance Tower,1992-05-31,L,1,2,6,B,651,374,6500000,2018-06-07,2015-02-26,5719888,13.64,22.267993999999998,114.18592
+883,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Empire Court,Empire Court,1958-02-11,H,,,13,F,0,855,12600000,2018-06-07,,0,0.0,22.277884999999998,114.184304
+884,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fft 22,Fft 22,1992-01-22,,2,,2,C,1110,761,12000000,2018-06-07,,0,0.0,22.2685445,114.18308
+885,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Rocha,Block A,1988-06-30,,3,2,24,2,1313,1129,27600000,2018-06-07,1999-10-27,8100000,240.74,22.2728385,114.186184
+886,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grand Court,Grand Court,1981-08-27,H,3,2,22,B,970,799,18100000,2018-06-06,2009-12-30,8900000,103.37,22.267951999999998,114.18439
+887,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,4-6 Cheong Ming Street,4-6 Cheong Ming Street,1967-11-03,,,,2,C,0,298,2930000,2018-06-06,2016-08-10,3480000,-15.8,22.268387,114.186806
+888,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Colonnade,The Colonnade,2001-02-08,M,,,16,B,1857,1411,40000000,2018-06-06,2010-03-24,37350000,7.1000000000000005,22.268148,114.18975
+889,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,2 King Kwong Street,2 King Kwong Street,1972-12-27,,,,4,,0,400,1767000,2018-06-05,,0,0.0,22.269275999999998,114.18531
+890,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mandarin Court,25 King Kwong Street,1975-03-03,L,,,1,,0,535,11800000,2018-06-05,2011-06-02,7500000,57.33,22.268741,114.184686
+891,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 9,2002-03-22,H,2,,39,B,1178,922,38500000,2018-06-05,2010-03-08,23500000,63.83,22.276626999999998,114.183395
+892,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yuk Sau Mansion,Yuk Sau Mansion,1975-09-11,L,,,3,C,700,572,12300000,2018-06-05,2012-03-16,7760000,58.51,22.268641,114.184839
+893,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Rocha,Block A,1988-06-30,M,3,2,14,2,1313,1129,28820000,2018-06-04,2008-02-11,14088000,104.57000000000001,22.2728385,114.186184
+894,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Man Wah Building,Man Wah Building,1975-05-20,M,,,6,A,0,344,5880000,2018-06-03,,0,0.0,22.2692,114.18411
+895,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Lucerne Villa,Lucerne Villa,1971-11-29,M,,,7,,0,736,13110000,2018-06-01,2010-07-30,7500000,74.8,22.268295,114.18573
+896,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Starlight House,Starlight House,1958-12-22,H,,,10,,0,930,13800000,2018-06-01,2012-04-10,9900000,39.39,22.277414,114.18342200000001
+897,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cheong Ming Building,Cheong Ming Building,1964-01-24,L,,,2,,0,457,4800000,2018-05-31,,0,0.0,22.268335,114.18662
+898,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Court,Happy Court,1993-06-10,H,2,2,23,B,558,328,6950000,2018-05-30,2005-06-23,2700000,157.41,22.269074,114.1861115
+899,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Malibu Garden,Malibu Garden,1991-11-18,M,2,2,17,E,672,519,8990000,2018-05-30,,0,0.0,22.2675194,114.1857254
+900,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Majestic Court,Majestic Court,1989-09-12,M,3,2,10,A,722,526,9740000,2018-05-30,2001-11-05,2200000,342.73,22.267729,114.185956
+901,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fairview Court,Fairview Court,1983-08-15,M,2,2,8,A,603,437,7330000,2018-05-29,2012-09-05,4800000,52.71,22.268859,114.185061
+902,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Champion Building,Champion Building,1972-08-22,M,,,12,A,0,970,22100000,2018-05-29,2011-02-11,17000000,30.0,22.271406,114.184969
+903,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Tower,Village Tower,1972-07-21,L,3,2,3,C,1050,805,12880000,2018-05-29,2005-06-16,4600000,180.0,22.268679,114.18382
+904,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fortuna Court,Fortuna Court,1997-08-12,M,3,2,17,B,1051,679,15790500,2018-05-28,2012-04-02,13000000,21.47,22.2694504,114.1837436
+905,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Richview Villa,Richview Villa,1992-06-18,,2,,G,B,0,325,5500000,2018-05-28,2013-04-21,4780000,15.06,22.268387,114.18308
+906,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,H & S Building,H & S Building,1968-05-10,M,,,16,D,0,572,9550000,2018-05-28,,0,0.0,22.27754,114.18357
+907,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block G,1988-12-09,H,3,2,25,2,1380,1082,26500000,2018-05-28,2010-02-24,13800000,92.03,22.2732414,114.186097
+908,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,37-39 Sing Woo Road,37-39 Sing Woo Road,1977-06-29,,,,1,,0,399,6350000,2018-05-27,2005-06-21,1570000,304.46,22.269322,114.185728
+909,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Mansion,Happy Mansion,1964-10-19,M,3,2,7,,1200,836,16500000,2018-05-27,,0,0.0,22.267962999999998,114.185814
+910,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shuk Yuen Building,Block C,1958-12-15,,4,2,2,,2300,1656,29500000,2018-05-25,,0,0.0,22.265083,114.18802
+911,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,8 Shan Kwong Road,8 Shan Kwong Road,1980-08-18,M,,,4,A,0,702,10500000,2018-05-24,2014-06-24,6600000,59.09,22.268334,114.184243
+912,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Kensington Court,Kensington Court,1965-01-04,M,,,6,,0,1200,19800000,2018-05-24,,0,0.0,22.27207,114.1772835
+913,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Way Man Court,Way Man Court,1983-10-15,L,3,2,2,A,1094,920,27280000,2018-05-23,2007-06-14,9280000,193.97,22.2678415,114.185426
+914,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ventris Terrace,Block A,1965-02-19,L,,,3,,0,1180,23500000,2018-05-22,2003-12-26,4780000,391.63,22.270654999999998,114.18584
+915,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 1,2002-03-22,L,2,,6,B,1200,924,32750000,2018-05-21,2000-12-21,9052200,261.79,22.275192,114.184801
+916,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenville Gardens,Block D,1980-12-02,H,,,17,4,1344,1210,25300000,2018-05-20,2004-12-07,8000000,216.25,22.27037,114.178102
+917,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greencliff,Greencliff,1989-10-23,,2,1,2,G,591,510,8680000,2018-05-20,2007-06-28,3200000,171.25,22.268387,114.181465
+918,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Court,Block A,1985-07-30,,2,2,4,4,673,645,10800000,2018-05-20,2010-09-15,5800000,86.21000000000001,22.267014,114.18345
+919,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,San Francisco Towers,Block A,1983-04-26,L,3,2,1,2,1116,959,22000000,2018-05-18,2010-03-31,11800000,86.44,22.269878,114.18627599999999
+920,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Gardens,Winfield Gardens,1966-11-12,L,3,,1,D,0,1169,18500000,2018-05-18,,0,0.0,22.266614999999998,114.18502
+921,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Green Valley Mansion,Green Valley Mansion,1964-11-30,M,3,2,9,B,1500,1086,22980000,2018-05-18,,0,0.0,22.27072,114.18509
+922,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Caroline Garden,Caroline Garden,1995-01-09,M,3,2,17,A,1140,798,17000000,2018-05-17,2006-11-09,6500000,161.54,22.2756949,114.1858346
+923,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Lotto,Block D,1987-12-24,L,3,2,2,12,1211,1103,24600000,2018-05-17,2007-06-05,8380000,193.56,22.2717975,114.1866406
+924,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Sun View Court,Sun View Court,1985-03-05,L,,,1,A,0,478,7850000,2018-05-16,2008-08-13,4350000,80.46000000000001,22.268309,114.185356
+925,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ventris Court,Block D,1963-05-29,H,3,2,8,,1250,1061,32800000,2018-05-16,,0,0.0,22.272509,114.185248
+926,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Friendship Court,Friendship Court,1975-01-01,L,3,,6,D,0,783,13880000,2018-05-15,,0,0.0,22.269793999999997,114.185455
+927,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shing Ping House,Shing Ping House,1962-01-31,H,,,8,,0,525,7000000,2018-05-15,,0,0.0,22.267899,114.18689
+928,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Southern Pearl Court,Southern Pearl Court,1996-02-28,M,,,14,,0,517,11000000,2018-05-15,,0,0.0,22.276154,114.182755
+929,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Broadville,The Broadville,1993-03-21,M,3,2,20,A,1487,1178,26000000,2018-05-14,2004-09-06,8080000,221.78,22.27395,114.18515
+930,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fairville Garden,Fairville Garden,1970-07-13,M,3,2,6,B,1800,1403,31800000,2018-05-14,2013-03-13,29000000,9.66,22.266424,114.18911
+931,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,37-41 Happy View Terrace,37-41 Happy View Terrace,1960-05-10,,,,2,,0,718,13500000,2018-05-13,,0,0.0,22.274399,114.18607
+932,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Se-Wan Mansion,43B Happy View Terrace,1961-09-29,,,,2,,0,1284,26000000,2018-05-11,,0,0.0,,
+933,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Altitude,The Altitude,2011-07-05,M,2,,22,B,1885,1451,38000000,2018-05-10,2012-04-05,34682200,9.57,22.267198,114.184611
+934,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Miramar Villa,Block East,1969-10-07,M,3,2,5,6,1200,944,13000000,2018-05-10,2012-03-16,10970000,18.51,22.272817999999997,114.17684
+935,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,May Mansion,May Mansion,1982-03-15,H,2,,23,A,719,479,9250000,2018-05-09,2012-03-06,6950000,33.09,22.268486,114.184166
+936,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Claymore Lodge,Claymore Lodge,1990-01-22,M,1,,19,C,648,449,8300000,2018-05-09,2010-01-14,4780000,73.64,22.268288,114.18554
+937,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Building,Block C,1984-10-18,L,3,2,9,2,1597,1304,38000000,2018-05-08,2008-05-26,18000000,111.11,22.2728535,114.1849955
+938,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greencliff,Greencliff,1989-10-23,,3,,1,I,1395,1146,22000000,2018-05-07,2010-06-29,11000000,100.0,22.268387,114.181465
+939,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegant Terrace,Elegant Terrace,1992-10-22,,3,,3,C,827,680,9500000,2018-05-07,2010-05-19,5930000,60.2,22.266963999999998,114.18387
+940,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Unique Tower,Unique Tower,1982-08-09,L,1,1,1,A,426,308,7930000,2018-05-07,2011-02-09,5450000,45.5,22.2694969,114.1839555
+941,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,37-41 Happy View Terrace,37-41 Happy View Terrace,1960-05-11,,,,2,,0,1110,19800000,2018-05-07,,0,0.0,22.274399,114.18607
+942,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grand Court,Grand Court,1981-08-27,H,3,2,25,A,1616,1322,26500000,2018-05-06,2009-11-16,18000000,47.22,22.267951999999998,114.18439
+943,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Green Lane Court,Green Lane Court,1959-03-25,,,,1,,0,1602,30000000,2018-05-04,2017-10-30,30000000,0.0,22.263510999999998,114.18965299999999
+944,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silverwood,Silverwood,1998-02-09,L,2,,,C,1045,692,13100000,2018-05-04,,0,0.0,22.276031,114.185524
+945,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Nicholson Tower,Block A,1990-11-23,L,4,2,11,1,1993,1638,58000000,2018-05-03,,0,0.0,22.262529999999998,114.186588
+946,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mount Nicholson,House 17,2015-10-12,,3,,,,0,7984,780000000,2018-04-27,,0,0.0,22.263885,114.18057
+947,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yuk Sing Building,Yuk Sing Building,1976-09-28,L,,,8,C,654,577,9600000,2018-04-27,2012-09-03,7200000,33.33,22.268604,114.185917
+948,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Po Tak Mansion,Po Tak Mansion,1963-03-04,M,,,7,B,0,918,14030000,2018-04-26,2010-07-18,8280000,69.44,22.2796142,114.129309
+949,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Claymore Lodge,Claymore Lodge,1990-01-21,M,0,,18,A,426,284,5500000,2018-04-25,2013-12-08,4450000,23.6,22.268288,114.18554
+950,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yue On Mansion,Yue On Mansion,1971-12-03,H,,,10,B,0,456,7100000,2018-04-25,,0,0.0,22.267913999999998,114.18563
+951,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Altitude,The Altitude,2011-07-05,L,2,,17,B,1885,1451,36000000,2018-04-25,2011-12-22,33360000,7.91,22.267198,114.184611
+952,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silverwood,Silverwood,1998-02-09,M,2,,18,B,503,341,7500000,2018-04-24,2011-02-23,5050000,48.51,22.276031,114.185524
+953,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,H & S Building,H & S Building,1968-05-11,,,,24,A,0,665,11000000,2018-04-23,,0,0.0,22.27754,114.18357
+954,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Court,Happy Court,1993-06-11,H,2,2,,A,530,328,6800000,2018-04-20,,0,0.0,22.269074,114.1861115
+955,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,23-39 Blue Pool Road,House A (29 Blue Pool Road),2014-09-12,,,,,,0,4575,328000000,2018-04-19,,0,0.0,22.268504999999998,114.187546
+956,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Silverwood,Silverwood,1998-02-09,L,2,,9,C,503,341,7250000,2018-04-19,1997-08-06,3980000,82.16,22.276031,114.185524
+957,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Regent Hill,Regent Hill,2016-09-21,H,3,,29,B,0,884,34300000,2018-04-19,,0,0.0,22.26782,114.187035
+958,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cathay Garden,Cathay Garden,1967-01-21,M,,,9,A,0,471,8000000,2018-04-19,2012-05-16,6050000,32.230000000000004,22.267758,114.1852559
+959,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Building,Block A,1984-10-18,L,,,6,1,2468,1953,60000000,2018-04-18,,0,0.0,22.273422,114.184746
+960,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Pine Gardens,Pine Gardens,1963-12-23,,,,2,,0,1129,17700000,2018-04-18,,0,0.0,22.264025999999998,114.187617
+961,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fairville Garden,Fairville Garden,1970-07-13,H,3,2,12,B,1800,1403,32500000,2018-04-18,,0,0.0,22.266424,114.18911
+962,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Arts Mansion,Arts Mansion,1979-01-10,,,,24,A,1222,1051,26500000,2018-04-17,2015-01-14,23000000,15.22,22.270563,114.185204
+963,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Sun View Court,Sun View Court,1985-03-05,L,,,6,A,0,478,8000000,2018-04-17,2007-08-16,2800000,185.71,22.268309,114.185356
+964,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Waiga Mansion,Waiga Mansion,1972-09-06,H,3,2,11,,1400,1097,23500000,2018-04-16,,0,0.0,22.265940999999998,114.187479
+965,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mount Nicholson,House 2,2015-10-12,,4,,,,0,9217,1399000000,2018-04-16,,0,0.0,22.264847,114.18102999999999
+966,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Portfield Building,Portfield Building,1977-11-18,L,2,2,8,C,713,596,10550000,2018-04-16,,0,0.0,22.268663999999998,114.185182
+967,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Court,Shan Kwong Court,1964-12-14,H,,,11,A,0,964,16600000,2018-04-16,,0,0.0,22.266762999999997,114.18533
+968,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Hiap Teck Building,Hiap Teck Building,1965-08-31,L,,,2,,550,417,6000000,2018-04-13,2010-04-22,3180000,88.68,22.26966,114.184715
+969,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 9,2002-03-22,L,3,,7,A,1432,1087,45000000,2018-04-13,2009-05-06,1838000,2348.31,22.276626999999998,114.183395
+970,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,10 Min Fat Street,10 Min Fat Street,1958-03-24,,,,2,,0,602,8200000,2018-04-12,,0,0.0,22.268776,114.186513
+971,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Village Tower,Village Tower,1972-07-20,M,3,2,12,C,1050,805,15900000,2018-04-12,,0,0.0,22.268679,114.18382
+972,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grand Court,Grand Court,1981-08-27,M,3,2,17,B,970,799,17000000,2018-04-12,2010-05-26,9260000,83.59,22.267951999999998,114.18439
+973,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Peace House,Peace House,1963-08-02,L,,,3,B,0,763,11100000,2018-04-12,2008-07-31,5800000,91.38,22.26982,114.18466
+974,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,23-39 Blue Pool Road,House B (27 Blue Pool Road),2014-09-12,,,,27,B,0,4602,338200000,2018-04-12,,0,0.0,22.268711,114.18753
+975,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Empire Court,Empire Court,1958-02-11,L,,,5,D,0,781,9880000,2018-04-11,,0,0.0,22.277884999999998,114.184304
+976,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Cheung Mansions,King Cheung Mansions,1966-03-16,L,2,,4,7,0,644,8400000,2018-04-11,2007-03-05,2980000,181.88,22.269064,114.185356
+977,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Building,Block B,1984-10-19,L,,,8,1,1940,1513,50000000,2018-04-11,,0,0.0,22.273739,114.184586
+978,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Monte Rosa,Block D,1966-12-06,H,3,,19,1,0,2000,56000000,2018-04-11,,0,0.0,22.264687,114.18265
+979,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1973-01-25,,3,,16,C,0,860,16500000,2018-04-11,2004-05-13,2500000,560.0,22.26712,114.18511
+980,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Le Cachet,Le Cachet,2001-04-22,M,2,,21,C,632,445,8500000,2018-04-10,2014-07-08,6700000,26.87,22.2677,114.18721
+981,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Green Lane Court,Green Lane Court,1959-03-24,,,,G,,0,1113,20300000,2018-04-09,,0,0.0,22.263510999999998,114.18965299999999
+982,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Horace Court,Horace Court,1979-06-05,L,2,1,4,C,574,473,8250000,2018-04-09,2012-08-06,5900000,39.83,22.268687999999997,114.18445
+983,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Rosedale Glen,Rosedale Glen,1993-09-28,L,,,4,,669,358,5950000,2018-04-09,2008-04-10,3000000,98.33,22.269558,114.1854
+984,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Craigmount,Block A,1972-10-11,H,,,10,A,0,1790,45000000,2018-04-09,2006-05-04,16000000,181.25,22.266945,114.18181
+985,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Venice Garden,Venice Garden,1991-05-01,L,3,2,2,A,1369,1062,22100000,2018-04-09,2014-12-08,17500000,26.29,22.264609999999998,114.189156
+986,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yuenita Villa,Yuenita Villa,1963-05-24,M,3,2,3,,2200,1873,40000000,2018-04-08,2009-09-28,19000000,110.53,22.267792,114.188095
+987,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Moon Fair Mansion,Block Abc,1974-01-17,M,3,2,7,7,1393,1153,22700000,2018-04-03,,0,0.0,22.271517,114.177376
+988,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Rocha,Block A,1988-06-30,M,3,2,13,1,1340,1147,27600000,2018-03-29,1999-11-24,8100000,240.74,22.2728385,114.186184
+989,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block B,1988-12-09,L,4,2,4,2,1729,1409,30700000,2018-03-29,,0,0.0,22.2737495,114.186124
+990,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Rose Court,Block B,1963-09-16,L,,,3,3,0,2049,47000000,2018-03-28,,0,0.0,22.274231,114.183754
+991,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Woodland Heights,Woodland Heights,1965-06-29,M,,,6,D6,0,2547,66300000,2018-03-28,,0,0.0,22.26298,114.1848972
+992,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Monte Rosa,Block A,1965-04-12,H,4,,20,1,0,2471,65700000,2018-03-28,,0,0.0,22.264124,114.183205
+993,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Race Tower,Race Tower,1990-11-09,M,,,10,,833,589,10398000,2018-03-26,1997-05-05,5800000,79.28,22.273336,114.18407
+994,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Rosedale Glen,Rosedale Glen,1993-09-28,L,,,3,,669,358,5900000,2018-03-25,2008-05-08,3000000,96.67,22.269558,114.1854
+995,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,10-12 Shan Kwong Road,10-12 Shan Kwong Road,1978-06-06,M,,,4,,0,605,9900000,2018-03-25,,0,0.0,22.268252999999998,114.18431
+996,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,16-22 King Kwong Street,16-22 King Kwong Street,1972-01-06,L,,,1,,0,443,7400000,2018-03-22,,0,0.0,22.269111,114.184874
+997,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broadwood Twelve,Broadwood Twelve,2010-06-08,M,3,,26,A,1653,1281,52000000,2018-03-22,2012-08-27,42800000,21.5,22.272126999999998,114.1863455
+998,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yee Fung Building,Yee Fung Building,1972-09-22,M,0,,8,G,0,340,5480000,2018-03-22,2011-12-05,3618000,51.46,22.26956,114.18358
+999,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Valley View,The Valley View,1992-08-12,,2,2,24,A,673,426,8000000,2018-03-20,2014-06-18,6700000,19.400000000000002,22.2676985,114.1862055
+1000,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenville Gardens,Block C,1980-12-03,L,,,3,3,1344,1202,20100000,2018-03-19,2010-06-14,13600000,47.79,22.27057,114.17786100000001
+1001,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Antonia House,4-12 Broom Road,1963-08-02,,,,4,,0,1885,45500000,2018-03-19,,0,0.0,22.2646005,114.1879595
+1002,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,May Mansion,May Mansion,1982-03-15,L,2,,5,A,719,479,7980000,2018-03-18,2006-06-26,3250000,145.54,22.268486,114.184166
+1003,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,35 Village Terrace,35 Village Terrace,1959-09-08,M,,,4,,0,1232,17900000,2018-03-15,,0,0.0,22.2669,114.18325
+1004,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Moon Fair Mansion,Block Abc,1974-01-16,L,3,2,1,1,1393,1153,20980000,2018-03-14,,0,0.0,22.271517,114.177376
+1005,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Comfort Mansion,Comfort Mansion,1964-07-07,M,3,2,4,,1050,760,11880000,2018-03-13,,0,0.0,22.271055999999998,114.18507
+1006,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Craigmount,Block B,1972-10-11,M,,,6,6,0,1800,45000000,2018-03-12,,0,0.0,,
+1007,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block D,1988-12-09,M,4,2,18,1,1979,1665,36800000,2018-03-12,2011-04-08,30600000,20.26,22.2736875,114.1855886
+1008,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Starlight House,Starlight House,1958-12-21,L,,,4,,0,1018,13680000,2018-03-11,,0,0.0,22.277414,114.18342200000001
+1009,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grand Court,Grand Court,1981-08-27,L,3,2,4,B,970,799,14680000,2018-03-08,2013-10-24,12000000,22.330000000000002,22.267951999999998,114.18439
+1010,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Wan Choi Yuen,Wan Choi Yuen,1963-12-13,,,,1,A,0,1468,32300000,2018-03-08,,0,0.0,22.262337,114.19078999999999
+1011,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Bellevue Court,Block C,1964-12-06,M,,,7,62,0,2257,57100000,2018-03-07,,0,0.0,22.264129999999998,114.18399
+1012,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Broadville,The Broadville,1993-03-21,L,3,2,2,A,1487,1178,20280000,2018-03-07,1997-10-26,11180000,81.4,22.27395,114.18515
+1013,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block K,1988-12-09,L,3,2,3,2,1382,1083,25500000,2018-03-07,2010-12-17,17600000,44.89,22.273754,114.186515
+1014,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Broadville,The Broadville,1993-03-21,H,3,2,27,A,1487,1178,25000000,2018-03-06,2008-02-04,15700000,59.24,22.27395,114.18515
+1015,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Le Cachet,Le Cachet,2001-04-22,M,2,,21,B,729,521,12000000,2018-03-06,2008-01-13,6080000,97.37,22.2677,114.18721
+1016,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,May Mansion,May Mansion,1982-03-16,L,2,,9,B,698,464,8250000,2018-03-06,2012-09-27,6900000,19.57,22.268486,114.184166
+1017,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,27-29 Village Terrace,27-29 Village Terrace,1956-07-29,,,,3,,0,1065,15680000,2018-03-05,2013-08-19,13800000,13.620000000000001,22.267142,114.182982
+1018,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Broadville,The Broadville,1993-03-22,L,3,2,10,B,1490,1180,22600000,2018-03-05,1999-01-16,8000000,182.5,22.27395,114.18515
+1019,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Monte Rosa,Block A,1965-04-12,H,4,,20,2,0,2471,64000000,2018-03-02,2002-04-10,12150000,426.75,22.264124,114.183205
+1020,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Lotto,Block A,1987-12-24,M,4,2,17,2,2406,2169,68000000,2018-03-02,,0,0.0,22.270856,114.187256
+1021,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,47-49 Blue Pool Road,47-49 Blue Pool Road,1973-02-16,L,,,1,,0,1276,24000000,2018-03-01,,0,0.0,22.267364,114.188457
+1022,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Broadville,The Broadville,1993-03-21,H,3,2,29,B,1490,1180,26800000,2018-02-27,2000-04-05,9380000,185.71,22.27395,114.18515
+1023,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ventris Place,Block A,1985-06-28,L,3,2,3,1,1385,1185,28750000,2018-02-27,2014-06-16,21200000,35.61,22.271549999999998,114.185592
+1024,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,23-39 Blue Pool Road,House B (37 Blue Pool Road),2014-09-12,,,,,B,0,4602,303800000,2018-02-27,,0,0.0,22.268176999999998,114.187805
+1025,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Starlight House,Starlight House,1958-12-21,L,,,2,,0,607,8100000,2018-02-26,,0,0.0,22.277414,114.18342200000001
+1026,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,4-6 Cheong Ming Street,4-6 Cheong Ming Street,1967-11-03,,,,2,B,0,292,4578000,2018-02-26,2010-09-02,1990000,130.05,22.268387,114.186806
+1027,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,15 Yuen Yuen Street,15 Yuen Yuen Street,1975-01-29,,,,2,A,0,490,7920000,2018-02-25,2011-03-07,4200000,88.57000000000001,22.269396999999998,114.185981
+1028,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Chun Hing Mansion,Chun Hing Mansion,1975-06-09,L,,,3,A,0,705,10800000,2018-02-22,1996-08-27,3600000,200.0,22.268805999999998,114.18489
+1029,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grandview Tower,Block A,1978-02-01,H,3,,29,4,686,593,13680000,2018-02-22,2005-05-03,3780000,261.9,22.272322,114.174288
+1030,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 1,2002-03-22,L,3,,9,C,1485,1128,39950000,2018-02-21,2000-12-21,10093300,295.81,22.275192,114.184801
+1031,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broadview Mansion,Broadview Mansion,1963-09-19,L,,,3,C,0,738,11250000,2018-02-21,2007-08-09,4500000,150.0,22.271603,114.18492
+1032,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,No.10 Yuen Yuen Street,10 Yuen Yuen Street,1967-09-03,,,,3,,0,448,7168000,2018-02-20,,0,0.0,,
+1033,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Beverly Hill,Block E,1988-12-09,L,3,2,7,1,1378,1070,26180000,2018-02-20,1999-04-14,6600000,296.67,22.2733661,114.1858384
+1034,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Regent Hill,Regent Hill,2016-09-20,H,3,,23,A,0,883,28678000,2018-02-19,,0,0.0,22.26782,114.187035
+1035,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Kingsford Garden,Kingsford Garden,1993-03-02,H,3,2,5,A,1430,996,20980000,2018-02-15,2009-12-08,12800000,63.910000000000004,22.264834999999998,114.188545
+1036,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mount Nicholson,Tower D,2016-02-18,,4,,,,0,4596,590190140,2018-02-15,,0,0.0,22.262712,114.17978
+1037,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mount Nicholson,Tower C,2016-02-18,,4,,,,0,4266,547809860,2018-02-15,,0,0.0,22.262583,114.17967
+1038,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Happy Court,Happy Court,1993-06-10,L,2,2,4,A,530,328,5980000,2018-02-14,2013-06-12,5050000,18.42,22.269074,114.1861115
+1039,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grandview Tower,Block A,1978-02-01,H,3,,30,1,935,817,24000000,2018-02-14,,0,0.0,22.272322,114.174288
+1040,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,King Cheung Mansions,King Cheung Mansions,1966-03-16,H,,,9,11,0,570,6500000,2018-02-13,1996-10-28,2050000,217.07,22.269064,114.185356
+1041,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ventris Terrace,Block A,1965-02-19,M,,,9,,0,1180,25000000,2018-02-13,,0,0.0,22.270654999999998,114.18584
+1042,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Po Tak Mansion,Po Tak Mansion,1963-03-04,L,,,1,C,0,580,9280000,2018-02-13,2005-06-03,3218000,188.38,22.2796142,114.129309
+1043,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yun On Terrace,Yun On Terrace,1980-09-03,,3,2,2,B,0,1128,21000000,2018-02-13,2004-12-28,6800000,208.82,22.263174,114.18973
+1044,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Regent Hill,Regent Hill,2016-09-21,M,1,,15,B,0,355,10264000,2018-02-13,,0,0.0,22.26782,114.187035
+1045,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Chun Hing Mansion,Chun Hing Mansion,1975-06-09,L,,,1,B,0,705,13200000,2018-02-12,,0,0.0,22.268805999999998,114.18489
+1046,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Friendship Court,Friendship Court,1975-01-01,L,3,,3,B,0,728,10600000,2018-02-12,2017-11-16,10600000,0.0,22.269793999999997,114.185455
+1047,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Building,Block A,1984-10-18,L,,,6,2,2468,1953,68000000,2018-02-12,2014-03-27,44493540,52.83,22.273422,114.184746
+1048,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ming's Court,Ming's Court,1991-11-05,L,,,4,B,510,315,5700000,2018-02-12,2008-01-28,2300000,147.83,22.268237,114.184696
+1049,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mannie Garden,Mannie Garden,1989-07-20,M,,,10,B,338,203,4080000,2018-02-12,2007-08-02,1380000,195.65,22.267329,114.187393
+1050,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Linden Court,83-85 Wong Nai Chung Road,1981-06-10,M,3,2,11,,1245,862,3750000,2018-02-09,2011-02-10,14000000,-73.21000000000001,22.273439,114.184053
+1051,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Yuk Sing Building,Yuk Sing Building,1976-09-28,,3,2,25,A,1200,976,17380000,2018-02-09,,0,0.0,22.268604,114.185917
+1052,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Le Village,Le Village,2002-01-24,H,3,,25,A,805,570,11900000,2018-02-08,2010-03-03,8000000,48.75,22.268466999999998,114.1862066
+1053,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 8,2002-03-22,L,3,,,B,1618,1240,48000000,2018-02-08,,0,0.0,22.27641,114.183613
+1054,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 3,2002-03-22,M,,,25,B,1911,1461,63800000,2018-02-06,2009-04-16,28200000,126.24000000000001,22.2755604,114.1845134
+1055,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Building,Block B,1984-10-19,M,,,11,2,1940,1513,50000000,2018-02-05,2014-04-16,38318280,30.490000000000002,22.273739,114.184586
+1056,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Villa Lotto,Block B,1987-12-24,L,3,2,3,5,1211,1103,25000000,2018-02-05,2010-10-19,16380000,52.63,22.2711,114.18688
+1057,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Po Tak Mansion,Po Tak Mansion,1963-03-04,M,,,5,A,0,662,9500000,2018-02-04,1996-09-12,2880000,229.86,22.2796142,114.129309
+1058,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 6,2002-03-22,L,,,8,A,2238,1724,77000000,2018-02-02,2003-02-18,16800000,358.33,22.276111999999998,114.184117
+1059,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Ming Lai Court,Ming Lai Court,1984-05-31,H,3,2,11,,1206,960,18680000,2018-01-30,,0,0.0,22.267414,114.183495
+1060,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Lai Sing Building,Lai Sing Building,1987-09-13,H,2,2,20,A,702,483,8780000,2018-01-29,2008-03-25,4850000,81.03,22.269669999999998,114.185236
+1061,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Nicholson Tower,Block B,1990-11-22,M,4,2,20,1,1993,1638,59000000,2018-01-28,,0,0.0,22.2627195,114.186284
+1062,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Rose Court,Block A,1963-09-22,M,,,7,15,0,2003,48200000,2018-01-25,,0,0.0,22.274563,114.18364
+1063,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Evone Court,Evone Court,1964-11-25,L,,,1,E,0,382,7500000,2018-01-24,2015-08-10,4750000,57.89,22.269365999999998,114.184329
+1064,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Fortuna Court,Fortuna Court,1997-08-13,L,2,2,10,A,705,468,11160000,2018-01-24,2011-03-21,8250000,35.27,22.2694504,114.1837436
+1065,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Regent Hill,Regent Hill,2016-09-21,H,3,,27,B,0,884,30587000,2018-01-24,,0,0.0,22.26782,114.187035
+1066,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegance Tower,Elegance Tower,1992-05-31,H,1,,28,B,1010,374,6500000,2018-01-23,2011-12-08,4600000,41.300000000000004,22.267993999999998,114.18592
+1067,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Shan Kwong Towers,Shan Kwong Towers,1976-03-07,L,3,,4,G,0,622,11680000,2018-01-23,2005-04-12,3680000,217.39000000000001,22.26693,114.18486
+1068,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Hang Fung Mansion,Hang Fung Mansion,1971-07-27,H,2,2,10,C,650,478,10380000,2018-01-23,2006-11-03,3800000,173.16,22.269631,114.184244
+1069,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Caroline Height,Caroline Height,1985-06-27,H,3,,20,A,1052,750,15080000,2018-01-17,2007-11-08,7180000,110.03,22.275769999999998,114.185524
+1070,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 9,2002-03-22,H,3,,35,C,1482,1127,42000000,2018-01-17,2000-12-22,12725500,230.05,22.276626999999998,114.183395
+1071,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Le Village,Le Village,2002-01-25,L,1,,9,B,438,294,6000000,2018-01-17,2013-05-29,5180000,15.83,22.268466999999998,114.1862066
+1072,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Peace House,Peace House,1963-08-02,M,,,6,B,0,763,12000000,2018-01-17,2013-06-17,9000000,33.33,22.26982,114.18466
+1073,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Claymore Lodge,Claymore Lodge,1990-01-21,H,0,,23,A,426,284,5300000,2018-01-16,2008-06-09,2700000,96.3,22.268288,114.18554
+1074,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,No.8 Shiu Fai Terrace,No.8 Shiu Fai Terrace,2003-10-12,M,,,9,C,2142,1667,35000000,2018-01-15,2004-01-27,12800000,173.44,22.272161,114.17628500000001
+1075,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Nam Wing Building,Nam Wing Building,1970-07-16,L,2,2,3,C,550,372,5000000,2018-01-15,,0,0.0,22.268580999999998,114.18655
+1076,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Empire Court,Empire Court,1958-02-12,M,,,11,B,0,763,10000000,2018-01-15,,0,0.0,22.277884999999998,114.184304
+1077,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegance Tower,Elegance Tower,1992-05-31,M,1,2,18,A,643,370,5400000,2018-01-11,2015-09-23,6100000,-11.48,22.267993999999998,114.18592
+1078,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,77-79 Wong Nai Chung Road,77 Wong Nai Chung Road,1965-08-09,M,,,5,,0,1125,18600000,2018-01-11,,0,0.0,22.2716951,114.1846982
+1079,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Regent Hill,Regent Hill,2016-09-20,H,3,,28,B,0,884,27500000,2018-01-11,2016-09-05,26232000,4.83,22.26782,114.187035
+1080,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Grand Court,Grand Court,1981-08-27,H,3,2,20,B,970,799,14600000,2018-01-11,,0,0.0,22.267951999999998,114.18439
+1081,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Winfield Building,Block C,1984-10-19,M,3,2,16,1,1597,1304,30000000,2018-01-11,2011-07-06,29500000,1.69,22.2728535,114.1849955
+1082,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Elegance Tower,Elegance Tower,1992-06-01,M,1,2,18,B,651,374,6180000,2018-01-11,2015-01-02,5990000,3.17,22.267993999999998,114.18592
+1083,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Broadwood Twelve,Broadwood Twelve,2010-06-08,M,3,,25,B,1650,1280,46380000,2018-01-11,,0,0.0,22.272126999999998,114.1863455
+1084,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Nicholson Tower,Block B,1990-11-22,L,4,2,6,1,1993,1638,50000000,2018-01-10,,0,0.0,22.2627195,114.186284
+1085,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Cheong Ming Building,Cheong Ming Building,1964-01-24,M,,,4,,0,372,5000000,2018-01-10,,0,0.0,22.268335,114.18662
+1086,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Greenville Gardens,Block B,1975-04-30,L,,,3,3,1350,1158,20920000,2018-01-09,2013-10-06,17380000,20.37,22.27095,114.177643
+1087,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Caroline Garden,Caroline Garden,1995-01-09,L,3,2,10,A,1140,798,15200000,2018-01-09,2003-01-25,3950000,284.81,22.2756949,114.1858346
+1088,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Altitude,The Altitude,2011-07-05,L,2,,8,B,1885,1461,34800000,2018-01-09,2012-07-11,31780000,9.5,22.267198,114.184611
+1089,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Mount Nicholson,Tower C,2016-02-18,,4,,,,0,4193,491059260,2018-01-09,,0,0.0,22.262583,114.17967
+1090,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,The Leighton Hill,Block 1,2002-03-22,L,3,,13,C,1485,1128,36000000,2018-01-09,2002-06-14,9800000,267.35,22.275192,114.184801
+1091,Hong Kong Island,Wan Chai,Happy Valley / Mid Level East,Lai Sing Building,Lai Sing Building,1987-09-13,H,2,2,17,A,702,483,8500000,2018-01-07,2010-01-06,4580000,85.59,22.269669999999998,114.185236

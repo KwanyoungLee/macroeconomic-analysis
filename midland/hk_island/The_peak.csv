@@ -1,0 +1,43 @@
+,region,subregion,district,estate,building,first_op_date,floor_level,bedroom,sitting_room,floor,flat,area,net_area,price,tx_date,last_tx_date,last_price,gain,lat,lon
+0,Hong Kong Island,Central And Western,The Peak,Vivian Court,Vivian Court,1961-01-25,M,,,4,A,0,1749,39800000,2020-12-31,1997-02-21,19500000,104.10000000000001,22.263742999999998,114.149261
+1,Hong Kong Island,Central And Western,The Peak,28 Barker Road,House 5,2013-03-19,,,,,,7922,5700,530000000,2020-12-18,2015-12-15,542000000,-2.21,22.272001,114.15756999999999
+2,Hong Kong Island,Central And Western,The Peak,La Hacienda,Upper Town House 03,1986-06-03,,,,,,0,3457,235000000,2020-12-08,2010-09-17,135000000,74.07000000000001,22.260984999999998,114.15011799999999
+3,Hong Kong Island,Central And Western,The Peak,Severn 8,House 19,2005-08-25,,,,,,3330,2363,175000000,2020-10-15,2007-06-25,100800000,73.61,22.269769999999998,114.159546
+4,Hong Kong Island,Central And Western,The Peak,Carolina Gardens,Block B,1964-05-27,H,,,7,B14,0,2448,143000000,2020-09-07,,0,0.0,22.26693,114.16689
+5,Hong Kong Island,Central And Western,The Peak,Mountain Lodge,Mountain Lodge,1972-09-05,M,4,3,8,B,2600,2222,12780202,2020-08-24,2007-03-16,18992250,-32.71,22.260880999999998,114.149635
+6,Hong Kong Island,Central And Western,The Peak,Mountain Lodge,Mountain Lodge,1972-09-05,H,4,3,9,B,2600,2222,12191807,2020-08-24,2007-03-16,18117856,-32.71,22.260880999999998,114.149635
+7,Hong Kong Island,Central And Western,The Peak,Overthorpe,House M,1986-04-17,,3,,,,0,2387,171000000,2020-08-07,,0,0.0,22.275484,114.146965
+8,Hong Kong Island,Central And Western,The Peak,Mountain Lodge,Mountain Lodge,1972-09-04,H,4,3,12,A,2600,2222,85000000,2020-04-19,2006-12-06,29050000,192.6,22.260880999999998,114.149635
+9,Hong Kong Island,Central And Western,The Peak,Eredine,Eredine,1965-02-19,L,4,,2,2C,3300,2836,95000000,2020-02-17,2003-12-03,23600000,302.54,22.260548,114.14894
+10,Hong Kong Island,Central And Western,The Peak,Mountain Lodge,Mountain Lodge,1972-09-05,H,4,3,9,A,2600,2222,85000000,2020-01-09,,0,0.0,22.260880999999998,114.149635
+11,Hong Kong Island,Central And Western,The Peak,Villa Verde,Block C,1970-03-01,M,,,4,501,0,1070,35500000,2019-12-23,2009-11-26,17380000,104.26,22.267122,114.16256
+12,Hong Kong Island,Central And Western,The Peak,Altadena House,Altadena House,1975-04-01,,,,1,,0,4073,245000000,2019-10-22,,0,0.0,22.271034,114.15662
+13,Hong Kong Island,Central And Western,The Peak,Carolina Gardens,Block A,1964-05-27,M,,,4,7,0,2117,81000000,2019-10-15,,0,0.0,22.267189,114.166794
+14,Hong Kong Island,Central And Western,The Peak,Coombe Road 9,House C,1980-11-17,,,,,,0,2791,147000000,2019-09-24,,0,0.0,22.267971,114.16709
+15,Hong Kong Island,Central And Western,The Peak,Villa Verde,Block C,1970-03-01,H,,,8,902,0,1070,40000000,2019-07-14,2004-07-07,10350000,286.47,22.267122,114.16256
+16,Hong Kong Island,Central And Western,The Peak,Eredine,Eredine,1965-02-19,M,4,,5,B,3300,2786,105000000,2019-06-21,,0,0.0,22.260548,114.14894
+17,Hong Kong Island,Central And Western,The Peak,Carolina Mansions,Block C,1964-05-27,M,,,4,41,0,2448,115000000,2019-06-19,,0,0.0,22.267015,114.16722
+18,Hong Kong Island,Central And Western,The Peak,Carolina Gardens,Block B,1964-05-27,M,,,5,10,0,2448,130000000,2019-04-25,,0,0.0,22.26693,114.16689
+19,Hong Kong Island,Central And Western,The Peak,Eredine,Eredine,1965-02-19,M,4,,3,A,3300,2893,97000000,2019-04-08,,0,0.0,22.260548,114.14894
+20,Hong Kong Island,Central And Western,The Peak,La Hacienda,Lower Town House 09,1986-06-03,,,,,,0,2756,153800000,2019-03-26,2011-02-16,128000000,20.16,22.260609,114.151083
+21,Hong Kong Island,Central And Western,The Peak,Villa Verde,Block B,1970-08-05,H,,,10,1,0,2593,140000000,2019-03-25,,0,0.0,22.26716,114.161865
+22,Hong Kong Island,Central And Western,The Peak,Villa Verde,Block B,1970-08-05,H,,,10,2,0,2399,140000000,2019-03-25,,0,0.0,22.26716,114.161865
+23,Hong Kong Island,Central And Western,The Peak,Kellett Heights,Kellett Heights,1965-03-11,H,3,2,6,B,1600,1368,25500000,2019-02-26,2001-03-30,4000000,537.5,22.263137999999998,114.14775
+24,Hong Kong Island,Central And Western,The Peak,Twelve Peaks,House 9,2012-05-09,,,,,,0,3905,458000000,2018-12-28,,0,0.0,22.264969999999998,114.15060000000001
+25,Hong Kong Island,Central And Western,The Peak,Twelve Peaks,House 1,2012-05-09,,,,,,0,4858,666523000,2018-12-24,,0,0.0,22.26511,114.1507
+26,Hong Kong Island,Central And Western,The Peak,Twelve Peaks,House 10,2012-05-09,,,,,,0,3845,458000000,2018-12-24,,0,0.0,22.265058999999997,114.15076
+27,Hong Kong Island,Central And Western,The Peak,Plantation Road 73-77,Plantation Road 73 ( House A ),2001-07-12,,,,,,4200,3228,296000000,2018-11-14,,0,0.0,22.269309999999997,114.15546
+28,Hong Kong Island,Central And Western,The Peak,Twelve Peaks,House 15,2012-05-09,,,,,,0,3885,450000000,2018-11-09,,0,0.0,22.265045,114.15073
+29,Hong Kong Island,Central And Western,The Peak,Carolina Mansions,Block C,1964-05-27,M,,,3,32,0,2448,94000000,2018-10-09,,0,0.0,22.267015,114.16722
+30,Hong Kong Island,Central And Western,The Peak,Twelve Peaks,House 8,2012-05-09,,,,,,0,5221,730000000,2018-08-07,,0,0.0,22.265095,114.15067
+31,Hong Kong Island,Central And Western,The Peak,Twelve Peaks,House 2,2012-05-09,,,,,,0,4479,495100000,2018-08-06,,0,0.0,22.265107999999998,114.15081
+32,Hong Kong Island,Central And Western,The Peak,Eredine,Eredine,1965-02-19,H,4,,7,C,3300,2836,116800000,2018-07-16,,0,0.0,22.260548,114.14894
+33,Hong Kong Island,Central And Western,The Peak,La Hacienda,Block A,1949-04-05,,4,,6,3,3506,2734,90000000,2018-07-05,,0,0.0,22.260731999999997,114.150723
+34,Hong Kong Island,Central And Western,The Peak,Severn 8,House 23,2005-08-25,,3,,,,3363,2378,220000000,2018-06-27,2011-11-09,198000000,11.11,22.269745,114.15923
+35,Hong Kong Island,Central And Western,The Peak,Villa Verde,Block C,1970-03-01,M,,,6,702,0,1070,37000000,2018-05-23,2009-08-13,17080000,116.63,22.267122,114.16256
+36,Hong Kong Island,Central And Western,The Peak,Eredine,Eredine,1965-02-19,L,4,,1,B,3300,2786,120000000,2018-05-17,,0,0.0,22.260548,114.14894
+37,Hong Kong Island,Central And Western,The Peak,Strawberry Hill,House 10,1977-07-25,,,,,,0,2903,170000000,2018-05-11,,0,0.0,22.266659999999998,114.153587
+38,Hong Kong Island,Central And Western,The Peak,Eredine,Eredine,1965-02-19,H,4,,7,A,3300,2893,116800000,2018-03-14,,0,0.0,22.260548,114.14894
+39,Hong Kong Island,Central And Western,The Peak,La Hacienda,Lower Town House 10,1986-06-03,,,,,,0,2756,158800000,2018-03-05,2012-09-28,139800000,13.59,22.260609,114.151083
+40,Hong Kong Island,Central And Western,The Peak,Eredine,Eredine,1965-02-19,M,4,,4,C,3300,2836,110000000,2018-02-23,2002-12-27,22000000,400.0,22.260548,114.14894
+41,Hong Kong Island,Central And Western,The Peak,Eredine,Eredine,1965-02-19,M,4,,4,A,3300,2893,115000000,2018-02-13,,0,0.0,22.260548,114.14894

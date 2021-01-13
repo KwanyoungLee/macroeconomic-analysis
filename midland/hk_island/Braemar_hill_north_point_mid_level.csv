@@ -1,0 +1,261 @@
+,region,subregion,district,estate,building,first_op_date,floor_level,bedroom,sitting_room,floor,flat,area,net_area,price,tx_date,last_tx_date,last_price,gain,lat,lon
+0,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 2,1991-04-08,L,0,1,3,B,712,565,10000000,2021-01-04,1996-10-23,4400000,127.27,22.287618,114.20251999999999
+1,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Tempo Court,Block B,1971-03-03,M,2,2,10,F,870,753,13500000,2021-01-04,,0,0.0,22.28851,114.202263
+2,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 2,1991-04-08,,3,2,21,B,1016,803,15600000,2020-12-29,2015-02-17,12500000,24.8,22.287618,114.20251999999999
+3,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 3,1979-10-02,M,3,2,10,A,870,718,10900000,2020-12-18,2003-12-18,2450000,344.90000000000003,22.286772,114.197948
+4,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 1,1978-02-13,H,3,2,20,A,1260,1124,29000000,2020-12-18,2017-06-14,24500000,18.37,22.285356,114.200322
+5,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 10,1991-04-08,H,3,2,20,A,1070,843,9200000,2020-12-09,1998-02-05,9180000,0.22,22.287651999999998,114.203819
+6,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 9,1978-02-13,M,3,2,11,A,1490,1297,32880000,2020-12-07,2000-02-10,9200000,257.39,22.286032,114.202226
+7,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 5,1978-02-13,L,3,2,4,A,1490,1297,28300000,2020-11-30,2000-02-22,8180000,245.97,22.285134,114.201307
+8,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Seaview Garden,Seaview Garden,1977-12-09,M,2,2,16,D,1037,730,15750000,2020-11-27,2015-03-10,12680000,24.21,22.285401999999998,114.19602
+9,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Kingsford Gardens,Block D,1969-07-04,L,3,,1,D1,0,958,21500000,2020-11-25,,0,0.0,22.2881335,114.206034
+10,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Maiden Court,Block A,1980-10-29,L,,,1,A3,0,992,15280000,2020-11-25,2012-03-28,9380000,62.9,22.286281,114.196962
+11,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Sky Horizon,Block 1,2002-12-16,M,3,,28,B,1365,982,30000000,2020-11-24,2004-08-20,11800000,154.24,22.286345,114.196438
+12,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,M,3,,13,J,1196,1065,22100000,2020-11-24,,0,0.0,22.284931,114.19666
+13,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,,,,,,,LG32,1490,1297,28300000,2020-11-24,,0,0.0,22.285673,114.20249
+14,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Maiden Court,Block B,1980-10-29,M,3,,13,6,0,663,12800000,2020-11-17,,0,0.0,22.28653,114.19723
+15,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 9,1991-04-08,L,1,1,6,C,740,588,11000000,2020-11-16,2015-02-04,8600000,27.91,22.287613999999998,114.203622
+16,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Sky Horizon,Block 1,2002-12-16,M,3,,25,B,1365,935,29300000,2020-11-16,2012-04-13,25000000,17.2,22.286345,114.196438
+17,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Seaview Garden,Seaview Garden,1977-12-09,M,2,2,10,D,1037,730,14550000,2020-11-09,2010-05-20,7720000,88.47,22.285401999999998,114.19602
+18,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Summit Court,Summit Court,1966-04-14,L,3,2,6,B2,1850,1650,30000000,2020-10-30,,0,0.0,22.287558,114.198586
+19,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Tempo Court,Block B,1971-03-03,L,2,2,3,E,1280,1119,21600000,2020-10-28,1999-08-13,6680000,223.35,22.28851,114.202263
+20,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 6,1991-04-08,M,3,2,15,A,1070,843,20080000,2020-10-27,2014-10-31,15380000,30.560000000000002,22.287834,114.202972
+21,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 11,1978-02-13,L,3,2,4,A,1260,1124,23500000,2020-10-27,2004-07-24,6380000,268.34000000000003,22.2863,114.202726
+22,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,L,3,,5,H,1194,1065,21300000,2020-10-23,2005-09-23,7600000,180.26,22.284931,114.19666
+23,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 8,1991-04-08,L,3,2,8,A,1070,847,18000000,2020-10-21,1998-11-18,6350000,183.46,22.287627999999998,114.203379
+24,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 3,1991-04-08,L,3,2,7,A,1103,875,16300000,2020-10-16,1997-12-30,8500000,91.76,22.287661999999997,114.202726
+25,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 11,1978-02-13,L,3,2,2,A,1260,1124,22800000,2020-10-16,2014-12-11,17000000,34.12,22.2863,114.202726
+26,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,L,3,,11,C,1198,1065,23600000,2020-10-16,,0,0.0,22.284931,114.19666
+27,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Sky Horizon,Block 1,2002-12-16,M,3,,20,B,1365,935,28000000,2020-09-30,2010-07-13,18480000,51.52,22.286345,114.196438
+28,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 10,1991-04-08,M,3,2,16,B,1068,845,17300000,2020-09-30,2007-08-03,7450000,132.21,22.287651999999998,114.203819
+29,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,L,3,,5,G,1196,1065,21780000,2020-09-29,2010-03-11,11920000,82.72,22.284931,114.19666
+30,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Kingsford Gardens,Block D,1969-07-04,H,3,,11,1,0,1313,29500000,2020-09-28,2002-12-23,5680000,419.37,22.2881335,114.206034
+31,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,H,3,,25,F,1198,1065,23800000,2020-09-28,2002-04-11,5100000,366.67,22.284931,114.19666
+32,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Summit Court,Summit Court,1966-04-14,M,3,2,10,D2,1650,1407,28000000,2020-09-24,,0,0.0,22.287558,114.198586
+33,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Broadview Terrace,Broadview Terrace,1974-03-04,M,3,,13,A,1288,1035,19500000,2020-09-22,2014-04-04,16350000,19.27,22.285881999999997,114.196693
+34,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 7,1991-04-08,L,3,2,5,B,742,588,10680000,2020-09-11,2016-02-26,8250000,29.45,22.287685,114.203152
+35,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Oxford Court,Block 2,1977-03-24,M,2,2,6,C,912,728,12700000,2020-09-10,2009-01-22,5800000,118.97,22.285259999999997,114.199284
+36,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Flora Garden (Npml),Flora Garden (Npml),1979-10-11,M,3,,12,1,0,837,15580000,2020-09-10,,0,0.0,22.286946999999998,114.19757
+37,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Flora Garden (Npml),Flora Garden (Npml),1979-10-11,H,3,,16,2,0,837,14800000,2020-09-09,,0,0.0,22.286946999999998,114.19757
+38,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 3,1979-10-02,L,3,2,6,C,878,723,12750000,2020-08-13,2007-12-21,5300000,140.57,22.286772,114.197948
+39,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 10,1978-02-13,L,4,2,6,B,1640,1467,37500000,2020-08-07,,0,0.0,22.286196,114.202474
+40,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 7,1978-02-13,H,3,2,19,B,1260,1124,31200000,2020-08-05,2006-11-17,10250000,204.39000000000001,22.285314,114.201871
+41,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Skyscraper,Block F,1964-05-08,H,,,19,F,0,1806,43000000,2020-08-04,,0,0.0,22.287862,114.198397
+42,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,H,3,,30,F,1198,1065,31300000,2020-07-31,2017-05-15,26500000,18.11,22.284931,114.19666
+43,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Hilltop,Block B,1965-07-03,M,2,2,11,B,1680,1324,26200000,2020-07-29,,0,0.0,22.286686,114.19905
+44,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Tempo Court,Block B,1971-03-03,L,2,2,3,D,1300,1141,23000000,2020-07-29,2009-08-21,11800000,94.92,22.28851,114.202263
+45,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Wilshire Towers,Block B,1983-06-28,H,4,2,15,B2,2145,1734,36800000,2020-07-29,,0,0.0,22.286998999999998,114.20494
+46,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Summit Court,Summit Court,1966-04-14,M,3,2,11,B2,1850,1650,38000000,2020-07-27,,0,0.0,22.287558,114.198586
+47,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block A,1972-03-30,H,3,2,16,2,1450,1173,24800000,2020-07-27,2013-01-14,19380000,27.97,22.287889,114.197309
+48,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block A,1972-03-30,M,3,2,9,2,1450,1173,24600000,2020-07-27,,0,0.0,22.287889,114.197309
+49,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block A,1972-03-30,M,3,2,13,2,1450,1173,24000000,2020-07-23,2008-05-22,11900000,101.68,22.287889,114.197309
+50,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 8,1978-02-13,L,3,2,1,C,1260,1090,22500000,2020-07-14,2010-07-21,13550000,66.05,22.285954999999998,114.201965
+51,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Skyscraper,Block E,1964-05-08,H,,,18,E,0,1806,41800000,2020-07-13,,0,0.0,22.287858999999997,114.19830999999999
+52,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Maiden Court,Block B,1980-10-29,L,3,,4,1,0,709,13000000,2020-07-10,2005-11-10,4200000,209.52,22.28653,114.19723
+53,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block C,1973-04-06,H,2,1,18,1,850,654,16800000,2020-07-09,2000-01-11,3738000,349.44,22.287553,114.197408
+54,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Wilshire Towers,Block C,1983-06-28,M,4,2,10,C1,2145,1734,34380000,2020-06-29,2011-03-21,23800000,44.45,22.287122,114.205137
+55,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block B,1973-04-06,H,3,2,15,1,1100,877,16800000,2020-06-26,2016-08-31,12500000,34.4,22.287436,114.197441
+56,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 3,1978-02-13,L,3,2,8,C,1260,1090,27280000,2020-06-26,2008-06-11,13238000,106.07000000000001,22.285054,114.200829
+57,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Hanking Court,Hanking Court,1974-07-30,H,4,,16,D,0,1582,41250000,2020-06-22,,0,0.0,22.28736,114.196785
+58,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Flora Garden (Npml),Flora Garden (Npml),1979-10-10,L,3,,6,1,0,837,10000000,2020-06-21,,0,0.0,22.286946999999998,114.19757
+59,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,M,3,,19,H,1194,1065,22800000,2020-06-19,2010-01-04,12000000,90.0,22.284931,114.19666
+60,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Hanking Court,Hanking Court,1974-07-30,H,4,,18,B,0,1595,40280000,2020-06-18,,0,0.0,22.28736,114.196785
+61,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Ho King View,Ho King View,1971-01-15,M,2,,8,D,0,836,16580000,2020-06-18,2016-09-30,13880000,19.45,22.288297999999998,114.20246
+62,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 7,1978-02-13,M,3,2,10,C,1260,1090,24850000,2020-06-18,2014-12-19,20380000,21.93,22.285314,114.201871
+63,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 14,1978-03-21,,3,2,24,A,1490,1297,35500000,2020-06-15,,0,0.0,22.285919,114.20351099999999
+64,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 1,1979-10-02,H,3,2,16,C,870,719,12600000,2020-06-10,2005-04-21,4300000,193.02,22.287215,114.198245
+65,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Kingsford Gardens,Block D,1969-07-03,L,3,,4,2,0,1313,28000000,2020-06-02,,0,0.0,22.2881335,114.206034
+66,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,H,3,,27,G,1196,1065,25500000,2020-06-01,2005-06-03,8580000,197.20000000000002,22.284931,114.19666
+67,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 8,1991-04-08,H,3,2,18,A,1070,843,20500000,2020-06-01,,0,0.0,22.287627999999998,114.203379
+68,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 3,1978-02-13,,3,2,23,B,1260,1124,25800000,2020-05-29,,0,0.0,22.285054,114.200829
+69,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Hanking Court,Hanking Court,1974-07-30,H,4,,19,A,0,1580,41500000,2020-05-27,,0,0.0,22.28736,114.196785
+70,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Maiden Court,Block A,1980-10-29,L,,,7,3,0,992,17420000,2020-05-20,2009-12-17,8000000,117.75,22.286281,114.196962
+71,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 4,1979-10-02,H,3,2,16,B,870,718,10000000,2020-05-20,2016-08-15,9880000,1.21,22.286785,114.198174
+72,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Homestead Mansion,Homestead Mansion,1974-12-17,M,,,4,A,0,1479,25750000,2020-05-12,,0,0.0,22.286583999999998,114.19654
+73,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,M,3,,15,B,1198,1063,23800000,2020-05-04,2012-03-19,16680000,42.69,22.284931,114.19666
+74,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block B,1973-04-06,H,3,2,14,5,1100,877,15800000,2020-04-14,1998-11-10,3680000,329.35,22.287436,114.197441
+75,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Sky Horizon,Block 1,2002-12-16,M,3,,20,A,1439,1065,28230000,2020-04-09,2007-11-28,13530000,108.65,22.286345,114.196438
+76,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Flora Garden (Npml),Flora Garden (Npml),1979-10-10,L,3,,1,3,0,681,10000000,2020-04-08,,0,0.0,22.286946999999998,114.19757
+77,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 8,1978-02-13,,3,2,25,B,1260,1124,28500000,2020-04-02,2002-06-21,3000000,850.0,22.285954999999998,114.201965
+78,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 8,1991-04-08,L,1,1,7,B,740,588,10500000,2020-03-18,2008-07-18,5900000,77.97,22.287627999999998,114.203379
+79,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 4,1979-10-02,H,3,2,19,A,878,631,10000000,2020-03-17,2016-04-01,8300000,20.48,22.286785,114.198174
+80,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Tempo Court,Block B,1971-03-03,H,3,2,15,F,870,753,13350000,2020-03-02,2014-07-21,10800000,23.61,22.28851,114.202263
+81,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 2,1978-02-13,L,3,2,3,A,1490,1297,27800000,2020-02-19,,0,0.0,22.285172,114.200501
+82,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Flora Garden (Npml),Flora Garden (Npml),1979-10-10,L,3,,7,3,0,684,11200000,2020-02-18,,0,0.0,22.286946999999998,114.19757
+83,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 4,1978-02-13,,4,2,25,B,1640,1467,42638000,2020-02-17,2011-01-20,33500000,27.28,22.285054,114.201075
+84,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 5,1991-04-08,M,3,2,16,B,1028,830,18800000,2020-02-13,2008-12-17,3000000,526.67,22.288013,114.20286
+85,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 4,1979-10-02,L,3,2,2,C,870,718,11900000,2020-02-11,2007-06-12,4180000,184.69,22.286785,114.198174
+86,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block B,1973-04-05,H,3,2,16,1,1100,877,16150000,2020-02-10,1999-03-24,4100000,293.90000000000003,22.287436,114.197441
+87,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 8,1978-02-13,L,3,2,3,C,1260,1090,24080000,2020-02-06,2007-06-02,9880000,143.72,22.285954999999998,114.201965
+88,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 3,1991-04-08,,3,2,21,C,1045,825,16300000,2020-02-05,2003-12-11,4300000,279.07,22.287661999999997,114.202726
+89,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 7,1991-04-08,,3,2,21,A,1070,843,19438000,2020-01-23,2015-07-23,17600000,10.44,22.287685,114.203152
+90,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Flora Garden (Npml),Flora Garden (Npml),1979-10-10,L,3,,4,1,0,837,14880000,2020-01-20,2019-05-20,16380000,-9.16,22.286946999999998,114.19757
+91,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 4,1979-10-02,H,3,2,19,D,878,723,12750000,2020-01-10,2014-06-18,8600000,48.26,22.286785,114.198174
+92,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Seaview Garden,Seaview Garden,1977-12-09,M,2,2,15,D,1037,730,13000000,2019-12-24,2008-05-08,7600000,71.05,22.285401999999998,114.19602
+93,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 1,1978-02-13,M,3,2,14,C,1260,1090,26800000,2019-12-20,1998-07-14,7000000,282.86,22.285356,114.200322
+94,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 1,1979-10-02,H,3,2,19,B,1034,869,16800000,2019-12-20,,0,0.0,22.287215,114.198245
+95,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Hanking Court,Hanking Court,1974-07-30,H,4,,16,B,0,1595,42000000,2019-12-20,,0,0.0,22.28736,114.196785
+96,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 5,1991-04-08,L,3,2,7,B,1028,830,17250000,2019-11-27,2010-07-14,10380000,66.18,22.288013,114.20286
+97,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 1,1978-02-13,M,3,2,13,B,1260,1124,24300000,2019-11-26,2004-09-16,8180000,197.07,22.285356,114.200322
+98,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 3,1979-10-02,M,3,2,9,C,878,723,12800000,2019-11-22,2010-11-02,6680000,91.62,22.286772,114.197948
+99,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Sky Horizon,Block 2,2002-12-16,H,3,,31,A,1439,998,30000000,2019-11-22,2011-06-08,25800000,16.28,22.285998,114.196339
+100,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Hanking Court,Hanking Court,1974-07-30,H,4,,17,C,0,1595,36860000,2019-11-12,,0,0.0,22.28736,114.196785
+101,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block A,1972-03-29,L,3,2,1,5,1450,1173,17000000,2019-11-04,1998-03-25,6680000,154.49,22.287889,114.197309
+102,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 8,1978-02-13,H,3,2,20,A,1260,1124,22800000,2019-10-23,2017-04-26,23800000,-4.2,22.285954999999998,114.201965
+103,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 3,1991-04-08,L,1,1,3,B,715,567,9500000,2019-10-17,2012-10-24,8280000,14.73,22.287661999999997,114.202726
+104,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,M,3,,13,B,1198,1063,22000000,2019-10-17,2009-07-24,12000000,83.33,22.284931,114.19666
+105,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Skyscraper,Block A,1964-05-08,L,,,3,A,0,1806,33880000,2019-10-14,2014-01-10,30000000,12.93,22.287815,114.19789
+106,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Seaview Garden,Seaview Garden,1977-12-09,L,2,2,7,D,1037,730,15200000,2019-10-03,2012-09-03,10080000,50.79,22.285401999999998,114.19602
+107,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Tempo Court,Block A,1971-03-03,H,3,2,15,C,1100,962,19300000,2019-10-03,2007-12-27,7880000,144.92000000000002,22.288456999999998,114.20206
+108,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,M,3,,18,G,1196,1065,21200000,2019-09-30,2005-07-12,7805000,171.62,22.284931,114.19666
+109,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Flora Garden (Npml),Flora Garden (Npml),1979-10-10,H,3,,15,1,0,837,15600000,2019-09-26,,0,0.0,22.286946999999998,114.19757
+110,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Seaview Garden,Seaview Garden,1977-12-09,M,2,2,19,D,1037,730,14700000,2019-09-24,2015-02-17,12000000,22.5,22.285401999999998,114.19602
+111,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 6,1991-04-08,M,3,2,10,A,1070,847,19000000,2019-09-11,2010-11-10,12380000,53.47,22.287834,114.202972
+112,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 14,1978-03-21,M,4,2,10,B,1640,1467,39000000,2019-08-30,,0,0.0,22.285919,114.20351099999999
+113,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Kingsford Gardens,Block C,1970-08-10,M,,,8,2,0,2379,40000000,2019-08-25,,0,0.0,22.288138999999997,114.205745
+114,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 7,1991-04-08,M,3,2,16,A,1070,843,21800000,2019-08-16,,0,0.0,22.287685,114.203152
+115,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 1,1978-02-13,L,3,2,8,C,1260,1090,23000000,2019-08-02,2016-10-03,19000000,21.05,22.285356,114.200322
+116,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Kingsford Gardens,Block C,1970-08-10,L,,,2,1,0,2379,52000000,2019-07-09,2004-11-08,13650000,280.95,22.288138999999997,114.205745
+117,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 3,1979-10-02,H,3,2,14,C,878,723,12800000,2019-07-02,2015-03-05,10880000,17.650000000000002,22.286772,114.197948
+118,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 3,1991-04-08,M,3,2,17,A,1103,871,18150000,2019-06-28,2019-05-14,18150000,0.0,22.287661999999997,114.202726
+119,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Hanking Court,Hanking Court,1974-07-30,H,4,,18,D,0,1582,38000000,2019-06-17,,0,0.0,22.28736,114.196785
+120,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Maiden Court,Block A,1980-10-29,L,,,6,4,0,992,19300000,2019-06-14,2009-11-13,7380000,161.52,22.286281,114.196962
+121,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Hilltop,Block F,1965-07-03,L,3,2,3,F,2216,1789,33000000,2019-06-13,2014-08-22,23700000,39.24,22.286901,114.19871
+122,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 6,1991-04-08,H,3,2,18,B,1068,845,19700000,2019-06-05,,0,0.0,22.287834,114.202972
+123,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Summit Court,Summit Court,1966-04-14,L,3,2,1,B1,1850,1650,34800000,2019-06-04,,0,0.0,22.287558,114.198586
+124,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 4,1979-10-02,H,3,2,20,A,878,538,9380000,2019-06-03,2014-05-09,6500000,44.31,22.286785,114.198174
+125,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Maiden Court,Block B,1980-10-29,M,3,,11,2,0,717,16000000,2019-05-31,2014-09-24,10500000,52.38,22.28653,114.19723
+126,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Wilshire Towers,Block C,1983-06-27,M,4,2,14,C2,2145,1734,39200000,2019-05-28,,0,0.0,22.287122,114.205137
+127,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Ho King View,Ho King View,1971-01-15,L,2,,2,C,0,836,13000000,2019-05-27,1997-05-15,5620000,131.32,22.288297999999998,114.20246
+128,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Broadview Terrace,Broadview Terrace,1974-03-03,L,3,,5,D,0,1035,21000000,2019-05-26,1996-01-26,5300000,296.23,22.285881999999997,114.196693
+129,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 4,1979-10-02,L,3,2,3,C,870,718,13090000,2019-05-24,2004-01-29,2300000,469.13,22.286785,114.198174
+130,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Flora Garden (Npml),Flora Garden (Npml),1979-10-10,L,3,,4,1,0,837,16380000,2019-05-20,,0,0.0,22.286946999999998,114.19757
+131,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block C,1973-04-05,H,2,1,15,2,850,654,14800000,2019-05-19,2015-06-28,12500000,18.400000000000002,22.287553,114.197408
+132,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Oxford Court,Block 2,1977-03-24,H,2,2,11,C,912,728,14700000,2019-05-17,2006-04-11,5180000,183.78,22.285259999999997,114.199284
+133,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Tempo Court,Block B,1971-03-03,M,3,2,11,F,870,753,12000000,2019-05-17,2005-08-17,4500000,166.67000000000002,22.28851,114.202263
+134,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block A,1972-03-29,H,3,2,15,4,1450,1173,26000000,2019-05-15,,0,0.0,22.287889,114.197309
+135,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Sky Horizon,Block 1,2002-12-16,M,3,,23,B,1365,935,12000000,2019-05-15,2003-07-11,7000000,71.43,22.286345,114.196438
+136,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 3,1991-04-08,M,3,2,17,A,1103,871,18150000,2019-05-14,2009-08-24,9200000,97.28,22.287661999999997,114.202726
+137,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Tempo Court,Block B,1971-03-03,L,3,2,4,F,870,753,15880000,2019-05-10,2014-11-27,10600000,49.81,22.28851,114.202263
+138,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block C,1973-04-05,H,2,1,17,3,850,654,14850000,2019-05-09,,0,0.0,22.287553,114.197408
+139,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 5,1991-04-08,L,3,2,7,E,965,751,15500000,2019-05-09,2011-04-11,9680000,60.120000000000005,22.288013,114.20286
+140,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Seaview Garden,Seaview Garden,1977-12-09,L,2,2,8,C,1037,730,15500000,2019-05-06,2014-12-24,12700000,22.05,22.285401999999998,114.19602
+141,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Summit Court,Summit Court,1966-04-14,L,3,2,5,C1,1650,1407,32100000,2019-04-30,,0,0.0,22.287558,114.198586
+142,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Broadview Terrace,Broadview Terrace,1974-03-03,H,3,,19,C,0,1035,22200000,2019-04-23,,0,0.0,22.285881999999997,114.196693
+143,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,M,3,,17,F,1198,1065,23480000,2019-04-23,,0,0.0,22.284931,114.19666
+144,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Hilltop,Block G,1965-07-03,L,2,2,6,G,1470,1163,20000000,2019-04-17,2006-10-17,7399000,170.31,22.286987,114.19864
+145,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 13,1978-03-21,M,3,2,12,B,1260,1124,26000000,2019-04-17,2013-09-09,19900000,30.650000000000002,22.285847999999998,114.203222
+146,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 15,1978-03-21,M,3,2,15,C,1260,1090,26700000,2019-04-09,,0,0.0,22.286015,114.20376999999999
+147,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Tempo Court,Block A,1971-03-03,M,3,2,10,C,1100,962,19500000,2019-04-09,2012-05-04,13750000,41.82,22.288456999999998,114.20206
+148,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block A,1972-03-29,M,3,2,10,5,1450,1173,23450000,2019-04-08,2007-11-04,9688000,142.05,22.287889,114.197309
+149,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 1,1979-10-02,M,3,2,11,D,878,724,12400000,2019-04-08,,0,0.0,22.287215,114.198245
+150,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 1,1979-10-02,H,3,2,14,D,878,724,12600000,2019-04-03,,0,0.0,22.287215,114.198245
+151,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Kingsford Gardens,Block B,1966-08-12,M,3,,7,2,0,1313,28320000,2019-04-01,,0,0.0,22.288,114.2054664
+152,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 1,1979-10-02,L,3,2,3,C,870,719,11600000,2019-04-01,2010-07-27,6030000,92.37,22.287215,114.198245
+153,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 3,1991-04-08,M,3,2,10,C,1045,825,15000000,2019-03-29,2012-05-15,10770000,39.28,22.287661999999997,114.202726
+154,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 7,1991-04-08,M,3,2,15,C,1068,845,17750000,2019-03-27,2009-11-26,9430000,88.23,22.287685,114.203152
+155,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 10,1991-04-08,M,3,2,12,A,1070,843,19800000,2019-03-22,2014-07-09,12000000,65.0,22.287651999999998,114.203819
+156,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,L,3,,8,K,1196,1065,19980000,2019-03-08,2005-07-05,7750000,157.81,22.284931,114.19666
+157,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 1,1979-10-02,M,3,2,12,D,878,724,12000000,2019-03-07,,0,0.0,22.287215,114.198245
+158,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,L,3,,3,H,1194,1065,19800000,2019-03-06,2007-07-13,8250000,140.0,22.284931,114.19666
+159,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,M,3,,12,J,1196,1065,22380000,2019-03-01,2012-06-20,16300000,37.300000000000004,22.284931,114.19666
+160,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Hanking Court,Hanking Court,1974-07-30,L,4,,5,D,0,1582,36680000,2019-02-28,,0,0.0,22.28736,114.196785
+161,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 1,1979-10-02,H,3,2,16,D,878,724,13000000,2019-02-22,,0,0.0,22.287215,114.198245
+162,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Broadview Terrace,Broadview Terrace,1974-03-03,L,3,,6,B,1277,1035,19000000,2019-02-21,2002-04-29,3500000,442.86,22.285881999999997,114.196693
+163,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Hilltop,Block I,1965-07-03,L,3,2,7,I,2058,1658,30580000,2019-02-15,,0,0.0,22.28718,114.198555
+164,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Sky Horizon,Block 2,2002-12-16,M,3,,22,B,1365,935,26998000,2019-02-01,2009-09-07,19000000,42.09,22.285998,114.196339
+165,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 3,1979-10-02,H,3,2,20,A,870,618,9090000,2019-01-30,2007-02-12,3375000,169.33,22.286772,114.197948
+166,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,M,3,,16,H,1194,1065,21500000,2019-01-23,2012-03-12,16000000,34.38,22.284931,114.19666
+167,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Tempo Court,Block A,1971-03-03,L,2,2,4,A,1300,1141,21000000,2019-01-21,2012-10-17,16600000,26.51,22.288456999999998,114.20206
+168,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block A,1972-03-29,L,3,2,4,3,1450,1173,18300000,2018-12-19,2018-06-18,22500000,-18.67,22.287889,114.197309
+169,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 6,1991-04-08,M,3,2,15,C,1068,845,17480000,2018-12-06,2007-05-31,7180000,143.45000000000002,22.287834,114.202972
+170,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Broadview Terrace,Broadview Terrace,1974-03-03,H,3,,18,A,1288,1035,19650000,2018-11-28,2002-06-11,4350000,351.72,22.285881999999997,114.196693
+171,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Summit Court,Summit Court,1966-04-14,H,3,2,18,A2,1850,1650,39000000,2018-11-14,,0,0.0,22.287558,114.198586
+172,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,H,3,,22,E,1198,1065,26600000,2018-11-09,2015-10-09,21800000,22.02,22.284931,114.19666
+173,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Seaview Garden,Seaview Garden,1977-12-09,L,2,2,3,D,1037,730,12000000,2018-10-25,2007-12-24,6760000,77.51,22.285401999999998,114.19602
+174,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Grand Hacienda,Grand Hacienda,1970-12-13,L,,,2,,0,741,14830000,2018-10-22,2012-09-06,9050000,63.870000000000005,22.286841,114.195851
+175,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Hilltop,Block E,1965-07-03,M,3,2,10,E,2195,1690,36800000,2018-10-19,2011-02-10,19300000,90.67,22.286823,114.19875
+176,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 11,1978-02-13,H,3,2,22,B,1260,1124,30000000,2018-10-09,,0,0.0,22.2863,114.202726
+177,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 1,1979-10-02,M,3,2,8,D,878,724,13470000,2018-10-04,,0,0.0,22.287215,114.198245
+178,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Tempo Court,Block B,1971-03-03,L,2,2,1,E,1280,1119,21000000,2018-09-28,,0,0.0,22.28851,114.202263
+179,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block B,1973-04-05,M,3,2,11,6,1100,877,14000000,2018-09-26,2014-05-06,11200000,25.0,22.287436,114.197441
+180,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 3,1991-04-08,,4,2,PH,A,1891,1518,33000000,2018-09-21,2003-08-19,8600000,283.72,22.287661999999997,114.202726
+181,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 2,1991-04-08,H,3,2,18,A,1102,871,19500000,2018-09-21,2007-07-11,7480000,160.70000000000002,22.287618,114.20251999999999
+182,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Ho King View,Ho King View,1971-01-15,M,2,,12,D,0,836,17800000,2018-09-20,2006-04-04,5200000,242.31,22.288297999999998,114.20246
+183,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Tempo Court,Block A,1971-03-03,H,2,2,17,B,1280,1119,25300000,2018-08-24,2007-12-11,10580000,139.13,22.288456999999998,114.20206
+184,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Hanking Court,Hanking Court,1974-07-30,H,4,,15,B,0,1595,43800000,2018-08-14,,0,0.0,22.28736,114.196785
+185,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Broadview Terrace,Broadview Terrace,1974-03-03,H,3,,20,F,1285,1035,25800000,2018-08-13,2003-07-03,4380000,489.04,22.285881999999997,114.196693
+186,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 1,1979-10-02,H,3,2,18,D,878,724,14150000,2018-08-08,,0,0.0,22.287215,114.198245
+187,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Hilltop,Block A,1965-07-03,L,3,2,4,A,2110,1733,32880000,2018-07-30,,0,0.0,22.286678,114.1992
+188,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,H,3,,21,H,1194,1065,23800000,2018-07-30,,0,0.0,22.284931,114.19666
+189,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,M,3,,15,H,1194,1065,25200000,2018-07-26,2003-10-25,4600000,447.83,22.284931,114.19666
+190,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 1,1979-10-02,H,3,2,15,D,878,724,13100000,2018-07-24,,0,0.0,22.287215,114.198245
+191,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Skyscraper,Block E,1964-05-08,H,,,17,E,0,1806,45000000,2018-07-23,,0,0.0,22.287858999999997,114.19830999999999
+192,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 3,1979-10-02,M,3,2,8,A,870,718,13800000,2018-07-20,2013-09-04,8550000,61.4,22.286772,114.197948
+193,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Broadview Terrace,Broadview Terrace,1974-03-03,M,3,,12,B,1277,1035,22380000,2018-07-18,1998-01-05,8500000,163.29,22.285881999999997,114.196693
+194,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block A,1972-03-29,L,3,2,5,3,1450,1173,22900000,2018-07-16,,0,0.0,22.287889,114.197309
+195,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Summit Court,Summit Court,1966-04-14,L,3,2,4,C2,1650,1407,30980000,2018-07-16,,0,0.0,22.287558,114.198586
+196,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 7,1978-02-13,L,3,2,9,A,1260,1124,29550000,2018-07-13,2002-02-25,5500000,437.27,22.285314,114.201871
+197,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Grand Hacienda,Grand Hacienda,1970-12-13,L,,,4,,0,1109,18000000,2018-07-10,2012-08-02,14338000,25.54,22.286841,114.195851
+198,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Tempo Court,Block A,1971-03-03,M,2,2,9,A,1300,1141,23800000,2018-07-06,,0,0.0,22.288456999999998,114.20206
+199,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 1,1978-02-13,M,3,2,15,A,1260,1124,22500000,2018-07-06,2012-03-28,18080000,24.45,22.285356,114.200322
+200,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,L,3,,6,D,1198,1065,20000000,2018-07-03,2007-03-29,8800000,127.27,22.284931,114.19666
+201,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Hilltop,Block G,1965-07-03,H,2,2,20,G,1470,1163,24000000,2018-07-03,2010-07-05,13000000,84.62,22.286987,114.19864
+202,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Tempo Court,Block A,1971-03-03,L,3,2,4,C,1100,962,16000000,2018-06-25,,0,0.0,22.288456999999998,114.20206
+203,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block B,1973-04-05,L,3,2,1,3,1100,877,13600000,2018-06-19,1997-04-15,4950000,174.75,22.287436,114.197441
+204,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block A,1972-03-29,L,3,2,4,3,1450,1173,22500000,2018-06-18,2010-09-09,12800000,75.78,22.287889,114.197309
+205,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Harbour View Terrace,Harbour View Terrace,1965-11-11,M,,,4,,0,957,18300000,2018-06-14,,0,0.0,22.287679999999998,114.196761
+206,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 6,1978-02-13,M,3,2,16,A,1490,1297,35000000,2018-06-11,2010-10-06,23600000,48.31,22.285211,114.201576
+207,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Ho King View,Ho King View,1971-01-15,M,2,,10,C,0,836,16000000,2018-06-07,2013-02-22,13700000,16.79,22.288297999999998,114.20246
+208,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block A,1972-03-29,H,3,2,19,5,1450,1173,26000000,2018-06-04,,0,0.0,22.287889,114.197309
+209,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 15,1978-03-21,L,3,2,7,B,1260,1124,25000000,2018-06-04,1998-12-22,6470000,286.40000000000003,22.286015,114.20376999999999
+210,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Flora Garden (Npml),Flora Garden (Npml),1979-10-10,M,3,,11,1,0,837,12000000,2018-05-30,,0,0.0,22.286946999999998,114.19757
+211,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 13,1978-03-21,L,3,2,6,C,1260,1090,24600000,2018-05-30,2008-04-29,11868000,107.28,22.285847999999998,114.203222
+212,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Flora Garden (Npml),Flora Garden (Npml),1979-10-10,L,3,,1,4,0,681,10200000,2018-05-29,,0,0.0,22.286946999999998,114.19757
+213,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 3,1979-10-02,L,3,2,3,B,878,723,13500000,2018-05-28,,0,0.0,22.286772,114.197948
+214,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 7,1991-04-08,M,3,2,12,A,1070,843,21800000,2018-05-24,2010-04-01,11350000,92.07000000000001,22.287685,114.203152
+215,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block C,1973-04-05,M,2,1,11,1,850,654,12200000,2018-05-20,2012-05-03,8000000,52.5,22.287553,114.197408
+216,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 15,1978-03-21,L,3,2,4,A,1260,1124,24800000,2018-05-18,2009-02-27,9500000,161.05,22.286015,114.20376999999999
+217,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 6,1991-04-08,H,3,2,18,A,1070,843,21500000,2018-05-18,2004-04-07,5980000,259.53000000000003,22.287834,114.202972
+218,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Broadview Terrace,Broadview Terrace,1974-03-03,L,3,,7,E,1277,1035,18700000,2018-05-17,1999-12-22,5250000,256.19,22.285881999999997,114.196693
+219,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,L,3,,11,H,1194,1065,23380000,2018-05-02,2009-10-30,12300000,90.08,22.284931,114.19666
+220,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Kingsford Gardens,Block C,1970-08-10,M,,,6,2,0,2379,52900000,2018-04-29,1998-09-25,8600000,515.12,22.288138999999997,114.205745
+221,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Skyscraper,Block E,1964-05-08,M,,,10,E,0,1806,39880000,2018-04-27,2010-04-14,21800000,82.94,22.287858999999997,114.19830999999999
+222,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Summit Court,Summit Court,1966-04-14,L,3,2,4,D1,1650,1407,25000000,2018-04-24,,0,0.0,22.287558,114.198586
+223,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Broadview Terrace,Broadview Terrace,1974-03-03,L,3,,6,A,1288,1035,19600000,2018-04-19,2004-12-30,5400000,262.96,22.285881999999997,114.196693
+224,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block C,1973-04-06,L,2,1,4,1,850,654,12800000,2018-04-19,2010-11-09,7083000,80.71000000000001,22.287553,114.197408
+225,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Summit Court,Summit Court,1966-04-14,L,3,2,2,D1,1650,1407,23000000,2018-04-18,,0,0.0,22.287558,114.198586
+226,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Oxford Court,Block 2,1977-03-24,L,2,2,2,C,912,728,13800000,2018-04-16,2010-08-02,7000000,97.14,22.285259999999997,114.199284
+227,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Oxford Court,Block 2,1977-03-24,H,3,2,12,A,1596,1260,24650000,2018-04-13,2010-11-08,15800000,56.01,22.285259999999997,114.199284
+228,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Maiden Court,Block B,1980-10-29,L,3,,4,5,0,717,11790000,2018-04-12,2014-07-09,9050000,30.28,22.28653,114.19723
+229,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block B,1973-04-05,H,3,2,17,6,1100,877,16900000,2018-04-09,2009-11-09,7850000,115.29,22.287436,114.197441
+230,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Maiden Court,Block B,1980-10-29,H,3,,17,5,0,717,12950000,2018-04-09,2005-10-14,4280000,202.57,22.28653,114.19723
+231,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Maiden Court,Block A,1980-10-29,L,,,1,2,0,1183,17200000,2018-04-03,,0,0.0,22.286281,114.196962
+232,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Flora Garden (Npml),Flora Garden (Npml),1979-10-10,H,3,,17,3,0,684,12880000,2018-03-28,,0,0.0,22.286946999999998,114.19757
+233,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Kingsford Gardens,Block A,1967-01-10,H,3,,12,1,0,1313,30480000,2018-03-25,2007-10-24,14600000,108.77,22.2879225,114.2052426
+234,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Maiden Court,Block B,1980-10-29,H,3,,18,6,0,663,11000000,2018-03-20,2014-02-27,10100000,8.91,22.28653,114.19723
+235,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block A,1972-03-29,H,3,2,18,5,1450,1173,18500000,2018-03-14,2002-12-17,4380000,322.37,22.287889,114.197309
+236,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 2,1979-10-02,L,3,2,7,C,878,724,12250000,2018-03-12,2009-08-17,5300000,131.13,22.287133,114.197948
+237,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Flora Garden (Npml),Flora Garden (Npml),1979-10-10,L,3,,1,3,0,684,10000000,2018-03-11,,0,0.0,22.286946999999998,114.19757
+238,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 1,1991-04-08,,3,2,21,B,1030,830,18500000,2018-03-02,2013-06-25,14280000,29.55,22.287606,114.202372
+239,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 6,1991-04-08,M,3,2,16,B,1068,845,17028000,2018-03-01,2007-02-16,6980000,143.95000000000002,22.287834,114.202972
+240,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 10,1991-04-08,M,3,2,17,C,1072,857,17500000,2018-02-28,1998-03-23,7700000,127.27,22.287651999999998,114.203819
+241,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Maiden Court,Block A,1980-10-29,M,,,10,2,0,1183,21500000,2018-02-27,2012-08-28,15800000,36.08,22.286281,114.196962
+242,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block A,1972-03-29,H,3,2,17,3,1450,1173,20000000,2018-02-26,2016-04-10,19800000,1.01,22.287889,114.197309
+243,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block B,1973-04-06,H,3,2,14,1,1100,877,15900000,2018-02-26,2012-05-22,10000000,59.0,22.287436,114.197441
+244,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Flora Garden (Npml),Flora Garden (Npml),1979-10-10,H,3,,15,3,0,681,12880000,2018-02-21,,0,0.0,22.286946999999998,114.19757
+245,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block C,1973-04-05,H,2,1,16,3,850,654,13000000,2018-02-21,2004-03-08,3080000,322.08,22.287553,114.197408
+246,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Maiden Court,Block A,1980-10-29,M,,,11,3,0,992,16680000,2018-02-20,2012-07-10,11000000,51.64,22.286281,114.196962
+247,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,H,3,,21,K,1196,1065,23500000,2018-02-15,2012-11-23,17150000,37.03,22.284931,114.19666
+248,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 1,1991-04-08,M,3,2,11,B,1030,830,16980000,2018-02-14,2012-05-08,13360000,27.1,22.287606,114.202372
+249,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block A,1972-03-29,M,3,2,9,6,1450,1173,22380000,2018-02-08,1998-04-23,7100000,215.21,22.287889,114.197309
+250,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Flora Garden (Npml),Flora Garden (Npml),1979-10-10,H,3,,20,3,0,681,14000000,2018-02-06,,0,0.0,22.286946999999998,114.19757
+251,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Braemar Hill Mansions,Block 4,1978-02-13,L,3,2,2,A,1490,1297,28000000,2018-02-06,,0,0.0,22.285054,114.201075
+252,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Flora Garden (Npml),Flora Garden (Npml),1979-10-10,L,3,,1,2,0,837,14600000,2018-01-30,,0,0.0,22.286946999999998,114.19757
+253,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Coral Court,Block C,1973-04-06,H,2,1,20,1,850,654,14568000,2018-01-30,,0,0.0,22.287553,114.197408
+254,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Wilshire Towers,Block C,1983-06-27,H,4,2,15,C1,2145,1734,34500000,2018-01-28,2006-12-27,13450000,156.51,22.287122,114.205137
+255,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Evelyn Towers,Evelyn Towers,1975-10-02,L,3,,9,E,1198,1065,21700000,2018-01-25,,0,0.0,22.284931,114.19666
+256,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Pacific Palisades,Block 9,1991-04-08,H,3,2,18,B,1068,845,17320000,2018-01-16,2008-06-06,9900000,74.95,22.287613999999998,114.203622
+257,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Beverley Heights,Block 2,1979-10-02,H,3,2,17,B,1042,871,15430000,2018-01-12,,0,0.0,22.287133,114.197948
+258,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Kingsford Gardens,Block A,1967-01-10,M,3,,6,1,0,1313,27880000,2018-01-09,2009-01-11,10000000,178.8,22.2879225,114.2052426
+259,Hong Kong Island,Eastern,Braemar Hill / North Point Midlevel,Summit Court,Summit Court,1966-04-14,M,3,2,9,C1,1650,1407,28300000,2018-01-08,,0,0.0,22.287558,114.198586
