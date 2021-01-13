@@ -10,8 +10,9 @@
 This project was built as Final Year Project. 
 	
 ## Technologies
-Project is created with python
-
+Project is created with:
+- python
+- jupyter notebook
 
 	
 
