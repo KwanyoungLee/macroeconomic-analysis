@@ -1,2 +1,2 @@
-# macroeconomic-analysis
+# Macroeconomic Analysis
 COMP4801
