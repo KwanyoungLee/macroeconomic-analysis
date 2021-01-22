@@ -27,7 +27,7 @@ region_kowloon = [
     ["Mongkok_yaumatei", 203],
     ["Tsimshatsui_jordan", 204],
     ["Ho_man_tin_kings_park", 205],
-    ["To_ka_wan", 206],
+    ["To_kwa_wan", 206],
     ["Whampoa_laguna_verde", 207],
     ["Tseung_kwan_o", 209],
     ["Meifoo_wonderland", 210],
@@ -44,7 +44,7 @@ region_kowloon = [
     ["Kai_tak", 221],
 ]
 
-region_new = [
+region_new_east = [
     ["Sai_kung", 208],
     ["Tai_wai", 301],
     ["Shatin", 302],
@@ -55,7 +55,7 @@ region_new = [
     ["Sheung_shui_fanling_kwu_tung", 308],
 ]
 
-region_new_east = [
+region_new_west = [
     ["Discovery_bay", 103],
     ["Fairview_park_palm_spring_the_vineyard", 309],
     ["Yuen_long", 401],
@@ -70,25 +70,26 @@ region_new_east = [
     ["Belvedere_garden_castle_peak_road", 410],
 ]
 
-url_front = "http://www1.centadata.com/eptest.aspx?type=22&code="
-url_end = "&info=tr&code2=regperiod:1500&page="
+url = "http://www1.centadata.com/eptest.aspx?type=22&code="
+url_reg_period = "&info=tr&code2=regperiod:"
+url_page = "&page="
 
-def get_property_list():
+def get_property_list(region_list, reg_period):
 
-    for region in region_kowloon:
+    for region in region_list:
         page = 0
         file_name = region[0] + ".csv"
         code = region[1]
 
         print(file_name)
-        req = requests.get(f"{url_front}{code}{url_end}{page}")
+        req = requests.get(f"{url}{code}{url_reg_period}{reg_period}{url_page}{page}")
         soup = BeautifulSoup(req.content, 'html.parser')
         total_item_no = int(soup.find("a", {'name':'txtab'}).find_next_sibling("b").get_text())
 
         property_list = []
         while page < total_item_no:
-            print(page)
-            req = requests.get(f"{url_front}{code}{url_end}{page}")
+            #print(page)
+            req = requests.get(f"{url}{code}{url_reg_period}{reg_period}{url_page}{page}")
             soup = BeautifulSoup(req.content, 'html.parser')
             content = soup.find_all("table", {'title': 'Detail'})
 
@@ -96,22 +97,38 @@ def get_property_list():
                 item_list = []
                 items = row.find_all("td")
                 if len(items) == 10:
+                    #address
                     item_list.append(items[0].get_text())
+                    #building age
                     item_list.append(items[1].get_text())
+                    #reg date
                     item_list.append(items[2].get_text())
+                    #price
                     item_list.append(items[3].get_text().replace("$", "").replace("M", ""))
+                    #saleable area
                     item_list.append(items[4].get_text().replace("s.f.", ""))
+                    #gross area
                     item_list.append(items[5].get_text().replace("s.f.", ""))
+                    #unit price per saleable area
                     item_list.append(items[6].get_text().replace("$", ""))
+                    #unit price per gross area
                     item_list.append(items[7].get_text().replace("$", ""))
+                    #last hold
                     item_list.append(items[8].get_text().replace("[", "").replace("days", ""))
+                    #gain/loss
                     item_list.append(items[9].get_text().replace("]", "").replace("↑", "+").replace("↓", "-").replace("%",""))
 
                     property_list.append(item_list)
             page += 40
 
         dataFrame = pd.DataFrame(data=property_list)
+        dataFrame.columns = ['Address', 'BuildingAge', 'RegDate', 'Price', 'SaleableArea', 'GrossArea',
+                             'UnitPricePerSaleableArea', 'UnitPricePerGrossArea', 'LastHold', 'GainLoss']
         dataFrame.to_csv(file_name)
 
-get_property_list()
-#get_page_no()
+
+# get_property_list(region_list, reg_period (30, 90, 180, 365))
+get_property_list(region_hk, 30)
+get_property_list(region_kowloon, 30)
+get_property_list(region_new_east, 30)
+get_property_list(region_new_west, 30)
